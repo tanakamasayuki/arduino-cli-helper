@@ -74,6 +74,8 @@ if ($fhList) {
     fclose($fhList);
 }
 $fqbnList = array_keys($seenFqbn);
+// Sort FQBNs to stabilize top-level key order for diffs
+sort($fqbnList, SORT_STRING);
 
 // Log saved path for listall (raw only)
 fwrite(STDOUT, "Saved raw: {$rawPath}\n");
