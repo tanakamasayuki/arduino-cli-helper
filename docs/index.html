@@ -9,7 +9,9 @@
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 20px; line-height: 1.5; }
     h1 { font-size: 1.25rem; margin: 0 0 10px; }
     .controls { display: flex; gap: 12px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
-    #q { flex: 1 1 260px; padding: 8px 10px; font-size: 1rem; }
+    /* Shared style for search text boxes */
+    .textbox { padding: 8px 10px; font-size: 1rem; }
+    #q { flex: 1 1 260px; }
     #status { font-size: .92rem; opacity: .8; }
     ul { list-style: none; padding: 0; margin: 12px 0 0; }
     li { padding: 8px 10px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 8px; }
@@ -23,7 +25,7 @@
 <body>
   <h1>Arduino CLI Boards Selector</h1>
   <div class="controls">
-    <input id="q" type="search" placeholder="Filter (name or FQBN)" autocomplete="off" />
+    <input id="q" class="textbox" type="search" placeholder="Filter (name or FQBN)" autocomplete="off" />
     <div id="status">Loading...</div>
   </div>
   <ul id="list" aria-live="polite"></ul>
@@ -316,6 +318,7 @@
         libsQ.type = 'search';
         libsQ.placeholder = 'Filter libraries (partial match)';
         libsQ.autocomplete = 'off';
+        libsQ.className = 'textbox';
         libsQ.style.flex = '1 1 260px';
         const libsStatus = document.createElement('div');
         libsStatus.id = 'libsStatus';

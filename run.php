@@ -7,7 +7,7 @@ declare(strict_types=1);
 $baseDir = __DIR__;
 $rawDir = $baseDir . DIRECTORY_SEPARATOR . 'storage' . DIRECTORY_SEPARATOR . 'raw';
 $rawDetailsDir = $rawDir . DIRECTORY_SEPARATOR . 'details';
-$webDir = $baseDir . DIRECTORY_SEPARATOR . 'web';
+$webDir = $baseDir . DIRECTORY_SEPARATOR . 'docs';
 
 // Ensure storage directories exist
 foreach ([$rawDir, $rawDetailsDir, $webDir] as $dir) {
