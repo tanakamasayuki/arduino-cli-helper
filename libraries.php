@@ -4,7 +4,7 @@ declare(strict_types=1);
 // Fetch Arduino libraries doxygen DB and export to web/libraries.json
 
 $baseDir = __DIR__;
-$webDir = $baseDir . DIRECTORY_SEPARATOR . 'web';
+$webDir = $baseDir . DIRECTORY_SEPARATOR . 'docs';
 $outPath = $webDir . DIRECTORY_SEPARATOR . 'libraries.json';
 $srcUrl = 'https://lang-ship.com/reference/Arduino/libraries/doxygen.db';
 
