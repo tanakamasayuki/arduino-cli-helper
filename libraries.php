@@ -1,7 +1,5 @@
 <?php
-declare(strict_types=1);
-
-// Fetch Arduino libraries doxygen DB and export to web/libraries.json
+// Fetch Arduino libraries doxygen DB and export to docs/libraries.json
 
 $baseDir = __DIR__;
 $webDir = $baseDir . DIRECTORY_SEPARATOR . 'docs';
@@ -31,14 +29,14 @@ if (function_exists('curl_init')) {
     $ch = curl_init($srcUrl);
     $fh = fopen($tmpDb, 'wb');
     if ($ch && $fh) {
-        curl_setopt_array($ch, [
+        curl_setopt_array($ch, array(
             CURLOPT_FOLLOWLOCATION => true,
             CURLOPT_FAILONERROR => true,
             CURLOPT_CONNECTTIMEOUT => 15,
             CURLOPT_TIMEOUT => 60,
             CURLOPT_FILE => $fh,
             CURLOPT_USERAGENT => 'ArduinoCliBoard/1.0 (+php)'
-        ]);
+        ));
         $res = curl_exec($ch);
         if ($res === false) {
             $errMsg = 'cURL error: ' . curl_error($ch);
@@ -61,10 +59,10 @@ if (function_exists('curl_init')) {
 
 // Fallback to file_get_contents if needed
 if (!$downloadOk) {
-    $ctx = stream_context_create([
-        'http' => ['timeout' => 60, 'follow_location' => 1, 'user_agent' => 'ArduinoCliBoard/1.0 (+php)'],
-        'https' => ['timeout' => 60, 'user_agent' => 'ArduinoCliBoard/1.0 (+php)'],
-    ]);
+    $ctx = stream_context_create(array(
+        'http' => array('timeout' => 60, 'follow_location' => 1, 'user_agent' => 'ArduinoCliBoard/1.0 (+php)'),
+        'https' => array('timeout' => 60, 'user_agent' => 'ArduinoCliBoard/1.0 (+php)'),
+    ));
     $data = @file_get_contents($srcUrl, false, $ctx);
     if ($data !== false) {
         if (file_put_contents($tmpDb, $data) !== false) {
@@ -82,7 +80,7 @@ if (!$downloadOk) {
 }
 
 // Ensure SQLite3 is available
-if (!class_exists(SQLite3::class)) {
+if (!class_exists('SQLite3')) {
     @unlink($tmpDb);
     fwrite(STDERR, "SQLite3 extension is required.\n");
     exit(1);
@@ -104,7 +102,7 @@ if ($res === false) {
     exit(1);
 }
 
-$rows = [];
+$rows = array();
 while ($row = $res->fetchArray(SQLITE3_ASSOC)) {
     $rows[] = $row;
 }
@@ -112,11 +110,16 @@ $db->close();
 @unlink($tmpDb);
 
 // Encode and write JSON
-$json = json_encode($rows, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . "\n";
-if ($json === false) {
+$jsonFlags = 0;
+if (defined('JSON_PRETTY_PRINT')) $jsonFlags |= JSON_PRETTY_PRINT;
+if (defined('JSON_UNESCAPED_UNICODE')) $jsonFlags |= JSON_UNESCAPED_UNICODE;
+if (defined('JSON_UNESCAPED_SLASHES')) $jsonFlags |= JSON_UNESCAPED_SLASHES;
+$json = json_encode($rows, $jsonFlags);
+if ($json === false || $json === null) {
     fwrite(STDERR, "Failed to encode JSON.\n");
     exit(1);
 }
+$json .= "\n";
 
 if (file_put_contents($outPath, $json) === false) {
     fwrite(STDERR, "Failed to write JSON to: {$outPath}\n");
@@ -125,4 +128,3 @@ if (file_put_contents($outPath, $json) === false) {
 
 echo $json;
 fwrite(STDOUT, "Saved libraries: {$outPath}\n");
-
