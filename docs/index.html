@@ -178,6 +178,7 @@
         root.appendChild(yamlWrap);
 
         const opts = Array.isArray(detail.config_options) ? detail.config_options : [];
+        const groups = [];
         if (!opts.length) {
           const p = document.createElement('p');
           p.className = 'empty';
@@ -186,11 +187,8 @@
           // Show base FQBN in both places even without options
           summaryTop.textContent = `${fqbn}`;
           summaryBottom.textContent = `${fqbn}`;
-          return;
-        }
-
-        const groups = [];
-        opts.forEach((opt, idx) => {
+        } else {
+          opts.forEach((opt, idx) => {
           const groupName = `opt_${idx}`;
           const fs = document.createElement('fieldset');
           fs.style.margin = '12px 0';
@@ -240,7 +238,8 @@
 
           root.appendChild(fs);
           groups.push(fs);
-        });
+          });
+        }
 
         function toSlug(s) {
             return (s || '').toLowerCase().replace(/[^a-z0-9_]+/g, '_').replace(/^_+|_+$/g, '') || 'default';
@@ -300,7 +299,7 @@
             yamlBox.value = buildYaml(ext);
         }
 
-        // Hook change events
+        // Hook change events (if any groups exist)
         groups.forEach((fs) => {
             fs.addEventListener('change', updateSummary);
         });
@@ -414,7 +413,7 @@
           renderLibs();
         }
 
-        // Initial render
+        // Initial render (also covers boards without options)
         updateSummary();
       }
 

@@ -155,14 +155,37 @@ $extractPackageUrl = function ($node) {
 };
 
 // Normalize/override specific package URLs
-$normalizePackageUrl = function ($url) {
+$normalizePackageUrl = function ($url, $fqbn) {
+    // Return empty string when URL is not a meaningful vendor package index.
     if (!is_string($url) || $url === '') {
-        return $url;
+        return '';
     }
-    $replacements = array(
-        'https://downloads.arduino.cc/packages/package_index.tar.bz2' => 'https://espressif.github.io/arduino-esp32/package_esp32_index.json',
+    $u = trim($url);
+    // Treat Arduino's generic package index as "no URL" to avoid always showing it
+    // in the UI for official cores.
+    $genericIndices = array(
+        'https://downloads.arduino.cc/packages/package_index.json',
+        'https://downloads.arduino.cc/packages/package_index.tar.bz2',
     );
-    return isset($replacements[$url]) ? $replacements[$url] : $url;
+    foreach ($genericIndices as $g) {
+        if (strcasecmp($u, $g) === 0) {
+            // If ESP32 family, point to Espressif index; otherwise, omit URL
+            if (is_string($fqbn) && strpos($fqbn, 'esp32:') === 0) {
+                return 'https://espressif.github.io/arduino-esp32/package_esp32_index.json';
+            }
+            return '';
+        }
+    }
+    // Prefer URLs that look like vendor package index JSONs; otherwise, return as-is.
+    // Common pattern: package_<vendor>_index.json
+    if (preg_match('#/package_[a-z0-9_-]+_index\.json$#i', $u)) {
+        return $u;
+    }
+    // Fallback: if it's any HTTP(S) URL and not generic, accept it.
+    if (preg_match('#^https?://#i', $u)) {
+        return $u;
+    }
+    return '';
 };
 foreach ($fqbnList as $fqbn) {
     $fqbnArg = $fqbn;
@@ -225,17 +248,20 @@ $proc2 = proc_open($cmd2, $descriptorSpecDetails, $pipes2, $baseDir);
                 $configOptions = $decoded2['config_options'];
             }
             if (isset($decoded2['package']) && is_array($decoded2['package']) && isset($decoded2['package']['url']) && is_string($decoded2['package']['url'])) {
-                $packageUrl = $normalizePackageUrl($decoded2['package']['url']);
+                $packageUrl = $normalizePackageUrl($decoded2['package']['url'], $fqbn);
             } else {
-                $packageUrl = $normalizePackageUrl($extractPackageUrl($decoded2));
+                $packageUrl = $normalizePackageUrl($extractPackageUrl($decoded2), $fqbn);
             }
         }
+        // Build compact entry. Only include package_url when a valid URL exists.
         $entry = array(
             'name' => $nameVal,
             'version' => $versionVal,
             'config_options' => $configOptions,
-            'package_url' => $packageUrl,
         );
+        if (is_string($packageUrl) && $packageUrl !== '') {
+            $entry['package_url'] = $packageUrl;
+        }
         $keyJson = json_encode($fqbn);
         $entryJson = json_encode($entry, $jsonFlags);
         if ($keyJson === false || $entryJson === false || $keyJson === null || $entryJson === null) {

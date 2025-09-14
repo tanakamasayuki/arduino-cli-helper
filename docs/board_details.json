@@ -4,8 +4,7 @@
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:atmegang": {
     "name": "Arduino NG or older",
@@ -26,8 +25,7 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:bt": {
     "name": "Arduino BT",
@@ -48,24 +46,21 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:chiwawa": {
     "name": "Arduino Industrial 101",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:circuitplay32u4cat": {
     "name": "Adafruit Circuit Playground",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:diecimila": {
     "name": "Arduino Duemilanove or Diecimila",
@@ -86,56 +81,49 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:esplora": {
     "name": "Arduino Esplora",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:ethernet": {
     "name": "Arduino Ethernet",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:fio": {
     "name": "Arduino Fio",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:gemma": {
     "name": "Arduino Gemma",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:leonardo": {
     "name": "Arduino Leonardo",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:leonardoeth": {
     "name": "Arduino Leonardo ETH",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:lilypad": {
     "name": "LilyPad Arduino",
@@ -156,8 +144,7 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:mega": {
     "name": "Arduino Mega or Mega 2560",
@@ -178,24 +165,21 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:megaADK": {
     "name": "Arduino Mega ADK",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:micro": {
     "name": "Arduino Micro",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:mini": {
     "name": "Arduino Mini",
@@ -216,8 +200,7 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:nano": {
     "name": "Arduino Nano",
@@ -242,16 +225,14 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:one": {
     "name": "Linino One",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:pro": {
     "name": "Arduino Pro or Pro Mini",
@@ -280,64 +261,77 @@
                 }
             ]
         }
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:robotControl": {
     "name": "Arduino Robot Control",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:robotMotor": {
     "name": "Arduino Robot Motor",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:uno": {
     "name": "Arduino Uno",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:unomini": {
     "name": "Arduino Uno Mini",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:unowifi": {
     "name": "Arduino Uno WiFi",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:yun": {
     "name": "Arduino Yún",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
 },
   "arduino:avr:yunmini": {
     "name": "Arduino Yún Mini",
     "version": "1.8.6",
     "config_options": [
 
-    ],
-    "package_url": "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+    ]
+},
+  "arduino:renesas_uno:minima": {
+    "name": "Arduino UNO R4 Minima",
+    "version": "1.5.1",
+    "config_options": [
+
+    ]
+},
+  "arduino:renesas_uno:nanor4": {
+    "name": "Arduino Nano R4",
+    "version": "1.5.1",
+    "config_options": [
+
+    ]
+},
+  "arduino:renesas_uno:unor4wifi": {
+    "name": "Arduino UNO R4 WiFi",
+    "version": "1.5.1",
+    "config_options": [
+
+    ]
 },
   "esp32:esp32:AirM2M_CORE_ESP32C3": {
     "name": "AirM2M_CORE_ESP32C3",
