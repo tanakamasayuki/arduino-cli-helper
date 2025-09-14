@@ -4,6 +4,11 @@ PHPで `arduino-cli board listall --json` を実行し、
 取得したJSONを「オリジナル(raw)」と「整形済み(formatted)」として保存し、
 整形済みJSONを標準出力に出す簡易ツールです。
 
+## Page
+- https://tanakamasayuki.github.io/arduino-cli-helper/
+
+上記に作成したページがあります。
+
 ## 前提
 - `arduino-cli` がPATHで実行可能であること
 - PHP 8.0+ が利用可能であること
