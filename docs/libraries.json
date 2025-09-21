@@ -73089,7 +73089,7 @@
     },
     {
         "name": "SimpleJ1939",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "author": "Victor Chavez <chavez-bermudez@fh-aachen.de>",
         "maintainer": "Victor Chavez <chavez-bermudez@fh-aachen.de>",
         "sentence": "Simple J1939 CAN library.",
@@ -73099,9 +73099,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/vChavezB/SimpleJ1939-0.0.2.zip",
-        "archiveFileName": "SimpleJ1939-0.0.2.zip",
-        "fullText": "SimpleJ19390.0.2Victor Chavez <chavez-bermudez@fh-aachen.de>Victor Chavez <chavez-bermudez@fh-aachen.de>Simple J1939 CAN library.A simplified J1939 communication library without full stack support.https://github.com/vChavezB/SimpleJ1939Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/vChavezB/SimpleJ1939-0.0.2.zipSimpleJ1939-0.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/vChavezB/SimpleJ1939-0.0.3.zip",
+        "archiveFileName": "SimpleJ1939-0.0.3.zip",
+        "fullText": "SimpleJ19390.0.3Victor Chavez <chavez-bermudez@fh-aachen.de>Victor Chavez <chavez-bermudez@fh-aachen.de>Simple J1939 CAN library.A simplified J1939 communication library without full stack support.https://github.com/vChavezB/SimpleJ1939Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/vChavezB/SimpleJ1939-0.0.3.zipSimpleJ1939-0.0.3.zip"
     },
     {
         "name": "LMT87",
@@ -101489,7 +101489,7 @@
     },
     {
         "name": "roo_collections",
-        "version": "1.3.0",
+        "version": "1.3.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Memory-conscious collections, supporting flat small hashtables, hash maps, and hash sets.",
@@ -101499,9 +101499,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_collections-1.3.0.zip",
-        "archiveFileName": "roo_collections-1.3.0.zip",
-        "fullText": "roo_collections1.3.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Memory-conscious collections, supporting flat small hashtables, hash maps, and hash sets.Keeps all elements with a single flat array, with size 2-3x times the number of elements (but with const lookup time by key).https://github.com/dejwk/roo_collectionsOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_collections-1.3.0.ziproo_collections-1.3.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_collections-1.3.1.zip",
+        "archiveFileName": "roo_collections-1.3.1.zip",
+        "fullText": "roo_collections1.3.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Memory-conscious collections, supporting flat small hashtables, hash maps, and hash sets.Keeps all elements with a single flat array, with size 2-3x times the number of elements (but with const lookup time by key).https://github.com/dejwk/roo_collectionsOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_collections-1.3.1.ziproo_collections-1.3.1.zip"
     },
     {
         "name": "PCF8563_RTC",
@@ -101697,7 +101697,7 @@
     },
     {
         "name": "roo_display",
-        "version": "2.2.0",
+        "version": "2.2.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Graphics library, supporting variety of display devices and touch panels.",
@@ -101707,9 +101707,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.0.zip",
-        "archiveFileName": "roo_display-2.2.0.zip",
-        "fullText": "roo_display2.2.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Graphics library, supporting variety of display devices and touch panels.Supports SPI and parallel protocols. Efficient, feature-rich, fast, and customizable.https://github.com/dejwk/roo_displayDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.0.ziproo_display-2.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.1.zip",
+        "archiveFileName": "roo_display-2.2.1.zip",
+        "fullText": "roo_display2.2.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Graphics library, supporting variety of display devices and touch panels.Supports SPI and parallel protocols. Efficient, feature-rich, fast, and customizable.https://github.com/dejwk/roo_displayDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.1.ziproo_display-2.2.1.zip"
     },
     {
         "name": "roo_material_icons",
@@ -119905,7 +119905,7 @@
     },
     {
         "name": "BackgroundAudio",
-        "version": "1.4.1",
+        "version": "1.4.2",
         "author": "Earle F. Philhower, III <earlephilhower@yahoo.com>",
         "maintainer": "Earle F. Philhower, III <earlephilhower@yahoo.com>",
         "sentence": "Plays MP3, AAC, and WAV via an IRQ based mechanism to allow \"multitasking\" while playing",
@@ -119915,9 +119915,9 @@
         "architectures": "rp2040, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.1.zip",
-        "archiveFileName": "BackgroundAudio-1.4.1.zip",
-        "fullText": "BackgroundAudio1.4.1Earle F. Philhower, III <earlephilhower@yahoo.com>Earle F. Philhower, III <earlephilhower@yahoo.com>Plays MP3, AAC, and WAV via an IRQ based mechanism to allow \"multitasking\" while playingUses interrupts to allow a sketch to run while MP3, AAC, or WAV decoding goes on behind the scenes. Decodes in natural frames to optimize CPU usage. Allows for handling the UI of a sketch without stopping or jitter on playback.https://github.com/earlephilhower/BackgroundAudioCommunicationrp2040, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.1.zipBackgroundAudio-1.4.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.2.zip",
+        "archiveFileName": "BackgroundAudio-1.4.2.zip",
+        "fullText": "BackgroundAudio1.4.2Earle F. Philhower, III <earlephilhower@yahoo.com>Earle F. Philhower, III <earlephilhower@yahoo.com>Plays MP3, AAC, and WAV via an IRQ based mechanism to allow \"multitasking\" while playingUses interrupts to allow a sketch to run while MP3, AAC, or WAV decoding goes on behind the scenes. Decodes in natural frames to optimize CPU usage. Allows for handling the UI of a sketch without stopping or jitter on playback.https://github.com/earlephilhower/BackgroundAudioCommunicationrp2040, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.2.zipBackgroundAudio-1.4.2.zip"
     },
     {
         "name": "ArtificialRTC",
@@ -126193,7 +126193,7 @@
     },
     {
         "name": "ieee-802_15_4",
-        "version": "0.5.6",
+        "version": "0.5.7",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "sentence": "Simplifed version of sending and reciving messages over 802.15.4",
@@ -126203,9 +126203,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Johboh/ieee_802_15_4-0.5.6.zip",
-        "archiveFileName": "ieee_802_15_4-0.5.6.zip",
-        "fullText": "ieee-802_15_40.5.6Johan Böhlin <github@johboh.dev>Johan Böhlin <github@johboh.dev>Simplifed version of sending and reciving messages over 802.15.4Supports sending frames between devices, as well as data requests and broadcasts.https://github.com/Johboh/IEEE802154Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Johboh/ieee_802_15_4-0.5.6.zipieee_802_15_4-0.5.6.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Johboh/ieee_802_15_4-0.5.7.zip",
+        "archiveFileName": "ieee_802_15_4-0.5.7.zip",
+        "fullText": "ieee-802_15_40.5.7Johan Böhlin <github@johboh.dev>Johan Böhlin <github@johboh.dev>Simplifed version of sending and reciving messages over 802.15.4Supports sending frames between devices, as well as data requests and broadcasts.https://github.com/Johboh/IEEE802154Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Johboh/ieee_802_15_4-0.5.7.zipieee_802_15_4-0.5.7.zip"
     },
     {
         "name": "ieee-802_15_4-network-shared",
@@ -133969,7 +133969,7 @@
     },
     {
         "name": "LEGOTrainController",
-        "version": "1.1.0",
+        "version": "1.1.2",
         "author": "IwanIDev <iwan@iwani.dev>",
         "maintainer": "IwanIDev <iwan@iwani.dev>",
         "sentence": "An Arduino library for controlling LEGO Powered Up trains with automated layouts",
@@ -133979,9 +133979,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/IwanIDev/LEGOTrainController-1.1.0.zip",
-        "archiveFileName": "LEGOTrainController-1.1.0.zip",
-        "fullText": "LEGOTrainController1.1.0IwanIDev <iwan@iwani.dev>IwanIDev <iwan@iwani.dev>An Arduino library for controlling LEGO Powered Up trains with automated layoutsThis library provides a complete framework for building automated LEGO train systems using Arduino. Features include multi-train management, sensor-based automation (reed switch sensors), track switch control, position tracking, and action sequencing. Perfect for creating complex automated train layouts with intelligent routing.https://github.com/IwanIDev/lego-arduino-trainDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/IwanIDev/LEGOTrainController-1.1.0.zipLEGOTrainController-1.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/IwanIDev/LEGOTrainController-1.1.2.zip",
+        "archiveFileName": "LEGOTrainController-1.1.2.zip",
+        "fullText": "LEGOTrainController1.1.2IwanIDev <iwan@iwani.dev>IwanIDev <iwan@iwani.dev>An Arduino library for controlling LEGO Powered Up trains with automated layoutsThis library provides a complete framework for building automated LEGO train systems using Arduino. Features include multi-train management, sensor-based automation (reed switch sensors), track switch control, position tracking, and action sequencing. Perfect for creating complex automated train layouts with intelligent routing.https://github.com/IwanIDev/lego-arduino-trainDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/IwanIDev/LEGOTrainController-1.1.2.zipLEGOTrainController-1.1.2.zip"
     },
     {
         "name": "IQS5XX-B000 Trackpad",
@@ -134110,5 +134110,85 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/fulda1/SUSI2-1.0.0.zip",
         "archiveFileName": "SUSI2-1.0.0.zip",
         "fullText": "SUSI21.0.0Jindrich Fucik <jindrich@fucik.name>Jindrich Fucik <jindrich@fucik.name>Enable NMRA S-9.4.1 / RCN-600 SUSI CommunicationThis library allows you to interface to a NMRA S-9.4.1 / RCN-600 SUSI Decoders interface.https://github.com/fulda1/SUSI2Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/fulda1/SUSI2-1.0.0.zipSUSI2-1.0.0.zip"
+    },
+    {
+        "name": "AIP1640_LED_Matrix",
+        "version": "1.0.0",
+        "author": "Harmony Lab <teamproximal@gmail.com>",
+        "maintainer": "Harmony Lab",
+        "sentence": "A simple library for controlling the AIP1640 LED Matrix.",
+        "paragraph": "This library provides an easy-to-use interface for driving an LED matrix based on the AIP1640 chip, enabling control over individual pixels and drawing patterns.",
+        "website": "https://github.com/Harmony-Maker-Club/AIP1640_LED_Matrix",
+        "category": "Display",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Harmony-Maker-Club/AIP1640_LED_Matrix-1.0.0.zip",
+        "archiveFileName": "AIP1640_LED_Matrix-1.0.0.zip",
+        "fullText": "AIP1640_LED_Matrix1.0.0Harmony Lab <teamproximal@gmail.com>Harmony LabA simple library for controlling the AIP1640 LED Matrix.This library provides an easy-to-use interface for driving an LED matrix based on the AIP1640 chip, enabling control over individual pixels and drawing patterns.https://github.com/Harmony-Maker-Club/AIP1640_LED_MatrixDisplayContributedhttps://downloads.arduino.cc/libraries/github.com/Harmony-Maker-Club/AIP1640_LED_Matrix-1.0.0.zipAIP1640_LED_Matrix-1.0.0.zip"
+    },
+    {
+        "name": "QuectelEC200U_CN",
+        "version": "1.3.0",
+        "author": "misternegative21",
+        "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
+        "sentence": "Arduino library for Quectel EC200U (CN-AA) AT commands: network, PDP, TCP/SSL, HTTP(S), MQTT, GNSS, SMS, FS, USSD, NTP, power saving.",
+        "paragraph": "Provides a robust AT command wrapper for EC200U with advanced examples (TLS/HTTPS, MQTT over SSL, filesystem CA, NTP/time, USSD, PSM/eDRX, GNSS). Unofficial; see README for trademark notice.",
+        "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/MISTERNEGATIVE21/QuectelEC200U_CN-1.3.0.zip",
+        "archiveFileName": "QuectelEC200U_CN-1.3.0.zip",
+        "fullText": "QuectelEC200U_CN1.3.0misternegative21MisterNegative21 <misternegative21@gmail.com>Arduino library for Quectel EC200U (CN-AA) AT commands: network, PDP, TCP/SSL, HTTP(S), MQTT, GNSS, SMS, FS, USSD, NTP, power saving.Provides a robust AT command wrapper for EC200U with advanced examples (TLS/HTTPS, MQTT over SSL, filesystem CA, NTP/time, USSD, PSM/eDRX, GNSS). Unofficial; see README for trademark notice.https://github.com/MISTERNEGATIVE21/QuectelEC200U_CNCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/MISTERNEGATIVE21/QuectelEC200U_CN-1.3.0.zipQuectelEC200U_CN-1.3.0.zip"
+    },
+    {
+        "name": "ANTIRTOS_MODERN",
+        "version": "1.0.0",
+        "author": "Aleksei Tertychnyi <cqdx@list.ru>",
+        "maintainer": "Aleksei Tertychnyi <cqdx@list.ru>",
+        "sentence": "No any RTOS needed, you will see - seamlessly manage all your tasks without unnecessary waiting, keep your interrupts blazing fast.",
+        "paragraph": "Unleash your app. full potential: no more getting stuck in interrupts or wasting time with dummy delays! Seamlessly manage your tasks without unnecessary waiting, keep your interrupts blazing fast regardless of task complexity or delays. Transform your performance and efficiency today!",
+        "website": "https://github.com/WeSpeakEnglish/ANTIRTOS_MODERN",
+        "category": "Timing",
+        "architectures": "samd, esp32, mbed_edge, mbed_giga, mbed_nano, mbed_nicla, mbed_opta, mbed_portenta, mbed_rp2040, renesas_portenta, renesas_uno",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/WeSpeakEnglish/ANTIRTOS_MODERN-1.0.0.zip",
+        "archiveFileName": "ANTIRTOS_MODERN-1.0.0.zip",
+        "fullText": "ANTIRTOS_MODERN1.0.0Aleksei Tertychnyi <cqdx@list.ru>Aleksei Tertychnyi <cqdx@list.ru>No any RTOS needed, you will see - seamlessly manage all your tasks without unnecessary waiting, keep your interrupts blazing fast.Unleash your app. full potential: no more getting stuck in interrupts or wasting time with dummy delays! Seamlessly manage your tasks without unnecessary waiting, keep your interrupts blazing fast regardless of task complexity or delays. Transform your performance and efficiency today!https://github.com/WeSpeakEnglish/ANTIRTOS_MODERNTimingsamd, esp32, mbed_edge, mbed_giga, mbed_nano, mbed_nicla, mbed_opta, mbed_portenta, mbed_rp2040, renesas_portenta, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/WeSpeakEnglish/ANTIRTOS_MODERN-1.0.0.zipANTIRTOS_MODERN-1.0.0.zip"
+    },
+    {
+        "name": "PulseHeartLab",
+        "version": "0.1.1",
+        "author": "Luis Gustavo de Matos dos Santos",
+        "maintainer": "Luis Gustavo de Matos dos Santos",
+        "sentence": "Beginner-friendly PPG (photoplethysmography) processing for Arduino Uno.",
+        "paragraph": "Minimal API for sampling, filtering, beat detection, BPM and signal quality. Inspired by PulseSensor style. Includes didactic examples and a PhysioZoo export demo.",
+        "website": "https://github.com/your-org/PulseHeartLab",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/gustavofisica/PulseHeartLab-0.1.1.zip",
+        "archiveFileName": "PulseHeartLab-0.1.1.zip",
+        "fullText": "PulseHeartLab0.1.1Luis Gustavo de Matos dos SantosLuis Gustavo de Matos dos SantosBeginner-friendly PPG (photoplethysmography) processing for Arduino Uno.Minimal API for sampling, filtering, beat detection, BPM and signal quality. Inspired by PulseSensor style. Includes didactic examples and a PhysioZoo export demo.https://github.com/your-org/PulseHeartLabSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/gustavofisica/PulseHeartLab-0.1.1.zipPulseHeartLab-0.1.1.zip"
+    },
+    {
+        "name": "MicroSerial",
+        "version": "1.0.0",
+        "author": "hidori",
+        "maintainer": "hidori",
+        "sentence": "Lightweight bit-bang Serial library with cross-platform compatibility",
+        "paragraph": "A minimal serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Uses direct register manipulation on AVR for maximum efficiency, falls back to digitalWrite on other platforms. Features simple API with print functions for serial output and configurable baud rates.",
+        "website": "https://github.com/hidori/MicroSerial",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.0.0.zip",
+        "archiveFileName": "MicroSerial-1.0.0.zip",
+        "fullText": "MicroSerial1.0.0hidorihidoriLightweight bit-bang Serial library with cross-platform compatibilityA minimal serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Uses direct register manipulation on AVR for maximum efficiency, falls back to digitalWrite on other platforms. Features simple API with print functions for serial output and configurable baud rates.https://github.com/hidori/MicroSerialCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.0.0.zipMicroSerial-1.0.0.zip"
     }
 ]
