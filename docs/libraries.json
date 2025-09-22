@@ -5953,7 +5953,7 @@
     },
     {
         "name": "FastLED",
-        "version": "3.10.2",
+        "version": "3.10.3",
         "author": "Daniel Garcia",
         "maintainer": "Daniel Garcia <dgarcia@fastled.io>",
         "sentence": "Multi-platform library for controlling dozens of different types of LEDs along with optimized math, effect, and noise functions.",
@@ -5963,9 +5963,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/FastLED/FastLED-3.10.2.zip",
-        "archiveFileName": "FastLED-3.10.2.zip",
-        "fullText": "FastLED3.10.2Daniel GarciaDaniel Garcia <dgarcia@fastled.io>Multi-platform library for controlling dozens of different types of LEDs along with optimized math, effect, and noise functions.FastLED is a fast, efficient, easy-to-use Arduino library for programming addressable LED strips and pixels such as WS2810, WS2811, LPD8806, Neopixel and more. FastLED also provides high-level math functions that can be used for generative art and graphics.https://github.com/FastLED/FastLEDDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/FastLED/FastLED-3.10.2.zipFastLED-3.10.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/FastLED/FastLED-3.10.3.zip",
+        "archiveFileName": "FastLED-3.10.3.zip",
+        "fullText": "FastLED3.10.3Daniel GarciaDaniel Garcia <dgarcia@fastled.io>Multi-platform library for controlling dozens of different types of LEDs along with optimized math, effect, and noise functions.FastLED is a fast, efficient, easy-to-use Arduino library for programming addressable LED strips and pixels such as WS2810, WS2811, LPD8806, Neopixel and more. FastLED also provides high-level math functions that can be used for generative art and graphics.https://github.com/FastLED/FastLEDDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/FastLED/FastLED-3.10.3.zipFastLED-3.10.3.zip"
     },
     {
         "name": "Sodaq_RN2483",
@@ -19857,9 +19857,9 @@
     },
     {
         "name": "Plaquette",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "author": "Sofian Audry & Thomas Ouellet Fredericks",
-        "maintainer": "Sofian Audry & Thomas Ouellet Fredericks",
+        "maintainer": "Sofian Audry",
         "sentence": "An object-oriented framework for creative physical computing.",
         "paragraph": "Plaquette is an object-oriented, user-friendly, signal-centric programming framework for creative physical computing. Its features include signal filtering, oscillators, timing, ramps, and event management.",
         "website": "http://sofapirate.github.io/Plaquette",
@@ -19867,9 +19867,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/SofaPirate/Plaquette-0.7.0.zip",
-        "archiveFileName": "Plaquette-0.7.0.zip",
-        "fullText": "Plaquette0.7.0Sofian Audry & Thomas Ouellet FredericksSofian Audry & Thomas Ouellet FredericksAn object-oriented framework for creative physical computing.Plaquette is an object-oriented, user-friendly, signal-centric programming framework for creative physical computing. Its features include signal filtering, oscillators, timing, ramps, and event management.http://sofapirate.github.io/PlaquetteSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/SofaPirate/Plaquette-0.7.0.zipPlaquette-0.7.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/SofaPirate/Plaquette-0.8.0.zip",
+        "archiveFileName": "Plaquette-0.8.0.zip",
+        "fullText": "Plaquette0.8.0Sofian Audry & Thomas Ouellet FredericksSofian AudryAn object-oriented framework for creative physical computing.Plaquette is an object-oriented, user-friendly, signal-centric programming framework for creative physical computing. Its features include signal filtering, oscillators, timing, ramps, and event management.http://sofapirate.github.io/PlaquetteSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/SofaPirate/Plaquette-0.8.0.zipPlaquette-0.8.0.zip"
     },
     {
         "name": "DS3232RTC",
@@ -39041,7 +39041,7 @@
     },
     {
         "name": "SinricPro",
-        "version": "3.5.1",
+        "version": "3.5.2",
         "author": "Boris Jaeger <sivar2311@gmail.com>",
         "maintainer": "Boris Jaeger <sivar2311@gmail.com>",
         "sentence": "Library for https://sinric.pro - simple way to connect your device to alexa",
@@ -39051,9 +39051,9 @@
         "architectures": "esp8266, esp32, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/sinricpro/SinricPro-3.5.1.zip",
-        "archiveFileName": "SinricPro-3.5.1.zip",
-        "fullText": "SinricPro3.5.1Boris Jaeger <sivar2311@gmail.com>Boris Jaeger <sivar2311@gmail.com>Library for https://sinric.pro - simple way to connect your device to alexaSimple way to control your IOT development boards like ESP8226 or ESP32 with Amazon Alexa or Google Homehttps://github.com/sinricpro/esp8266-esp32-sdk/Communicationesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/sinricpro/SinricPro-3.5.1.zipSinricPro-3.5.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/sinricpro/SinricPro-3.5.2.zip",
+        "archiveFileName": "SinricPro-3.5.2.zip",
+        "fullText": "SinricPro3.5.2Boris Jaeger <sivar2311@gmail.com>Boris Jaeger <sivar2311@gmail.com>Library for https://sinric.pro - simple way to connect your device to alexaSimple way to control your IOT development boards like ESP8226 or ESP32 with Amazon Alexa or Google Homehttps://github.com/sinricpro/esp8266-esp32-sdk/Communicationesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/sinricpro/SinricPro-3.5.2.zipSinricPro-3.5.2.zip"
     },
     {
         "name": "desklab",
@@ -60625,7 +60625,7 @@
     },
     {
         "name": "M5GFX",
-        "version": "0.2.12",
+        "version": "0.2.13",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "sentence": "Library for M5Stack All Display",
@@ -60635,9 +60635,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.12.zip",
-        "archiveFileName": "M5GFX-0.2.12.zip",
-        "fullText": "M5GFX0.2.12M5StackM5StackLibrary for M5Stack All DisplayM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5Station, M5ATOMS3, Unit OLED, Unit LCD, Unit RCA, ATOM Display, See more on http://M5Stack.comhttps://github.com/m5stack/M5GFX.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.12.zipM5GFX-0.2.12.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.13.zip",
+        "archiveFileName": "M5GFX-0.2.13.zip",
+        "fullText": "M5GFX0.2.13M5StackM5StackLibrary for M5Stack All DisplayM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5Station, M5ATOMS3, Unit OLED, Unit LCD, Unit RCA, ATOM Display, See more on http://M5Stack.comhttps://github.com/m5stack/M5GFX.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.13.zipM5GFX-0.2.13.zip"
     },
     {
         "name": "Tachometer",
@@ -130609,7 +130609,7 @@
     },
     {
         "name": "EdgeSense",
-        "version": "1.0.3",
+        "version": "1.0.6",
         "author": "Consentium IoT",
         "maintainer": "Consentium IoT <official@consentiumiot.com>",
         "sentence": "Modular Arduino-style library for logging data, images, and audio on edge devices.",
@@ -130619,9 +130619,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeSense-1.0.3.zip",
-        "archiveFileName": "EdgeSense-1.0.3.zip",
-        "fullText": "EdgeSense1.0.3Consentium IoTConsentium IoT <official@consentiumiot.com>Modular Arduino-style library for logging data, images, and audio on edge devices.EdgeSense enables efficient multi-modal logging and sensor data acquisition on ESP32-based boards. It supports image logging from cameras, audio data from I2S microphones, and general data logging to SD or flash storage.https://docs.consentiumiot.com/Data Processingesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeSense-1.0.3.zipEdgeSense-1.0.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeSense-1.0.6.zip",
+        "archiveFileName": "EdgeSense-1.0.6.zip",
+        "fullText": "EdgeSense1.0.6Consentium IoTConsentium IoT <official@consentiumiot.com>Modular Arduino-style library for logging data, images, and audio on edge devices.EdgeSense enables efficient multi-modal logging and sensor data acquisition on ESP32-based boards. It supports image logging from cameras, audio data from I2S microphones, and general data logging to SD or flash storage.https://docs.consentiumiot.com/Data Processingesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeSense-1.0.6.zipEdgeSense-1.0.6.zip"
     },
     {
         "name": "LX16A-bus",
@@ -130913,7 +130913,7 @@
     },
     {
         "name": "BLE-Gamepad-Client",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "author": "Tomasz Bekas",
         "maintainer": "Tomasz Bekas",
         "sentence": "Enables connecting BLE gamepads to ESP32 boards.",
@@ -130923,9 +130923,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.6.0.zip",
-        "archiveFileName": "BLE_Gamepad_Client-0.6.0.zip",
-        "fullText": "BLE-Gamepad-Client0.6.0Tomasz BekasTomasz BekasEnables connecting BLE gamepads to ESP32 boards.Supported gamepads include the Xbox Wireless Controller and the Steam Controller.https://github.com/tbekas/BLE-Gamepad-ClientCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.6.0.zipBLE_Gamepad_Client-0.6.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.7.0.zip",
+        "archiveFileName": "BLE_Gamepad_Client-0.7.0.zip",
+        "fullText": "BLE-Gamepad-Client0.7.0Tomasz BekasTomasz BekasEnables connecting BLE gamepads to ESP32 boards.Supported gamepads include the Xbox Wireless Controller and the Steam Controller.https://github.com/tbekas/BLE-Gamepad-ClientCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.7.0.zipBLE_Gamepad_Client-0.7.0.zip"
     },
     {
         "name": "WiFiCreds",
@@ -132625,7 +132625,7 @@
     },
     {
         "name": "skytraq",
-        "version": "1.0.3",
+        "version": "1.0.5",
         "author": "JJ",
         "maintainer": "JJ <chocobitechocochips@gmail.com>",
         "sentence": "Arduino library for Skytraq GNSS module with NavIC support",
@@ -132635,9 +132635,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/cocoisarobo/skytraq-1.0.3.zip",
-        "archiveFileName": "skytraq-1.0.3.zip",
-        "fullText": "skytraq1.0.3JJJJ <chocobitechocochips@gmail.com>Arduino library for Skytraq GNSS module with NavIC supportThis library provides an interface to communicate with Skytraq GNSS modules, including support for the NavIC satellite navigation system.https://github.com/cocoisarobo/skytraq-navicCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/cocoisarobo/skytraq-1.0.3.zipskytraq-1.0.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/cocoisarobo/skytraq-1.0.5.zip",
+        "archiveFileName": "skytraq-1.0.5.zip",
+        "fullText": "skytraq1.0.5JJJJ <chocobitechocochips@gmail.com>Arduino library for Skytraq GNSS module with NavIC supportThis library provides an interface to communicate with Skytraq GNSS modules, including support for the NavIC satellite navigation system.https://github.com/cocoisarobo/skytraq-navicCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/cocoisarobo/skytraq-1.0.5.zipskytraq-1.0.5.zip"
     },
     {
         "name": "Sensirion I2C SPS30",
@@ -134190,5 +134190,37 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.0.0.zip",
         "archiveFileName": "MicroSerial-1.0.0.zip",
         "fullText": "MicroSerial1.0.0hidorihidoriLightweight bit-bang Serial library with cross-platform compatibilityA minimal serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Uses direct register manipulation on AVR for maximum efficiency, falls back to digitalWrite on other platforms. Features simple API with print functions for serial output and configurable baud rates.https://github.com/hidori/MicroSerialCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.0.0.zipMicroSerial-1.0.0.zip"
+    },
+    {
+        "name": "7Semi_BNO055",
+        "version": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "sentence": "Lightweight BNO055 driver (raw + minimal helpers) with optional configurable I2C pins.",
+        "paragraph": "Supports orientation (Euler, quaternion), raw sensor data (accelerometer, gyroscope, magnetometer), linear acceleration, gravity vector, sensor configuration, and calibration. Optimized for low flash usage across AVR, ESP32, STM32, RP2040 and more.",
+        "website": "https://github.com/7semi-solutions/7Semi-BNO055-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_BNO055-1.0.0.zip",
+        "archiveFileName": "7Semi_BNO055-1.0.0.zip",
+        "fullText": "7Semi_BNO0551.0.07Semi <info@7semi.com>7Semi <info@7semi.com>Lightweight BNO055 driver (raw + minimal helpers) with optional configurable I2C pins.Supports orientation (Euler, quaternion), raw sensor data (accelerometer, gyroscope, magnetometer), linear acceleration, gravity vector, sensor configuration, and calibration. Optimized for low flash usage across AVR, ESP32, STM32, RP2040 and more.https://github.com/7semi-solutions/7Semi-BNO055-Arduino-LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_BNO055-1.0.0.zip7Semi_BNO055-1.0.0.zip"
+    },
+    {
+        "name": "EdgeVision",
+        "version": "1.0.0",
+        "author": "Consentium IoT",
+        "maintainer": "Consentium IoT <official@consentiumiot.com>",
+        "sentence": "Edge AI library for vision on ESP32-based edge devices.",
+        "paragraph": "EdgeVision provides a modular framework for real-time image capture on ESP32 boards.",
+        "website": "https://docs.consentiumiot.com/",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeVision-1.0.0.zip",
+        "archiveFileName": "EdgeVision-1.0.0.zip",
+        "fullText": "EdgeVision1.0.0Consentium IoTConsentium IoT <official@consentiumiot.com>Edge AI library for vision on ESP32-based edge devices.EdgeVision provides a modular framework for real-time image capture on ESP32 boards.https://docs.consentiumiot.com/Uncategorizedesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeVision-1.0.0.zipEdgeVision-1.0.0.zip"
     }
 ]
