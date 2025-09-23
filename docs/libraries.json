@@ -5921,7 +5921,7 @@
     },
     {
         "name": "TaskScheduler",
-        "version": "3.8.5",
+        "version": "4.0.0",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "sentence": "Cooperative multitasking for Arduino, ESPx, STM32 and other microcontrollers.",
@@ -5931,9 +5931,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-3.8.5.zip",
-        "archiveFileName": "TaskScheduler-3.8.5.zip",
-        "fullText": "TaskScheduler3.8.5Anatoli Arkhipenko <arkhipenko@hotmail.com>Anatoli Arkhipenko <arkhipenko@hotmail.com>Cooperative multitasking for Arduino, ESPx, STM32 and other microcontrollers.Supports: periodic task execution (with dynamic execution period in milliseconds or microseconds – frequency of execution), number of iterations (limited or infinite number of iterations), execution of tasks in predefined sequence, dynamic change of task execution parameters (frequency, number of iterations, callback methods), power saving via entering IDLE sleep mode when tasks are not scheduled to run, event-driven task invocation via Status Request object, task IDs and Control Points for error handling and watchdog timer, Local Task Storage pointer (allowing use of same callback code for multiple tasks), layered task prioritization, std::functions (where supported), overall task timeout, static and dynamic callback method binding.https://github.com/arkhipenko/TaskScheduler.gitTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-3.8.5.zipTaskScheduler-3.8.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-4.0.0.zip",
+        "archiveFileName": "TaskScheduler-4.0.0.zip",
+        "fullText": "TaskScheduler4.0.0Anatoli Arkhipenko <arkhipenko@hotmail.com>Anatoli Arkhipenko <arkhipenko@hotmail.com>Cooperative multitasking for Arduino, ESPx, STM32 and other microcontrollers.Supports: periodic task execution (with dynamic execution period in milliseconds or microseconds – frequency of execution), number of iterations (limited or infinite number of iterations), execution of tasks in predefined sequence, dynamic change of task execution parameters (frequency, number of iterations, callback methods), power saving via entering IDLE sleep mode when tasks are not scheduled to run, event-driven task invocation via Status Request object, task IDs and Control Points for error handling and watchdog timer, Local Task Storage pointer (allowing use of same callback code for multiple tasks), layered task prioritization, std::functions (where supported), overall task timeout, static and dynamic callback method binding.https://github.com/arkhipenko/TaskScheduler.gitTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-4.0.0.zipTaskScheduler-4.0.0.zip"
     },
     {
         "name": "TMRpcm",
@@ -35217,7 +35217,7 @@
     },
     {
         "name": "RadioLib",
-        "version": "7.2.1",
+        "version": "7.3.0",
         "author": "Jan Gromes <gromes.jan@gmail.com>",
         "maintainer": "Jan Gromes <gromes.jan@gmail.com>",
         "sentence": "Universal wireless communication library",
@@ -35227,9 +35227,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/jgromes/RadioLib-7.2.1.zip",
-        "archiveFileName": "RadioLib-7.2.1.zip",
-        "fullText": "RadioLib7.2.1Jan Gromes <gromes.jan@gmail.com>Jan Gromes <gromes.jan@gmail.com>Universal wireless communication libraryUser-friendly library for sub-GHz radio modules (SX1278, RF69, CC1101, SX1268, LR1110 and many others), as well as ham radio digital modes (RTTY, SSTV, AX.25 etc.) and other protocols (Pagers, LoRaWAN).https://github.com/jgromes/RadioLibCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/jgromes/RadioLib-7.2.1.zipRadioLib-7.2.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/jgromes/RadioLib-7.3.0.zip",
+        "archiveFileName": "RadioLib-7.3.0.zip",
+        "fullText": "RadioLib7.3.0Jan Gromes <gromes.jan@gmail.com>Jan Gromes <gromes.jan@gmail.com>Universal wireless communication libraryUser-friendly library for sub-GHz radio modules (SX1278, RF69, CC1101, SX1268, LR1110 and many others), as well as ham radio digital modes (RTTY, SSTV, AX.25 etc.) and other protocols (Pagers, LoRaWAN).https://github.com/jgromes/RadioLibCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/jgromes/RadioLib-7.3.0.zipRadioLib-7.3.0.zip"
     },
     {
         "name": "ClosedCube_I2C_Driver",
@@ -55057,7 +55057,7 @@
     },
     {
         "name": "HomeSpan",
-        "version": "2.1.4",
+        "version": "2.1.5",
         "author": "Gregg <homespan@icloud.com>",
         "maintainer": "Gregg <homespan@icloud.com>",
         "sentence": "A robust and extremely easy-to-use HomeKit implementation for the Espressif ESP32 running on the Arduino IDE.",
@@ -55067,9 +55067,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/HomeSpan/HomeSpan-2.1.4.zip",
-        "archiveFileName": "HomeSpan-2.1.4.zip",
-        "fullText": "HomeSpan2.1.4Gregg <homespan@icloud.com>Gregg <homespan@icloud.com>A robust and extremely easy-to-use HomeKit implementation for the Espressif ESP32 running on the Arduino IDE.This library provides a microcontroller-focused implementation of Apple's HomeKit Accessory Protocol (HAP - Release R2) designed specifically for the ESP32 running on the Arduino IDE.  HomeSpan pairs directly to iOS Home via WiFi or Ethernet without the need for any external bridges or components.  Supports the original ESP32 as well as the S2, S3, C3 and C6.https://github.com/HomeSpan/HomeSpanUncategorizedesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/HomeSpan/HomeSpan-2.1.4.zipHomeSpan-2.1.4.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/HomeSpan/HomeSpan-2.1.5.zip",
+        "archiveFileName": "HomeSpan-2.1.5.zip",
+        "fullText": "HomeSpan2.1.5Gregg <homespan@icloud.com>Gregg <homespan@icloud.com>A robust and extremely easy-to-use HomeKit implementation for the Espressif ESP32 running on the Arduino IDE.This library provides a microcontroller-focused implementation of Apple's HomeKit Accessory Protocol (HAP - Release R2) designed specifically for the ESP32 running on the Arduino IDE.  HomeSpan pairs directly to iOS Home via WiFi or Ethernet without the need for any external bridges or components.  Supports the original ESP32 as well as the S2, S3, C3 and C6.https://github.com/HomeSpan/HomeSpanUncategorizedesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/HomeSpan/HomeSpan-2.1.5.zipHomeSpan-2.1.5.zip"
     },
     {
         "name": "Alpenglow FUnicorn",
@@ -70289,7 +70289,7 @@
     },
     {
         "name": "autowp-mcp2515",
-        "version": "1.3.0",
+        "version": "1.3.1",
         "author": "autowp <autowp@gmail.com>",
         "maintainer": "autowp <autowp@gmail.com>",
         "sentence": "Arduino MCP2515 CAN interface library",
@@ -70299,9 +70299,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/autowp/autowp_mcp2515-1.3.0.zip",
-        "archiveFileName": "autowp_mcp2515-1.3.0.zip",
-        "fullText": "autowp-mcp25151.3.0autowp <autowp@gmail.com>autowp <autowp@gmail.com>Arduino MCP2515 CAN interface libraryThis library with CAN-BUS Shield gives your Arduino/Seeeduino CAN-BUS capability. With an OBD-II converter cable added on and the OBD-II library imported, you are ready to build an onboard diagnostic device or data logger.https://github.com/autowp/arduino-mcp2515Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/autowp/autowp_mcp2515-1.3.0.zipautowp_mcp2515-1.3.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/autowp/autowp_mcp2515-1.3.1.zip",
+        "archiveFileName": "autowp_mcp2515-1.3.1.zip",
+        "fullText": "autowp-mcp25151.3.1autowp <autowp@gmail.com>autowp <autowp@gmail.com>Arduino MCP2515 CAN interface libraryThis library with CAN-BUS Shield gives your Arduino/Seeeduino CAN-BUS capability. With an OBD-II converter cable added on and the OBD-II library imported, you are ready to build an onboard diagnostic device or data logger.https://github.com/autowp/arduino-mcp2515Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/autowp/autowp_mcp2515-1.3.1.zipautowp_mcp2515-1.3.1.zip"
     },
     {
         "name": "JDI_MIP_Display",
@@ -80785,7 +80785,7 @@
     },
     {
         "name": "BresserWeatherSensorReceiver",
-        "version": "0.33.1",
+        "version": "0.34.0",
         "author": "Matthias Prinke <matthias-bs@web.de>",
         "maintainer": "Matthias Prinke <matthias-bs@web.de>",
         "sentence": "Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.",
@@ -80795,9 +80795,9 @@
         "architectures": "esp32, esp8266, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.33.1.zip",
-        "archiveFileName": "BresserWeatherSensorReceiver-0.33.1.zip",
-        "fullText": "BresserWeatherSensorReceiver0.33.1Matthias Prinke <matthias-bs@web.de>Matthias Prinke <matthias-bs@web.de>Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.https://github.com/matthias-bs/BresserWeatherSensorReceiverSensorsesp32, esp8266, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.33.1.zipBresserWeatherSensorReceiver-0.33.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.34.0.zip",
+        "archiveFileName": "BresserWeatherSensorReceiver-0.34.0.zip",
+        "fullText": "BresserWeatherSensorReceiver0.34.0Matthias Prinke <matthias-bs@web.de>Matthias Prinke <matthias-bs@web.de>Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.https://github.com/matthias-bs/BresserWeatherSensorReceiverSensorsesp32, esp8266, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.34.0.zipBresserWeatherSensorReceiver-0.34.0.zip"
     },
     {
         "name": "RussianText_u8g",
@@ -114737,7 +114737,7 @@
     },
     {
         "name": "deploii",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "author": "Company of Things",
         "maintainer": "Company of Things <post@cot.as>",
         "sentence": "Library for enabling communication between a MCU and Deploii",
@@ -114747,9 +114747,9 @@
         "architectures": "esp32, samd, renesas_uno",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Company-of-Things/deploii-0.2.0.zip",
-        "archiveFileName": "deploii-0.2.0.zip",
-        "fullText": "deploii0.2.0Company of ThingsCompany of Things <post@cot.as>Library for enabling communication between a MCU and Deploiihttps://github.com/Company-of-Things/deploii-libraryCommunicationesp32, samd, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/Company-of-Things/deploii-0.2.0.zipdeploii-0.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Company-of-Things/deploii-0.2.1.zip",
+        "archiveFileName": "deploii-0.2.1.zip",
+        "fullText": "deploii0.2.1Company of ThingsCompany of Things <post@cot.as>Library for enabling communication between a MCU and Deploiihttps://github.com/Company-of-Things/deploii-libraryCommunicationesp32, samd, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/Company-of-Things/deploii-0.2.1.zipdeploii-0.2.1.zip"
     },
     {
         "name": "XRA1405_Button",
@@ -118433,7 +118433,7 @@
     },
     {
         "name": "RcSwitchReceiver",
-        "version": "0.6.5",
+        "version": "0.6.6",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "sentence": "Receive data from 433/315Mhz remote controls.",
@@ -118443,9 +118443,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dac1e/RcSwitchReceiver-0.6.5.zip",
-        "archiveFileName": "RcSwitchReceiver-0.6.5.zip",
-        "fullText": "RcSwitchReceiver0.6.5dac1edac1e <1692-586@onlinehome.de>Receive data from 433/315Mhz remote controls.Use your Arduino to receive data from 433/315Mhz remote controls. Optionally define your own set of protocols to be rcognized. Analyze pulses of remote control transmitters.https://github.com/dac1e/RcSwitchReceiverDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dac1e/RcSwitchReceiver-0.6.5.zipRcSwitchReceiver-0.6.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dac1e/RcSwitchReceiver-0.6.6.zip",
+        "archiveFileName": "RcSwitchReceiver-0.6.6.zip",
+        "fullText": "RcSwitchReceiver0.6.6dac1edac1e <1692-586@onlinehome.de>Receive data from 433/315Mhz remote controls.Use your Arduino to receive data from 433/315Mhz remote controls. Optionally define your own set of protocols to be rcognized. Analyze pulses of remote control transmitters.https://github.com/dac1e/RcSwitchReceiverDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dac1e/RcSwitchReceiver-0.6.6.zipRcSwitchReceiver-0.6.6.zip"
     },
     {
         "name": "ConsentiumStarterKit",
@@ -132321,7 +132321,7 @@
     },
     {
         "name": "Tektite RotEv Controller",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "author": "Tektite",
         "maintainer": "Tektite <tektitebiz@gmail.com>",
         "sentence": "Arduino Library for Tektite RotEv Controller.",
@@ -132331,9 +132331,9 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/TektiteBiz/Tektite_RotEv_Controller-0.1.2.zip",
-        "archiveFileName": "Tektite_RotEv_Controller-0.1.2.zip",
-        "fullText": "Tektite RotEv Controller0.1.2TektiteTektite <tektitebiz@gmail.com>Arduino Library for Tektite RotEv Controller.Implements encoder, motor driver, button, LED, and more!https://github.com/tektitebiz/TektiteRotEvDevice Controlrp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/TektiteBiz/Tektite_RotEv_Controller-0.1.2.zipTektite_RotEv_Controller-0.1.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/TektiteBiz/Tektite_RotEv_Controller-0.1.3.zip",
+        "archiveFileName": "Tektite_RotEv_Controller-0.1.3.zip",
+        "fullText": "Tektite RotEv Controller0.1.3TektiteTektite <tektitebiz@gmail.com>Arduino Library for Tektite RotEv Controller.Implements encoder, motor driver, button, LED, and more!https://github.com/tektitebiz/TektiteRotEvDevice Controlrp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/TektiteBiz/Tektite_RotEv_Controller-0.1.3.zipTektite_RotEv_Controller-0.1.3.zip"
     },
     {
         "name": "ZenRTC",
@@ -134222,5 +134222,37 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeVision-1.0.0.zip",
         "archiveFileName": "EdgeVision-1.0.0.zip",
         "fullText": "EdgeVision1.0.0Consentium IoTConsentium IoT <official@consentiumiot.com>Edge AI library for vision on ESP32-based edge devices.EdgeVision provides a modular framework for real-time image capture on ESP32 boards.https://docs.consentiumiot.com/Uncategorizedesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ConsentiumIoT/EdgeVision-1.0.0.zipEdgeVision-1.0.0.zip"
+    },
+    {
+        "name": "esp-mqtt-arduino",
+        "version": "1.0.1",
+        "author": "Jun Zhu",
+        "maintainer": "Jun Zhu",
+        "sentence": "Arduino wrapper around Espressif esp-mqtt component, with MQTT v5 support.",
+        "paragraph": "Provides MQTT 3.1.1 and 5.0 features for ESP32 boards in Arduino IDE, including QoS, retained messages, user properties, no-local subscriptions, and LWT.",
+        "website": "https://github.com/junzzhu/esp-mqtt-arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/junzzhu/esp_mqtt_arduino-1.0.1.zip",
+        "archiveFileName": "esp_mqtt_arduino-1.0.1.zip",
+        "fullText": "esp-mqtt-arduino1.0.1Jun ZhuJun ZhuArduino wrapper around Espressif esp-mqtt component, with MQTT v5 support.Provides MQTT 3.1.1 and 5.0 features for ESP32 boards in Arduino IDE, including QoS, retained messages, user properties, no-local subscriptions, and LWT.https://github.com/junzzhu/esp-mqtt-arduinoCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/junzzhu/esp_mqtt_arduino-1.0.1.zipesp_mqtt_arduino-1.0.1.zip"
+    },
+    {
+        "name": "EspButtons",
+        "version": "1.0.0",
+        "author": "Pedro Garcia <pg@puzzle-star.com>",
+        "maintainer": "Pedro Garcia <pg@puzzle-star.com>",
+        "sentence": "Simple button click event manager for ESP32",
+        "paragraph": "Easily add (single-double-multiple) click and long press events to any input pin in ESP32",
+        "website": "https://github.com/puzzle-star/EspButtons",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/puzzle-star/EspButtons-1.0.0.zip",
+        "archiveFileName": "EspButtons-1.0.0.zip",
+        "fullText": "EspButtons1.0.0Pedro Garcia <pg@puzzle-star.com>Pedro Garcia <pg@puzzle-star.com>Simple button click event manager for ESP32Easily add (single-double-multiple) click and long press events to any input pin in ESP32https://github.com/puzzle-star/EspButtonsSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/puzzle-star/EspButtons-1.0.0.zipEspButtons-1.0.0.zip"
     }
 ]
