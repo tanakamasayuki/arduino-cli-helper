@@ -14385,7 +14385,7 @@
     },
     {
         "name": "Brasilino",
-        "version": "1.0.2",
+        "version": "1.1.0",
         "author": "Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>",
         "maintainer": "Brasilino Team <brasilino@otaciliomaia.com>",
         "sentence": "Biblioteca de tradução e facilitação de funções para Arduino em PT-BR",
@@ -14395,9 +14395,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.0.2.zip",
-        "archiveFileName": "Brasilino-1.0.2.zip",
-        "fullText": "Brasilino1.0.2Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.0.2.zipBrasilino-1.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.0.zip",
+        "archiveFileName": "Brasilino-1.1.0.zip",
+        "fullText": "Brasilino1.1.0Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.0.zipBrasilino-1.1.0.zip"
     },
     {
         "name": "SDS011 sensor Library",
@@ -32577,7 +32577,7 @@
     },
     {
         "name": "Adafruit BusIO",
-        "version": "1.17.3",
+        "version": "1.17.4",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "sentence": "This is a library for abstracting away UART, I2C and SPI interfacing",
@@ -32587,9 +32587,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_BusIO-1.17.3.zip",
-        "archiveFileName": "Adafruit_BusIO-1.17.3.zip",
-        "fullText": "Adafruit BusIO1.17.3AdafruitAdafruit <info@adafruit.com>This is a library for abstracting away UART, I2C and SPI interfacingThis is a library for abstracting away UART, I2C and SPI interfacinghttps://github.com/adafruit/Adafruit_BusIOSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_BusIO-1.17.3.zipAdafruit_BusIO-1.17.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_BusIO-1.17.4.zip",
+        "archiveFileName": "Adafruit_BusIO-1.17.4.zip",
+        "fullText": "Adafruit BusIO1.17.4AdafruitAdafruit <info@adafruit.com>This is a library for abstracting away UART, I2C and SPI interfacingThis is a library for abstracting away UART, I2C and SPI interfacinghttps://github.com/adafruit/Adafruit_BusIOSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_BusIO-1.17.4.zipAdafruit_BusIO-1.17.4.zip"
     },
     {
         "name": "I2C_DMAC",
@@ -70257,7 +70257,7 @@
     },
     {
         "name": "TheengsDecoder",
-        "version": "1.9.9",
+        "version": "2.0.0",
         "author": "Florian Robert, Ryan Powell",
         "maintainer": "Florian Robert",
         "sentence": "A simple, efficient, portable and lightweight library for Internet of Things messages decoding.",
@@ -70267,9 +70267,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/theengs/TheengsDecoder-1.9.9.zip",
-        "archiveFileName": "TheengsDecoder-1.9.9.zip",
-        "fullText": "TheengsDecoder1.9.9Florian Robert, Ryan PowellFlorian RobertA simple, efficient, portable and lightweight library for Internet of Things messages decoding.Theengs Decoder library translates sensors data chains into human readable data leveraging the well known data interchange format JSON. This format can easily be integrated into different systems or software.https://github.com/theengs/decoderData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/theengs/TheengsDecoder-1.9.9.zipTheengsDecoder-1.9.9.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/theengs/TheengsDecoder-2.0.0.zip",
+        "archiveFileName": "TheengsDecoder-2.0.0.zip",
+        "fullText": "TheengsDecoder2.0.0Florian Robert, Ryan PowellFlorian RobertA simple, efficient, portable and lightweight library for Internet of Things messages decoding.Theengs Decoder library translates sensors data chains into human readable data leveraging the well known data interchange format JSON. This format can easily be integrated into different systems or software.https://github.com/theengs/decoderData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/theengs/TheengsDecoder-2.0.0.zipTheengsDecoder-2.0.0.zip"
     },
     {
         "name": "Nano_Every_WS2812B",
@@ -97105,7 +97105,7 @@
     },
     {
         "name": "ENGR100-980",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "author": "Benjamen Miller <benjamen@umich.edu>",
         "maintainer": "Benjamen Miller <benjamen@umich.edu>",
         "sentence": "UMich ENGR 100-980 Library",
@@ -97115,9 +97115,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.1.0.zip",
-        "archiveFileName": "ENGR100_980-1.1.0.zip",
-        "fullText": "ENGR100-9801.1.0Benjamen Miller <benjamen@umich.edu>Benjamen Miller <benjamen@umich.edu>UMich ENGR 100-980 LibraryA library of start code and examples for the ENGR 100-980 course at the University of Michigan.https://github.com/engin100/980Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.1.0.zipENGR100_980-1.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.0.zip",
+        "archiveFileName": "ENGR100_980-1.2.0.zip",
+        "fullText": "ENGR100-9801.2.0Benjamen Miller <benjamen@umich.edu>Benjamen Miller <benjamen@umich.edu>UMich ENGR 100-980 LibraryA library of start code and examples for the ENGR 100-980 course at the University of Michigan.https://github.com/engin100/980Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.0.zipENGR100_980-1.2.0.zip"
     },
     {
         "name": "Bonezegei_SSD1306",
@@ -98177,7 +98177,7 @@
     },
     {
         "name": "SensorLib",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "author": "Lewis He",
         "maintainer": "Lewis He <lewishe@outlook.com>",
         "sentence": "Commonly used I2C , SPI device multi-platform libraries",
@@ -98187,9 +98187,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/lewisxhe/SensorLib-0.3.1.zip",
-        "archiveFileName": "SensorLib-0.3.1.zip",
-        "fullText": "SensorLib0.3.1Lewis HeLewis He <lewishe@outlook.com>Commonly used I2C , SPI device multi-platform librariesSupport QMC6310,QMI8658,PCF8563,PCF85063,XL9555,BMA423,BHI260AP,DRV2605,CM32181,LTR553,FT5206,FT3267,FT6236,FT6336,CST816S/T/D,CST820,CST226,CHSC5816,GT911,CST9217,CST9220,AW9364https://github.com/lewisxhe/SensorsLibCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lewisxhe/SensorLib-0.3.1.zipSensorLib-0.3.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/lewisxhe/SensorLib-0.3.2.zip",
+        "archiveFileName": "SensorLib-0.3.2.zip",
+        "fullText": "SensorLib0.3.2Lewis HeLewis He <lewishe@outlook.com>Commonly used I2C , SPI device multi-platform librariesSupport QMC6310,QMI8658,PCF8563,PCF85063,XL9555,BMA423,BHI260AP,DRV2605,CM32181,LTR553,FT5206,FT3267,FT6236,FT6336,CST816S/T/D,CST820,CST226,CHSC5816,GT911,CST9217,CST9220,AW9364https://github.com/lewisxhe/SensorsLibCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lewisxhe/SensorLib-0.3.2.zipSensorLib-0.3.2.zip"
     },
     {
         "name": "readguy",
@@ -98913,7 +98913,7 @@
     },
     {
         "name": "ESP32_Display_Panel",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "author": "espressif",
         "maintainer": "espressif",
         "sentence": "ESP32_Display_Panel is a display driver and GUI porting library designed by Espressif specifically for ESP series SoCs (ESP32, ESP32-S3, ESP32-P4, etc.)",
@@ -98923,9 +98923,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/esp-arduino-libs/ESP32_Display_Panel-1.0.3.zip",
-        "archiveFileName": "ESP32_Display_Panel-1.0.3.zip",
-        "fullText": "ESP32_Display_Panel1.0.3espressifespressifESP32_Display_Panel is a display driver and GUI porting library designed by Espressif specifically for ESP series SoCs (ESP32, ESP32-S3, ESP32-P4, etc.)Currently supported board manufacturers: Espressif,M5Stack,Waveshare,Elecrow,Jingcai,Viewe. Currently supported drivers: Host,Bus,LCD,Touch,Backlight,IO expander. Currently supported Bus: I2C,SPI,QSPI,RGB,MIPI-DSI.https://github.com/esp-arduino-libs/ESP32_Display_PanelDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/esp-arduino-libs/ESP32_Display_Panel-1.0.3.zipESP32_Display_Panel-1.0.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/esp-arduino-libs/ESP32_Display_Panel-1.0.4.zip",
+        "archiveFileName": "ESP32_Display_Panel-1.0.4.zip",
+        "fullText": "ESP32_Display_Panel1.0.4espressifespressifESP32_Display_Panel is a display driver and GUI porting library designed by Espressif specifically for ESP series SoCs (ESP32, ESP32-S3, ESP32-P4, etc.)Currently supported board manufacturers: Espressif,M5Stack,Waveshare,Elecrow,Jingcai,Viewe. Currently supported drivers: Host,Bus,LCD,Touch,Backlight,IO expander. Currently supported Bus: I2C,SPI,QSPI,RGB,MIPI-DSI.https://github.com/esp-arduino-libs/ESP32_Display_PanelDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/esp-arduino-libs/ESP32_Display_Panel-1.0.4.zipESP32_Display_Panel-1.0.4.zip"
     },
     {
         "name": "ESP32_IO_Expander",
@@ -106897,7 +106897,7 @@
     },
     {
         "name": "EQSP32",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Erqos Technologies info@erqos.com",
         "maintainer": "Erqos Technologies",
         "sentence": "A library for controlling your EQSP32 - ESP32 Industrial IoT Controller.",
@@ -106907,9 +106907,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.1.zip",
-        "archiveFileName": "EQSP32-1.0.1.zip",
-        "fullText": "EQSP321.0.1Erqos Technologies info@erqos.comErqos TechnologiesA library for controlling your EQSP32 - ESP32 Industrial IoT Controller.This library provides an API to use all EQSP32 features. It automatically handles all analog/digital IO updates, special pin modes, expansion module automatic detection and handling, MQTT for Home Assistant, Node-RED, etc. and EQConnect mobile configuration utility for provisioning.https://erqos.com/Device Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.1.zipEQSP32-1.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.2.zip",
+        "archiveFileName": "EQSP32-1.0.2.zip",
+        "fullText": "EQSP321.0.2Erqos Technologies info@erqos.comErqos TechnologiesA library for controlling your EQSP32 - ESP32 Industrial IoT Controller.This library provides an API to use all EQSP32 features. It automatically handles all analog/digital IO updates, special pin modes, expansion module automatic detection and handling, MQTT for Home Assistant, Node-RED, etc. and EQConnect mobile configuration utility for provisioning.https://erqos.com/Device Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.2.zipEQSP32-1.0.2.zip"
     },
     {
         "name": "MT6701-arduino",
@@ -113249,7 +113249,7 @@
     },
     {
         "name": "MycilaPulseAnalyzer",
-        "version": "3.0.1",
+        "version": "3.0.2",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuit",
@@ -113259,9 +113259,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.1.zip",
-        "archiveFileName": "MycilaPulseAnalyzer-3.0.1.zip",
-        "fullText": "MycilaPulseAnalyzer3.0.1Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuithttps://github.com/mathieucarbou/MycilaPulseAnalyzerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.1.zipMycilaPulseAnalyzer-3.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.2.zip",
+        "archiveFileName": "MycilaPulseAnalyzer-3.0.2.zip",
+        "fullText": "MycilaPulseAnalyzer3.0.2Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuithttps://github.com/mathieucarbou/MycilaPulseAnalyzerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.2.zipMycilaPulseAnalyzer-3.0.2.zip"
     },
     {
         "name": "num7",
@@ -119121,7 +119121,7 @@
     },
     {
         "name": "PDLS_EXT4_Basic_Matter",
-        "version": "8.2.1",
+        "version": "8.2.2",
         "author": "Rei Vilo for Pervasive Displays",
         "maintainer": "Rei Vilo",
         "sentence": "LEGACY - Library for Pervasive Displays EPDK-Matter EXT4 board and iTC 2.90-HD screen",
@@ -119131,9 +119131,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/rei-vilo/PDLS_EXT4_Basic_Matter-8.2.1.zip",
-        "archiveFileName": "PDLS_EXT4_Basic_Matter-8.2.1.zip",
-        "fullText": "PDLS_EXT4_Basic_Matter8.2.1Rei Vilo for Pervasive DisplaysRei ViloLEGACY - Library for Pervasive Displays EPDK-Matter EXT4 board and iTC 2.90-HD screenGraphics and text primitives, fast update, EXT4https://pdls.pervasivedisplays.com/userguide/Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/rei-vilo/PDLS_EXT4_Basic_Matter-8.2.1.zipPDLS_EXT4_Basic_Matter-8.2.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/rei-vilo/PDLS_EXT4_Basic_Matter-8.2.2.zip",
+        "archiveFileName": "PDLS_EXT4_Basic_Matter-8.2.2.zip",
+        "fullText": "PDLS_EXT4_Basic_Matter8.2.2Rei Vilo for Pervasive DisplaysRei ViloLEGACY - Library for Pervasive Displays EPDK-Matter EXT4 board and iTC 2.90-HD screenGraphics and text primitives, fast update, EXT4https://pdls.pervasivedisplays.com/userguide/Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/rei-vilo/PDLS_EXT4_Basic_Matter-8.2.2.zipPDLS_EXT4_Basic_Matter-8.2.2.zip"
     },
     {
         "name": "CodeSizeProfiler",
@@ -128529,7 +128529,7 @@
     },
     {
         "name": "htcw_chess",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "sentence": "A simple chess library written in C",
@@ -128539,9 +128539,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.0.zip",
-        "archiveFileName": "htcw_chess-0.3.0.zip",
-        "fullText": "htcw_chess0.3.0honey the codewitchhoney the codewitchA simple chess library written in CImplements a chess library that can be used to implement a chess game. It handles all the rules, and allows for previews of available moves.https://github.com/codewitch-honey-crisis/htcw_chessOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.0.ziphtcw_chess-0.3.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.1.zip",
+        "archiveFileName": "htcw_chess-0.3.1.zip",
+        "fullText": "htcw_chess0.3.1honey the codewitchhoney the codewitchA simple chess library written in CImplements a chess library that can be used to implement a chess game. It handles all the rules, and allows for previews of available moves.https://github.com/codewitch-honey-crisis/htcw_chessOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.1.ziphtcw_chess-0.3.1.zip"
     },
     {
         "name": "SchneiderModbusTCP",
@@ -128849,7 +128849,7 @@
     },
     {
         "name": "MCM_ATM90E32",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "author": "mcmchris",
         "maintainer": "mcmchris <mcmchris@hotmail.com>",
         "sentence": "Arduino Library for the ATM90E32AS Energy Meter IC",
@@ -128859,9 +128859,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mcmchris/MCM_ATM90E32-0.0.1.zip",
-        "archiveFileName": "MCM_ATM90E32-0.0.1.zip",
-        "fullText": "MCM_ATM90E320.0.1mcmchrismcmchris <mcmchris@hotmail.com>Arduino Library for the ATM90E32AS Energy Meter ICThe MCM_ATM90E32 Library simplifies the integration of the ATM90E32AS Energy Meter IC. It provides an easy-to-use interface and API to monitor 3-Phase or Split-Phase electrical systems with Arduino boards.https://github.com/mcmchris/mcm-atm90e32-lib.gitSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/mcmchris/MCM_ATM90E32-0.0.1.zipMCM_ATM90E32-0.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/mcmchris/MCM_ATM90E32-0.0.2.zip",
+        "archiveFileName": "MCM_ATM90E32-0.0.2.zip",
+        "fullText": "MCM_ATM90E320.0.2mcmchrismcmchris <mcmchris@hotmail.com>Arduino Library for the ATM90E32AS Energy Meter ICThe MCM_ATM90E32 Library simplifies the integration of the ATM90E32AS Energy Meter IC. It provides an easy-to-use interface and API to monitor 3-Phase or Split-Phase electrical systems with Arduino boards.https://github.com/mcmchris/mcm-atm90e32-lib.gitSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/mcmchris/MCM_ATM90E32-0.0.2.zipMCM_ATM90E32-0.0.2.zip"
     },
     {
         "name": "BleValueSync",
@@ -134254,5 +134254,85 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/puzzle-star/EspButtons-1.0.0.zip",
         "archiveFileName": "EspButtons-1.0.0.zip",
         "fullText": "EspButtons1.0.0Pedro Garcia <pg@puzzle-star.com>Pedro Garcia <pg@puzzle-star.com>Simple button click event manager for ESP32Easily add (single-double-multiple) click and long press events to any input pin in ESP32https://github.com/puzzle-star/EspButtonsSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/puzzle-star/EspButtons-1.0.0.zipEspButtons-1.0.0.zip"
+    },
+    {
+        "name": "OLEDKeyboard",
+        "version": "1.0.1",
+        "author": "Sk Raihan",
+        "maintainer": "SKR Electronics Lab <skrelectronicslab@gmail.com>",
+        "sentence": "On-screen keyboard library for OLED displays.",
+        "paragraph": "A feature-rich on-screen keyboard library for OLED displays with support for uppercase, lowercase, symbols, and asynchronous input handling. Perfect for ESP32, ESP8266, and Arduino projects.",
+        "website": "https://github.com/skr-electronics-lab/OLEDKeyboard",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/skr-electronics-lab/OLEDKeyboard-1.0.1.zip",
+        "archiveFileName": "OLEDKeyboard-1.0.1.zip",
+        "fullText": "OLEDKeyboard1.0.1Sk RaihanSKR Electronics Lab <skrelectronicslab@gmail.com>On-screen keyboard library for OLED displays.A feature-rich on-screen keyboard library for OLED displays with support for uppercase, lowercase, symbols, and asynchronous input handling. Perfect for ESP32, ESP8266, and Arduino projects.https://github.com/skr-electronics-lab/OLEDKeyboardDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/skr-electronics-lab/OLEDKeyboard-1.0.1.zipOLEDKeyboard-1.0.1.zip"
+    },
+    {
+        "name": "IP5108",
+        "version": "1.0.0",
+        "author": "Milad Nikpendar",
+        "maintainer": "Milad Nikpendar <milad82nikpendar@gmail.com>",
+        "sentence": "Arduino library for the IP5108 PMIC: control charging, boost, flashlight, and battery monitoring via I2C.",
+        "paragraph": "Provides a high-level API for the IP5108 power management IC, supporting ESP32 boards. Features include charger control, boost enable, flashlight mode, battery voltage/current reading, and status flags. Designed for portable devices and power bank applications.",
+        "website": "https://github.com/milad-nikpendar/IP5108",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/milad-nikpendar/IP5108-1.0.0.zip",
+        "archiveFileName": "IP5108-1.0.0.zip",
+        "fullText": "IP51081.0.0Milad NikpendarMilad Nikpendar <milad82nikpendar@gmail.com>Arduino library for the IP5108 PMIC: control charging, boost, flashlight, and battery monitoring via I2C.Provides a high-level API for the IP5108 power management IC, supporting ESP32 boards. Features include charger control, boost enable, flashlight mode, battery voltage/current reading, and status flags. Designed for portable devices and power bank applications.https://github.com/milad-nikpendar/IP5108Device Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/milad-nikpendar/IP5108-1.0.0.zipIP5108-1.0.0.zip"
+    },
+    {
+        "name": "TraccarClient",
+        "version": "1.0.0",
+        "author": "Valerio Fantozzi",
+        "maintainer": "Valerio Fantozzi <iamvaleriofantozzi@gmail.com>",
+        "sentence": "Library to send GPS data from Arduino/ESP32 to Traccar server",
+        "paragraph": "This library allows Arduino and ESP32 devices to send GPS tracking data to a Traccar server via HTTP protocol. Supports multiple data formats and connection types.",
+        "website": "https://github.com/valeriofantozzi/TraccarClient",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/valeriofantozzi/TraccarClient-1.0.0.zip",
+        "archiveFileName": "TraccarClient-1.0.0.zip",
+        "fullText": "TraccarClient1.0.0Valerio FantozziValerio Fantozzi <iamvaleriofantozzi@gmail.com>Library to send GPS data from Arduino/ESP32 to Traccar serverThis library allows Arduino and ESP32 devices to send GPS tracking data to a Traccar server via HTTP protocol. Supports multiple data formats and connection types.https://github.com/valeriofantozzi/TraccarClientCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/valeriofantozzi/TraccarClient-1.0.0.zipTraccarClient-1.0.0.zip"
+    },
+    {
+        "name": "DCT532",
+        "version": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "sentence": "Arduino library for the DCT532, an I2C industrial pressure and temperature sensor.",
+        "paragraph": "100 mBar up to 60 Bar versions.",
+        "website": "https://github.com/RobTillaart/DCT532",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/DCT532-0.1.0.zip",
+        "archiveFileName": "DCT532-0.1.0.zip",
+        "fullText": "DCT5320.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the DCT532, an I2C industrial pressure and temperature sensor.100 mBar up to 60 Bar versions.https://github.com/RobTillaart/DCT532Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/DCT532-0.1.0.zipDCT532-0.1.0.zip"
+    },
+    {
+        "name": "PqLEDStrip",
+        "version": "1.0.3",
+        "author": "Thomas O Fredericks & Sofian Audry",
+        "maintainer": "Thomas O Fredericks",
+        "sentence": "LED strip library for Plaquette",
+        "paragraph": "Library to control LED strips with Plaquette. It uses the FastLED library for LED control. It was initially developed with FastLED 3.10.1",
+        "website": "https://github.com/SofaPirate/PqLEDStrip",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.3.zip",
+        "archiveFileName": "PqLEDStrip-1.0.3.zip",
+        "fullText": "PqLEDStrip1.0.3Thomas O Fredericks & Sofian AudryThomas O FredericksLED strip library for PlaquetteLibrary to control LED strips with Plaquette. It uses the FastLED library for LED control. It was initially developed with FastLED 3.10.1https://github.com/SofaPirate/PqLEDStripDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.3.zipPqLEDStrip-1.0.3.zip"
     }
 ]
