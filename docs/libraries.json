@@ -52385,7 +52385,7 @@
     },
     {
         "name": "Blues Wireless Notecard",
-        "version": "1.7.1",
+        "version": "1.8.1",
         "author": "Blues",
         "maintainer": "Blues <info@blues.com>",
         "sentence": "An easy to use Notecard Library for Arduino.",
@@ -52395,9 +52395,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/blues/Blues_Wireless_Notecard-1.7.1.zip",
-        "archiveFileName": "Blues_Wireless_Notecard-1.7.1.zip",
-        "fullText": "Blues Wireless Notecard1.7.1BluesBlues <info@blues.com>An easy to use Notecard Library for Arduino.Supports Serial and I2C for communication from a host MCU.https://github.com/blues/note-arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/blues/Blues_Wireless_Notecard-1.7.1.zipBlues_Wireless_Notecard-1.7.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/blues/Blues_Wireless_Notecard-1.8.1.zip",
+        "archiveFileName": "Blues_Wireless_Notecard-1.8.1.zip",
+        "fullText": "Blues Wireless Notecard1.8.1BluesBlues <info@blues.com>An easy to use Notecard Library for Arduino.Supports Serial and I2C for communication from a host MCU.https://github.com/blues/note-arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/blues/Blues_Wireless_Notecard-1.8.1.zipBlues_Wireless_Notecard-1.8.1.zip"
     },
     {
         "name": "uKit Explore",
@@ -56305,7 +56305,7 @@
     },
     {
         "name": "SerialWombat",
-        "version": "2.2.11",
+        "version": "2.2.12",
         "author": "Broadwell Consulting Inc <help@serialwombat.com>",
         "maintainer": "Broadwell Consulting Inc <help@serialwombat.com>",
         "sentence": "A library to drive the Serial Wombat Family by UART or I2C.",
@@ -56315,9 +56315,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/BroadwellConsultingInc/SerialWombat-2.2.11.zip",
-        "archiveFileName": "SerialWombat-2.2.11.zip",
-        "fullText": "SerialWombat2.2.11Broadwell Consulting Inc <help@serialwombat.com>Broadwell Consulting Inc <help@serialwombat.com>A library to drive the Serial Wombat Family by UART or I2C.The Serial Wombat is a Smart I/O Expansion chip for Arduino, Raspberry Pi, CircuitPython, native embedded systems, PC, or any other system that can communicate by UART or I2C.  Learn more at www.SerialWombat.com .  The Serial Wombat is open-source firmware on a microcontroller.  The firmware is available at: https://github.com/BroadwellConsultingInc/SerialWombat.  This library syncs with Serial Wombat 4B firmware 2.0.3 and Serial Wombat 18AB firmware 2.2.1, and Serial Wombat 8B firmware 2.2.1https://broadwellconsultinginc.github.io/SerialWombatArdLib/Signal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/BroadwellConsultingInc/SerialWombat-2.2.11.zipSerialWombat-2.2.11.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/BroadwellConsultingInc/SerialWombat-2.2.12.zip",
+        "archiveFileName": "SerialWombat-2.2.12.zip",
+        "fullText": "SerialWombat2.2.12Broadwell Consulting Inc <help@serialwombat.com>Broadwell Consulting Inc <help@serialwombat.com>A library to drive the Serial Wombat Family by UART or I2C.The Serial Wombat is a Smart I/O Expansion chip for Arduino, Raspberry Pi, CircuitPython, native embedded systems, PC, or any other system that can communicate by UART or I2C.  Learn more at www.SerialWombat.com .  The Serial Wombat is open-source firmware on a microcontroller.  The firmware is available at: https://github.com/BroadwellConsultingInc/SerialWombat.  This library syncs with Serial Wombat 4B firmware 2.0.3 and Serial Wombat 18AB firmware 2.2.1, and Serial Wombat 8B firmware 2.2.1https://broadwellconsultinginc.github.io/SerialWombatArdLib/Signal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/BroadwellConsultingInc/SerialWombat-2.2.12.zipSerialWombat-2.2.12.zip"
     },
     {
         "name": "OTAWrapper",
@@ -60625,7 +60625,7 @@
     },
     {
         "name": "M5GFX",
-        "version": "0.2.13",
+        "version": "0.2.14",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "sentence": "Library for M5Stack All Display",
@@ -60635,9 +60635,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.13.zip",
-        "archiveFileName": "M5GFX-0.2.13.zip",
-        "fullText": "M5GFX0.2.13M5StackM5StackLibrary for M5Stack All DisplayM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5Station, M5ATOMS3, Unit OLED, Unit LCD, Unit RCA, ATOM Display, See more on http://M5Stack.comhttps://github.com/m5stack/M5GFX.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.13.zipM5GFX-0.2.13.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.14.zip",
+        "archiveFileName": "M5GFX-0.2.14.zip",
+        "fullText": "M5GFX0.2.14M5StackM5StackLibrary for M5Stack All DisplayM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5Station, M5ATOMS3, Unit OLED, Unit LCD, Unit RCA, ATOM Display, See more on http://M5Stack.comhttps://github.com/m5stack/M5GFX.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.14.zipM5GFX-0.2.14.zip"
     },
     {
         "name": "Tachometer",
@@ -97105,7 +97105,7 @@
     },
     {
         "name": "ENGR100-980",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "author": "Benjamen Miller <benjamen@umich.edu>",
         "maintainer": "Benjamen Miller <benjamen@umich.edu>",
         "sentence": "UMich ENGR 100-980 Library",
@@ -97115,9 +97115,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.0.zip",
-        "archiveFileName": "ENGR100_980-1.2.0.zip",
-        "fullText": "ENGR100-9801.2.0Benjamen Miller <benjamen@umich.edu>Benjamen Miller <benjamen@umich.edu>UMich ENGR 100-980 LibraryA library of start code and examples for the ENGR 100-980 course at the University of Michigan.https://github.com/engin100/980Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.0.zipENGR100_980-1.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.1.zip",
+        "archiveFileName": "ENGR100_980-1.2.1.zip",
+        "fullText": "ENGR100-9801.2.1Benjamen Miller <benjamen@umich.edu>Benjamen Miller <benjamen@umich.edu>UMich ENGR 100-980 LibraryA library of start code and examples for the ENGR 100-980 course at the University of Michigan.https://github.com/engin100/980Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.1.zipENGR100_980-1.2.1.zip"
     },
     {
         "name": "Bonezegei_SSD1306",
@@ -101537,7 +101537,7 @@
     },
     {
         "name": "roo_scheduler",
-        "version": "2.0.2",
+        "version": "2.1.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Allows scheduling delayed and/or repetitive tasks.",
@@ -101547,9 +101547,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.0.2.zip",
-        "archiveFileName": "roo_scheduler-2.0.2.zip",
-        "fullText": "roo_scheduler2.0.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.0.2.ziproo_scheduler-2.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.0.zip",
+        "archiveFileName": "roo_scheduler-2.1.0.zip",
+        "fullText": "roo_scheduler2.1.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.0.ziproo_scheduler-2.1.0.zip"
     },
     {
         "name": "HydroinoJobMgr",
@@ -102705,7 +102705,7 @@
     },
     {
         "name": "NuS-NimBLE-Serial",
-        "version": "4.1.0",
+        "version": "4.1.1",
         "author": "afpineda",
         "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
         "sentence": "Nordic UART Service (NuS) and BLE serial communications",
@@ -102715,9 +102715,9 @@
         "architectures": "esp32, arm-ble",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/afpineda/NuS_NimBLE_Serial-4.1.0.zip",
-        "archiveFileName": "NuS_NimBLE_Serial-4.1.0.zip",
-        "fullText": "NuS-NimBLE-Serial4.1.0afpinedaafpineda <74291754+afpineda@users.noreply.github.com>Nordic UART Service (NuS) and BLE serial communicationsSerial read and write, both with blocking and non-blocking semantics, through BLE (not to be confused with Bluetooth classic). Customizable AT/shell command processors available. Support for custom protocols. Can coexist with other services.https://github.com/afpineda/Nus-NimBLE-SerialCommunicationesp32, arm-bleContributedhttps://downloads.arduino.cc/libraries/github.com/afpineda/NuS_NimBLE_Serial-4.1.0.zipNuS_NimBLE_Serial-4.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/afpineda/NuS_NimBLE_Serial-4.1.1.zip",
+        "archiveFileName": "NuS_NimBLE_Serial-4.1.1.zip",
+        "fullText": "NuS-NimBLE-Serial4.1.1afpinedaafpineda <74291754+afpineda@users.noreply.github.com>Nordic UART Service (NuS) and BLE serial communicationsSerial read and write, both with blocking and non-blocking semantics, through BLE (not to be confused with Bluetooth classic). Customizable AT/shell command processors available. Support for custom protocols. Can coexist with other services.https://github.com/afpineda/Nus-NimBLE-SerialCommunicationesp32, arm-bleContributedhttps://downloads.arduino.cc/libraries/github.com/afpineda/NuS_NimBLE_Serial-4.1.1.zipNuS_NimBLE_Serial-4.1.1.zip"
     },
     {
         "name": "EEPROM_WL",
@@ -118689,7 +118689,7 @@
     },
     {
         "name": "Muse_library",
-        "version": "1.0.14",
+        "version": "1.0.16",
         "author": "Raspiaudio",
         "maintainer": "Raspiaudio <support@raspiaudio.com>",
         "sentence": "A library for the ESP MUSE devices (LUXE, PROTO, MANGA, RADIO) by Raspiaudio",
@@ -118699,9 +118699,9 @@
         "architectures": "esp32, esp32S3",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RASPIAUDIO/Muse_library-1.0.14.zip",
-        "archiveFileName": "Muse_library-1.0.14.zip",
-        "fullText": "Muse_library1.0.14RaspiaudioRaspiaudio <support@raspiaudio.com>A library for the ESP MUSE devices (LUXE, PROTO, MANGA, RADIO) by RaspiaudioProvides easy-to-use functions for audio playback, WiFi streaming, Bluetooth A2DP, LED control, and more.https://github.com/RASPIAUDIO/Muse_libraryDevice Controlesp32, esp32S3Contributedhttps://downloads.arduino.cc/libraries/github.com/RASPIAUDIO/Muse_library-1.0.14.zipMuse_library-1.0.14.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RASPIAUDIO/Muse_library-1.0.16.zip",
+        "archiveFileName": "Muse_library-1.0.16.zip",
+        "fullText": "Muse_library1.0.16RaspiaudioRaspiaudio <support@raspiaudio.com>A library for the ESP MUSE devices (LUXE, PROTO, MANGA, RADIO) by RaspiaudioProvides easy-to-use functions for audio playback, WiFi streaming, Bluetooth A2DP, LED control, and more.https://github.com/RASPIAUDIO/Muse_libraryDevice Controlesp32, esp32S3Contributedhttps://downloads.arduino.cc/libraries/github.com/RASPIAUDIO/Muse_library-1.0.16.zipMuse_library-1.0.16.zip"
     },
     {
         "name": "EmotiBit KTD2026",
@@ -127569,7 +127569,7 @@
     },
     {
         "name": "Sensirion UPT Display",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "author": "Maximilian Paulsen, Quentin Fisch",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Easily display UPT measurements on compatible hardware.",
@@ -127579,9 +127579,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.0.zip",
-        "archiveFileName": "Sensirion_UPT_Display-0.2.0.zip",
-        "fullText": "Sensirion UPT Display0.2.0Maximilian Paulsen, Quentin FischSensirion AG <sensirion.com>Easily display UPT measurements on compatible hardware.The library provides functions to easily display sensor measurements and basic device information.https://github.com/Sensirion/arduino-upt-displayDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.0.zipSensirion_UPT_Display-0.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.1.zip",
+        "archiveFileName": "Sensirion_UPT_Display-0.2.1.zip",
+        "fullText": "Sensirion UPT Display0.2.1Maximilian Paulsen, Quentin FischSensirion AG <sensirion.com>Easily display UPT measurements on compatible hardware.The library provides functions to easily display sensor measurements and basic device information.https://github.com/Sensirion/arduino-upt-displayDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.1.zipSensirion_UPT_Display-0.2.1.zip"
     },
     {
         "name": "STM32duino LSM6DSV16BX",
@@ -128673,7 +128673,7 @@
     },
     {
         "name": "BQ27427 Battery Fuel Gauge Arduino Library",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "Edrean Ernst",
         "maintainer": "Edrean Ernst",
         "sentence": "An Arduino library for interfacing with the BQ27427 LiPo Fuel Gauge",
@@ -128683,9 +128683,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.2.zip",
-        "archiveFileName": "BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.2.zip",
-        "fullText": "BQ27427 Battery Fuel Gauge Arduino Library1.0.2Edrean ErnstEdrean ErnstAn Arduino library for interfacing with the BQ27427 LiPo Fuel GaugeAn Arduino library for interfacing with the BQ27427 LiPo Fuel Gaugehttps://github.com/edreanernst/BQ27427_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.2.zipBQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zip",
+        "archiveFileName": "BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zip",
+        "fullText": "BQ27427 Battery Fuel Gauge Arduino Library1.0.3Edrean ErnstEdrean ErnstAn Arduino library for interfacing with the BQ27427 LiPo Fuel GaugeAn Arduino library for interfacing with the BQ27427 LiPo Fuel Gaugehttps://github.com/edreanernst/BQ27427_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zipBQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zip"
     },
     {
         "name": "DMD32Plus",
@@ -129089,7 +129089,7 @@
     },
     {
         "name": "roo_threads",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Experimental portable threading library for microcontrollers.",
@@ -129099,9 +129099,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.0.zip",
-        "archiveFileName": "roo_threads-1.1.0.zip",
-        "fullText": "roo_threads1.1.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Experimental portable threading library for microcontrollers.Targeting Espressif family primarily, and intended to support local emulation using roo_testing.https://github.com/dejwk/roo_threadsDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.0.ziproo_threads-1.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.1.zip",
+        "archiveFileName": "roo_threads-1.1.1.zip",
+        "fullText": "roo_threads1.1.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Experimental portable threading library for microcontrollers.Targeting Espressif family primarily, and intended to support local emulation using roo_testing.https://github.com/dejwk/roo_threadsDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.1.ziproo_threads-1.1.1.zip"
     },
     {
         "name": "BMP390",
@@ -132401,19 +132401,19 @@
     },
     {
         "name": "DShotRMT",
-        "version": "0.8.0",
+        "version": "0.8.3",
         "author": "Wastl Kraus <wir-sind-die-matrix.de>",
         "maintainer": "Wastl Kraus <wir-sind-die-matrix.de>",
         "sentence": "DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.",
-        "paragraph": "This library can control a BlHeli_S by using encoded DShot commands. Features bidirectional DShot support for RPM telemetry.",
+        "paragraph": "This library can control a BlHeli_S by using encoded DShot commands.",
         "website": "https://github.com/derdoktor667/DShotRMT",
         "category": "Signal Input/Output",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.0.zip",
-        "archiveFileName": "DShotRMT-0.8.0.zip",
-        "fullText": "DShotRMT0.8.0Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands. Features bidirectional DShot support for RPM telemetry.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.0.zipDShotRMT-0.8.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.3.zip",
+        "archiveFileName": "DShotRMT-0.8.3.zip",
+        "fullText": "DShotRMT0.8.3Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.3.zipDShotRMT-0.8.3.zip"
     },
     {
         "name": "ANBSensorsModbus",
@@ -134334,5 +134334,37 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.3.zip",
         "archiveFileName": "PqLEDStrip-1.0.3.zip",
         "fullText": "PqLEDStrip1.0.3Thomas O Fredericks & Sofian AudryThomas O FredericksLED strip library for PlaquetteLibrary to control LED strips with Plaquette. It uses the FastLED library for LED control. It was initially developed with FastLED 3.10.1https://github.com/SofaPirate/PqLEDStripDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.3.zipPqLEDStrip-1.0.3.zip"
+    },
+    {
+        "name": "SHT4x",
+        "version": "0.0.1",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "sentence": "Arduino library for the SHT4x temperature and humidity sensor",
+        "paragraph": "Class for SHT4x Temperature Humidity Adafruit I2C",
+        "website": "https://github.com/RobTillaart/SHT4x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.1.zip",
+        "archiveFileName": "SHT4x-0.0.1.zip",
+        "fullText": "SHT4x0.0.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the SHT4x temperature and humidity sensorClass for SHT4x Temperature Humidity Adafruit I2Chttps://github.com/RobTillaart/SHT4xSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.1.zipSHT4x-0.0.1.zip"
+    },
+    {
+        "name": "Multi_Timer_V2",
+        "version": "1.0.1",
+        "author": "Doug Pirkey",
+        "maintainer": "Doug Pirkey",
+        "sentence": "A collection of several types of non-blocking timers.",
+        "paragraph": "The timers operate on milliseconds only and provide different output signals to be passed to other code.  The timers may reduce the need for custom timing functions.",
+        "website": "https://github.com/dougp2/Multi_Timer_V2",
+        "category": "Uncategorized",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/dougp2/Multi_Timer_V2-1.0.1.zip",
+        "archiveFileName": "Multi_Timer_V2-1.0.1.zip",
+        "fullText": "Multi_Timer_V21.0.1Doug PirkeyDoug PirkeyA collection of several types of non-blocking timers.The timers operate on milliseconds only and provide different output signals to be passed to other code.  The timers may reduce the need for custom timing functions.https://github.com/dougp2/Multi_Timer_V2UncategorizedavrContributedhttps://downloads.arduino.cc/libraries/github.com/dougp2/Multi_Timer_V2-1.0.1.zipMulti_Timer_V2-1.0.1.zip"
     }
 ]
