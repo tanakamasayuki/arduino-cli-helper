@@ -2721,7 +2721,7 @@
     },
     {
         "name": "Adafruit GFX Library",
-        "version": "1.12.2",
+        "version": "1.12.3",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "sentence": "Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from.",
@@ -2731,9 +2731,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_GFX_Library-1.12.2.zip",
-        "archiveFileName": "Adafruit_GFX_Library-1.12.2.zip",
-        "fullText": "Adafruit GFX Library1.12.2AdafruitAdafruit <info@adafruit.com>Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from.Install this library in addition to the display library for your hardware.https://github.com/adafruit/Adafruit-GFX-LibraryDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_GFX_Library-1.12.2.zipAdafruit_GFX_Library-1.12.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_GFX_Library-1.12.3.zip",
+        "archiveFileName": "Adafruit_GFX_Library-1.12.3.zip",
+        "fullText": "Adafruit GFX Library1.12.3AdafruitAdafruit <info@adafruit.com>Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from.Install this library in addition to the display library for your hardware.https://github.com/adafruit/Adafruit-GFX-LibraryDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_GFX_Library-1.12.3.zipAdafruit_GFX_Library-1.12.3.zip"
     },
     {
         "name": "Adafruit IO Arduino",
@@ -49745,7 +49745,7 @@
     },
     {
         "name": "SDI-12",
-        "version": "2.3.0",
+        "version": "2.3.1",
         "author": "Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "sentence": "An Arduino library for SDI-12 communication with a wide variety of environmental sensors.",
@@ -49755,9 +49755,9 @@
         "architectures": "avr, sam, samd, esp8266, esp32, mbed_giga",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.0.zip",
-        "archiveFileName": "SDI_12-2.3.0.zip",
-        "fullText": "SDI-122.3.0Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>An Arduino library for SDI-12 communication with a wide variety of environmental sensors.This library provides a general software solution, without requiring any additional hardware.https://github.com/EnviroDIY/Arduino-SDI-12Communicationavr, sam, samd, esp8266, esp32, mbed_gigaContributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.0.zipSDI_12-2.3.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.1.zip",
+        "archiveFileName": "SDI_12-2.3.1.zip",
+        "fullText": "SDI-122.3.1Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>An Arduino library for SDI-12 communication with a wide variety of environmental sensors.This library provides a general software solution, without requiring any additional hardware.https://github.com/EnviroDIY/Arduino-SDI-12Communicationavr, sam, samd, esp8266, esp32, mbed_gigaContributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.1.zipSDI_12-2.3.1.zip"
     },
     {
         "name": "ES920",
@@ -85809,7 +85809,7 @@
     },
     {
         "name": "FlowSensor",
-        "version": "1.5.0",
+        "version": "1.5.2",
         "author": "hafidhh",
         "maintainer": "hafidhh <hafidhhidayat@hotmail.com>",
         "sentence": "Flow Sensor library for Arduino.",
@@ -85819,9 +85819,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/hafidhh/FlowSensor-1.5.0.zip",
-        "archiveFileName": "FlowSensor-1.5.0.zip",
-        "fullText": "FlowSensor1.5.0hafidhhhafidhh <hafidhhidayat@hotmail.com>Flow Sensor library for Arduino.Water Flow Rate, Water Volumehttps://github.com/hafidhh/FlowSensor-ArduinoSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/hafidhh/FlowSensor-1.5.0.zipFlowSensor-1.5.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/hafidhh/FlowSensor-1.5.2.zip",
+        "archiveFileName": "FlowSensor-1.5.2.zip",
+        "fullText": "FlowSensor1.5.2hafidhhhafidhh <hafidhhidayat@hotmail.com>Flow Sensor library for Arduino.Water Flow Rate, Water Volumehttps://github.com/hafidhh/FlowSensor-ArduinoSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/hafidhh/FlowSensor-1.5.2.zipFlowSensor-1.5.2.zip"
     },
     {
         "name": "Rdebug",
@@ -97105,7 +97105,7 @@
     },
     {
         "name": "ENGR100-980",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "author": "Benjamen Miller <benjamen@umich.edu>",
         "maintainer": "Benjamen Miller <benjamen@umich.edu>",
         "sentence": "UMich ENGR 100-980 Library",
@@ -97115,9 +97115,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.1.zip",
-        "archiveFileName": "ENGR100_980-1.2.1.zip",
-        "fullText": "ENGR100-9801.2.1Benjamen Miller <benjamen@umich.edu>Benjamen Miller <benjamen@umich.edu>UMich ENGR 100-980 LibraryA library of start code and examples for the ENGR 100-980 course at the University of Michigan.https://github.com/engin100/980Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.1.zipENGR100_980-1.2.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.2.zip",
+        "archiveFileName": "ENGR100_980-1.2.2.zip",
+        "fullText": "ENGR100-9801.2.2Benjamen Miller <benjamen@umich.edu>Benjamen Miller <benjamen@umich.edu>UMich ENGR 100-980 LibraryA library of start code and examples for the ENGR 100-980 course at the University of Michigan.https://github.com/engin100/980Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/engin100/ENGR100_980-1.2.2.zipENGR100_980-1.2.2.zip"
     },
     {
         "name": "Bonezegei_SSD1306",
@@ -98513,9 +98513,9 @@
     },
     {
         "name": "MakeBlock Drive Updated",
-        "version": "3.28.2",
-        "author": "Nick B (Original : Mark Yan), School",
-        "maintainer": "Nick B, School",
+        "version": "3.29.0",
+        "author": "Nick B (Original : Mark Yan), Cégep de Shawinigan",
+        "maintainer": "Nick B, Cégep de Shawinigan",
         "sentence": "Use to drive all devices provided by Makeblock company.",
         "paragraph": "This library is an updated version of the MakeBlock Drive library. It is based on the original MakeBlock Drive library, but has been updated to fix some issues. Feel free to pull request if you find any bugs.",
         "website": "https://github.com/nbourre/Makeblock-Libraries",
@@ -98523,9 +98523,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.28.2.zip",
-        "archiveFileName": "MakeBlock_Drive_Updated-3.28.2.zip",
-        "fullText": "MakeBlock Drive Updated3.28.2Nick B (Original : Mark Yan), SchoolNick B, SchoolUse to drive all devices provided by Makeblock company.This library is an updated version of the MakeBlock Drive library. It is based on the original MakeBlock Drive library, but has been updated to fix some issues. Feel free to pull request if you find any bugs.https://github.com/nbourre/Makeblock-LibrariesDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.28.2.zipMakeBlock_Drive_Updated-3.28.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.29.0.zip",
+        "archiveFileName": "MakeBlock_Drive_Updated-3.29.0.zip",
+        "fullText": "MakeBlock Drive Updated3.29.0Nick B (Original : Mark Yan), Cégep de ShawiniganNick B, Cégep de ShawiniganUse to drive all devices provided by Makeblock company.This library is an updated version of the MakeBlock Drive library. It is based on the original MakeBlock Drive library, but has been updated to fix some issues. Feel free to pull request if you find any bugs.https://github.com/nbourre/Makeblock-LibrariesDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.29.0.zipMakeBlock_Drive_Updated-3.29.0.zip"
     },
     {
         "name": "Adafruit AD569x Library",
@@ -105633,7 +105633,7 @@
     },
     {
         "name": "madflight",
-        "version": "2.1.2",
+        "version": "2.1.3",
         "author": "qqqlab",
         "maintainer": "qqqlab <madflight@qqqlab.com>",
         "sentence": "Flight Controller for ESP32-S3 / ESP32 / RP2350 / RP2040 / STM32",
@@ -105643,9 +105643,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.2.zip",
-        "archiveFileName": "madflight-2.1.2.zip",
-        "fullText": "madflight2.1.2qqqlabqqqlab <madflight@qqqlab.com>Flight Controller for ESP32-S3 / ESP32 / RP2350 / RP2040 / STM32Flight tested with readily available development boards and sensor breakout boards. Build a quadcopter, helicoper, airplane or VTOL craft. Includes modules for PID control, CRSF/ELRS/DSMX/SBUS receiver and telemetry, AHRS, GPS, barometer, magnetometer, calibration, command line interface, black box data logging.https://madflight.com/arduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.2.zipmadflight-2.1.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.3.zip",
+        "archiveFileName": "madflight-2.1.3.zip",
+        "fullText": "madflight2.1.3qqqlabqqqlab <madflight@qqqlab.com>Flight Controller for ESP32-S3 / ESP32 / RP2350 / RP2040 / STM32Flight tested with readily available development boards and sensor breakout boards. Build a quadcopter, helicoper, airplane or VTOL craft. Includes modules for PID control, CRSF/ELRS/DSMX/SBUS receiver and telemetry, AHRS, GPS, barometer, magnetometer, calibration, command line interface, black box data logging.https://madflight.com/arduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.3.zipmadflight-2.1.3.zip"
     },
     {
         "name": "SuperTimers",
@@ -113249,7 +113249,7 @@
     },
     {
         "name": "MycilaPulseAnalyzer",
-        "version": "3.0.2",
+        "version": "3.0.6",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuit",
@@ -113259,9 +113259,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.2.zip",
-        "archiveFileName": "MycilaPulseAnalyzer-3.0.2.zip",
-        "fullText": "MycilaPulseAnalyzer3.0.2Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuithttps://github.com/mathieucarbou/MycilaPulseAnalyzerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.2.zipMycilaPulseAnalyzer-3.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.6.zip",
+        "archiveFileName": "MycilaPulseAnalyzer-3.0.6.zip",
+        "fullText": "MycilaPulseAnalyzer3.0.6Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuithttps://github.com/mathieucarbou/MycilaPulseAnalyzerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.6.zipMycilaPulseAnalyzer-3.0.6.zip"
     },
     {
         "name": "num7",
@@ -128529,7 +128529,7 @@
     },
     {
         "name": "htcw_chess",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "sentence": "A simple chess library written in C",
@@ -128539,9 +128539,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.1.zip",
-        "archiveFileName": "htcw_chess-0.3.1.zip",
-        "fullText": "htcw_chess0.3.1honey the codewitchhoney the codewitchA simple chess library written in CImplements a chess library that can be used to implement a chess game. It handles all the rules, and allows for previews of available moves.https://github.com/codewitch-honey-crisis/htcw_chessOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.1.ziphtcw_chess-0.3.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.2.zip",
+        "archiveFileName": "htcw_chess-0.3.2.zip",
+        "fullText": "htcw_chess0.3.2honey the codewitchhoney the codewitchA simple chess library written in CImplements a chess library that can be used to implement a chess game. It handles all the rules, and allows for previews of available moves.https://github.com/codewitch-honey-crisis/htcw_chessOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/codewitch-honey-crisis/htcw_chess-0.3.2.ziphtcw_chess-0.3.2.zip"
     },
     {
         "name": "SchneiderModbusTCP",
@@ -130737,7 +130737,7 @@
     },
     {
         "name": "ClearDS1302",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Rahmat Hidayat, rahmatcraft21544@gmail.com",
         "maintainer": "Rahmat Hidayat, rahmatcraft21544@gmail.com",
         "sentence": "Easy-to-use DS1302 library made for beginners.",
@@ -130747,9 +130747,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dayatkun01/ClearDS1302-1.0.1.zip",
-        "archiveFileName": "ClearDS1302-1.0.1.zip",
-        "fullText": "ClearDS13021.0.1Rahmat Hidayat, rahmatcraft21544@gmail.comRahmat Hidayat, rahmatcraft21544@gmail.comEasy-to-use DS1302 library made for beginners.This library focuses on ease of use. I made this to help people who are learning Arduino so they can use the DS1302 RTC module without hassle.https://github.com/dayatkun01/ClearDS1302Timing*Contributedhttps://downloads.arduino.cc/libraries/github.com/dayatkun01/ClearDS1302-1.0.1.zipClearDS1302-1.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dayatkun01/ClearDS1302-1.0.2.zip",
+        "archiveFileName": "ClearDS1302-1.0.2.zip",
+        "fullText": "ClearDS13021.0.2Rahmat Hidayat, rahmatcraft21544@gmail.comRahmat Hidayat, rahmatcraft21544@gmail.comEasy-to-use DS1302 library made for beginners.This library focuses on ease of use. I made this to help people who are learning Arduino so they can use the DS1302 RTC module without hassle.https://github.com/dayatkun01/ClearDS1302Timing*Contributedhttps://downloads.arduino.cc/libraries/github.com/dayatkun01/ClearDS1302-1.0.2.zipClearDS1302-1.0.2.zip"
     },
     {
         "name": "CL57RStepper",
@@ -130913,7 +130913,7 @@
     },
     {
         "name": "BLE-Gamepad-Client",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "author": "Tomasz Bekas",
         "maintainer": "Tomasz Bekas",
         "sentence": "Enables connecting BLE gamepads to ESP32 boards.",
@@ -130923,9 +130923,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.7.0.zip",
-        "archiveFileName": "BLE_Gamepad_Client-0.7.0.zip",
-        "fullText": "BLE-Gamepad-Client0.7.0Tomasz BekasTomasz BekasEnables connecting BLE gamepads to ESP32 boards.Supported gamepads include the Xbox Wireless Controller and the Steam Controller.https://github.com/tbekas/BLE-Gamepad-ClientCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.7.0.zipBLE_Gamepad_Client-0.7.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.8.0.zip",
+        "archiveFileName": "BLE_Gamepad_Client-0.8.0.zip",
+        "fullText": "BLE-Gamepad-Client0.8.0Tomasz BekasTomasz BekasEnables connecting BLE gamepads to ESP32 boards.Supported gamepads include the Xbox Wireless Controller and the Steam Controller.https://github.com/tbekas/BLE-Gamepad-ClientCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.8.0.zipBLE_Gamepad_Client-0.8.0.zip"
     },
     {
         "name": "WiFiCreds",
@@ -132305,7 +132305,7 @@
     },
     {
         "name": "Twin_AIoT",
-        "version": "1.0.6",
+        "version": "1.0.7",
         "author": "TwinScience",
         "maintainer": "abdullah@twinscience.com",
         "sentence": "A library containing example codes for Twin AIoT module.",
@@ -132315,9 +132315,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.6.zip",
-        "archiveFileName": "Twin_AIoT-1.0.6.zip",
-        "fullText": "Twin_AIoT1.0.6TwinScienceabdullah@twinscience.comA library containing example codes for Twin AIoT module.This library is used for ESP32-S3 based custom board designed by TwinSciencehttps://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_libraryDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.6.zipTwin_AIoT-1.0.6.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.7.zip",
+        "archiveFileName": "Twin_AIoT-1.0.7.zip",
+        "fullText": "Twin_AIoT1.0.7TwinScienceabdullah@twinscience.comA library containing example codes for Twin AIoT module.This library is used for ESP32-S3 based custom board designed by TwinSciencehttps://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_libraryDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.7.zipTwin_AIoT-1.0.7.zip"
     },
     {
         "name": "Tektite RotEv Controller",
@@ -132689,7 +132689,7 @@
     },
     {
         "name": "Adafruit SPA06_003",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "sentence": "Arduino library for SPA06_003 digital pressure sensor",
@@ -132699,9 +132699,9 @@
         "architectures": "*",
         "types": "Recommended",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_SPA06_003-1.0.1.zip",
-        "archiveFileName": "Adafruit_SPA06_003-1.0.1.zip",
-        "fullText": "Adafruit SPA06_0031.0.1AdafruitAdafruit <info@adafruit.com>Arduino library for SPA06_003 digital pressure sensorArduino library for the SPA06_003 miniaturized digital barometric air pressure sensor with high accuracy and low current consumption. Supports I2C communication and includes FIFO buffer for 32 measurements.https://github.com/adafruit/Adafruit_SPA06_003Sensors*Recommendedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_SPA06_003-1.0.1.zipAdafruit_SPA06_003-1.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_SPA06_003-1.0.2.zip",
+        "archiveFileName": "Adafruit_SPA06_003-1.0.2.zip",
+        "fullText": "Adafruit SPA06_0031.0.2AdafruitAdafruit <info@adafruit.com>Arduino library for SPA06_003 digital pressure sensorArduino library for the SPA06_003 miniaturized digital barometric air pressure sensor with high accuracy and low current consumption. Supports I2C communication and includes FIFO buffer for 32 measurements.https://github.com/adafruit/Adafruit_SPA06_003Sensors*Recommendedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_SPA06_003-1.0.2.zipAdafruit_SPA06_003-1.0.2.zip"
     },
     {
         "name": "DUERS485DMA",
@@ -133313,7 +133313,7 @@
     },
     {
         "name": "LGFX_PPA",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "author": "tobozo",
         "maintainer": "tobozo",
         "sentence": "Pixel-Processing Accelerator (PPA) utilities for LovyanGFX/M5GFX with ESP32P4",
@@ -133323,9 +133323,9 @@
         "architectures": "esp32, esp32p4",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tobozo/LGFX_PPA-0.2.1.zip",
-        "archiveFileName": "LGFX_PPA-0.2.1.zip",
-        "fullText": "LGFX_PPA0.2.1tobozotobozoPixel-Processing Accelerator (PPA) utilities for LovyanGFX/M5GFX with ESP32P4This library provides a M5GFX/LovyanGFX layer for PPA, the pixel-processing accelerator module shipped with ESP32-P4 for fast image rotation, scaling, mirroring, and blending.https://github.com/tobozo/LGFX_PPADisplayesp32, esp32p4Contributedhttps://downloads.arduino.cc/libraries/github.com/tobozo/LGFX_PPA-0.2.1.zipLGFX_PPA-0.2.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/tobozo/LGFX_PPA-0.2.2.zip",
+        "archiveFileName": "LGFX_PPA-0.2.2.zip",
+        "fullText": "LGFX_PPA0.2.2tobozotobozoPixel-Processing Accelerator (PPA) utilities for LovyanGFX/M5GFX with ESP32P4This library provides a M5GFX/LovyanGFX layer for PPA, the pixel-processing accelerator module shipped with ESP32-P4 for fast image rotation, scaling, mirroring, and blending.https://github.com/tobozo/LGFX_PPADisplayesp32, esp32p4Contributedhttps://downloads.arduino.cc/libraries/github.com/tobozo/LGFX_PPA-0.2.2.zipLGFX_PPA-0.2.2.zip"
     },
     {
         "name": "MT07_CAN_Library",
@@ -133713,7 +133713,7 @@
     },
     {
         "name": "DUELink",
-        "version": "0.0.5",
+        "version": "0.0.6",
         "author": "GHI Electronics",
         "maintainer": "support@ghielectronics.com",
         "sentence": "Arduino DUELink library",
@@ -133723,9 +133723,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ghi-electronics/DUELink-0.0.5.zip",
-        "archiveFileName": "DUELink-0.0.5.zip",
-        "fullText": "DUELink0.0.5GHI Electronicssupport@ghielectronics.comArduino DUELink libraryArduino library for the DUELink platformhttps://github.com/ghi-electronics/duelink-libraries-arduinoUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/ghi-electronics/DUELink-0.0.5.zipDUELink-0.0.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/ghi-electronics/DUELink-0.0.6.zip",
+        "archiveFileName": "DUELink-0.0.6.zip",
+        "fullText": "DUELink0.0.6GHI Electronicssupport@ghielectronics.comArduino DUELink libraryArduino library for the DUELink platformhttps://github.com/ghi-electronics/duelink-libraries-arduinoUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/ghi-electronics/DUELink-0.0.6.zipDUELink-0.0.6.zip"
     },
     {
         "name": "Simple_Esp32WiFiManager",
@@ -134177,19 +134177,19 @@
     },
     {
         "name": "MicroSerial",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "hidori",
         "maintainer": "hidori",
         "sentence": "Lightweight bit-bang Serial library with cross-platform compatibility",
-        "paragraph": "A minimal serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Uses direct register manipulation on AVR for maximum efficiency, falls back to digitalWrite on other platforms. Features simple API with print functions for serial output and configurable baud rates.",
-        "website": "https://github.com/hidori/MicroSerial",
+        "paragraph": "A comprehensive serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Features character/string output, decimal/hexadecimal formatting, newline control, and configurable baud rates. Uses direct register manipulation on AVR for efficiency, falls back to digitalWrite on other platforms.",
+        "website": "https://github.com/hidori/arduino-micro-serial",
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.0.0.zip",
-        "archiveFileName": "MicroSerial-1.0.0.zip",
-        "fullText": "MicroSerial1.0.0hidorihidoriLightweight bit-bang Serial library with cross-platform compatibilityA minimal serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Uses direct register manipulation on AVR for maximum efficiency, falls back to digitalWrite on other platforms. Features simple API with print functions for serial output and configurable baud rates.https://github.com/hidori/MicroSerialCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.0.0.zipMicroSerial-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.1.0.zip",
+        "archiveFileName": "MicroSerial-1.1.0.zip",
+        "fullText": "MicroSerial1.1.0hidorihidoriLightweight bit-bang Serial library with cross-platform compatibilityA comprehensive serial communication implementation using bit-banging technique, optimized for ATtiny and ATmega microcontrollers with automatic platform detection. Features character/string output, decimal/hexadecimal formatting, newline control, and configurable baud rates. Uses direct register manipulation on AVR for efficiency, falls back to digitalWrite on other platforms.https://github.com/hidori/arduino-micro-serialCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/hidori/MicroSerial-1.1.0.zipMicroSerial-1.1.0.zip"
     },
     {
         "name": "7Semi_BNO055",
@@ -134337,7 +134337,7 @@
     },
     {
         "name": "SHT4x",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for the SHT4x temperature and humidity sensor",
@@ -134347,9 +134347,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.1.zip",
-        "archiveFileName": "SHT4x-0.0.1.zip",
-        "fullText": "SHT4x0.0.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the SHT4x temperature and humidity sensorClass for SHT4x Temperature Humidity Adafruit I2Chttps://github.com/RobTillaart/SHT4xSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.1.zipSHT4x-0.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.2.zip",
+        "archiveFileName": "SHT4x-0.0.2.zip",
+        "fullText": "SHT4x0.0.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the SHT4x temperature and humidity sensorClass for SHT4x Temperature Humidity Adafruit I2Chttps://github.com/RobTillaart/SHT4xSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.2.zipSHT4x-0.0.2.zip"
     },
     {
         "name": "Multi_Timer_V2",
@@ -134366,5 +134366,53 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/dougp2/Multi_Timer_V2-1.0.1.zip",
         "archiveFileName": "Multi_Timer_V2-1.0.1.zip",
         "fullText": "Multi_Timer_V21.0.1Doug PirkeyDoug PirkeyA collection of several types of non-blocking timers.The timers operate on milliseconds only and provide different output signals to be passed to other code.  The timers may reduce the need for custom timing functions.https://github.com/dougp2/Multi_Timer_V2UncategorizedavrContributedhttps://downloads.arduino.cc/libraries/github.com/dougp2/Multi_Timer_V2-1.0.1.zipMulti_Timer_V2-1.0.1.zip"
+    },
+    {
+        "name": "BCC_ESP32S3",
+        "version": "1.0.0",
+        "author": "Nonpawit Ekburanawat",
+        "maintainer": "Nonpawit Ekburanawat <nonpawit@example.com>",
+        "sentence": "Library for ESP32-S3-DevKitC-1 breakout board",
+        "paragraph": "Provides pin definitions and motor control functions for the ESP32-S3-DevKitC-1 breakout board with TB6612FNG motor driver",
+        "website": "https://github.com/nonpawite/bcc-esp-dev",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/nonpawite/BCC_ESP32S3-1.0.0.zip",
+        "archiveFileName": "BCC_ESP32S3-1.0.0.zip",
+        "fullText": "BCC_ESP32S31.0.0Nonpawit EkburanawatNonpawit Ekburanawat <nonpawit@example.com>Library for ESP32-S3-DevKitC-1 breakout boardProvides pin definitions and motor control functions for the ESP32-S3-DevKitC-1 breakout board with TB6612FNG motor driverhttps://github.com/nonpawite/bcc-esp-devDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/nonpawite/BCC_ESP32S3-1.0.0.zipBCC_ESP32S3-1.0.0.zip"
+    },
+    {
+        "name": "RcSwitchTransmitter",
+        "version": "0.1.1",
+        "author": "dac1e",
+        "maintainer": "dac1e <1692-586@onlinehome.de>",
+        "sentence": "Transmit 433/315Mhz remote control codes.",
+        "paragraph": "Use your Arduino to transmit 433/315Mhz remote control codes.",
+        "website": "https://github.com/dac1e/RcSwitchTransmitter",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/dac1e/RcSwitchTransmitter-0.1.1.zip",
+        "archiveFileName": "RcSwitchTransmitter-0.1.1.zip",
+        "fullText": "RcSwitchTransmitter0.1.1dac1edac1e <1692-586@onlinehome.de>Transmit 433/315Mhz remote control codes.Use your Arduino to transmit 433/315Mhz remote control codes.https://github.com/dac1e/RcSwitchTransmitterDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dac1e/RcSwitchTransmitter-0.1.1.zipRcSwitchTransmitter-0.1.1.zip"
+    },
+    {
+        "name": "StepperHAL_STM32F4x1",
+        "version": "1.0.0",
+        "author": "Ennio Sesana <ennio.sesana@tin.it>",
+        "maintainer": "Ennio Sesana <ennio.sesana@tin.it>",
+        "sentence": "Controllo avanzato stepper con STM32F4x1, profili trapezoidali e S-curve.",
+        "paragraph": "Libreria per STM32F4x1 con supporto a profili trapezoidali e S-curve, compensazione backlash, diagnostica bilingue, e configurazione modulare. Include overloads per unità fisiche (mm, rpm, mms²) e gestione DMA.",
+        "website": "https://github.com/ennio64/StepperHAL_STM32F4x1-Library",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/ennio64/StepperHAL_STM32F4x1-1.0.0.zip",
+        "archiveFileName": "StepperHAL_STM32F4x1-1.0.0.zip",
+        "fullText": "StepperHAL_STM32F4x11.0.0Ennio Sesana <ennio.sesana@tin.it>Ennio Sesana <ennio.sesana@tin.it>Controllo avanzato stepper con STM32F4x1, profili trapezoidali e S-curve.Libreria per STM32F4x1 con supporto a profili trapezoidali e S-curve, compensazione backlash, diagnostica bilingue, e configurazione modulare. Include overloads per unità fisiche (mm, rpm, mms²) e gestione DMA.https://github.com/ennio64/StepperHAL_STM32F4x1-LibraryDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/ennio64/StepperHAL_STM32F4x1-1.0.0.zipStepperHAL_STM32F4x1-1.0.0.zip"
     }
 ]
