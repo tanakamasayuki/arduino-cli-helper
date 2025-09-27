@@ -49745,7 +49745,7 @@
     },
     {
         "name": "SDI-12",
-        "version": "2.3.1",
+        "version": "2.3.2",
         "author": "Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "sentence": "An Arduino library for SDI-12 communication with a wide variety of environmental sensors.",
@@ -49755,9 +49755,9 @@
         "architectures": "avr, sam, samd, esp8266, esp32, mbed_giga",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.1.zip",
-        "archiveFileName": "SDI_12-2.3.1.zip",
-        "fullText": "SDI-122.3.1Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>An Arduino library for SDI-12 communication with a wide variety of environmental sensors.This library provides a general software solution, without requiring any additional hardware.https://github.com/EnviroDIY/Arduino-SDI-12Communicationavr, sam, samd, esp8266, esp32, mbed_gigaContributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.1.zipSDI_12-2.3.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.2.zip",
+        "archiveFileName": "SDI_12-2.3.2.zip",
+        "fullText": "SDI-122.3.2Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>An Arduino library for SDI-12 communication with a wide variety of environmental sensors.This library provides a general software solution, without requiring any additional hardware.https://github.com/EnviroDIY/Arduino-SDI-12Communicationavr, sam, samd, esp8266, esp32, mbed_gigaContributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/SDI_12-2.3.2.zipSDI_12-2.3.2.zip"
     },
     {
         "name": "ES920",
@@ -105281,7 +105281,7 @@
     },
     {
         "name": "Sensirion UPT Core",
-        "version": "0.9.4",
+        "version": "0.9.5",
         "author": "Jonas Stolle, Maximilian Paulsen",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Library for definitions and configurations used by other Sensirion Unified Prototyping Toolkit (UPT) libraries.",
@@ -105291,9 +105291,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-0.9.4.zip",
-        "archiveFileName": "Sensirion_UPT_Core-0.9.4.zip",
-        "fullText": "Sensirion UPT Core0.9.4Jonas Stolle, Maximilian PaulsenSensirion AG <sensirion.com>Library for definitions and configurations used by other Sensirion Unified Prototyping Toolkit (UPT) libraries.There shouldn't be a reason to use it directly, but other libraries might depend on it.https://github.com/Sensirion/arduino-upt-coreOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-0.9.4.zipSensirion_UPT_Core-0.9.4.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-0.9.5.zip",
+        "archiveFileName": "Sensirion_UPT_Core-0.9.5.zip",
+        "fullText": "Sensirion UPT Core0.9.5Jonas Stolle, Maximilian PaulsenSensirion AG <sensirion.com>Library for definitions and configurations used by other Sensirion Unified Prototyping Toolkit (UPT) libraries.There shouldn't be a reason to use it directly, but other libraries might depend on it.https://github.com/Sensirion/arduino-upt-coreOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-0.9.5.zipSensirion_UPT_Core-0.9.5.zip"
     },
     {
         "name": "EByte RF E70 library",
@@ -108913,7 +108913,7 @@
     },
     {
         "name": "kxnTask",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "Makerlab.vn",
         "maintainer": "Makerlab.vn <xuanngoc1992@gmail.com>",
         "sentence": "Simple state machine",
@@ -108923,9 +108923,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/makerlabvn/kxnTask-1.0.2.zip",
-        "archiveFileName": "kxnTask-1.0.2.zip",
-        "fullText": "kxnTask1.0.2Makerlab.vnMakerlab.vn <xuanngoc1992@gmail.com>Simple state machineMake your programs run together.https://github.com/makerlabvn/kxnTask.gitDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/makerlabvn/kxnTask-1.0.2.zipkxnTask-1.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/makerlabvn/kxnTask-1.0.3.zip",
+        "archiveFileName": "kxnTask-1.0.3.zip",
+        "fullText": "kxnTask1.0.3Makerlab.vnMakerlab.vn <xuanngoc1992@gmail.com>Simple state machineMake your programs run together.https://github.com/makerlabvn/kxnTask.gitDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/makerlabvn/kxnTask-1.0.3.zipkxnTask-1.0.3.zip"
     },
     {
         "name": "iMakerPS2",
@@ -112161,7 +112161,7 @@
     },
     {
         "name": "HLK-LD2450",
-        "version": "1.0.9",
+        "version": "1.1.0",
         "author": "Marcel Ochsendorf <info@marcelochsendorf.com>",
         "maintainer": "Marcel Ochsendorf <info@marcelochsendorf.com>",
         "sentence": "A library for the HLK-LD2450 LD2450 24Ghz Human body Motion Inductive Radar Sensor",
@@ -112171,9 +112171,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RBEGamer/HLK_LD2450-1.0.9.zip",
-        "archiveFileName": "HLK_LD2450-1.0.9.zip",
-        "fullText": "HLK-LD24501.0.9Marcel Ochsendorf <info@marcelochsendorf.com>Marcel Ochsendorf <info@marcelochsendorf.com>A library for the HLK-LD2450 LD2450 24Ghz Human body Motion Inductive Radar SensorIncludes the HLK-LD2450 LD2450 protocol to read detected targetshttps://github.com/RBEGamer/HLK-LD2450Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RBEGamer/HLK_LD2450-1.0.9.zipHLK_LD2450-1.0.9.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RBEGamer/HLK_LD2450-1.1.0.zip",
+        "archiveFileName": "HLK_LD2450-1.1.0.zip",
+        "fullText": "HLK-LD24501.1.0Marcel Ochsendorf <info@marcelochsendorf.com>Marcel Ochsendorf <info@marcelochsendorf.com>A library for the HLK-LD2450 LD2450 24Ghz Human body Motion Inductive Radar SensorIncludes the HLK-LD2450 LD2450 protocol to read detected targetshttps://github.com/RBEGamer/HLK-LD2450Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RBEGamer/HLK_LD2450-1.1.0.zipHLK_LD2450-1.1.0.zip"
     },
     {
         "name": "CoilCell",
@@ -113249,7 +113249,7 @@
     },
     {
         "name": "MycilaPulseAnalyzer",
-        "version": "3.0.6",
+        "version": "3.0.8",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuit",
@@ -113259,9 +113259,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.6.zip",
-        "archiveFileName": "MycilaPulseAnalyzer-3.0.6.zip",
-        "fullText": "MycilaPulseAnalyzer3.0.6Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuithttps://github.com/mathieucarbou/MycilaPulseAnalyzerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.6.zipMycilaPulseAnalyzer-3.0.6.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.8.zip",
+        "archiveFileName": "MycilaPulseAnalyzer-3.0.8.zip",
+        "fullText": "MycilaPulseAnalyzer3.0.8Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to analyze pulses from a Zero-Cross Detection circuithttps://github.com/mathieucarbou/MycilaPulseAnalyzerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaPulseAnalyzer-3.0.8.zipMycilaPulseAnalyzer-3.0.8.zip"
     },
     {
         "name": "num7",
@@ -126449,7 +126449,7 @@
     },
     {
         "name": "RockBLOCK-9704",
-        "version": "0.1.26",
+        "version": "0.1.27",
         "author": "Ground Control",
         "maintainer": "help@groundcontrol.com",
         "sentence": "Rockblock 9704 IMT communication library.",
@@ -126459,9 +126459,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/rock7/RockBLOCK_9704-0.1.26.zip",
-        "archiveFileName": "RockBLOCK_9704-0.1.26.zip",
-        "fullText": "RockBLOCK-97040.1.26Ground Controlhelp@groundcontrol.comRockblock 9704 IMT communication library.This library provides useful functions for connecting to a RockBLOCK9704 via Serial, checking modem information, sending messages via Iridium IMT and receiving messages.https://github.com/rock7/RockBLOCK-9704Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/rock7/RockBLOCK_9704-0.1.26.zipRockBLOCK_9704-0.1.26.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/rock7/RockBLOCK_9704-0.1.27.zip",
+        "archiveFileName": "RockBLOCK_9704-0.1.27.zip",
+        "fullText": "RockBLOCK-97040.1.27Ground Controlhelp@groundcontrol.comRockblock 9704 IMT communication library.This library provides useful functions for connecting to a RockBLOCK9704 via Serial, checking modem information, sending messages via Iridium IMT and receiving messages.https://github.com/rock7/RockBLOCK-9704Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/rock7/RockBLOCK_9704-0.1.27.zipRockBLOCK_9704-0.1.27.zip"
     },
     {
         "name": "htcw_mpm_parser",
@@ -128673,7 +128673,7 @@
     },
     {
         "name": "BQ27427 Battery Fuel Gauge Arduino Library",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "author": "Edrean Ernst",
         "maintainer": "Edrean Ernst",
         "sentence": "An Arduino library for interfacing with the BQ27427 LiPo Fuel Gauge",
@@ -128683,9 +128683,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zip",
-        "archiveFileName": "BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zip",
-        "fullText": "BQ27427 Battery Fuel Gauge Arduino Library1.0.3Edrean ErnstEdrean ErnstAn Arduino library for interfacing with the BQ27427 LiPo Fuel GaugeAn Arduino library for interfacing with the BQ27427 LiPo Fuel Gaugehttps://github.com/edreanernst/BQ27427_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zipBQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.4.zip",
+        "archiveFileName": "BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.4.zip",
+        "fullText": "BQ27427 Battery Fuel Gauge Arduino Library1.0.4Edrean ErnstEdrean ErnstAn Arduino library for interfacing with the BQ27427 LiPo Fuel GaugeAn Arduino library for interfacing with the BQ27427 LiPo Fuel Gaugehttps://github.com/edreanernst/BQ27427_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/edreanernst/BQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.4.zipBQ27427_Battery_Fuel_Gauge_Arduino_Library-1.0.4.zip"
     },
     {
         "name": "DMD32Plus",
@@ -131265,7 +131265,7 @@
     },
     {
         "name": "NezaIR",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "sentence": "A library for sending and receiving IR signals with multiple protocols.",
@@ -131275,9 +131275,9 @@
         "architectures": "avr, esp8266, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.0.zip",
-        "archiveFileName": "NezaIR-1.0.0.zip",
-        "fullText": "NezaIR1.0.0Emmanuel MugwanezaEmmanuel Mugwaneza <nezaemmy1@gmail.com>A library for sending and receiving IR signals with multiple protocols.A library for sending and receiving IR signals with multiple protocols.https://github.com/Nezaemmy/NezaIRCommunicationavr, esp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.0.zipNezaIR-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.1.zip",
+        "archiveFileName": "NezaIR-1.0.1.zip",
+        "fullText": "NezaIR1.0.1Emmanuel MugwanezaEmmanuel Mugwaneza <nezaemmy1@gmail.com>A library for sending and receiving IR signals with multiple protocols.A library for sending and receiving IR signals with multiple protocols.https://github.com/Nezaemmy/NezaIRCommunicationavr, esp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.1.zipNezaIR-1.0.1.zip"
     },
     {
         "name": "SerialMessageEvents",
@@ -132561,7 +132561,7 @@
     },
     {
         "name": "AnalogControlPanel",
-        "version": "0.6.1",
+        "version": "0.6.2",
         "author": "Greg van Paassen <gregvanpaassen+github@gmail.com>",
         "maintainer": "Greg van Paassen <gregvanpaassen+github@gmail.com>",
         "sentence": "Faster analog reads and more for your Uno/Nano/Pro Mini.",
@@ -132571,9 +132571,9 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.1.zip",
-        "archiveFileName": "AnalogControlPanel-0.6.1.zip",
-        "fullText": "AnalogControlPanel0.6.1Greg van Paassen <gregvanpaassen+github@gmail.com>Greg van Paassen <gregvanpaassen+github@gmail.com>Faster analog reads and more for your Uno/Nano/Pro Mini.Asynchronous or non-blocking reads. Continuous asynchronous readings - \"free-running mode\". Event-triggered readings - external pin or timer based. Power the ADC on and off. Examples: test your ADC, use one pin with five buttons. Get more control of your Uno/Nano/Pro Mini's built-in ADC.https://github.com/gvp-257/AnalogControlPanelSignal Input/OutputavrContributedhttps://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.1.zipAnalogControlPanel-0.6.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.2.zip",
+        "archiveFileName": "AnalogControlPanel-0.6.2.zip",
+        "fullText": "AnalogControlPanel0.6.2Greg van Paassen <gregvanpaassen+github@gmail.com>Greg van Paassen <gregvanpaassen+github@gmail.com>Faster analog reads and more for your Uno/Nano/Pro Mini.Asynchronous or non-blocking reads. Continuous asynchronous readings - \"free-running mode\". Event-triggered readings - external pin or timer based. Power the ADC on and off. Examples: test your ADC, use one pin with five buttons. Get more control of your Uno/Nano/Pro Mini's built-in ADC.https://github.com/gvp-257/AnalogControlPanelSignal Input/OutputavrContributedhttps://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.2.zipAnalogControlPanel-0.6.2.zip"
     },
     {
         "name": "AyresWiFiManager",
@@ -134414,5 +134414,69 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/ennio64/StepperHAL_STM32F4x1-1.0.0.zip",
         "archiveFileName": "StepperHAL_STM32F4x1-1.0.0.zip",
         "fullText": "StepperHAL_STM32F4x11.0.0Ennio Sesana <ennio.sesana@tin.it>Ennio Sesana <ennio.sesana@tin.it>Controllo avanzato stepper con STM32F4x1, profili trapezoidali e S-curve.Libreria per STM32F4x1 con supporto a profili trapezoidali e S-curve, compensazione backlash, diagnostica bilingue, e configurazione modulare. Include overloads per unità fisiche (mm, rpm, mms²) e gestione DMA.https://github.com/ennio64/StepperHAL_STM32F4x1-LibraryDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/ennio64/StepperHAL_STM32F4x1-1.0.0.zipStepperHAL_STM32F4x1-1.0.0.zip"
+    },
+    {
+        "name": "ESP Discord Client",
+        "version": "1.0.0",
+        "author": "Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>",
+        "maintainer": "Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>",
+        "sentence": "Send messages from ESP8266/ESP32 to Discord using webhooks",
+        "paragraph": "A cross-platform Arduino library that enables ESP8266 and ESP32 microcontrollers to send messages directly to Discord channels using webhooks. Includes automatic timestamp generation, WiFi management, and secure HTTPS communication. Perfect for IoT notifications, sensor alerts, and remote monitoring applications.",
+        "website": "https://github.com/ababdelo/ESPDiscordClient",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/ababdelo/ESP_Discord_Client-1.0.0.zip",
+        "archiveFileName": "ESP_Discord_Client-1.0.0.zip",
+        "fullText": "ESP Discord Client1.0.0Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>Send messages from ESP8266/ESP32 to Discord using webhooksA cross-platform Arduino library that enables ESP8266 and ESP32 microcontrollers to send messages directly to Discord channels using webhooks. Includes automatic timestamp generation, WiFi management, and secure HTTPS communication. Perfect for IoT notifications, sensor alerts, and remote monitoring applications.https://github.com/ababdelo/ESPDiscordClientCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ababdelo/ESP_Discord_Client-1.0.0.zipESP_Discord_Client-1.0.0.zip"
+    },
+    {
+        "name": "Aerobotix_Arduino_nav",
+        "version": "1.0.0",
+        "author": "AYMEN TURKI",
+        "maintainer": "AYMEN TURKI <aymen.turki@insat.ucar.tn>",
+        "sentence": "Library for differential robot autonomous navigation.",
+        "paragraph": "This library provides functions to control and navigate differential drive robots, including odometry, PID control, and basic movement functions like move, rotate, and curve.",
+        "website": "https://github.com/AymenTurki0/Aerobotix_Arduino_navigation",
+        "category": "Uncategorized",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/AymenTurki0/Aerobotix_Arduino_nav-1.0.0.zip",
+        "archiveFileName": "Aerobotix_Arduino_nav-1.0.0.zip",
+        "fullText": "Aerobotix_Arduino_nav1.0.0AYMEN TURKIAYMEN TURKI <aymen.turki@insat.ucar.tn>Library for differential robot autonomous navigation.This library provides functions to control and navigate differential drive robots, including odometry, PID control, and basic movement functions like move, rotate, and curve.https://github.com/AymenTurki0/Aerobotix_Arduino_navigationUncategorizedavrContributedhttps://downloads.arduino.cc/libraries/github.com/AymenTurki0/Aerobotix_Arduino_nav-1.0.0.zipAerobotix_Arduino_nav-1.0.0.zip"
+    },
+    {
+        "name": "M5Module-4EncoderMotor",
+        "version": "1.0.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "sentence": "Library for M5Module-4EncoderMotor",
+        "paragraph": null,
+        "website": "https://github.com/M5Stack/M5Module-4EncoderMotor",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5Module_4EncoderMotor-1.0.0.zip",
+        "archiveFileName": "M5Module_4EncoderMotor-1.0.0.zip",
+        "fullText": "M5Module-4EncoderMotor1.0.0M5StackM5StackLibrary for M5Module-4EncoderMotorhttps://github.com/M5Stack/M5Module-4EncoderMotorDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5Module_4EncoderMotor-1.0.0.zipM5Module_4EncoderMotor-1.0.0.zip"
+    },
+    {
+        "name": "MycilaDimmer",
+        "version": "1.0.0",
+        "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
+        "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
+        "sentence": "ESP32 / Arduino Library to control TRIAC, Random SSR, Voltage Regulator with DfRobot DAC or PWM",
+        "paragraph": null,
+        "website": "https://github.com/mathieucarbou/MycilaDimmer",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.0.zip",
+        "archiveFileName": "MycilaDimmer-1.0.0.zip",
+        "fullText": "MycilaDimmer1.0.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to control TRIAC, Random SSR, Voltage Regulator with DfRobot DAC or PWMhttps://github.com/mathieucarbou/MycilaDimmerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.0.zipMycilaDimmer-1.0.0.zip"
     }
 ]
