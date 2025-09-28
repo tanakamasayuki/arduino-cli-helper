@@ -14385,7 +14385,7 @@
     },
     {
         "name": "Brasilino",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>",
         "maintainer": "Brasilino Team <brasilino@otaciliomaia.com>",
         "sentence": "Biblioteca de tradução e facilitação de funções para Arduino em PT-BR",
@@ -14395,9 +14395,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.0.zip",
-        "archiveFileName": "Brasilino-1.1.0.zip",
-        "fullText": "Brasilino1.1.0Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.0.zipBrasilino-1.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.1.zip",
+        "archiveFileName": "Brasilino-1.1.1.zip",
+        "fullText": "Brasilino1.1.1Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.1.zipBrasilino-1.1.1.zip"
     },
     {
         "name": "SDS011 sensor Library",
@@ -34032,22 +34032,6 @@
         "fullText": "ProtoCentral MAX86150 PPG and ECG IC library1.0.2ProtoCentral Electronics <support@protocentral.com>ProtoCentral Electronics <protocentral.com>Library for the MAX86150 PPG and ECG sensor module breakout boardArduino library for the MAX86150 PPG and ECG sensor modulehttps://github.com/Protocentral/protocentral_max86150_ecg_ppgSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/Protocentral/ProtoCentral_MAX86150_PPG_and_ECG_IC_library-1.0.2.zipProtoCentral_MAX86150_PPG_and_ECG_IC_library-1.0.2.zip"
     },
     {
-        "name": "sensirion-sps",
-        "version": "1.2.0",
-        "author": "Johannes Winkelmann",
-        "maintainer": "Johannes Winkelmann <jwi@sensirion.com>",
-        "sentence": "Support for Sensirion's SPS30 particulate matter sensor",
-        "paragraph": "The SPS30 has mass concentrations for pm1, pm2.5, pm4, and pm10, plus number concentrations for pm0.5, pm1, pm2.5, pm4, and pm10",
-        "website": "https://www.sensirion.com/sps30/",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/sensirion_sps-1.2.0.zip",
-        "archiveFileName": "sensirion_sps-1.2.0.zip",
-        "fullText": "sensirion-sps1.2.0Johannes WinkelmannJohannes Winkelmann <jwi@sensirion.com>Support for Sensirion's SPS30 particulate matter sensorThe SPS30 has mass concentrations for pm1, pm2.5, pm4, and pm10, plus number concentrations for pm0.5, pm1, pm2.5, pm4, and pm10https://www.sensirion.com/sps30/Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/sensirion_sps-1.2.0.zipsensirion_sps-1.2.0.zip"
-    },
-    {
         "name": "Atmega32u4_IO",
         "version": "3.0.2",
         "author": "RobotCing Team",
@@ -40688,70 +40672,6 @@
         "fullText": "Adafruit MCP47281.0.10AdafruitAdafruit <info@adafruit.com>Arduino library for the MCP4728 sensors in the Adafruit shopArduino library for the MCP4728 sensors in the Adafruit shophttps://github.com/adafruit/Adafruit_MCP4728Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_MCP4728-1.0.10.zipAdafruit_MCP4728-1.0.10.zip"
     },
     {
-        "name": "Voltmeter",
-        "version": "1.0.0",
-        "author": "Yesbotics <https://gitlab.com/yesbotics>",
-        "maintainer": "Jens Kabisch, Albrecht Nitsche",
-        "sentence": "Calculates the voltage from voltmeter modules based on voltage divider concept.",
-        "paragraph": "Voltmeter is a minimalistic library that calculates voltage of modules based on voltage divider concept.",
-        "website": "https://gitlab.com/yesbotics/libs/arduino/voltmeter",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/libs/arduino/Voltmeter-1.0.0.zip",
-        "archiveFileName": "Voltmeter-1.0.0.zip",
-        "fullText": "Voltmeter1.0.0Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheCalculates the voltage from voltmeter modules based on voltage divider concept.Voltmeter is a minimalistic library that calculates voltage of modules based on voltage divider concept.https://gitlab.com/yesbotics/libs/arduino/voltmeterSensors*Contributedhttps://downloads.arduino.cc/libraries/libs/arduino/Voltmeter-1.0.0.zipVoltmeter-1.0.0.zip"
-    },
-    {
-        "name": "TimeoutCallback",
-        "version": "1.3.0",
-        "author": "Yesbotics <https://gitlab.com/yesbotics>",
-        "maintainer": "Jens Kabisch, Albrecht Nitsche",
-        "sentence": "Library to call a callback after a certain time.",
-        "paragraph": "Timeout is a minimalistic library to call a callback funtion after a user-specific time in milliseconds. Timeout is non-blocking and designed to use minimal memory requirements.",
-        "website": "https://gitlab.com/yesbotics/libs/arduino/timeout-callback",
-        "category": "Timing",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/libs/arduino/TimeoutCallback-1.3.0.zip",
-        "archiveFileName": "TimeoutCallback-1.3.0.zip",
-        "fullText": "TimeoutCallback1.3.0Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheLibrary to call a callback after a certain time.Timeout is a minimalistic library to call a callback funtion after a user-specific time in milliseconds. Timeout is non-blocking and designed to use minimal memory requirements.https://gitlab.com/yesbotics/libs/arduino/timeout-callbackTiming*Contributedhttps://downloads.arduino.cc/libraries/libs/arduino/TimeoutCallback-1.3.0.zipTimeoutCallback-1.3.0.zip"
-    },
-    {
-        "name": "IntervalCallback",
-        "version": "1.1.2",
-        "author": "Yesbotics <https://gitlab.com/yesbotics>",
-        "maintainer": "Jens Kabisch, Albrecht Nitsche",
-        "sentence": "Library to call a callback repetively after a certain time.",
-        "paragraph": "IntervalCallback is a minimalistic library to call a callback funtion repetively after a user-specific time in milliseconds. Interval is non-blocking and designed to use minimal memory requirements.",
-        "website": "https://gitlab.com/yesbotics/libs/arduino/interval-callback",
-        "category": "Timing",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/gitlab.com/arduino/IntervalCallback-1.1.2.zip",
-        "archiveFileName": "IntervalCallback-1.1.2.zip",
-        "fullText": "IntervalCallback1.1.2Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheLibrary to call a callback repetively after a certain time.IntervalCallback is a minimalistic library to call a callback funtion repetively after a user-specific time in milliseconds. Interval is non-blocking and designed to use minimal memory requirements.https://gitlab.com/yesbotics/libs/arduino/interval-callbackTiming*Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/arduino/IntervalCallback-1.1.2.zipIntervalCallback-1.1.2.zip"
-    },
-    {
-        "name": "AverageValue",
-        "version": "1.0.0",
-        "author": "Yesbotics <https://gitlab.com/yesbotics>",
-        "maintainer": "Jens Kabisch, Albrecht Nitsche",
-        "sentence": "Calculates the average value of some values.",
-        "paragraph": "AverageValue is a minimalistic library that calculates the average value of given values. It supports multiple datatypes.",
-        "website": "https://gitlab.com/yesbotics/libs/arduino/average-value",
-        "category": "Data Processing",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/libs/arduino/AverageValue-1.0.0.zip",
-        "archiveFileName": "AverageValue-1.0.0.zip",
-        "fullText": "AverageValue1.0.0Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheCalculates the average value of some values.AverageValue is a minimalistic library that calculates the average value of given values. It supports multiple datatypes.https://gitlab.com/yesbotics/libs/arduino/average-valueData Processing*Contributedhttps://downloads.arduino.cc/libraries/libs/arduino/AverageValue-1.0.0.zipAverageValue-1.0.0.zip"
-    },
-    {
         "name": "ESP_DoubleResetDetector",
         "version": "1.3.2",
         "author": "Khoi Hoang",
@@ -41038,22 +40958,6 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_LSM6DS-4.7.4.zip",
         "archiveFileName": "Adafruit_LSM6DS-4.7.4.zip",
         "fullText": "Adafruit LSM6DS4.7.4Adafruit <info@adafruit.com>Adafruit <info@adafruit.com>Arduino library for the LSM6DS sensors in the Adafruit shopArduino library for the LSM6DS sensors in the Adafruit shophttps://github.com/adafruit/Adafruit_LSM6DSSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_LSM6DS-4.7.4.zipAdafruit_LSM6DS-4.7.4.zip"
-    },
-    {
-        "name": "SimpleSerialProtocol",
-        "version": "2.4.0",
-        "author": "Yesbotics <https://gitlab.com/yesbotics>",
-        "maintainer": "Albrecht Nitsche, Jens Kabisch",
-        "sentence": "Library for communicate between serial port enabled devices",
-        "paragraph": "Provides easy and robust general purpose serial communication between PC side applications and Arduino(-compatible) devices. Arduino implementation of https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-docs",
-        "website": "https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/yesbotics/simple-serial-protocol/SimpleSerialProtocol-2.4.0.zip",
-        "archiveFileName": "SimpleSerialProtocol-2.4.0.zip",
-        "fullText": "SimpleSerialProtocol2.4.0Yesbotics <https://gitlab.com/yesbotics>Albrecht Nitsche, Jens KabischLibrary for communicate between serial port enabled devicesProvides easy and robust general purpose serial communication between PC side applications and Arduino(-compatible) devices. Arduino implementation of https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-docshttps://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/yesbotics/simple-serial-protocol/SimpleSerialProtocol-2.4.0.zipSimpleSerialProtocol-2.4.0.zip"
     },
     {
         "name": "Effortless-SPIFFS",
@@ -51057,7 +50961,7 @@
     },
     {
         "name": "SensorModbusMaster",
-        "version": "1.6.5",
+        "version": "1.6.6",
         "author": "Sara Damiano <sdamiano@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "sentence": "Arduino library for communicating via modbus with the Arduino acting as master",
@@ -51067,9 +50971,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/SensorModbusMaster-1.6.5.zip",
-        "archiveFileName": "SensorModbusMaster-1.6.5.zip",
-        "fullText": "SensorModbusMaster1.6.5Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>Arduino library for communicating via modbus with the Arduino acting as masterThis library is designed to use an Arduino as a modbus master to communicate with a sensor/slave via modbus RTU. It's specifically written with lots of \"higher-level\" functions to help out users who are largely unfamiliar with the modbus protocol and want an easy way to get information from a modbus device.https://github.com/EnviroDIY/SensorModbusMasterSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/SensorModbusMaster-1.6.5.zipSensorModbusMaster-1.6.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/SensorModbusMaster-1.6.6.zip",
+        "archiveFileName": "SensorModbusMaster-1.6.6.zip",
+        "fullText": "SensorModbusMaster1.6.6Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>Arduino library for communicating via modbus with the Arduino acting as masterThis library is designed to use an Arduino as a modbus master to communicate with a sensor/slave via modbus RTU. It's specifically written with lots of \"higher-level\" functions to help out users who are largely unfamiliar with the modbus protocol and want an easy way to get information from a modbus device.https://github.com/EnviroDIY/SensorModbusMasterSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/SensorModbusMaster-1.6.6.zipSensorModbusMaster-1.6.6.zip"
     },
     {
         "name": "HC-SR04",
@@ -51089,7 +50993,7 @@
     },
     {
         "name": "KellerModbus",
-        "version": "0.2.5",
+        "version": "0.2.6",
         "author": "Anthony Aufdenkampe <aaufdenkampe@limno.com>",
         "maintainer": "Anthony Aufdenkampe <aaufdenkampe@limno.com>",
         "sentence": "Arduino library for communication with Keller pressure and water level sensors via Modbus.",
@@ -51099,13 +51003,13 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/KellerModbus-0.2.5.zip",
-        "archiveFileName": "KellerModbus-0.2.5.zip",
-        "fullText": "KellerModbus0.2.5Anthony Aufdenkampe <aaufdenkampe@limno.com>Anthony Aufdenkampe <aaufdenkampe@limno.com>Arduino library for communication with Keller pressure and water level sensors via Modbus.A library to use an Arduino as a master to control and communicate via modbus with the pressure and water level sensors produced by Keller. Depends on the EnviroDIY/SensorModbusMaster library.https://github.com/EnviroDIY/KellerModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/KellerModbus-0.2.5.zipKellerModbus-0.2.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/KellerModbus-0.2.6.zip",
+        "archiveFileName": "KellerModbus-0.2.6.zip",
+        "fullText": "KellerModbus0.2.6Anthony Aufdenkampe <aaufdenkampe@limno.com>Anthony Aufdenkampe <aaufdenkampe@limno.com>Arduino library for communication with Keller pressure and water level sensors via Modbus.A library to use an Arduino as a master to control and communicate via modbus with the pressure and water level sensors produced by Keller. Depends on the EnviroDIY/SensorModbusMaster library.https://github.com/EnviroDIY/KellerModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/KellerModbus-0.2.6.zipKellerModbus-0.2.6.zip"
     },
     {
         "name": "YosemitechModbus",
-        "version": "0.5.2",
+        "version": "0.5.3",
         "author": "Sara Damiano <sdamiano@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "sentence": "Arduino library for communication with Yosemitech sensors via Modbus.",
@@ -51115,9 +51019,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/YosemitechModbus-0.5.2.zip",
-        "archiveFileName": "YosemitechModbus-0.5.2.zip",
-        "fullText": "YosemitechModbus0.5.2Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>Arduino library for communication with Yosemitech sensors via Modbus.https://github.com/EnviroDIY/YosemitechModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/YosemitechModbus-0.5.2.zipYosemitechModbus-0.5.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/YosemitechModbus-0.5.3.zip",
+        "archiveFileName": "YosemitechModbus-0.5.3.zip",
+        "fullText": "YosemitechModbus0.5.3Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>Arduino library for communication with Yosemitech sensors via Modbus.https://github.com/EnviroDIY/YosemitechModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/YosemitechModbus-0.5.3.zipYosemitechModbus-0.5.3.zip"
     },
     {
         "name": "wpi-32u4-library",
@@ -62848,22 +62752,6 @@
         "fullText": "SparkFun SCD4x Arduino Library1.1.2SparkFun ElectronicsSparkFun Electronics <sparkfun.com>Library for the Sensirion SCD4x family of CO2 Sensors (SCD40 and SCD41)An Arduino library for the SCD4x family of CO2 sensors from Sensirion. The SCD41 is a high quality photoacoustic CO₂ sensor capable of detecting 400 to 5000ppm with an accuracy of ±(40ppm+5%). On-chip signal compensation is realized with the built-in SHT4x humidity and temperature sensor.<br><br>Get the SCD40 <a href=\"https://www.sparkfun.com/products/18365\">here</a>.https://github.com/sparkfun/SparkFun_SCD4x_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_SCD4x_Arduino_Library-1.1.2.zipSparkFun_SCD4x_Arduino_Library-1.1.2.zip"
     },
     {
-        "name": "TimersOneForAll",
-        "version": "2.0.0",
-        "author": "EbolaChan <Leenrung@outlook.com>",
-        "maintainer": "EbolaChan <Leenrung@outlook.com>",
-        "sentence": "Make full use of all your hardware timers on your Arduino board. 充分利用你开发板上所有的硬件计时器",
-        "paragraph": "(Uno & Mega 2560) *You must enable C++17 for your IDE. Open \"%LOCALAPPDATA%\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\platform.txt\" and change the argument \"-std=gnu++11\" to -std=gnu++17.* Delayed task, repetitive delayed task, tones, square waves, timing by milliseconds. Hardware interrupt that can break into any running code accurately at the time you set. Specify which hardware timer to use, all with 1/16 microsecond accuracy. Allocate them to different tasks so that they run simultaneously without conflicts. Currently only support timing for less than 1 minute. *您必须为您的 IDE 启用 C++17。打开“%LOCALAPPDATA%\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\platform.txt”并将参数“-std=gnu++11”更改为-std=gnu++17。* 延迟任务，重复任务，音调，方波，毫秒秒表，可以自由指定互不冲突的独立硬件计时器，硬件中断，事件驱动。",
-        "website": "https://github.com/Silver-Fang/TimersOneForAll",
-        "category": "Timing",
-        "architectures": "avr",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/TimersOneForAll-2.0.0.zip",
-        "archiveFileName": "TimersOneForAll-2.0.0.zip",
-        "fullText": "TimersOneForAll2.0.0EbolaChan <Leenrung@outlook.com>EbolaChan <Leenrung@outlook.com>Make full use of all your hardware timers on your Arduino board. 充分利用你开发板上所有的硬件计时器(Uno & Mega 2560) *You must enable C++17 for your IDE. Open \"%LOCALAPPDATA%\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\platform.txt\" and change the argument \"-std=gnu++11\" to -std=gnu++17.* Delayed task, repetitive delayed task, tones, square waves, timing by milliseconds. Hardware interrupt that can break into any running code accurately at the time you set. Specify which hardware timer to use, all with 1/16 microsecond accuracy. Allocate them to different tasks so that they run simultaneously without conflicts. Currently only support timing for less than 1 minute. *您必须为您的 IDE 启用 C++17。打开“%LOCALAPPDATA%\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\platform.txt”并将参数“-std=gnu++11”更改为-std=gnu++17。* 延迟任务，重复任务，音调，方波，毫秒秒表，可以自由指定互不冲突的独立硬件计时器，硬件中断，事件驱动。https://github.com/Silver-Fang/TimersOneForAllTimingavrContributedhttps://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/TimersOneForAll-2.0.0.zipTimersOneForAll-2.0.0.zip"
-    },
-    {
         "name": "Controller Utilities",
         "version": "1.1.1",
         "author": "David Madison",
@@ -63582,22 +63470,6 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/mandulaj/PZEM004Tv30-1.2.1.zip",
         "archiveFileName": "PZEM004Tv30-1.2.1.zip",
         "fullText": "PZEM004Tv301.2.1Jakub MandulaJakub MandulaLibrary for the PZEM-004T v3.0 Power and Energy monitorEnables communication to Peacefair PZEM-004T v3.0 Power and Energy monitor using the Serial interfacehttps://github.com/mandulaj/PZEM-004T-v30Sensorsavr, stm32, esp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mandulaj/PZEM004Tv30-1.2.1.zipPZEM004Tv30-1.2.1.zip"
-    },
-    {
-        "name": "Low level quick digital IO",
-        "version": "2.0.0",
-        "author": "EbolaChan <Leenrung@outlook.com>",
-        "maintainer": "EbolaChan <Leenrung@outlook.com>",
-        "sentence": "高性能引脚读写。More efficient digital IO than builtin functions",
-        "paragraph": "内置的引脚读写函数digitalRead和digitalWrite需要每次将引脚转换成寄存器地址再进行读写，而且还需要检查PWM计时器设定，虽然增加了可靠性，减少了内存占用，但是性能较低，无法满足超高频读写的需求。本库仅在第一次调用时将引脚转换成内存地址，以后直接进行位运算操纵引脚，性能大幅提升，但无法处理PWM情况，适用于简单的高低电平操纵。Builtin functions (digitalRead & digitalWrite) translate pin code into memory address for each call, and will check PWM settings on the Pin. This is more robust but less efficient. My library calculate corresponding memory address only at the first call, store that address for following calls, and don't bother on PWM stuff. Each call is thus simplified into a single bit operation.",
-        "website": "https://github.com/Silver-Fang/Low-level-quick-digital-IO",
-        "category": "Signal Input/Output",
-        "architectures": "avr",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/Low_level_quick_digital_IO-2.0.0.zip",
-        "archiveFileName": "Low_level_quick_digital_IO-2.0.0.zip",
-        "fullText": "Low level quick digital IO2.0.0EbolaChan <Leenrung@outlook.com>EbolaChan <Leenrung@outlook.com>高性能引脚读写。More efficient digital IO than builtin functions内置的引脚读写函数digitalRead和digitalWrite需要每次将引脚转换成寄存器地址再进行读写，而且还需要检查PWM计时器设定，虽然增加了可靠性，减少了内存占用，但是性能较低，无法满足超高频读写的需求。本库仅在第一次调用时将引脚转换成内存地址，以后直接进行位运算操纵引脚，性能大幅提升，但无法处理PWM情况，适用于简单的高低电平操纵。Builtin functions (digitalRead & digitalWrite) translate pin code into memory address for each call, and will check PWM settings on the Pin. This is more robust but less efficient. My library calculate corresponding memory address only at the first call, store that address for following calls, and don't bother on PWM stuff. Each call is thus simplified into a single bit operation.https://github.com/Silver-Fang/Low-level-quick-digital-IOSignal Input/OutputavrContributedhttps://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/Low_level_quick_digital_IO-2.0.0.zipLow_level_quick_digital_IO-2.0.0.zip"
     },
     {
         "name": "AsyncWebServer_WT32_ETH01",
@@ -94161,7 +94033,7 @@
     },
     {
         "name": "GroPointModbus",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "author": "Anthony Aufdenkampe <aaufdenkampe@limno.com>",
         "maintainer": "Anthony Aufdenkampe <aaufdenkampe@limno.com>",
         "sentence": "Arduino library for communication with GroPoint soil moisture sensors via Modbus.",
@@ -94171,9 +94043,9 @@
         "architectures": "avr, sam, samd",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/GroPointModbus-0.1.3.zip",
-        "archiveFileName": "GroPointModbus-0.1.3.zip",
-        "fullText": "GroPointModbus0.1.3Anthony Aufdenkampe <aaufdenkampe@limno.com>Anthony Aufdenkampe <aaufdenkampe@limno.com>Arduino library for communication with GroPoint soil moisture sensors via Modbus.https://github.com/EnviroDIY/GroPointModbusSensorsavr, sam, samdContributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/GroPointModbus-0.1.3.zipGroPointModbus-0.1.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/GroPointModbus-0.1.4.zip",
+        "archiveFileName": "GroPointModbus-0.1.4.zip",
+        "fullText": "GroPointModbus0.1.4Anthony Aufdenkampe <aaufdenkampe@limno.com>Anthony Aufdenkampe <aaufdenkampe@limno.com>Arduino library for communication with GroPoint soil moisture sensors via Modbus.https://github.com/EnviroDIY/GroPointModbusSensorsavr, sam, samdContributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/GroPointModbus-0.1.4.zipGroPointModbus-0.1.4.zip"
     },
     {
         "name": "Anomalia",
@@ -101537,7 +101409,7 @@
     },
     {
         "name": "roo_scheduler",
-        "version": "2.1.0",
+        "version": "2.1.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Allows scheduling delayed and/or repetitive tasks.",
@@ -101547,9 +101419,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.0.zip",
-        "archiveFileName": "roo_scheduler-2.1.0.zip",
-        "fullText": "roo_scheduler2.1.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.0.ziproo_scheduler-2.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.1.zip",
+        "archiveFileName": "roo_scheduler-2.1.1.zip",
+        "fullText": "roo_scheduler2.1.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.1.ziproo_scheduler-2.1.1.zip"
     },
     {
         "name": "HydroinoJobMgr",
@@ -118848,22 +118720,6 @@
         "fullText": "ESP32epdx1.0.8MikeMikeA library that makes coding a E-paper a breeze.Supports ESP32.https://github.com/gooddisplayshare/ESP32epdxDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/gooddisplayshare/ESP32epdx-1.0.8.zipESP32epdx-1.0.8.zip"
     },
     {
-        "name": "EasySTEAM",
-        "version": "3.0.3",
-        "author": "stemOS",
-        "maintainer": "stemOS",
-        "sentence": "Biblioteca para o controlador EasySTEAM",
-        "paragraph": "Use essa biblioteca para controlar seu robô EasySTEAM por meio da Arduino IDE!",
-        "website": "https://github.com/stemosofc/EasySTEAM",
-        "category": "Device Control",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/stemosofc/EasySTEAM-3.0.3.zip",
-        "archiveFileName": "EasySTEAM-3.0.3.zip",
-        "fullText": "EasySTEAM3.0.3stemOSstemOSBiblioteca para o controlador EasySTEAMUse essa biblioteca para controlar seu robô EasySTEAM por meio da Arduino IDE!https://github.com/stemosofc/EasySTEAMDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/stemosofc/EasySTEAM-3.0.3.zipEasySTEAM-3.0.3.zip"
-    },
-    {
         "name": "PN5180",
         "version": "1.0.0",
         "author": "Alastair Aitchison, Playful Technology",
@@ -119665,7 +119521,7 @@
     },
     {
         "name": "WalterModem",
-        "version": "1.4.2",
+        "version": "1.4.3",
         "author": "Daan Pape",
         "maintainer": "Daan Pape <daan@dptechnics.com>",
         "sentence": "The LTE (NB-IoT and LTE-M) and GNSS library to use with Walter.",
@@ -119675,9 +119531,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/QuickSpot/WalterModem-1.4.2.zip",
-        "archiveFileName": "WalterModem-1.4.2.zip",
-        "fullText": "WalterModem1.4.2Daan PapeDaan Pape <daan@dptechnics.com>The LTE (NB-IoT and LTE-M) and GNSS library to use with Walter.This library allows you to make use of the Sequans Monarch 2 LTE modem and GNSS receiver on Walter.https://www.quickspot.io/Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/QuickSpot/WalterModem-1.4.2.zipWalterModem-1.4.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/QuickSpot/WalterModem-1.4.3.zip",
+        "archiveFileName": "WalterModem-1.4.3.zip",
+        "fullText": "WalterModem1.4.3Daan PapeDaan Pape <daan@dptechnics.com>The LTE (NB-IoT and LTE-M) and GNSS library to use with Walter.This library allows you to make use of the Sequans Monarch 2 LTE modem and GNSS receiver on Walter.https://www.quickspot.io/Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/QuickSpot/WalterModem-1.4.3.zipWalterModem-1.4.3.zip"
     },
     {
         "name": "ADS1115",
@@ -129073,7 +128929,7 @@
     },
     {
         "name": "roo_quantity",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Type-safe and unit-independent representation of physical quantities.",
@@ -129083,13 +128939,13 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.0.0.zip",
-        "archiveFileName": "roo_quantity-1.0.0.zip",
-        "fullText": "roo_quantity1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Type-safe and unit-independent representation of physical quantities.Helps you avoid bugs related to confusing the units or the order of numerical parameters.https://github.com/dejwk/roo_quantitySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.0.0.ziproo_quantity-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.1.0.zip",
+        "archiveFileName": "roo_quantity-1.1.0.zip",
+        "fullText": "roo_quantity1.1.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Type-safe and unit-independent representation of physical quantities.Helps you avoid bugs related to confusing the units or the order of numerical parameters.https://github.com/dejwk/roo_quantitySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.1.0.ziproo_quantity-1.1.0.zip"
     },
     {
         "name": "roo_threads",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Experimental portable threading library for microcontrollers.",
@@ -129099,9 +128955,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.1.zip",
-        "archiveFileName": "roo_threads-1.1.1.zip",
-        "fullText": "roo_threads1.1.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Experimental portable threading library for microcontrollers.Targeting Espressif family primarily, and intended to support local emulation using roo_testing.https://github.com/dejwk/roo_threadsDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.1.ziproo_threads-1.1.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.2.zip",
+        "archiveFileName": "roo_threads-1.1.2.zip",
+        "fullText": "roo_threads1.1.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Experimental portable threading library for microcontrollers.Targeting Espressif family primarily, and intended to support local emulation using roo_testing.https://github.com/dejwk/roo_threadsDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.2.ziproo_threads-1.1.2.zip"
     },
     {
         "name": "BMP390",
@@ -131265,19 +131121,19 @@
     },
     {
         "name": "NezaIR",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "sentence": "A library for sending and receiving IR signals with multiple protocols.",
         "paragraph": "A library for sending and receiving IR signals with multiple protocols.",
         "website": "https://github.com/Nezaemmy/NezaIR",
         "category": "Communication",
-        "architectures": "avr, esp8266, esp32",
+        "architectures": "avr",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.1.zip",
-        "archiveFileName": "NezaIR-1.0.1.zip",
-        "fullText": "NezaIR1.0.1Emmanuel MugwanezaEmmanuel Mugwaneza <nezaemmy1@gmail.com>A library for sending and receiving IR signals with multiple protocols.A library for sending and receiving IR signals with multiple protocols.https://github.com/Nezaemmy/NezaIRCommunicationavr, esp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.1.zipNezaIR-1.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.2.zip",
+        "archiveFileName": "NezaIR-1.0.2.zip",
+        "fullText": "NezaIR1.0.2Emmanuel MugwanezaEmmanuel Mugwaneza <nezaemmy1@gmail.com>A library for sending and receiving IR signals with multiple protocols.A library for sending and receiving IR signals with multiple protocols.https://github.com/Nezaemmy/NezaIRCommunicationavrContributedhttps://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaIR-1.0.2.zipNezaIR-1.0.2.zip"
     },
     {
         "name": "SerialMessageEvents",
@@ -132177,7 +132033,7 @@
     },
     {
         "name": "ILI9341_LTSM",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "sentence": "Library to Support the ILI9341 LCD TFT SPI display",
@@ -132187,9 +132043,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ILI9341_LTSM-1.0.0.zip",
-        "archiveFileName": "ILI9341_LTSM-1.0.0.zip",
-        "fullText": "ILI9341_LTSM1.0.0Gavin Lyons <glyons66@hotmail.com>Gavin Lyons <glyons66@hotmail.com>Library to Support the ILI9341 LCD TFT SPI displayFully featured, Graphics, 1, 8, & 16 bit Bitmap support, 16 fonts included, hardware and software SPI, requires the display16_LTSM library.https://github.com/gavinlyonsrepo/ILI9341_LTSMDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ILI9341_LTSM-1.0.0.zipILI9341_LTSM-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ILI9341_LTSM-1.1.0.zip",
+        "archiveFileName": "ILI9341_LTSM-1.1.0.zip",
+        "fullText": "ILI9341_LTSM1.1.0Gavin Lyons <glyons66@hotmail.com>Gavin Lyons <glyons66@hotmail.com>Library to Support the ILI9341 LCD TFT SPI displayFully featured, Graphics, 1, 8, & 16 bit Bitmap support, 16 fonts included, hardware and software SPI, requires the display16_LTSM library.https://github.com/gavinlyonsrepo/ILI9341_LTSMDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ILI9341_LTSM-1.1.0.zipILI9341_LTSM-1.1.0.zip"
     },
     {
         "name": "HomeSpan-zh",
@@ -132305,7 +132161,7 @@
     },
     {
         "name": "Twin_AIoT",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "author": "TwinScience",
         "maintainer": "abdullah@twinscience.com",
         "sentence": "A library containing example codes for Twin AIoT module.",
@@ -132315,9 +132171,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.7.zip",
-        "archiveFileName": "Twin_AIoT-1.0.7.zip",
-        "fullText": "Twin_AIoT1.0.7TwinScienceabdullah@twinscience.comA library containing example codes for Twin AIoT module.This library is used for ESP32-S3 based custom board designed by TwinSciencehttps://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_libraryDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.7.zipTwin_AIoT-1.0.7.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.8.zip",
+        "archiveFileName": "Twin_AIoT-1.0.8.zip",
+        "fullText": "Twin_AIoT1.0.8TwinScienceabdullah@twinscience.comA library containing example codes for Twin AIoT module.This library is used for ESP32-S3 based custom board designed by TwinSciencehttps://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_libraryDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.8.zipTwin_AIoT-1.0.8.zip"
     },
     {
         "name": "Tektite RotEv Controller",
@@ -132417,7 +132273,7 @@
     },
     {
         "name": "ANBSensorsModbus",
-        "version": "0.2.5",
+        "version": "0.2.6",
         "author": "Sara Damiano <sdamiano@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "sentence": "A library for communicating with pH sensors manufactured by ANB Sensors using Modbus.",
@@ -132427,9 +132283,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.2.5.zip",
-        "archiveFileName": "ANBSensorsModbus-0.2.5.zip",
-        "fullText": "ANBSensorsModbus0.2.5Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>A library for communicating with pH sensors manufactured by ANB Sensors using Modbus.https://github.com/EnviroDIY/ANBSensorsModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.2.5.zipANBSensorsModbus-0.2.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.2.6.zip",
+        "archiveFileName": "ANBSensorsModbus-0.2.6.zip",
+        "fullText": "ANBSensorsModbus0.2.6Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>A library for communicating with pH sensors manufactured by ANB Sensors using Modbus.https://github.com/EnviroDIY/ANBSensorsModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.2.6.zipANBSensorsModbus-0.2.6.zip"
     },
     {
         "name": "7Semi HMC6343 Compass",
@@ -134478,5 +134334,117 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.0.zip",
         "archiveFileName": "MycilaDimmer-1.0.0.zip",
         "fullText": "MycilaDimmer1.0.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to control TRIAC, Random SSR, Voltage Regulator with DfRobot DAC or PWMhttps://github.com/mathieucarbou/MycilaDimmerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.0.zipMycilaDimmer-1.0.0.zip"
+    },
+    {
+        "name": "DietSerial",
+        "version": "1.0.1",
+        "author": "Greg van Paassen <gregvanpaassen+github@gmail.com>",
+        "maintainer": "Greg van Paassen <gregvanpaassen+github@gmail.com>",
+        "sentence": "An alternative to Serial that saves up to 167 bytes of RAM, for Uno, Nano, Pro Mini, breadboard Arduinos.",
+        "paragraph": "Supports all standard print functions, F() macro, PROGMEM strings, but not String objects; has binary data reading and text reading functions. Not quite a drop-in replacement for Serial. Has a few little extras.  Uses the watchdog timer for receive timeout. If you only need to send text (e.g. for logging or debugging), consider SendOnlySerial instead of DietSerial. It uses less flash (program memory) and even less RAM.",
+        "website": "https://github.com/gvp-257/DietSerial",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/gvp-257/DietSerial-1.0.1.zip",
+        "archiveFileName": "DietSerial-1.0.1.zip",
+        "fullText": "DietSerial1.0.1Greg van Paassen <gregvanpaassen+github@gmail.com>Greg van Paassen <gregvanpaassen+github@gmail.com>An alternative to Serial that saves up to 167 bytes of RAM, for Uno, Nano, Pro Mini, breadboard Arduinos.Supports all standard print functions, F() macro, PROGMEM strings, but not String objects; has binary data reading and text reading functions. Not quite a drop-in replacement for Serial. Has a few little extras.  Uses the watchdog timer for receive timeout. If you only need to send text (e.g. for logging or debugging), consider SendOnlySerial instead of DietSerial. It uses less flash (program memory) and even less RAM.https://github.com/gvp-257/DietSerialCommunicationavrContributedhttps://downloads.arduino.cc/libraries/github.com/gvp-257/DietSerial-1.0.1.zipDietSerial-1.0.1.zip"
+    },
+    {
+        "name": "Voltmeter",
+        "version": "1.0.0",
+        "author": "Yesbotics <https://gitlab.com/yesbotics>",
+        "maintainer": "Jens Kabisch, Albrecht Nitsche",
+        "sentence": "Calculates the voltage from voltmeter modules based on voltage divider concept.",
+        "paragraph": "Voltmeter is a minimalistic library that calculates voltage of modules based on voltage divider concept.",
+        "website": "https://gitlab.com/yesbotics/libs/arduino/voltmeter",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/yesbotics/Voltmeter-1.0.0.zip",
+        "archiveFileName": "Voltmeter-1.0.0.zip",
+        "fullText": "Voltmeter1.0.0Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheCalculates the voltage from voltmeter modules based on voltage divider concept.Voltmeter is a minimalistic library that calculates voltage of modules based on voltage divider concept.https://gitlab.com/yesbotics/libs/arduino/voltmeterSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/yesbotics/Voltmeter-1.0.0.zipVoltmeter-1.0.0.zip"
+    },
+    {
+        "name": "IntervalCallback",
+        "version": "1.1.2",
+        "author": "Yesbotics <https://gitlab.com/yesbotics>",
+        "maintainer": "Jens Kabisch, Albrecht Nitsche",
+        "sentence": "Library to call a callback repetively after a certain time.",
+        "paragraph": "IntervalCallback is a minimalistic library to call a callback funtion repetively after a user-specific time in milliseconds. Interval is non-blocking and designed to use minimal memory requirements.",
+        "website": "https://gitlab.com/yesbotics/libs/arduino/interval-callback",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/yesbotics/IntervalCallback-1.1.2.zip",
+        "archiveFileName": "IntervalCallback-1.1.2.zip",
+        "fullText": "IntervalCallback1.1.2Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheLibrary to call a callback repetively after a certain time.IntervalCallback is a minimalistic library to call a callback funtion repetively after a user-specific time in milliseconds. Interval is non-blocking and designed to use minimal memory requirements.https://gitlab.com/yesbotics/libs/arduino/interval-callbackTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/yesbotics/IntervalCallback-1.1.2.zipIntervalCallback-1.1.2.zip"
+    },
+    {
+        "name": "AverageValue",
+        "version": "1.0.0",
+        "author": "Yesbotics <https://gitlab.com/yesbotics>",
+        "maintainer": "Jens Kabisch, Albrecht Nitsche",
+        "sentence": "Calculates the average value of some values.",
+        "paragraph": "AverageValue is a minimalistic library that calculates the average value of given values. It supports multiple datatypes.",
+        "website": "https://gitlab.com/yesbotics/libs/arduino/average-value",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/yesbotics/AverageValue-1.0.0.zip",
+        "archiveFileName": "AverageValue-1.0.0.zip",
+        "fullText": "AverageValue1.0.0Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheCalculates the average value of some values.AverageValue is a minimalistic library that calculates the average value of given values. It supports multiple datatypes.https://gitlab.com/yesbotics/libs/arduino/average-valueData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/yesbotics/AverageValue-1.0.0.zipAverageValue-1.0.0.zip"
+    },
+    {
+        "name": "TimeoutCallback",
+        "version": "1.3.0",
+        "author": "Yesbotics <https://gitlab.com/yesbotics>",
+        "maintainer": "Jens Kabisch, Albrecht Nitsche",
+        "sentence": "Library to call a callback after a certain time.",
+        "paragraph": "Timeout is a minimalistic library to call a callback funtion after a user-specific time in milliseconds. Timeout is non-blocking and designed to use minimal memory requirements.",
+        "website": "https://gitlab.com/yesbotics/libs/arduino/timeout-callback",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/yesbotics/TimeoutCallback-1.3.0.zip",
+        "archiveFileName": "TimeoutCallback-1.3.0.zip",
+        "fullText": "TimeoutCallback1.3.0Yesbotics <https://gitlab.com/yesbotics>Jens Kabisch, Albrecht NitscheLibrary to call a callback after a certain time.Timeout is a minimalistic library to call a callback funtion after a user-specific time in milliseconds. Timeout is non-blocking and designed to use minimal memory requirements.https://gitlab.com/yesbotics/libs/arduino/timeout-callbackTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/yesbotics/TimeoutCallback-1.3.0.zipTimeoutCallback-1.3.0.zip"
+    },
+    {
+        "name": "SimpleSerialProtocol",
+        "version": "2.4.0",
+        "author": "Yesbotics <https://gitlab.com/yesbotics>",
+        "maintainer": "Albrecht Nitsche, Jens Kabisch",
+        "sentence": "Library for communicate between serial port enabled devices",
+        "paragraph": "Provides easy and robust general purpose serial communication between PC side applications and Arduino(-compatible) devices. Arduino implementation of https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-docs",
+        "website": "https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/yesbotics/SimpleSerialProtocol-2.4.0.zip",
+        "archiveFileName": "SimpleSerialProtocol-2.4.0.zip",
+        "fullText": "SimpleSerialProtocol2.4.0Yesbotics <https://gitlab.com/yesbotics>Albrecht Nitsche, Jens KabischLibrary for communicate between serial port enabled devicesProvides easy and robust general purpose serial communication between PC side applications and Arduino(-compatible) devices. Arduino implementation of https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-docshttps://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/yesbotics/SimpleSerialProtocol-2.4.0.zipSimpleSerialProtocol-2.4.0.zip"
+    },
+    {
+        "name": "roo_blink",
+        "version": "1.0.0",
+        "author": "Dejwk <dejwk.oss@gmail.com>",
+        "maintainer": "Dejwk <dejwk.oss@gmail.com>",
+        "sentence": "Blink LEDs like a pro!",
+        "paragraph": null,
+        "website": "https://github.com/dejwk/roo_blink",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_blink-1.0.0.zip",
+        "archiveFileName": "roo_blink-1.0.0.zip",
+        "fullText": "roo_blink1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Blink LEDs like a pro!https://github.com/dejwk/roo_blinkDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_blink-1.0.0.ziproo_blink-1.0.0.zip"
     }
 ]
