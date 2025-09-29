@@ -48145,19 +48145,19 @@
     },
     {
         "name": "MS5611",
-        "version": "0.4.2",
+        "version": "0.5.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for MS5611 temperature and pressure sensor",
-        "paragraph": "Experimental, GY-63, GY63, MS5607.",
+        "paragraph": "Experimental, GY-63, GY63, MS5607,altitude.",
         "website": "https://github.com/RobTillaart/MS5611",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611-0.4.2.zip",
-        "archiveFileName": "MS5611-0.4.2.zip",
-        "fullText": "MS56110.4.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MS5611 temperature and pressure sensorExperimental, GY-63, GY63, MS5607.https://github.com/RobTillaart/MS5611Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611-0.4.2.zipMS5611-0.4.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611-0.5.0.zip",
+        "archiveFileName": "MS5611-0.5.0.zip",
+        "fullText": "MS56110.5.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MS5611 temperature and pressure sensorExperimental, GY-63, GY63, MS5607,altitude.https://github.com/RobTillaart/MS5611Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611-0.5.0.zipMS5611-0.5.0.zip"
     },
     {
         "name": "ML8511",
@@ -48369,19 +48369,19 @@
     },
     {
         "name": "INA226_WE",
-        "version": "1.2.12",
+        "version": "1.3.0",
         "author": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "maintainer": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
-        "sentence": "A library for the INA226 current and power sensor module",
+        "sentence": "A library for INA226 current and power sensor modules",
         "paragraph": "It allows to set the resistor size, number of samples per measurement, conversion ranges. You can chose between continous, triggered and power down mode. Conversion ready and limit alert modes are also implemented.",
         "website": "https://github.com/wollewald/INA226_WE",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/wollewald/INA226_WE-1.2.12.zip",
-        "archiveFileName": "INA226_WE-1.2.12.zip",
-        "fullText": "INA226_WE1.2.12Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>A library for the INA226 current and power sensor moduleIt allows to set the resistor size, number of samples per measurement, conversion ranges. You can chose between continous, triggered and power down mode. Conversion ready and limit alert modes are also implemented.https://github.com/wollewald/INA226_WESensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/wollewald/INA226_WE-1.2.12.zipINA226_WE-1.2.12.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/wollewald/INA226_WE-1.3.0.zip",
+        "archiveFileName": "INA226_WE-1.3.0.zip",
+        "fullText": "INA226_WE1.3.0Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>A library for INA226 current and power sensor modulesIt allows to set the resistor size, number of samples per measurement, conversion ranges. You can chose between continous, triggered and power down mode. Conversion ready and limit alert modes are also implemented.https://github.com/wollewald/INA226_WESensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/wollewald/INA226_WE-1.3.0.zipINA226_WE-1.3.0.zip"
     },
     {
         "name": "weight",
@@ -60753,19 +60753,19 @@
     },
     {
         "name": "SoftServo",
-        "version": "1.2.0",
+        "version": "2.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
-        "sentence": "Library for software servo motor control (by system timer)",
-        "paragraph": "Library for software servo motor control (by system timer)",
+        "sentence": "Library for software servo motor control",
+        "paragraph": "Library for software servo motor control",
         "website": "https://github.com/GyverLibs/SoftServo",
         "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/SoftServo-1.2.0.zip",
-        "archiveFileName": "SoftServo-1.2.0.zip",
-        "fullText": "SoftServo1.2.0AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Library for software servo motor control (by system timer)Library for software servo motor control (by system timer)https://github.com/GyverLibs/SoftServoDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/SoftServo-1.2.0.zipSoftServo-1.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/SoftServo-2.0.0.zip",
+        "archiveFileName": "SoftServo-2.0.0.zip",
+        "fullText": "SoftServo2.0.0AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Library for software servo motor controlLibrary for software servo motor controlhttps://github.com/GyverLibs/SoftServoDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/SoftServo-2.0.0.zipSoftServo-2.0.0.zip"
     },
     {
         "name": "PWMrelay",
@@ -67825,19 +67825,19 @@
     },
     {
         "name": "M5Unified",
-        "version": "0.2.8",
+        "version": "0.2.9",
         "author": "M5Stack",
         "maintainer": "M5Stack",
-        "sentence": "Library for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeter",
+        "sentence": "Library for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeter, M5Tab5",
         "paragraph": "M5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5ATOM, M5STAMP, M5Station, See more on http://M5Stack.com",
         "website": "https://github.com/m5stack/M5Unified.git",
         "category": "Display",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.8.zip",
-        "archiveFileName": "M5Unified-0.2.8.zip",
-        "fullText": "M5Unified0.2.8M5StackM5StackLibrary for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeterM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5ATOM, M5STAMP, M5Station, See more on http://M5Stack.comhttps://github.com/m5stack/M5Unified.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.8.zipM5Unified-0.2.8.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.9.zip",
+        "archiveFileName": "M5Unified-0.2.9.zip",
+        "fullText": "M5Unified0.2.9M5StackM5StackLibrary for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeter, M5Tab5M5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5ATOM, M5STAMP, M5Station, See more on http://M5Stack.comhttps://github.com/m5stack/M5Unified.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.9.zipM5Unified-0.2.9.zip"
     },
     {
         "name": "WireSusi",
@@ -71601,19 +71601,19 @@
     },
     {
         "name": "MS5611_SPI",
-        "version": "0.3.1",
+        "version": "0.4.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library (SPI) for MS5611 temperature and pressure sensor",
-        "paragraph": "Experimental, GY-63, GY63.",
+        "paragraph": "Experimental, GY-63, GY63, altitude.",
         "website": "https://github.com/RobTillaart/MS5611_SPI",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611_SPI-0.3.1.zip",
-        "archiveFileName": "MS5611_SPI-0.3.1.zip",
-        "fullText": "MS5611_SPI0.3.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library (SPI) for MS5611 temperature and pressure sensorExperimental, GY-63, GY63.https://github.com/RobTillaart/MS5611_SPISensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611_SPI-0.3.1.zipMS5611_SPI-0.3.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611_SPI-0.4.0.zip",
+        "archiveFileName": "MS5611_SPI-0.4.0.zip",
+        "fullText": "MS5611_SPI0.4.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library (SPI) for MS5611 temperature and pressure sensorExperimental, GY-63, GY63, altitude.https://github.com/RobTillaart/MS5611_SPISensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5611_SPI-0.4.0.zipMS5611_SPI-0.4.0.zip"
     },
     {
         "name": "ATOM_DTU_CAT1",
@@ -100513,7 +100513,7 @@
     },
     {
         "name": "GyverIO",
-        "version": "1.3.11",
+        "version": "1.3.12",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "sentence": "Fast GPIO operation functions for AVR, ESP8266, ESP32",
@@ -100523,9 +100523,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverIO-1.3.11.zip",
-        "archiveFileName": "GyverIO-1.3.11.zip",
-        "fullText": "GyverIO1.3.11AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Fast GPIO operation functions for AVR, ESP8266, ESP32Fast GPIO operation functions for AVR, ESP8266, ESP32https://github.com/GyverLibs/GyverIOSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverIO-1.3.11.zipGyverIO-1.3.11.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverIO-1.3.12.zip",
+        "archiveFileName": "GyverIO-1.3.12.zip",
+        "fullText": "GyverIO1.3.12AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Fast GPIO operation functions for AVR, ESP8266, ESP32Fast GPIO operation functions for AVR, ESP8266, ESP32https://github.com/GyverLibs/GyverIOSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverIO-1.3.12.zipGyverIO-1.3.12.zip"
     },
     {
         "name": "ESP32Logger2",
@@ -101409,7 +101409,7 @@
     },
     {
         "name": "roo_scheduler",
-        "version": "2.1.1",
+        "version": "2.1.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Allows scheduling delayed and/or repetitive tasks.",
@@ -101419,9 +101419,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.1.zip",
-        "archiveFileName": "roo_scheduler-2.1.1.zip",
-        "fullText": "roo_scheduler2.1.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.1.ziproo_scheduler-2.1.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.2.zip",
+        "archiveFileName": "roo_scheduler-2.1.2.zip",
+        "fullText": "roo_scheduler2.1.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.2.ziproo_scheduler-2.1.2.zip"
     },
     {
         "name": "HydroinoJobMgr",
@@ -102561,19 +102561,19 @@
     },
     {
         "name": "MS5837",
-        "version": "0.2.0",
+        "version": "0.3.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for MS5837 temperature and pressure sensor.",
-        "paragraph": "MS5803",
+        "paragraph": "MS5803,altitude,depth",
         "website": "https://github.com/RobTillaart/MS5837",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.2.0.zip",
-        "archiveFileName": "MS5837-0.2.0.zip",
-        "fullText": "MS58370.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MS5837 temperature and pressure sensor.MS5803https://github.com/RobTillaart/MS5837Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.2.0.zipMS5837-0.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.3.0.zip",
+        "archiveFileName": "MS5837-0.3.0.zip",
+        "fullText": "MS58370.3.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MS5837 temperature and pressure sensor.MS5803,altitude,depthhttps://github.com/RobTillaart/MS5837Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.3.0.zipMS5837-0.3.0.zip"
     },
     {
         "name": "NuS-NimBLE-Serial",
@@ -105505,7 +105505,7 @@
     },
     {
         "name": "madflight",
-        "version": "2.1.3",
+        "version": "2.1.4",
         "author": "qqqlab",
         "maintainer": "qqqlab <madflight@qqqlab.com>",
         "sentence": "Flight Controller for ESP32-S3 / ESP32 / RP2350 / RP2040 / STM32",
@@ -105515,9 +105515,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.3.zip",
-        "archiveFileName": "madflight-2.1.3.zip",
-        "fullText": "madflight2.1.3qqqlabqqqlab <madflight@qqqlab.com>Flight Controller for ESP32-S3 / ESP32 / RP2350 / RP2040 / STM32Flight tested with readily available development boards and sensor breakout boards. Build a quadcopter, helicoper, airplane or VTOL craft. Includes modules for PID control, CRSF/ELRS/DSMX/SBUS receiver and telemetry, AHRS, GPS, barometer, magnetometer, calibration, command line interface, black box data logging.https://madflight.com/arduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.3.zipmadflight-2.1.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.4.zip",
+        "archiveFileName": "madflight-2.1.4.zip",
+        "fullText": "madflight2.1.4qqqlabqqqlab <madflight@qqqlab.com>Flight Controller for ESP32-S3 / ESP32 / RP2350 / RP2040 / STM32Flight tested with readily available development boards and sensor breakout boards. Build a quadcopter, helicoper, airplane or VTOL craft. Includes modules for PID control, CRSF/ELRS/DSMX/SBUS receiver and telemetry, AHRS, GPS, barometer, magnetometer, calibration, command line interface, black box data logging.https://madflight.com/arduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/qqqlab/madflight-2.1.4.zipmadflight-2.1.4.zip"
     },
     {
         "name": "SuperTimers",
@@ -113393,7 +113393,7 @@
     },
     {
         "name": "roo_onewire",
-        "version": "1.0.1",
+        "version": "2.0.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Arduino library for OneWire thermometers.",
@@ -113403,9 +113403,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-1.0.1.zip",
-        "archiveFileName": "roo_onewire-1.0.1.zip",
-        "fullText": "roo_onewire1.0.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino library for OneWire thermometers.Supports asynchronous conversion with event notification, and persistent configuration to dynamically (re)assign static thermometer 'roles' to specific devices.https://github.com/dejwk/roo_onewireSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-1.0.1.ziproo_onewire-1.0.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-2.0.1.zip",
+        "archiveFileName": "roo_onewire-2.0.1.zip",
+        "fullText": "roo_onewire2.0.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino library for OneWire thermometers.Supports asynchronous conversion with event notification, and persistent configuration to dynamically (re)assign static thermometer 'roles' to specific devices.https://github.com/dejwk/roo_onewireSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-2.0.1.ziproo_onewire-2.0.1.zip"
     },
     {
         "name": "roo_windows_wifi",
@@ -123281,19 +123281,19 @@
     },
     {
         "name": "FlipDotMatrix",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "author": "Tanner Stokes <tanner@tannr.com>",
         "maintainer": "Tanner Stokes <tanner@tannr.com>",
         "sentence": "Adafruit GFX-compatible library for Alfa-Zeta flip dot panels.",
         "paragraph": "Supports one or more 28x7, 14x7, and 7x7 panels in a grid layout.",
-        "website": "https://github.com/twstokes/flipdots",
+        "website": "https://github.com/twstokes/flipdotmatrix",
         "category": "Display",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/twstokes/FlipDotMatrix-0.1.1.zip",
-        "archiveFileName": "FlipDotMatrix-0.1.1.zip",
-        "fullText": "FlipDotMatrix0.1.1Tanner Stokes <tanner@tannr.com>Tanner Stokes <tanner@tannr.com>Adafruit GFX-compatible library for Alfa-Zeta flip dot panels.Supports one or more 28x7, 14x7, and 7x7 panels in a grid layout.https://github.com/twstokes/flipdotsDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/twstokes/FlipDotMatrix-0.1.1.zipFlipDotMatrix-0.1.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/twstokes/FlipDotMatrix-0.1.2.zip",
+        "archiveFileName": "FlipDotMatrix-0.1.2.zip",
+        "fullText": "FlipDotMatrix0.1.2Tanner Stokes <tanner@tannr.com>Tanner Stokes <tanner@tannr.com>Adafruit GFX-compatible library for Alfa-Zeta flip dot panels.Supports one or more 28x7, 14x7, and 7x7 panels in a grid layout.https://github.com/twstokes/flipdotmatrixDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/twstokes/FlipDotMatrix-0.1.2.zipFlipDotMatrix-0.1.2.zip"
     },
     {
         "name": "QRCodeGFX",
@@ -131697,7 +131697,7 @@
     },
     {
         "name": "ST7735_LTSM",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "sentence": "Library to Support the ST7735 TFT LCD display",
@@ -131707,9 +131707,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ST7735_LTSM-1.0.0.zip",
-        "archiveFileName": "ST7735_LTSM-1.0.0.zip",
-        "fullText": "ST7735_LTSM1.0.0Gavin Lyons <glyons66@hotmail.com>Gavin Lyons <glyons66@hotmail.com>Library to Support the ST7735 TFT LCD displayFully featured, Graphics, 1, 8, & 16 bit Bitmap support, 16 fonts included, hardware and software SPI, requires the display16_LTSM library.https://github.com/gavinlyonsrepo/ST7735_LTSMDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ST7735_LTSM-1.0.0.zipST7735_LTSM-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ST7735_LTSM-1.1.0.zip",
+        "archiveFileName": "ST7735_LTSM-1.1.0.zip",
+        "fullText": "ST7735_LTSM1.1.0Gavin Lyons <glyons66@hotmail.com>Gavin Lyons <glyons66@hotmail.com>Library to Support the ST7735 TFT LCD displayFully featured, Graphics, 1, 8, & 16 bit Bitmap support, 16 fonts included, hardware and software SPI, requires the display16_LTSM library.https://github.com/gavinlyonsrepo/ST7735_LTSMDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/gavinlyonsrepo/ST7735_LTSM-1.1.0.zipST7735_LTSM-1.1.0.zip"
     },
     {
         "name": "MentorBit-CANBus",
@@ -132257,7 +132257,7 @@
     },
     {
         "name": "DShotRMT",
-        "version": "0.8.3",
+        "version": "0.8.6",
         "author": "Wastl Kraus <wir-sind-die-matrix.de>",
         "maintainer": "Wastl Kraus <wir-sind-die-matrix.de>",
         "sentence": "DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.",
@@ -132267,9 +132267,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.3.zip",
-        "archiveFileName": "DShotRMT-0.8.3.zip",
-        "fullText": "DShotRMT0.8.3Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.3.zipDShotRMT-0.8.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.6.zip",
+        "archiveFileName": "DShotRMT-0.8.6.zip",
+        "fullText": "DShotRMT0.8.6Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.6.zipDShotRMT-0.8.6.zip"
     },
     {
         "name": "ANBSensorsModbus",
@@ -134446,5 +134446,21 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_blink-1.0.0.zip",
         "archiveFileName": "roo_blink-1.0.0.zip",
         "fullText": "roo_blink1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Blink LEDs like a pro!https://github.com/dejwk/roo_blinkDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_blink-1.0.0.ziproo_blink-1.0.0.zip"
+    },
+    {
+        "name": "HanumanMini",
+        "version": "1.0.0",
+        "author": "ArtronAcademy",
+        "maintainer": "ArtronAcademy <artronacademy@gmail.com>",
+        "sentence": "Library for HanumanMini",
+        "paragraph": "Robot Control Board",
+        "website": "https://github.com/Chanatip112/HanumanMini",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Chanatip112/HanumanMini-1.0.0.zip",
+        "archiveFileName": "HanumanMini-1.0.0.zip",
+        "fullText": "HanumanMini1.0.0ArtronAcademyArtronAcademy <artronacademy@gmail.com>Library for HanumanMiniRobot Control Boardhttps://github.com/Chanatip112/HanumanMiniDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Chanatip112/HanumanMini-1.0.0.zipHanumanMini-1.0.0.zip"
     }
 ]
