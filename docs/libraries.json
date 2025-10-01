@@ -109361,7 +109361,7 @@
     },
     {
         "name": "AdvancedLogger",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "author": "Jibril Sharafi <jibril.sharafi@gmail.com>",
         "maintainer": "Jibril Sharafi <jibril.sharafi@gmail.com>",
         "sentence": "Library for simple logging to memory with comprehensive format.",
@@ -109371,9 +109371,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/jibrilsharafi/AdvancedLogger-2.0.0.zip",
-        "archiveFileName": "AdvancedLogger-2.0.0.zip",
-        "fullText": "AdvancedLogger2.0.0Jibril Sharafi <jibril.sharafi@gmail.com>Jibril Sharafi <jibril.sharafi@gmail.com>Library for simple logging to memory with comprehensive format.Easy to use, logs to memory using LittleFS and the format contains all the information you need. Configuration is stored in ESP32 Preferences (NVS).https://github.com/jibrilsharafi/AdvancedLoggerCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/jibrilsharafi/AdvancedLogger-2.0.0.zipAdvancedLogger-2.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/jibrilsharafi/AdvancedLogger-2.0.1.zip",
+        "archiveFileName": "AdvancedLogger-2.0.1.zip",
+        "fullText": "AdvancedLogger2.0.1Jibril Sharafi <jibril.sharafi@gmail.com>Jibril Sharafi <jibril.sharafi@gmail.com>Library for simple logging to memory with comprehensive format.Easy to use, logs to memory using LittleFS and the format contains all the information you need. Configuration is stored in ESP32 Preferences (NVS).https://github.com/jibrilsharafi/AdvancedLoggerCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/jibrilsharafi/AdvancedLogger-2.0.1.zipAdvancedLogger-2.0.1.zip"
     },
     {
         "name": "LoR",
@@ -130769,7 +130769,7 @@
     },
     {
         "name": "BLE-Gamepad-Client",
-        "version": "0.8.0",
+        "version": "0.8.1",
         "author": "Tomasz Bekas",
         "maintainer": "Tomasz Bekas",
         "sentence": "Enables connecting BLE gamepads to ESP32 boards.",
@@ -130779,9 +130779,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.8.0.zip",
-        "archiveFileName": "BLE_Gamepad_Client-0.8.0.zip",
-        "fullText": "BLE-Gamepad-Client0.8.0Tomasz BekasTomasz BekasEnables connecting BLE gamepads to ESP32 boards.Supported gamepads include the Xbox Wireless Controller and the Steam Controller.https://github.com/tbekas/BLE-Gamepad-ClientCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.8.0.zipBLE_Gamepad_Client-0.8.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.8.1.zip",
+        "archiveFileName": "BLE_Gamepad_Client-0.8.1.zip",
+        "fullText": "BLE-Gamepad-Client0.8.1Tomasz BekasTomasz BekasEnables connecting BLE gamepads to ESP32 boards.Supported gamepads include the Xbox Wireless Controller and the Steam Controller.https://github.com/tbekas/BLE-Gamepad-ClientCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/tbekas/BLE_Gamepad_Client-0.8.1.zipBLE_Gamepad_Client-0.8.1.zip"
     },
     {
         "name": "WiFiCreds",
@@ -130881,7 +130881,7 @@
     },
     {
         "name": "NezaButton",
-        "version": "1.0.2",
+        "version": "1.0.4",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "sentence": "Arduino button library for detecting single, double, and long clicks.",
@@ -130891,9 +130891,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaButton-1.0.2.zip",
-        "archiveFileName": "NezaButton-1.0.2.zip",
-        "fullText": "NezaButton1.0.2Emmanuel MugwanezaEmmanuel Mugwaneza <nezaemmy1@gmail.com>Arduino button library for detecting single, double, and long clicks.NezaButton is a simple Arduino library for handling button clicks with debounce, multiclick, and long click detection.https://github.com/Nezaemmy/NezaButtonSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaButton-1.0.2.zipNezaButton-1.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaButton-1.0.4.zip",
+        "archiveFileName": "NezaButton-1.0.4.zip",
+        "fullText": "NezaButton1.0.4Emmanuel MugwanezaEmmanuel Mugwaneza <nezaemmy1@gmail.com>Arduino button library for detecting single, double, and long clicks.NezaButton is a simple Arduino library for handling button clicks with debounce, multiclick, and long click detection.https://github.com/Nezaemmy/NezaButtonSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Nezaemmy/NezaButton-1.0.4.zipNezaButton-1.0.4.zip"
     },
     {
         "name": "TinySleeper",
@@ -132417,7 +132417,7 @@
     },
     {
         "name": "AnalogControlPanel",
-        "version": "0.6.2",
+        "version": "0.6.4",
         "author": "Greg van Paassen <gregvanpaassen+github@gmail.com>",
         "maintainer": "Greg van Paassen <gregvanpaassen+github@gmail.com>",
         "sentence": "Faster analog reads and more for your Uno/Nano/Pro Mini.",
@@ -132427,9 +132427,9 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.2.zip",
-        "archiveFileName": "AnalogControlPanel-0.6.2.zip",
-        "fullText": "AnalogControlPanel0.6.2Greg van Paassen <gregvanpaassen+github@gmail.com>Greg van Paassen <gregvanpaassen+github@gmail.com>Faster analog reads and more for your Uno/Nano/Pro Mini.Asynchronous or non-blocking reads. Continuous asynchronous readings - \"free-running mode\". Event-triggered readings - external pin or timer based. Power the ADC on and off. Examples: test your ADC, use one pin with five buttons. Get more control of your Uno/Nano/Pro Mini's built-in ADC.https://github.com/gvp-257/AnalogControlPanelSignal Input/OutputavrContributedhttps://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.2.zipAnalogControlPanel-0.6.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.4.zip",
+        "archiveFileName": "AnalogControlPanel-0.6.4.zip",
+        "fullText": "AnalogControlPanel0.6.4Greg van Paassen <gregvanpaassen+github@gmail.com>Greg van Paassen <gregvanpaassen+github@gmail.com>Faster analog reads and more for your Uno/Nano/Pro Mini.Asynchronous or non-blocking reads. Continuous asynchronous readings - \"free-running mode\". Event-triggered readings - external pin or timer based. Power the ADC on and off. Examples: test your ADC, use one pin with five buttons. Get more control of your Uno/Nano/Pro Mini's built-in ADC.https://github.com/gvp-257/AnalogControlPanelSignal Input/OutputavrContributedhttps://downloads.arduino.cc/libraries/github.com/gvp-257/AnalogControlPanel-0.6.4.zipAnalogControlPanel-0.6.4.zip"
     },
     {
         "name": "AyresWiFiManager",
@@ -134273,7 +134273,7 @@
     },
     {
         "name": "ESP Discord Client",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>",
         "maintainer": "Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>",
         "sentence": "Send messages from ESP8266/ESP32 to Discord using webhooks",
@@ -134283,9 +134283,9 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ababdelo/ESP_Discord_Client-1.0.0.zip",
-        "archiveFileName": "ESP_Discord_Client-1.0.0.zip",
-        "fullText": "ESP Discord Client1.0.0Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>Send messages from ESP8266/ESP32 to Discord using webhooksA cross-platform Arduino library that enables ESP8266 and ESP32 microcontrollers to send messages directly to Discord channels using webhooks. Includes automatic timestamp generation, WiFi management, and secure HTTPS communication. Perfect for IoT notifications, sensor alerts, and remote monitoring applications.https://github.com/ababdelo/ESPDiscordClientCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ababdelo/ESP_Discord_Client-1.0.0.zipESP_Discord_Client-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/ababdelo/ESP_Discord_Client-1.1.0.zip",
+        "archiveFileName": "ESP_Discord_Client-1.1.0.zip",
+        "fullText": "ESP Discord Client1.1.0Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>Abderrahmane Abdelouafi <ababdelo.ed42@gmail.com>Send messages from ESP8266/ESP32 to Discord using webhooksA cross-platform Arduino library that enables ESP8266 and ESP32 microcontrollers to send messages directly to Discord channels using webhooks. Includes automatic timestamp generation, WiFi management, and secure HTTPS communication. Perfect for IoT notifications, sensor alerts, and remote monitoring applications.https://github.com/ababdelo/ESPDiscordClientCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ababdelo/ESP_Discord_Client-1.1.0.zipESP_Discord_Client-1.1.0.zip"
     },
     {
         "name": "Aerobotix_Arduino_nav",
@@ -134494,5 +134494,133 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/PubInv/SFM3X00-1.0.1.zip",
         "archiveFileName": "SFM3X00-1.0.1.zip",
         "fullText": "SFM3X001.0.1Lauria Clarke, Robert ReadPublic Invention <read.robert@pubinv.org>Sensirion SFM3200 and SFM3400 library for ArduinoThis library provides a lightweight interface to the Sensirion SFM3400 and SFM3200 flow sensors.https://github.com/PubInv/SFM3X00Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/PubInv/SFM3X00-1.0.1.zipSFM3X00-1.0.1.zip"
+    },
+    {
+        "name": "TEXHOUM_US",
+        "version": "1.0.2",
+        "author": "TEXHOUM",
+        "maintainer": "TEXHOUM_US",
+        "sentence": "Библиотека для работы с ультразвуковыми датчиками расстояния в составе ПАК.",
+        "paragraph": "Датчики подключаются к трём разъёмам и позволяют определять расстояние от 2 см до 1,5 м.",
+        "website": "https://github.com/TEXHOUM/TEXHOUM_US",
+        "category": "Sensors",
+        "architectures": "avr, esp8266, esp32, mbed_rp2040, renesas_uno",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_US-1.0.2.zip",
+        "archiveFileName": "TEXHOUM_US-1.0.2.zip",
+        "fullText": "TEXHOUM_US1.0.2TEXHOUMTEXHOUM_USБиблиотека для работы с ультразвуковыми датчиками расстояния в составе ПАК.Датчики подключаются к трём разъёмам и позволяют определять расстояние от 2 см до 1,5 м.https://github.com/TEXHOUM/TEXHOUM_USSensorsavr, esp8266, esp32, mbed_rp2040, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_US-1.0.2.zipTEXHOUM_US-1.0.2.zip"
+    },
+    {
+        "name": "TEXHOUM_MOTOR",
+        "version": "1.0.3",
+        "author": "TEXHOUM",
+        "maintainer": "TEXHOUM",
+        "sentence": "Библиотека для работы с DC моторами при помощи драйверов L298N в составе ПАК.",
+        "paragraph": "Для управления одним мотором используется 1 цифровой и 1 ШИМ пин.",
+        "website": "https://github.com/TEXHOUM/TEXHOUM_MOTOR",
+        "category": "Device Control",
+        "architectures": "avr, esp8266, esp32, mbed_rp2040, renesas_uno",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_MOTOR-1.0.3.zip",
+        "archiveFileName": "TEXHOUM_MOTOR-1.0.3.zip",
+        "fullText": "TEXHOUM_MOTOR1.0.3TEXHOUMTEXHOUMБиблиотека для работы с DC моторами при помощи драйверов L298N в составе ПАК.Для управления одним мотором используется 1 цифровой и 1 ШИМ пин.https://github.com/TEXHOUM/TEXHOUM_MOTORDevice Controlavr, esp8266, esp32, mbed_rp2040, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_MOTOR-1.0.3.zipTEXHOUM_MOTOR-1.0.3.zip"
+    },
+    {
+        "name": "TEXHOUM_SERVO",
+        "version": "1.0.4",
+        "author": "TEXHOUM",
+        "maintainer": "TEXHOUM",
+        "sentence": "Библиотека для сервомоторами в составе ПАК.",
+        "paragraph": "Для управления одним сервомотором используется 1 цифровой пин.",
+        "website": "https://github.com/TEXHOUM/TEXHOUM_SERVO",
+        "category": "Device Control",
+        "architectures": "avr, esp8266, esp32, mbed_rp2040, renesas_uno",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_SERVO-1.0.4.zip",
+        "archiveFileName": "TEXHOUM_SERVO-1.0.4.zip",
+        "fullText": "TEXHOUM_SERVO1.0.4TEXHOUMTEXHOUMБиблиотека для сервомоторами в составе ПАК.Для управления одним сервомотором используется 1 цифровой пин.https://github.com/TEXHOUM/TEXHOUM_SERVODevice Controlavr, esp8266, esp32, mbed_rp2040, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_SERVO-1.0.4.zipTEXHOUM_SERVO-1.0.4.zip"
+    },
+    {
+        "name": "Alteriom_EByte_LoRa_E220",
+        "version": "1.1.5",
+        "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "maintainer": "Alteriom <contact@alteriom.com>",
+        "sentence": "LoRa EBYTE E220 device library complete and tested with Arduino, esp8266, esp32, STM32 and Raspberry Pi Pico. LLCC68",
+        "paragraph": "Alteriom fork of Ebyte E220 LoRa (Long Range) library device very cheap and very long range (from 5Km to 10Km). Arduino LoRa EBYTE E220 device library complete and tested with Arduino, esp8266, esp32, STM32 and Raspberry Pi Pico. Enhanced with automated CI/CD, releases, and modern package management. LLCC68",
+        "website": "https://github.com/Alteriom/EByte_LoRa_E220_Series_Library",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Alteriom/Alteriom_EByte_LoRa_E220-1.1.5.zip",
+        "archiveFileName": "Alteriom_EByte_LoRa_E220-1.1.5.zip",
+        "fullText": "Alteriom_EByte_LoRa_E2201.1.5Renzo Mischianti <renzo.mischianti@gmail.com>Alteriom <contact@alteriom.com>LoRa EBYTE E220 device library complete and tested with Arduino, esp8266, esp32, STM32 and Raspberry Pi Pico. LLCC68Alteriom fork of Ebyte E220 LoRa (Long Range) library device very cheap and very long range (from 5Km to 10Km). Arduino LoRa EBYTE E220 device library complete and tested with Arduino, esp8266, esp32, STM32 and Raspberry Pi Pico. Enhanced with automated CI/CD, releases, and modern package management. LLCC68https://github.com/Alteriom/EByte_LoRa_E220_Series_LibraryCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/Alteriom/Alteriom_EByte_LoRa_E220-1.1.5.zipAlteriom_EByte_LoRa_E220-1.1.5.zip"
+    },
+    {
+        "name": "Sensirion UPT BLE Server",
+        "version": "1.0.0",
+        "author": "Bjoern Muntwyler, Jonas Stolle",
+        "maintainer": "Sensirion AG <sensirion.com>",
+        "sentence": "Library for BLE communication with the MyAmbience app.",
+        "paragraph": "Examples sending BLE advertisement data to MyAmbience using the ESP32 platform are provided.",
+        "website": "https://github.com/Sensirion/arduino-upt-ble-server",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_BLE_Server-1.0.0.zip",
+        "archiveFileName": "Sensirion_UPT_BLE_Server-1.0.0.zip",
+        "fullText": "Sensirion UPT BLE Server1.0.0Bjoern Muntwyler, Jonas StolleSensirion AG <sensirion.com>Library for BLE communication with the MyAmbience app.Examples sending BLE advertisement data to MyAmbience using the ESP32 platform are provided.https://github.com/Sensirion/arduino-upt-ble-serverCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_BLE_Server-1.0.0.zipSensirion_UPT_BLE_Server-1.0.0.zip"
+    },
+    {
+        "name": "RadiaCode",
+        "version": "1.0.0",
+        "author": "Markus Geiger",
+        "maintainer": "Markus Geiger",
+        "sentence": "A library for interfacing with RadiaCode radiation detection devices",
+        "paragraph": "This library provides an Arduino interface for controlling RadiaCode radiation detection devices via Bluetooth connections. It supports device configuration, data acquisition and spectrum analysis.",
+        "website": "https://github.com/mkgeiger/RadiaCode",
+        "category": "Device Control",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/mkgeiger/RadiaCode-1.0.0.zip",
+        "archiveFileName": "RadiaCode-1.0.0.zip",
+        "fullText": "RadiaCode1.0.0Markus GeigerMarkus GeigerA library for interfacing with RadiaCode radiation detection devicesThis library provides an Arduino interface for controlling RadiaCode radiation detection devices via Bluetooth connections. It supports device configuration, data acquisition and spectrum analysis.https://github.com/mkgeiger/RadiaCodeDevice ControlContributedhttps://downloads.arduino.cc/libraries/github.com/mkgeiger/RadiaCode-1.0.0.zipRadiaCode-1.0.0.zip"
+    },
+    {
+        "name": "VLCB",
+        "version": "1.0.0",
+        "author": "Sven Rosvall <sven@rosvall.ie>",
+        "maintainer": "Sven Rosvall <sven@rosvall.ie>",
+        "sentence": "Library for VLCB",
+        "paragraph": "Implements functionality required to create a VLCB module based on MCP2515 and MCP2562 ICs",
+        "website": "https://github.com/SvenRosvall/VLCB-Arduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/SvenRosvall/VLCB-1.0.0.zip",
+        "archiveFileName": "VLCB-1.0.0.zip",
+        "fullText": "VLCB1.0.0Sven Rosvall <sven@rosvall.ie>Sven Rosvall <sven@rosvall.ie>Library for VLCBImplements functionality required to create a VLCB module based on MCP2515 and MCP2562 ICshttps://github.com/SvenRosvall/VLCB-ArduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/SvenRosvall/VLCB-1.0.0.zipVLCB-1.0.0.zip"
+    },
+    {
+        "name": "Alteriom PainlessMesh",
+        "version": "1.6.1",
+        "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
+        "maintainer": "Alteriom",
+        "sentence": "A painless way to setup a mesh with ESP8266 and ESP32 devices with Alteriom extensions",
+        "paragraph": "painlessMesh is a user-friendly library for creating mesh networks with ESP8266 and ESP32 devices. This Alteriom fork includes additional packages for sensor data (SensorPackage), device commands (CommandPackage), and status monitoring (StatusPackage). It handles routing and network management automatically, so you can focus on your application. The library uses JSON-based messaging and syncs time across all nodes, making it ideal for coordinated behaviour like synchronized light displays or sensor networks reporting to a central node.",
+        "website": "https://github.com/Alteriom/painlessMesh",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Alteriom/Alteriom_PainlessMesh-1.6.1.zip",
+        "archiveFileName": "Alteriom_PainlessMesh-1.6.1.zip",
+        "fullText": "Alteriom PainlessMesh1.6.1Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,AlteriomAlteriomA painless way to setup a mesh with ESP8266 and ESP32 devices with Alteriom extensionspainlessMesh is a user-friendly library for creating mesh networks with ESP8266 and ESP32 devices. This Alteriom fork includes additional packages for sensor data (SensorPackage), device commands (CommandPackage), and status monitoring (StatusPackage). It handles routing and network management automatically, so you can focus on your application. The library uses JSON-based messaging and syncs time across all nodes, making it ideal for coordinated behaviour like synchronized light displays or sensor networks reporting to a central node.https://github.com/Alteriom/painlessMeshCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Alteriom/Alteriom_PainlessMesh-1.6.1.zipAlteriom_PainlessMesh-1.6.1.zip"
     }
 ]
