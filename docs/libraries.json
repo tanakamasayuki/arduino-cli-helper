@@ -17185,7 +17185,7 @@
     },
     {
         "name": "Adafruit APDS9960 Library",
-        "version": "1.3.0",
+        "version": "1.3.1",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "sentence": "This is a library for the Adafruit APDS9960 gesture/proximity/color/light sensor.",
@@ -17195,9 +17195,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_APDS9960_Library-1.3.0.zip",
-        "archiveFileName": "Adafruit_APDS9960_Library-1.3.0.zip",
-        "fullText": "Adafruit APDS9960 Library1.3.0AdafruitAdafruit <info@adafruit.com>This is a library for the Adafruit APDS9960 gesture/proximity/color/light sensor.This is a library for the Adafruit APDS9960 gesture/proximity/color/light sensor.https://github.com/adafruit/Adafruit_APDS9960Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_APDS9960_Library-1.3.0.zipAdafruit_APDS9960_Library-1.3.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_APDS9960_Library-1.3.1.zip",
+        "archiveFileName": "Adafruit_APDS9960_Library-1.3.1.zip",
+        "fullText": "Adafruit APDS9960 Library1.3.1AdafruitAdafruit <info@adafruit.com>This is a library for the Adafruit APDS9960 gesture/proximity/color/light sensor.This is a library for the Adafruit APDS9960 gesture/proximity/color/light sensor.https://github.com/adafruit/Adafruit_APDS9960Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_APDS9960_Library-1.3.1.zipAdafruit_APDS9960_Library-1.3.1.zip"
     },
     {
         "name": "Ramp",
@@ -60529,7 +60529,7 @@
     },
     {
         "name": "M5GFX",
-        "version": "0.2.14",
+        "version": "0.2.15",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "sentence": "Library for M5Stack All Display",
@@ -60539,9 +60539,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.14.zip",
-        "archiveFileName": "M5GFX-0.2.14.zip",
-        "fullText": "M5GFX0.2.14M5StackM5StackLibrary for M5Stack All DisplayM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5Station, M5ATOMS3, Unit OLED, Unit LCD, Unit RCA, ATOM Display, See more on http://M5Stack.comhttps://github.com/m5stack/M5GFX.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.14.zipM5GFX-0.2.14.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.15.zip",
+        "archiveFileName": "M5GFX-0.2.15.zip",
+        "fullText": "M5GFX0.2.15M5StackM5StackLibrary for M5Stack All DisplayM5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5Station, M5ATOMS3, Unit OLED, Unit LCD, Unit RCA, ATOM Display, See more on http://M5Stack.comhttps://github.com/m5stack/M5GFX.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5GFX-0.2.15.zipM5GFX-0.2.15.zip"
     },
     {
         "name": "Tachometer",
@@ -67825,7 +67825,7 @@
     },
     {
         "name": "M5Unified",
-        "version": "0.2.9",
+        "version": "0.2.10",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "sentence": "Library for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeter, M5Tab5",
@@ -67835,9 +67835,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.9.zip",
-        "archiveFileName": "M5Unified-0.2.9.zip",
-        "fullText": "M5Unified0.2.9M5StackM5StackLibrary for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeter, M5Tab5M5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5ATOM, M5STAMP, M5Station, See more on http://M5Stack.comhttps://github.com/m5stack/M5Unified.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.9.zipM5Unified-0.2.9.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.10.zip",
+        "archiveFileName": "M5Unified-0.2.10.zip",
+        "fullText": "M5Unified0.2.10M5StackM5StackLibrary for M5Stack/Core2/Tough/CoreS3/CoreS3SE, M5StickC/C-Plus/C-Plus2, M5CoreInk, M5Paper, M5ATOM, M5STAMP, M5Station, M5Dial, M5DinMeter, M5Capsule, M5Cardputer, M5VAMeter, M5Tab5M5Stack, M5Stack Core2, M5Stack CoreInk, M5StickC, M5StickC-Plus, M5Paper, M5Tough, M5ATOM, M5STAMP, M5Station, See more on http://M5Stack.comhttps://github.com/m5stack/M5Unified.gitDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/m5stack/M5Unified-0.2.10.zipM5Unified-0.2.10.zip"
     },
     {
         "name": "WireSusi",
@@ -71425,9 +71425,9 @@
     },
     {
         "name": "wdt_samd21",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "author": "Guglielmo Braguglia <guglielmo.braguglia@phoenixsea.ch>",
-        "maintainer": "Guglielmo Braguglia <guglielmo.braguglia@phoenixsea.ch>",
+        "maintainer": "Guglielmo Braguglia <guglielmo@braguglia.ch>",
         "sentence": "A very simple library for the management of the WDT on ATSAMD21.",
         "paragraph": "A simple library to activate, reset, deactivate and reactivate the WDT on ATSAMD21. From the original work of MartinL (arduino forum: https://forum.arduino.cc/u/MartinL).",
         "website": "https://github.com/gpb01/wdt_samd21",
@@ -71435,9 +71435,9 @@
         "architectures": "samd",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/gpb01/wdt_samd21-1.1.0.zip",
-        "archiveFileName": "wdt_samd21-1.1.0.zip",
-        "fullText": "wdt_samd211.1.0Guglielmo Braguglia <guglielmo.braguglia@phoenixsea.ch>Guglielmo Braguglia <guglielmo.braguglia@phoenixsea.ch>A very simple library for the management of the WDT on ATSAMD21.A simple library to activate, reset, deactivate and reactivate the WDT on ATSAMD21. From the original work of MartinL (arduino forum: https://forum.arduino.cc/u/MartinL).https://github.com/gpb01/wdt_samd21Device ControlsamdContributedhttps://downloads.arduino.cc/libraries/github.com/gpb01/wdt_samd21-1.1.0.zipwdt_samd21-1.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/gpb01/wdt_samd21-1.2.0.zip",
+        "archiveFileName": "wdt_samd21-1.2.0.zip",
+        "fullText": "wdt_samd211.2.0Guglielmo Braguglia <guglielmo.braguglia@phoenixsea.ch>Guglielmo Braguglia <guglielmo@braguglia.ch>A very simple library for the management of the WDT on ATSAMD21.A simple library to activate, reset, deactivate and reactivate the WDT on ATSAMD21. From the original work of MartinL (arduino forum: https://forum.arduino.cc/u/MartinL).https://github.com/gpb01/wdt_samd21Device ControlsamdContributedhttps://downloads.arduino.cc/libraries/github.com/gpb01/wdt_samd21-1.2.0.zipwdt_samd21-1.2.0.zip"
     },
     {
         "name": "PixelGrid",
@@ -103009,7 +103009,7 @@
     },
     {
         "name": "MAVLink",
-        "version": "2.0.21",
+        "version": "2.0.22",
         "author": "Oleg Kalachev <okalachev@gmail.com",
         "maintainer": "Oleg Kalachev <okalachev@gmail.com>",
         "sentence": "MAVLink v2 for Arduino.",
@@ -103019,9 +103019,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/okalachev/MAVLink-2.0.21.zip",
-        "archiveFileName": "MAVLink-2.0.21.zip",
-        "fullText": "MAVLink2.0.21Oleg Kalachev <okalachev@gmail.comOleg Kalachev <okalachev@gmail.com>MAVLink v2 for Arduino.MAVLink is a lightweight communication protocol for communication between drones (and/or ground systems) and their components.https://github.com/okalachev/mavlink-arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/okalachev/MAVLink-2.0.21.zipMAVLink-2.0.21.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/okalachev/MAVLink-2.0.22.zip",
+        "archiveFileName": "MAVLink-2.0.22.zip",
+        "fullText": "MAVLink2.0.22Oleg Kalachev <okalachev@gmail.comOleg Kalachev <okalachev@gmail.com>MAVLink v2 for Arduino.MAVLink is a lightweight communication protocol for communication between drones (and/or ground systems) and their components.https://github.com/okalachev/mavlink-arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/okalachev/MAVLink-2.0.22.zipMAVLink-2.0.22.zip"
     },
     {
         "name": "EloquentRTLS",
@@ -107281,7 +107281,7 @@
     },
     {
         "name": "FirebaseClient",
-        "version": "2.2.1",
+        "version": "2.2.2",
         "author": "Mobizt",
         "maintainer": "Mobizt <k_suwatchai@hotmail.com>",
         "sentence": "Async Firebase Client library for Arduino",
@@ -107291,9 +107291,9 @@
         "architectures": "esp8266, esp32, sam, samd, stm32, STM32F1, STM32F4, teensy, mbed_nano, mbed_rp2040, rp2040, mbed_giga, mbed_portenta, mbed_opta, renesas_uno",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mobizt/FirebaseClient-2.2.1.zip",
-        "archiveFileName": "FirebaseClient-2.2.1.zip",
-        "fullText": "FirebaseClient2.2.1MobiztMobizt <k_suwatchai@hotmail.com>Async Firebase Client library for ArduinoThis library supports Firebase products e.g. Realtime database, Cloud Firestore database, Firebase Storage and Google Cloud Storage, Cloud Functions for Firebase and Cloud Messaging. The library also supported other Arduino devices using Clients interfaces e.g. WiFiClient, EthernetClient, and GSMClient.https://github.com/mobizt/FirebaseClientCommunicationesp8266, esp32, sam, samd, stm32, STM32F1, STM32F4, teensy, mbed_nano, mbed_rp2040, rp2040, mbed_giga, mbed_portenta, mbed_opta, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/mobizt/FirebaseClient-2.2.1.zipFirebaseClient-2.2.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/mobizt/FirebaseClient-2.2.2.zip",
+        "archiveFileName": "FirebaseClient-2.2.2.zip",
+        "fullText": "FirebaseClient2.2.2MobiztMobizt <k_suwatchai@hotmail.com>Async Firebase Client library for ArduinoThis library supports Firebase products e.g. Realtime database, Cloud Firestore database, Firebase Storage and Google Cloud Storage, Cloud Functions for Firebase and Cloud Messaging. The library also supported other Arduino devices using Clients interfaces e.g. WiFiClient, EthernetClient, and GSMClient.https://github.com/mobizt/FirebaseClientCommunicationesp8266, esp32, sam, samd, stm32, STM32F1, STM32F4, teensy, mbed_nano, mbed_rp2040, rp2040, mbed_giga, mbed_portenta, mbed_opta, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/mobizt/FirebaseClient-2.2.2.zipFirebaseClient-2.2.2.zip"
     },
     {
         "name": "TLC5917",
@@ -127425,7 +127425,7 @@
     },
     {
         "name": "Sensirion UPT Display",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "author": "Maximilian Paulsen, Quentin Fisch",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Easily display UPT measurements on compatible hardware.",
@@ -127435,9 +127435,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.1.zip",
-        "archiveFileName": "Sensirion_UPT_Display-0.2.1.zip",
-        "fullText": "Sensirion UPT Display0.2.1Maximilian Paulsen, Quentin FischSensirion AG <sensirion.com>Easily display UPT measurements on compatible hardware.The library provides functions to easily display sensor measurements and basic device information.https://github.com/Sensirion/arduino-upt-displayDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.1.zipSensirion_UPT_Display-0.2.1.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.2.zip",
+        "archiveFileName": "Sensirion_UPT_Display-0.2.2.zip",
+        "fullText": "Sensirion UPT Display0.2.2Maximilian Paulsen, Quentin FischSensirion AG <sensirion.com>Easily display UPT measurements on compatible hardware.The library provides functions to easily display sensor measurements and basic device information.https://github.com/Sensirion/arduino-upt-displayDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.2.zipSensirion_UPT_Display-0.2.2.zip"
     },
     {
         "name": "STM32duino LSM6DSV16BX",
@@ -128849,9 +128849,9 @@
     },
     {
         "name": "MacRandomizer",
-        "version": "1.0.0",
-        "author": "Minhaj Udin Hassan",
-        "maintainer": "Minhaj Udin Hassan <mdhassan49.muh@gmail.com>",
+        "version": "1.0.1",
+        "author": "Minhaj Uddin Hassan",
+        "maintainer": "Minhaj Uddin Hassan <mdhassan49.muh@gmail.com>",
         "sentence": "Randomize the MAC address of your WiFi interface following IEEE rules.",
         "paragraph": "This library allows you to randomize the MAC address of boards like ESP32 in a standards-compliant way before connecting to WiFi.",
         "website": "https://github.com/muhpuc40/MacRandomizer",
@@ -128859,9 +128859,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/muhpuc40/MacRandomizer-1.0.0.zip",
-        "archiveFileName": "MacRandomizer-1.0.0.zip",
-        "fullText": "MacRandomizer1.0.0Minhaj Udin HassanMinhaj Udin Hassan <mdhassan49.muh@gmail.com>Randomize the MAC address of your WiFi interface following IEEE rules.This library allows you to randomize the MAC address of boards like ESP32 in a standards-compliant way before connecting to WiFi.https://github.com/muhpuc40/MacRandomizerCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/muhpuc40/MacRandomizer-1.0.0.zipMacRandomizer-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/muhpuc40/MacRandomizer-1.0.1.zip",
+        "archiveFileName": "MacRandomizer-1.0.1.zip",
+        "fullText": "MacRandomizer1.0.1Minhaj Uddin HassanMinhaj Uddin Hassan <mdhassan49.muh@gmail.com>Randomize the MAC address of your WiFi interface following IEEE rules.This library allows you to randomize the MAC address of boards like ESP32 in a standards-compliant way before connecting to WiFi.https://github.com/muhpuc40/MacRandomizerCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/muhpuc40/MacRandomizer-1.0.1.zipMacRandomizer-1.0.1.zip"
     },
     {
         "name": "A4988",
@@ -132257,7 +132257,7 @@
     },
     {
         "name": "DShotRMT",
-        "version": "0.8.6",
+        "version": "0.8.7",
         "author": "Wastl Kraus <wir-sind-die-matrix.de>",
         "maintainer": "Wastl Kraus <wir-sind-die-matrix.de>",
         "sentence": "DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.",
@@ -132267,9 +132267,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.6.zip",
-        "archiveFileName": "DShotRMT-0.8.6.zip",
-        "fullText": "DShotRMT0.8.6Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.6.zipDShotRMT-0.8.6.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.7.zip",
+        "archiveFileName": "DShotRMT-0.8.7.zip",
+        "fullText": "DShotRMT0.8.7Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.7.zipDShotRMT-0.8.7.zip"
     },
     {
         "name": "ANBSensorsModbus",
@@ -132641,7 +132641,7 @@
     },
     {
         "name": "ESP32_MCPWM",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Little Man Builds",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "sentence": "Practical ESP32 MCPWM H-bridge motor driver with soft-brake, dead-time, center-aligned PWM, safety and capture fallbacks.",
@@ -132651,9 +132651,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.0.0.zip",
-        "archiveFileName": "ESP32_MCPWM-1.0.0.zip",
-        "fullText": "ESP32_MCPWM1.0.0Little Man BuildsLittle Man Builds <littlemanbuilds@gmail.com>Practical ESP32 MCPWM H-bridge motor driver with soft-brake, dead-time, center-aligned PWM, safety and capture fallbacks.Tiny surface API with full configuration via structs. Supports Arduino-ESP32. Includes examples for quick start and advanced features.https://github.com/littlemanbuilds/ESP32_MCPWMDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.0.0.zipESP32_MCPWM-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.1.0.zip",
+        "archiveFileName": "ESP32_MCPWM-1.1.0.zip",
+        "fullText": "ESP32_MCPWM1.1.0Little Man BuildsLittle Man Builds <littlemanbuilds@gmail.com>Practical ESP32 MCPWM H-bridge motor driver with soft-brake, dead-time, center-aligned PWM, safety and capture fallbacks.Tiny surface API with full configuration via structs. Supports Arduino-ESP32. Includes examples for quick start and advanced features.https://github.com/littlemanbuilds/ESP32_MCPWMDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.1.0.zipESP32_MCPWM-1.1.0.zip"
     },
     {
         "name": "ToFFilter",
@@ -133089,7 +133089,7 @@
     },
     {
         "name": "Universal_Button",
-        "version": "1.2.0",
+        "version": "1.3.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "sentence": "Generic multi-button handler with debounce, short/long events, exact last-press duration, pluggable readers, and enum-friendly API.",
@@ -133099,9 +133099,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.2.0.zip",
-        "archiveFileName": "Universal_Button-1.2.0.zip",
-        "fullText": "Universal_Button1.2.0Little Man Builds (Darren Osborne)Little Man Builds <littlemanbuilds@gmail.com>Generic multi-button handler with debounce, short/long events, exact last-press duration, pluggable readers, and enum-friendly API.Header-only Arduino library for handling multiple buttons with robust debounce; short/long classification; exact getLastPressDuration(); per-button overrides (timing/polarity/enable); reader callbacks for GPIO and expanders (e.g., MCP23017); and helpers (peek/clear/heldMillis/reset). Includes GPIO, port-expander, and cached-read examples.https://github.com/LittleManBuilds/Universal_ButtonSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.2.0.zipUniversal_Button-1.2.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.3.0.zip",
+        "archiveFileName": "Universal_Button-1.3.0.zip",
+        "fullText": "Universal_Button1.3.0Little Man Builds (Darren Osborne)Little Man Builds <littlemanbuilds@gmail.com>Generic multi-button handler with debounce, short/long events, exact last-press duration, pluggable readers, and enum-friendly API.Header-only Arduino library for handling multiple buttons with robust debounce; short/long classification; exact getLastPressDuration(); per-button overrides (timing/polarity/enable); reader callbacks for GPIO and expanders (e.g., MCP23017); and helpers (peek/clear/heldMillis/reset). Includes GPIO, port-expander, and cached-read examples.https://github.com/LittleManBuilds/Universal_ButtonSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.3.0.zipUniversal_Button-1.3.0.zip"
     },
     {
         "name": "7Semi_MAX17048",
@@ -133537,7 +133537,7 @@
     },
     {
         "name": "tinkeriot",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Fauzan Khairi bin Che Harun <fauzan@utm.my>",
         "maintainer": "Fauzan Khairi bin Che Harun <fauzan@utm.my>",
         "sentence": "A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.",
@@ -133547,9 +133547,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.4.zip",
-        "archiveFileName": "tinkeriot-1.0.4.zip",
-        "fullText": "tinkeriot1.0.4Fauzan Khairi bin Che Harun <fauzan@utm.my>Fauzan Khairi bin Che Harun <fauzan@utm.my>A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.https://github.com/ezz-30/arduino_tinkeriotCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.4.ziptinkeriot-1.0.4.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.5.zip",
+        "archiveFileName": "tinkeriot-1.0.5.zip",
+        "fullText": "tinkeriot1.0.5Fauzan Khairi bin Che Harun <fauzan@utm.my>Fauzan Khairi bin Che Harun <fauzan@utm.my>A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.https://github.com/ezz-30/arduino_tinkeriotCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.5.ziptinkeriot-1.0.5.zip"
     },
     {
         "name": "Boton",
@@ -134529,19 +134529,19 @@
     },
     {
         "name": "TEXHOUM_SERVO",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "TEXHOUM",
         "maintainer": "TEXHOUM",
-        "sentence": "Библиотека для сервомоторами в составе ПАК.",
+        "sentence": "Библиотека для управления сервомоторами в составе ПАК.",
         "paragraph": "Для управления одним сервомотором используется 1 цифровой пин.",
         "website": "https://github.com/TEXHOUM/TEXHOUM_SERVO",
         "category": "Device Control",
         "architectures": "avr, esp8266, esp32, mbed_rp2040, renesas_uno",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_SERVO-1.0.4.zip",
-        "archiveFileName": "TEXHOUM_SERVO-1.0.4.zip",
-        "fullText": "TEXHOUM_SERVO1.0.4TEXHOUMTEXHOUMБиблиотека для сервомоторами в составе ПАК.Для управления одним сервомотором используется 1 цифровой пин.https://github.com/TEXHOUM/TEXHOUM_SERVODevice Controlavr, esp8266, esp32, mbed_rp2040, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_SERVO-1.0.4.zipTEXHOUM_SERVO-1.0.4.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_SERVO-1.0.5.zip",
+        "archiveFileName": "TEXHOUM_SERVO-1.0.5.zip",
+        "fullText": "TEXHOUM_SERVO1.0.5TEXHOUMTEXHOUMБиблиотека для управления сервомоторами в составе ПАК.Для управления одним сервомотором используется 1 цифровой пин.https://github.com/TEXHOUM/TEXHOUM_SERVODevice Controlavr, esp8266, esp32, mbed_rp2040, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/TEXHOUM/TEXHOUM_SERVO-1.0.5.zipTEXHOUM_SERVO-1.0.5.zip"
     },
     {
         "name": "Alteriom_EByte_LoRa_E220",
@@ -134622,5 +134622,37 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/Alteriom/Alteriom_PainlessMesh-1.6.1.zip",
         "archiveFileName": "Alteriom_PainlessMesh-1.6.1.zip",
         "fullText": "Alteriom PainlessMesh1.6.1Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,AlteriomAlteriomA painless way to setup a mesh with ESP8266 and ESP32 devices with Alteriom extensionspainlessMesh is a user-friendly library for creating mesh networks with ESP8266 and ESP32 devices. This Alteriom fork includes additional packages for sensor data (SensorPackage), device commands (CommandPackage), and status monitoring (StatusPackage). It handles routing and network management automatically, so you can focus on your application. The library uses JSON-based messaging and syncs time across all nodes, making it ideal for coordinated behaviour like synchronized light displays or sensor networks reporting to a central node.https://github.com/Alteriom/painlessMeshCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Alteriom/Alteriom_PainlessMesh-1.6.1.zipAlteriom_PainlessMesh-1.6.1.zip"
+    },
+    {
+        "name": "SimpleNetManager",
+        "version": "1.1.0",
+        "author": "PWhite-Eng",
+        "maintainer": "PWhite-Eng",
+        "sentence": "A simple, non-blocking, event-driven manager for Arduino Ethernet connections.",
+        "paragraph": "Handles DHCP/Static IP, automatic reconnections, and provides event callbacks for connect/disconnect events. Fully non-blocking design.",
+        "website": "https://github.com/PWhite-Eng/SimpleNetManager.git",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/PWhite-Eng/SimpleNetManager-1.1.0.zip",
+        "archiveFileName": "SimpleNetManager-1.1.0.zip",
+        "fullText": "SimpleNetManager1.1.0PWhite-EngPWhite-EngA simple, non-blocking, event-driven manager for Arduino Ethernet connections.Handles DHCP/Static IP, automatic reconnections, and provides event callbacks for connect/disconnect events. Fully non-blocking design.https://github.com/PWhite-Eng/SimpleNetManager.gitCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/PWhite-Eng/SimpleNetManager-1.1.0.zipSimpleNetManager-1.1.0.zip"
+    },
+    {
+        "name": "Frugal-IoT",
+        "version": "0.0.3",
+        "author": "Mitra Ardron",
+        "maintainer": "Mitra Ardron <mitra@mitra.biz>",
+        "sentence": "Platform for affordable sensors",
+        "paragraph": "The Frugal-IoT library implement an easy to use platform for a variety of sensors communicating over WiFi, LoRa, MQTT etc",
+        "website": "https://github.com/mitra42/frugal-iot",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.3.zip",
+        "archiveFileName": "Frugal_IoT-0.0.3.zip",
+        "fullText": "Frugal-IoT0.0.3Mitra ArdronMitra Ardron <mitra@mitra.biz>Platform for affordable sensorsThe Frugal-IoT library implement an easy to use platform for a variety of sensors communicating over WiFi, LoRa, MQTT etchttps://github.com/mitra42/frugal-iotSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.3.zipFrugal_IoT-0.0.3.zip"
     }
 ]
