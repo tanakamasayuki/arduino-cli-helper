@@ -104,6 +104,9 @@ if ($res === false) {
 
 $rows = array();
 while ($row = $res->fetchArray(SQLITE3_ASSOC)) {
+    if (isset($row['dependencies'])) {
+        $row['dependencies'] = explode(', ', $row['dependencies']);
+    }
     $rows[] = $row;
 }
 $db->close();
