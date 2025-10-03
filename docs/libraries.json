@@ -47969,7 +47969,7 @@
     },
     {
         "name": "Histogram",
-        "version": "0.3.7",
+        "version": "0.4.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for creating histograms math.",
@@ -47979,9 +47979,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/Histogram-0.3.7.zip",
-        "archiveFileName": "Histogram-0.3.7.zip",
-        "fullText": "Histogram0.3.7Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for creating histograms math.https://github.com/RobTillaart/HistogramData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/Histogram-0.3.7.zipHistogram-0.3.7.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/Histogram-0.4.0.zip",
+        "archiveFileName": "Histogram-0.4.0.zip",
+        "fullText": "Histogram0.4.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for creating histograms math.https://github.com/RobTillaart/HistogramData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/Histogram-0.4.0.zipHistogram-0.4.0.zip"
     },
     {
         "name": "Microbot_Motor_Shield",
@@ -61569,19 +61569,19 @@
     },
     {
         "name": "ICM20948_WE",
-        "version": "1.2.5",
+        "version": "1.2.6",
         "author": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "maintainer": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "sentence": "A library for the 9-axis accelerometer, gyrometer and magnetometer ICM20948",
-        "paragraph": "An easy-to-use library with lots of example sketches. It allows to use most of the features of the MPU9250 including FIFO.",
+        "paragraph": "An easy-to-use library with lots of example sketches. It allows to use most of the features of the ICM20948 including FIFO.",
         "website": "https://github.com/wollewald/ICM20948_WE",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/wollewald/ICM20948_WE-1.2.5.zip",
-        "archiveFileName": "ICM20948_WE-1.2.5.zip",
-        "fullText": "ICM20948_WE1.2.5Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>A library for the 9-axis accelerometer, gyrometer and magnetometer ICM20948An easy-to-use library with lots of example sketches. It allows to use most of the features of the MPU9250 including FIFO.https://github.com/wollewald/ICM20948_WESensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/wollewald/ICM20948_WE-1.2.5.zipICM20948_WE-1.2.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/wollewald/ICM20948_WE-1.2.6.zip",
+        "archiveFileName": "ICM20948_WE-1.2.6.zip",
+        "fullText": "ICM20948_WE1.2.6Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>A library for the 9-axis accelerometer, gyrometer and magnetometer ICM20948An easy-to-use library with lots of example sketches. It allows to use most of the features of the ICM20948 including FIFO.https://github.com/wollewald/ICM20948_WESensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/wollewald/ICM20948_WE-1.2.6.zipICM20948_WE-1.2.6.zip"
     },
     {
         "name": "RPI_PICO_TimerInterrupt",
@@ -68737,7 +68737,7 @@
     },
     {
         "name": "Approxy",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "sentence": "Library approximating arrays of data",
@@ -68747,9 +68747,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/Approxy-1.1.0.zip",
-        "archiveFileName": "Approxy-1.1.0.zip",
-        "fullText": "Approxy1.1.0AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Library approximating arrays of dataLibrary approximating arrays of datahttps://github.com/GyverLibs/ApproxyData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/Approxy-1.1.0.zipApproxy-1.1.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/Approxy-1.1.1.zip",
+        "archiveFileName": "Approxy-1.1.1.zip",
+        "fullText": "Approxy1.1.1AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Library approximating arrays of dataLibrary approximating arrays of datahttps://github.com/GyverLibs/ApproxyData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/Approxy-1.1.1.zipApproxy-1.1.1.zip"
     },
     {
         "name": "Bolder Flight Systems Airdata Calculations",
@@ -80241,7 +80241,7 @@
     },
     {
         "name": "MicroOsc",
-        "version": "0.1.7",
+        "version": "0.1.9",
         "author": "Thomas O Fredericks",
         "maintainer": "Thomas O Fredericks",
         "sentence": "Simple and lightweight Open Sound Control (OSC) library",
@@ -80251,9 +80251,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/thomasfredericks/MicroOsc-0.1.7.zip",
-        "archiveFileName": "MicroOsc-0.1.7.zip",
-        "fullText": "MicroOsc0.1.7Thomas O FredericksThomas O FredericksSimple and lightweight Open Sound Control (OSC) libraryThis simple and lightweight OSC library provides a unified API to work over UDP (Ethernet or Wifi and SLIP (Serial). It does not hold on to state and error checking is minimal. A few Arduino and application (Pure Data, Max, Node JS) examples are included.https://github.com/thomasfredericks/MicroOscCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/thomasfredericks/MicroOsc-0.1.7.zipMicroOsc-0.1.7.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/thomasfredericks/MicroOsc-0.1.9.zip",
+        "archiveFileName": "MicroOsc-0.1.9.zip",
+        "fullText": "MicroOsc0.1.9Thomas O FredericksThomas O FredericksSimple and lightweight Open Sound Control (OSC) libraryThis simple and lightweight OSC library provides a unified API to work over UDP (Ethernet or Wifi and SLIP (Serial). It does not hold on to state and error checking is minimal. A few Arduino and application (Pure Data, Max, Node JS) examples are included.https://github.com/thomasfredericks/MicroOscCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/thomasfredericks/MicroOsc-0.1.9.zipMicroOsc-0.1.9.zip"
     },
     {
         "name": "ATmega_TimerInterrupt",
@@ -97937,7 +97937,7 @@
     },
     {
         "name": "GFX4dESP32",
-        "version": "1.1.5",
+        "version": "1.1.6",
         "author": "4D Systems Pty Ltd",
         "maintainer": "4D Systems Pty Ltd <engineering@4dsystems.com.au>",
         "sentence": "Graphics Library for the gen4-ESP32 displays by 4D Systems",
@@ -97947,9 +97947,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/4dsystems/GFX4dESP32-1.1.5.zip",
-        "archiveFileName": "GFX4dESP32-1.1.5.zip",
-        "fullText": "GFX4dESP321.1.54D Systems Pty Ltd4D Systems Pty Ltd <engineering@4dsystems.com.au>Graphics Library for the gen4-ESP32 displays by 4D SystemsThis is a library which enables graphics to be easily added to the gen4-ESP32 modules using the Arduino IDE or Workshop4 IDE.https://github.com/4dsystems/GFX4dESP32Displayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/4dsystems/GFX4dESP32-1.1.5.zipGFX4dESP32-1.1.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/4dsystems/GFX4dESP32-1.1.6.zip",
+        "archiveFileName": "GFX4dESP32-1.1.6.zip",
+        "fullText": "GFX4dESP321.1.64D Systems Pty Ltd4D Systems Pty Ltd <engineering@4dsystems.com.au>Graphics Library for the gen4-ESP32 displays by 4D SystemsThis is a library which enables graphics to be easily added to the gen4-ESP32 modules using the Arduino IDE or Workshop4 IDE.https://github.com/4dsystems/GFX4dESP32Displayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/4dsystems/GFX4dESP32-1.1.6.zipGFX4dESP32-1.1.6.zip"
     },
     {
         "name": "haversine",
@@ -102561,7 +102561,7 @@
     },
     {
         "name": "MS5837",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for MS5837 temperature and pressure sensor.",
@@ -102571,9 +102571,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.3.0.zip",
-        "archiveFileName": "MS5837-0.3.0.zip",
-        "fullText": "MS58370.3.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MS5837 temperature and pressure sensor.MS5803,altitude,depthhttps://github.com/RobTillaart/MS5837Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.3.0.zipMS5837-0.3.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.3.1.zip",
+        "archiveFileName": "MS5837-0.3.1.zip",
+        "fullText": "MS58370.3.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MS5837 temperature and pressure sensor.MS5803,altitude,depthhttps://github.com/RobTillaart/MS5837Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MS5837-0.3.1.zipMS5837-0.3.1.zip"
     },
     {
         "name": "NuS-NimBLE-Serial",
@@ -105153,7 +105153,7 @@
     },
     {
         "name": "Sensirion UPT Core",
-        "version": "0.9.5",
+        "version": "1.0.0",
         "author": "Jonas Stolle, Maximilian Paulsen",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Library for definitions and configurations used by other Sensirion Unified Prototyping Toolkit (UPT) libraries.",
@@ -105163,9 +105163,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-0.9.5.zip",
-        "archiveFileName": "Sensirion_UPT_Core-0.9.5.zip",
-        "fullText": "Sensirion UPT Core0.9.5Jonas Stolle, Maximilian PaulsenSensirion AG <sensirion.com>Library for definitions and configurations used by other Sensirion Unified Prototyping Toolkit (UPT) libraries.There shouldn't be a reason to use it directly, but other libraries might depend on it.https://github.com/Sensirion/arduino-upt-coreOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-0.9.5.zipSensirion_UPT_Core-0.9.5.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-1.0.0.zip",
+        "archiveFileName": "Sensirion_UPT_Core-1.0.0.zip",
+        "fullText": "Sensirion UPT Core1.0.0Jonas Stolle, Maximilian PaulsenSensirion AG <sensirion.com>Library for definitions and configurations used by other Sensirion Unified Prototyping Toolkit (UPT) libraries.There shouldn't be a reason to use it directly, but other libraries might depend on it.https://github.com/Sensirion/arduino-upt-coreOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Core-1.0.0.zipSensirion_UPT_Core-1.0.0.zip"
     },
     {
         "name": "EByte RF E70 library",
@@ -106145,7 +106145,7 @@
     },
     {
         "name": "Sensirion UPT I2C Auto Detection",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "author": "Jonas Stolle, Maximilian Paulsen",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Automatically detects Sensirion Sensors on an I2C bus and reads out measurement data.",
@@ -106155,9 +106155,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_I2C_Auto_Detection-1.0.0.zip",
-        "archiveFileName": "Sensirion_UPT_I2C_Auto_Detection-1.0.0.zip",
-        "fullText": "Sensirion UPT I2C Auto Detection1.0.0Jonas Stolle, Maximilian PaulsenSensirion AG <sensirion.com>Automatically detects Sensirion Sensors on an I2C bus and reads out measurement data.Sensors can be read out collectively using a single method. The resulting data points include information about the sensor origin, units and the measurement timestamp.https://github.com/Sensirion/arduino-upt-i2c-auto-detectionSensorsesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_I2C_Auto_Detection-1.0.0.zipSensirion_UPT_I2C_Auto_Detection-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_I2C_Auto_Detection-2.0.0.zip",
+        "archiveFileName": "Sensirion_UPT_I2C_Auto_Detection-2.0.0.zip",
+        "fullText": "Sensirion UPT I2C Auto Detection2.0.0Jonas Stolle, Maximilian PaulsenSensirion AG <sensirion.com>Automatically detects Sensirion Sensors on an I2C bus and reads out measurement data.Sensors can be read out collectively using a single method. The resulting data points include information about the sensor origin, units and the measurement timestamp.https://github.com/Sensirion/arduino-upt-i2c-auto-detectionSensorsesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_I2C_Auto_Detection-2.0.0.zipSensirion_UPT_I2C_Auto_Detection-2.0.0.zip"
     },
     {
         "name": "PowerFeather-SDK",
@@ -106769,7 +106769,7 @@
     },
     {
         "name": "EQSP32",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "Erqos Technologies info@erqos.com",
         "maintainer": "Erqos Technologies",
         "sentence": "A library for controlling your EQSP32 - ESP32 Industrial IoT Controller.",
@@ -106779,9 +106779,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.2.zip",
-        "archiveFileName": "EQSP32-1.0.2.zip",
-        "fullText": "EQSP321.0.2Erqos Technologies info@erqos.comErqos TechnologiesA library for controlling your EQSP32 - ESP32 Industrial IoT Controller.This library provides an API to use all EQSP32 features. It automatically handles all analog/digital IO updates, special pin modes, expansion module automatic detection and handling, MQTT for Home Assistant, Node-RED, etc. and EQConnect mobile configuration utility for provisioning.https://erqos.com/Device Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.2.zipEQSP32-1.0.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.3.zip",
+        "archiveFileName": "EQSP32-1.0.3.zip",
+        "fullText": "EQSP321.0.3Erqos Technologies info@erqos.comErqos TechnologiesA library for controlling your EQSP32 - ESP32 Industrial IoT Controller.This library provides an API to use all EQSP32 features. It automatically handles all analog/digital IO updates, special pin modes, expansion module automatic detection and handling, MQTT for Home Assistant, Node-RED, etc. and EQConnect mobile configuration utility for provisioning.https://erqos.com/Device Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Erqos/EQSP32-1.0.3.zipEQSP32-1.0.3.zip"
     },
     {
         "name": "MT6701-arduino",
@@ -123073,7 +123073,7 @@
     },
     {
         "name": "LTC2485",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for LTC2485 I2C 24 bit ADC.",
@@ -123083,9 +123083,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/LTC2485-0.1.3.zip",
-        "archiveFileName": "LTC2485-0.1.3.zip",
-        "fullText": "LTC24850.1.3Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for LTC2485 I2C 24 bit ADC.https://github.com/RobTillaart/LTC2485Data Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/LTC2485-0.1.3.zipLTC2485-0.1.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/LTC2485-0.1.4.zip",
+        "archiveFileName": "LTC2485-0.1.4.zip",
+        "fullText": "LTC24850.1.4Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for LTC2485 I2C 24 bit ADC.https://github.com/RobTillaart/LTC2485Data Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/LTC2485-0.1.4.zipLTC2485-0.1.4.zip"
     },
     {
         "name": "AbleTP",
@@ -127425,7 +127425,7 @@
     },
     {
         "name": "Sensirion UPT Display",
-        "version": "0.2.2",
+        "version": "0.3.0",
         "author": "Maximilian Paulsen, Quentin Fisch",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Easily display UPT measurements on compatible hardware.",
@@ -127435,9 +127435,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.2.zip",
-        "archiveFileName": "Sensirion_UPT_Display-0.2.2.zip",
-        "fullText": "Sensirion UPT Display0.2.2Maximilian Paulsen, Quentin FischSensirion AG <sensirion.com>Easily display UPT measurements on compatible hardware.The library provides functions to easily display sensor measurements and basic device information.https://github.com/Sensirion/arduino-upt-displayDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.2.2.zipSensirion_UPT_Display-0.2.2.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.3.0.zip",
+        "archiveFileName": "Sensirion_UPT_Display-0.3.0.zip",
+        "fullText": "Sensirion UPT Display0.3.0Maximilian Paulsen, Quentin FischSensirion AG <sensirion.com>Easily display UPT measurements on compatible hardware.The library provides functions to easily display sensor measurements and basic device information.https://github.com/Sensirion/arduino-upt-displayDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_Display-0.3.0.zipSensirion_UPT_Display-0.3.0.zip"
     },
     {
         "name": "STM32duino LSM6DSV16BX",
@@ -132257,7 +132257,7 @@
     },
     {
         "name": "DShotRMT",
-        "version": "0.8.7",
+        "version": "0.8.9",
         "author": "Wastl Kraus <wir-sind-die-matrix.de>",
         "maintainer": "Wastl Kraus <wir-sind-die-matrix.de>",
         "sentence": "DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.",
@@ -132267,9 +132267,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.7.zip",
-        "archiveFileName": "DShotRMT-0.8.7.zip",
-        "fullText": "DShotRMT0.8.7Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.7.zipDShotRMT-0.8.7.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.9.zip",
+        "archiveFileName": "DShotRMT-0.8.9.zip",
+        "fullText": "DShotRMT0.8.9Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.9.zipDShotRMT-0.8.9.zip"
     },
     {
         "name": "ANBSensorsModbus",
@@ -134177,7 +134177,7 @@
     },
     {
         "name": "PqLEDStrip",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "author": "Thomas O Fredericks & Sofian Audry",
         "maintainer": "Thomas O Fredericks",
         "sentence": "LED strip library for Plaquette",
@@ -134187,9 +134187,9 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.3.zip",
-        "archiveFileName": "PqLEDStrip-1.0.3.zip",
-        "fullText": "PqLEDStrip1.0.3Thomas O Fredericks & Sofian AudryThomas O FredericksLED strip library for PlaquetteLibrary to control LED strips with Plaquette. It uses the FastLED library for LED control. It was initially developed with FastLED 3.10.1https://github.com/SofaPirate/PqLEDStripDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.3.zipPqLEDStrip-1.0.3.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.4.zip",
+        "archiveFileName": "PqLEDStrip-1.0.4.zip",
+        "fullText": "PqLEDStrip1.0.4Thomas O Fredericks & Sofian AudryThomas O FredericksLED strip library for PlaquetteLibrary to control LED strips with Plaquette. It uses the FastLED library for LED control. It was initially developed with FastLED 3.10.1https://github.com/SofaPirate/PqLEDStripDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/SofaPirate/PqLEDStrip-1.0.4.zipPqLEDStrip-1.0.4.zip"
     },
     {
         "name": "SHT4x",
@@ -134321,7 +134321,7 @@
     },
     {
         "name": "MycilaDimmer",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "ESP32 / Arduino Library to control TRIAC, Random SSR, Voltage Regulator with DfRobot DAC or PWM",
@@ -134331,9 +134331,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.0.zip",
-        "archiveFileName": "MycilaDimmer-1.0.0.zip",
-        "fullText": "MycilaDimmer1.0.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to control TRIAC, Random SSR, Voltage Regulator with DfRobot DAC or PWMhttps://github.com/mathieucarbou/MycilaDimmerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.0.zipMycilaDimmer-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.1.zip",
+        "archiveFileName": "MycilaDimmer-1.0.1.zip",
+        "fullText": "MycilaDimmer1.0.1Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>ESP32 / Arduino Library to control TRIAC, Random SSR, Voltage Regulator with DfRobot DAC or PWMhttps://github.com/mathieucarbou/MycilaDimmerOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaDimmer-1.0.1.zipMycilaDimmer-1.0.1.zip"
     },
     {
         "name": "DietSerial",
@@ -134561,7 +134561,7 @@
     },
     {
         "name": "Sensirion UPT BLE Server",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Bjoern Muntwyler, Jonas Stolle",
         "maintainer": "Sensirion AG <sensirion.com>",
         "sentence": "Library for BLE communication with the MyAmbience app.",
@@ -134571,9 +134571,9 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_BLE_Server-1.0.0.zip",
-        "archiveFileName": "Sensirion_UPT_BLE_Server-1.0.0.zip",
-        "fullText": "Sensirion UPT BLE Server1.0.0Bjoern Muntwyler, Jonas StolleSensirion AG <sensirion.com>Library for BLE communication with the MyAmbience app.Examples sending BLE advertisement data to MyAmbience using the ESP32 platform are provided.https://github.com/Sensirion/arduino-upt-ble-serverCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_BLE_Server-1.0.0.zipSensirion_UPT_BLE_Server-1.0.0.zip"
+        "url": "https://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_BLE_Server-1.1.0.zip",
+        "archiveFileName": "Sensirion_UPT_BLE_Server-1.1.0.zip",
+        "fullText": "Sensirion UPT BLE Server1.1.0Bjoern Muntwyler, Jonas StolleSensirion AG <sensirion.com>Library for BLE communication with the MyAmbience app.Examples sending BLE advertisement data to MyAmbience using the ESP32 platform are provided.https://github.com/Sensirion/arduino-upt-ble-serverCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Sensirion/Sensirion_UPT_BLE_Server-1.1.0.zipSensirion_UPT_BLE_Server-1.1.0.zip"
     },
     {
         "name": "RadiaCode",
@@ -134654,5 +134654,37 @@
         "url": "https://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.3.zip",
         "archiveFileName": "Frugal_IoT-0.0.3.zip",
         "fullText": "Frugal-IoT0.0.3Mitra ArdronMitra Ardron <mitra@mitra.biz>Platform for affordable sensorsThe Frugal-IoT library implement an easy to use platform for a variety of sensors communicating over WiFi, LoRa, MQTT etchttps://github.com/mitra42/frugal-iotSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.3.zipFrugal_IoT-0.0.3.zip"
+    },
+    {
+        "name": "FastLED_min",
+        "version": "1.0.0",
+        "author": "Based on FastLED RMT implementation",
+        "maintainer": "Your Name <your.email@example.com>",
+        "sentence": "Minimal WS2812B LED library for ESP32",
+        "paragraph": "A lightweight alternative to FastLED for ESP32, using the RMT peripheral for precise timing. Saves 83KB compared to full FastLED library. Supports WS2812B, WS2812, and WS2811 compatible LEDs.",
+        "website": "https://github.com/yourusername/FastLED_min",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/FastLED_min-1.0.0.zip",
+        "archiveFileName": "FastLED_min-1.0.0.zip",
+        "fullText": "FastLED_min1.0.0Based on FastLED RMT implementationYour Name <your.email@example.com>Minimal WS2812B LED library for ESP32A lightweight alternative to FastLED for ESP32, using the RMT peripheral for precise timing. Saves 83KB compared to full FastLED library. Supports WS2812B, WS2812, and WS2811 compatible LEDs.https://github.com/yourusername/FastLED_minDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/FastLED_min-1.0.0.zipFastLED_min-1.0.0.zip"
+    },
+    {
+        "name": "ESP32S3_SUPERMINI_PINOUT",
+        "version": "0.5.0",
+        "author": "Edo Akse",
+        "maintainer": "edo.akse@gmail.com",
+        "sentence": "ESP32-S3-SuperMini Pin Definitions and Safety Checks",
+        "paragraph": "Provides comprehensive pin definitions for ESP32-S3 SuperMini boards with safety checking functions to prevent system conflicts. Includes safe alternatives for common peripherals. Exact board pin-out ere: https://www.espboards.dev/esp32/esp32-s3-super-mini",
+        "website": "https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/eakse/ESP32S3_SUPERMINI_PINOUT-0.5.0.zip",
+        "archiveFileName": "ESP32S3_SUPERMINI_PINOUT-0.5.0.zip",
+        "fullText": "ESP32S3_SUPERMINI_PINOUT0.5.0Edo Akseedo.akse@gmail.comESP32-S3-SuperMini Pin Definitions and Safety ChecksProvides comprehensive pin definitions for ESP32-S3 SuperMini boards with safety checking functions to prevent system conflicts. Includes safe alternatives for common peripherals. Exact board pin-out ere: https://www.espboards.dev/esp32/esp32-s3-super-minihttps://github.com/eakse/ESP32S3_SUPERMINI_PINOUTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/eakse/ESP32S3_SUPERMINI_PINOUT-0.5.0.zipESP32S3_SUPERMINI_PINOUT-0.5.0.zip"
     }
 ]
