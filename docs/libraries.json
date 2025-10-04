@@ -110018,7 +110018,7 @@
     },
     {
         "name": "QuarkTS",
-        "version": "1.7.5",
+        "version": "1.7.6",
         "author": "J. Camilo Gomez C. <kmilo17pet@gmail.com>",
         "maintainer": "J. Camilo Gomez C. <kmilo17pet@gmail.com>",
         "sentence": "An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.",
@@ -110028,12 +110028,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.5.zip",
-        "archiveFileName": "QuarkTS-1.7.5.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.6.zip",
+        "archiveFileName": "QuarkTS-1.7.6.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "QuarkTS1.7.5J. Camilo Gomez C. <kmilo17pet@gmail.com>J. Camilo Gomez C. <kmilo17pet@gmail.com>An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.QuarkTS++ is an operating system that provides a modern environment to build stable and predictable event-driven multitasking embedded software. The OS is built on top of a cooperative quasi-static scheduler and its simplified kernel implements a specialized round-robin scheme using a linked-chain approach and an event-queue to provide true FIFO priority-scheduling..https://github.com/kmilo17pet/QuarkTS-cppTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.5.zipQuarkTS-1.7.5.zip"
+        "fullText": "QuarkTS1.7.6J. Camilo Gomez C. <kmilo17pet@gmail.com>J. Camilo Gomez C. <kmilo17pet@gmail.com>An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.QuarkTS++ is an operating system that provides a modern environment to build stable and predictable event-driven multitasking embedded software. The OS is built on top of a cooperative quasi-static scheduler and its simplified kernel implements a specialized round-robin scheme using a linked-chain approach and an event-queue to provide true FIFO priority-scheduling..https://github.com/kmilo17pet/QuarkTS-cppTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.6.zipQuarkTS-1.7.6.zip"
     },
     {
         "name": "CirquePinnacle",
@@ -162441,22 +162441,22 @@
     },
     {
         "name": "FastLED_min",
-        "version": "1.0.0",
-        "author": "Based on FastLED RMT implementation",
-        "maintainer": "Your Name <your.email@example.com>",
+        "version": "1.0.1",
+        "author": "Vishal Jain",
+        "maintainer": "Vishal Jain <jain.vishal1695@gmail.com>",
         "sentence": "Minimal WS2812B LED library for ESP32",
         "paragraph": "A lightweight alternative to FastLED for ESP32, using the RMT peripheral for precise timing. Saves 83KB compared to full FastLED library. Supports WS2812B, WS2812, and WS2811 compatible LEDs.",
-        "website": "https://github.com/yourusername/FastLED_min",
+        "website": "https://gitlab.com/Vishal1695/fastled_min",
         "category": "Display",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/FastLED_min-1.0.0.zip",
-        "archiveFileName": "FastLED_min-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/FastLED_min-1.0.1.zip",
+        "archiveFileName": "FastLED_min-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "FastLED_min1.0.0Based on FastLED RMT implementationYour Name <your.email@example.com>Minimal WS2812B LED library for ESP32A lightweight alternative to FastLED for ESP32, using the RMT peripheral for precise timing. Saves 83KB compared to full FastLED library. Supports WS2812B, WS2812, and WS2811 compatible LEDs.https://github.com/yourusername/FastLED_minDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/FastLED_min-1.0.0.zipFastLED_min-1.0.0.zip"
+        "fullText": "FastLED_min1.0.1Vishal JainVishal Jain <jain.vishal1695@gmail.com>Minimal WS2812B LED library for ESP32A lightweight alternative to FastLED for ESP32, using the RMT peripheral for precise timing. Saves 83KB compared to full FastLED library. Supports WS2812B, WS2812, and WS2811 compatible LEDs.https://gitlab.com/Vishal1695/fastled_minDisplayesp32Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/FastLED_min-1.0.1.zipFastLED_min-1.0.1.zip"
     },
     {
         "name": "ESP32S3_SUPERMINI_PINOUT",
