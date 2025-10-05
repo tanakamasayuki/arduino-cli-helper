@@ -17194,7 +17194,7 @@
     },
     {
         "name": "Brasilino",
-        "version": "1.1.1",
+        "version": "1.2.0",
         "author": "Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>",
         "maintainer": "Brasilino Team <brasilino@otaciliomaia.com>",
         "sentence": "Biblioteca de tradução e facilitação de funções para Arduino em PT-BR",
@@ -17204,12 +17204,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.1.zip",
-        "archiveFileName": "Brasilino-1.1.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.2.0.zip",
+        "archiveFileName": "Brasilino-1.2.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Brasilino1.1.1Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.1.1.zipBrasilino-1.1.1.zip"
+        "fullText": "Brasilino1.2.0Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.2.0.zipBrasilino-1.2.0.zip"
     },
     {
         "name": "SDS011 sensor Library",
@@ -119439,7 +119439,7 @@
     },
     {
         "name": "Ulm_Weatherballoon",
-        "version": "0.4.2",
+        "version": "0.4.3",
         "author": "Falko Schmidt",
         "maintainer": "Falko Schmidt <falko@schmidt-erbach.de>",
         "sentence": "Library for high altitude applications.",
@@ -119449,8 +119449,8 @@
         "architectures": "rp2040, mbed_rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/gitlab.com/F-Schmidt/Ulm_Weatherballoon-0.4.2.zip",
-        "archiveFileName": "Ulm_Weatherballoon-0.4.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/F-Schmidt/Ulm_Weatherballoon-0.4.3.zip",
+        "archiveFileName": "Ulm_Weatherballoon-0.4.3.zip",
         "dependencies": [
             "Adafruit NeoPixel",
             "Adafruit SSD1306",
@@ -119471,7 +119471,7 @@
             "Adafruit Thermal Printer Library",
             "Adafruit ILI9341"
         ],
-        "fullText": "Ulm_Weatherballoon0.4.2Falko SchmidtFalko Schmidt <falko@schmidt-erbach.de>Library for high altitude applications.This software is designed for high-altitude weather balloons, enabling them to reach the edge of space and collect data from the stratosphere. However, please note that not all implementations have been fully tested in actual flight conditions.https://gitlab.com/F-Schmidt/ulm_weatherballoonSensorsrp2040, mbed_rp2040Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/F-Schmidt/Ulm_Weatherballoon-0.4.2.zipUlm_Weatherballoon-0.4.2.zipAdafruit NeoPixel, Adafruit SSD1306, Adafruit ADXL343, Adafruit MAX1704X, ENS160 - Adafruit Fork, Sensirion I2C SCD4x, Adafruit LIS3MDL, Adafruit BMP280 Library, Adafruit LPS2X, RTClib, Sensirion I2C SHT4x, OneWire, DallasTemperature, SdFat - Adafruit Fork, Sensirion I2C SHT3x, Adafruit AHTX0, Adafruit Thermal Printer Library, Adafruit ILI9341"
+        "fullText": "Ulm_Weatherballoon0.4.3Falko SchmidtFalko Schmidt <falko@schmidt-erbach.de>Library for high altitude applications.This software is designed for high-altitude weather balloons, enabling them to reach the edge of space and collect data from the stratosphere. However, please note that not all implementations have been fully tested in actual flight conditions.https://gitlab.com/F-Schmidt/ulm_weatherballoonSensorsrp2040, mbed_rp2040Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/F-Schmidt/Ulm_Weatherballoon-0.4.3.zipUlm_Weatherballoon-0.4.3.zipAdafruit NeoPixel, Adafruit SSD1306, Adafruit ADXL343, Adafruit MAX1704X, ENS160 - Adafruit Fork, Sensirion I2C SCD4x, Adafruit LIS3MDL, Adafruit BMP280 Library, Adafruit LPS2X, RTClib, Sensirion I2C SHT4x, OneWire, DallasTemperature, SdFat - Adafruit Fork, Sensirion I2C SHT3x, Adafruit AHTX0, Adafruit Thermal Printer Library, Adafruit ILI9341"
     },
     {
         "name": "Interstitial Quadrant",
@@ -127947,7 +127947,7 @@
     },
     {
         "name": "Ardwloop",
-        "version": "0.3.3",
+        "version": "0.3.4",
         "author": "Laurent Schall <llschall@gmx.com>",
         "maintainer": "Laurent Schall <llschall@gmx.com>",
         "sentence": "A library to ease controlling an Arduino program from a Java or Kotlin application.",
@@ -127957,12 +127957,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/llschall/Ardwloop-0.3.3.zip",
-        "archiveFileName": "Ardwloop-0.3.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/llschall/Ardwloop-0.3.4.zip",
+        "archiveFileName": "Ardwloop-0.3.4.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Ardwloop0.3.3Laurent Schall <llschall@gmx.com>Laurent Schall <llschall@gmx.com>A library to ease controlling an Arduino program from a Java or Kotlin application.Integers matrix are synchronized by the ardwloop library on both Arduino and Java sides. These matrix values can be used for any purpose.https://github.com/llschall/ardwloop-inoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/llschall/Ardwloop-0.3.3.zipArdwloop-0.3.3.zip"
+        "fullText": "Ardwloop0.3.4Laurent Schall <llschall@gmx.com>Laurent Schall <llschall@gmx.com>A library to ease controlling an Arduino program from a Java or Kotlin application.Integers matrix are synchronized by the ardwloop library on both Arduino and Java sides. These matrix values can be used for any purpose.https://github.com/llschall/ardwloop-inoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/llschall/Ardwloop-0.3.4.zipArdwloop-0.3.4.zip"
     },
     {
         "name": "Bonezegei_DRV8825",
@@ -130965,7 +130965,7 @@
     },
     {
         "name": "Async TCP",
-        "version": "3.4.8",
+        "version": "3.4.9",
         "author": "ESP32Async",
         "maintainer": "ESP32Async",
         "sentence": "Async TCP Library for ESP32",
@@ -130975,12 +130975,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ESP32Async/Async_TCP-3.4.8.zip",
-        "archiveFileName": "Async_TCP-3.4.8.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/ESP32Async/Async_TCP-3.4.9.zip",
+        "archiveFileName": "Async_TCP-3.4.9.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Async TCP3.4.8ESP32AsyncESP32AsyncAsync TCP Library for ESP32Async TCP Library for ESP32https://github.com/ESP32Async/AsyncTCP.gitOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/ESP32Async/Async_TCP-3.4.8.zipAsync_TCP-3.4.8.zip"
+        "fullText": "Async TCP3.4.9ESP32AsyncESP32AsyncAsync TCP Library for ESP32Async TCP Library for ESP32https://github.com/ESP32Async/AsyncTCP.gitOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/ESP32Async/Async_TCP-3.4.9.zipAsync_TCP-3.4.9.zip"
     },
     {
         "name": "rupertobot",
@@ -137375,22 +137375,22 @@
     },
     {
         "name": "CodeCell",
-        "version": "1.3.8",
+        "version": "2.0.0",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "sentence": "CodeCell Arduino Library",
-        "paragraph": "A penny-sized ESP32C3 based module with a VCNL4040 light sensor & a BNO085 motion sensors",
+        "paragraph": "A tiny ESP32-based module featuring a VCNL4040 light sensor, with the optional BNO085 motion sensor — Made for robotics and wearable DIY projects.",
         "website": "https://microbots.io/CodeCell",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/microbotsio/CodeCell-1.3.8.zip",
-        "archiveFileName": "CodeCell-1.3.8.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/microbotsio/CodeCell-2.0.0.zip",
+        "archiveFileName": "CodeCell-2.0.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "CodeCell1.3.8Microbots <info@microbots.io>Microbots <info@microbots.io>CodeCell Arduino LibraryA penny-sized ESP32C3 based module with a VCNL4040 light sensor & a BNO085 motion sensorshttps://microbots.io/CodeCellSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/microbotsio/CodeCell-1.3.8.zipCodeCell-1.3.8.zip"
+        "fullText": "CodeCell2.0.0Microbots <info@microbots.io>Microbots <info@microbots.io>CodeCell Arduino LibraryA tiny ESP32-based module featuring a VCNL4040 light sensor, with the optional BNO085 motion sensor — Made for robotics and wearable DIY projects.https://microbots.io/CodeCellSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/microbotsio/CodeCell-2.0.0.zipCodeCell-2.0.0.zip"
     },
     {
         "name": "AD7747",
@@ -139242,27 +139242,29 @@
     },
     {
         "name": "Octopus Firmware",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "author": "MIT Senseable City Lab",
         "maintainer": "oyinlola@mit.edu",
         "sentence": "Firmware library for Octopus integration using Arduino BLE Nano 33 rev2 or Nicla Vision.",
-        "paragraph": "Octopus Platform is an open sourced low-cost environmental sensing tool.",
+        "paragraph": "Octopus Platform is an open-source, low-cost environmental sensing tool.",
         "website": "https://github.com/MIT-Senseable-City-Lab/octopus-firmware",
         "category": "Sensors",
         "architectures": "mbed_nano, mbed_nicla",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/MIT-Senseable-City-Lab/Octopus_Firmware-1.0.7.zip",
-        "archiveFileName": "Octopus_Firmware-1.0.7.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/MIT-Senseable-City-Lab/Octopus_Firmware-1.0.8.zip",
+        "archiveFileName": "Octopus_Firmware-1.0.8.zip",
         "dependencies": [
             "ArduinoBLE",
             "Adafruit DotStar",
             "SD",
-            "sensirion-sps",
+            "Sensirion I2C SPS30",
             "Arduino_HS300x",
-            "SparkFun u-blox GNSS Arduino Library"
+            "SparkFun u-blox GNSS Arduino Library",
+            "Time",
+            "RTC_RX8025NB"
         ],
-        "fullText": "Octopus Firmware1.0.7MIT Senseable City Laboyinlola@mit.eduFirmware library for Octopus integration using Arduino BLE Nano 33 rev2 or Nicla Vision.Octopus Platform is an open sourced low-cost environmental sensing tool.https://github.com/MIT-Senseable-City-Lab/octopus-firmwareSensorsmbed_nano, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/MIT-Senseable-City-Lab/Octopus_Firmware-1.0.7.zipOctopus_Firmware-1.0.7.zipArduinoBLE, Adafruit DotStar, SD, sensirion-sps, Arduino_HS300x, SparkFun u-blox GNSS Arduino Library"
+        "fullText": "Octopus Firmware1.0.8MIT Senseable City Laboyinlola@mit.eduFirmware library for Octopus integration using Arduino BLE Nano 33 rev2 or Nicla Vision.Octopus Platform is an open-source, low-cost environmental sensing tool.https://github.com/MIT-Senseable-City-Lab/octopus-firmwareSensorsmbed_nano, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/MIT-Senseable-City-Lab/Octopus_Firmware-1.0.8.zipOctopus_Firmware-1.0.8.zipArduinoBLE, Adafruit DotStar, SD, Sensirion I2C SPS30, Arduino_HS300x, SparkFun u-blox GNSS Arduino Library, Time, RTC_RX8025NB"
     },
     {
         "name": "R4HttpClient",
@@ -145455,7 +145457,7 @@
     },
     {
         "name": "CHT832X",
-        "version": "0.2.0",
+        "version": "0.3.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for CHT832X temperature and humidity sensor.",
@@ -145465,12 +145467,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT832X-0.2.0.zip",
-        "archiveFileName": "CHT832X-0.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT832X-0.3.0.zip",
+        "archiveFileName": "CHT832X-0.3.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "CHT832X0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for CHT832X temperature and humidity sensor.CHT8320, CHT8325https://github.com/RobTillaart/CHT832XSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT832X-0.2.0.zipCHT832X-0.2.0.zip"
+        "fullText": "CHT832X0.3.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for CHT832X temperature and humidity sensor.CHT8320, CHT8325https://github.com/RobTillaart/CHT832XSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT832X-0.3.0.zipCHT832X-0.3.0.zip"
     },
     {
         "name": "PTZProtocolHandler",
@@ -146443,7 +146445,7 @@
     },
     {
         "name": "Pervasive_BWRY_Small",
-        "version": "9.0.4",
+        "version": "9.0.5",
         "author": "Pervasive Displays, Inc.",
         "maintainer": "Arvin Tan <https://www.pervasivedisplays.com/>",
         "sentence": "Driver for Pervasive Displays colour screens",
@@ -146453,12 +146455,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Small-9.0.4.zip",
-        "archiveFileName": "Pervasive_BWRY_Small-9.0.4.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Small-9.0.5.zip",
+        "archiveFileName": "Pervasive_BWRY_Small-9.0.5.zip",
         "dependencies": [
             "PDLS_Common"
         ],
-        "fullText": "Pervasive_BWRY_Small9.0.4Pervasive Displays, Inc.Arvin Tan <https://www.pervasivedisplays.com/>Driver for Pervasive Displays colour screensblack-white-red-yellow, small sizehttps://github.com/PervasiveDisplaysDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Small-9.0.4.zipPervasive_BWRY_Small-9.0.4.zipPDLS_Common"
+        "fullText": "Pervasive_BWRY_Small9.0.5Pervasive Displays, Inc.Arvin Tan <https://www.pervasivedisplays.com/>Driver for Pervasive Displays colour screensblack-white-red-yellow, small sizehttps://github.com/PervasiveDisplaysDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Small-9.0.5.zipPervasive_BWRY_Small-9.0.5.zipPDLS_Common"
     },
     {
         "name": "ESPShell",
@@ -161706,7 +161708,7 @@
     },
     {
         "name": "7Semi_BNO055",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "7Semi <info@7semi.com>",
         "maintainer": "7Semi <info@7semi.com>",
         "sentence": "Lightweight BNO055 driver (raw + minimal helpers) with optional configurable I2C pins.",
@@ -161716,12 +161718,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_BNO055-1.0.0.zip",
-        "archiveFileName": "7Semi_BNO055-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_BNO055-1.1.0.zip",
+        "archiveFileName": "7Semi_BNO055-1.1.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "7Semi_BNO0551.0.07Semi <info@7semi.com>7Semi <info@7semi.com>Lightweight BNO055 driver (raw + minimal helpers) with optional configurable I2C pins.Supports orientation (Euler, quaternion), raw sensor data (accelerometer, gyroscope, magnetometer), linear acceleration, gravity vector, sensor configuration, and calibration. Optimized for low flash usage across AVR, ESP32, STM32, RP2040 and more.https://github.com/7semi-solutions/7Semi-BNO055-Arduino-LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_BNO055-1.0.0.zip7Semi_BNO055-1.0.0.zip"
+        "fullText": "7Semi_BNO0551.1.07Semi <info@7semi.com>7Semi <info@7semi.com>Lightweight BNO055 driver (raw + minimal helpers) with optional configurable I2C pins.Supports orientation (Euler, quaternion), raw sensor data (accelerometer, gyroscope, magnetometer), linear acceleration, gravity vector, sensor configuration, and calibration. Optimized for low flash usage across AVR, ESP32, STM32, RP2040 and more.https://github.com/7semi-solutions/7Semi-BNO055-Arduino-LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_BNO055-1.1.0.zip7Semi_BNO055-1.1.0.zip"
     },
     {
         "name": "EdgeVision",
@@ -162495,5 +162497,62 @@
             ""
         ],
         "fullText": "KK-Switch1.0.0Kay KasperKay KasperSwitch, push buttons and digital inputs handling with lots of options.Can handle sequences of state changes for: single, double and long pushes or encoder rotation.https://github.com/kay-bs/KK-Switch.gitSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/kay-bs/KK_Switch-1.0.0.zipKK_Switch-1.0.0.zip"
+    },
+    {
+        "name": "Pervasive_BWRY_Large",
+        "version": "9.0.4",
+        "author": "Pervasive Displays, Inc.",
+        "maintainer": "Arvin Tan <https://www.pervasivedisplays.com/>",
+        "sentence": "Driver for Pervasive Displays colour screens",
+        "paragraph": "black-white-red-yellow, large size",
+        "website": "https://github.com/PervasiveDisplays",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Large-9.0.4.zip",
+        "archiveFileName": "Pervasive_BWRY_Large-9.0.4.zip",
+        "dependencies": [
+            "PDLS_Common"
+        ],
+        "fullText": "Pervasive_BWRY_Large9.0.4Pervasive Displays, Inc.Arvin Tan <https://www.pervasivedisplays.com/>Driver for Pervasive Displays colour screensblack-white-red-yellow, large sizehttps://github.com/PervasiveDisplaysDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Large-9.0.4.zipPervasive_BWRY_Large-9.0.4.zipPDLS_Common"
+    },
+    {
+        "name": "Pervasive_BWRY_Medium",
+        "version": "9.0.2",
+        "author": "Pervasive Displays, Inc.",
+        "maintainer": "Arvin Tan <https://www.pervasivedisplays.com/>",
+        "sentence": "Driver for Pervasive Displays colour screens",
+        "paragraph": "black-white-red-yellow, medium size",
+        "website": "https://github.com/PervasiveDisplays",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Medium-9.0.2.zip",
+        "archiveFileName": "Pervasive_BWRY_Medium-9.0.2.zip",
+        "dependencies": [
+            "PDLS_Common"
+        ],
+        "fullText": "Pervasive_BWRY_Medium9.0.2Pervasive Displays, Inc.Arvin Tan <https://www.pervasivedisplays.com/>Driver for Pervasive Displays colour screensblack-white-red-yellow, medium sizehttps://github.com/PervasiveDisplaysDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_BWRY_Medium-9.0.2.zipPervasive_BWRY_Medium-9.0.2.zipPDLS_Common"
+    },
+    {
+        "name": "EasyWiFi",
+        "version": "1.0.0",
+        "author": "Kinjal Kavish Boro",
+        "maintainer": "borokinjalkavish@gmail.com",
+        "sentence": "Minimal WiFi Manager with captive portal.",
+        "paragraph": "Library for WiFi managemnent and credential storage for ESP8266 boards.",
+        "website": "https://github.com/localrice/EasyWiFi",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/localrice/EasyWiFi-1.0.0.zip",
+        "archiveFileName": "EasyWiFi-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "EasyWiFi1.0.0Kinjal Kavish Boroborokinjalkavish@gmail.comMinimal WiFi Manager with captive portal.Library for WiFi managemnent and credential storage for ESP8266 boards.https://github.com/localrice/EasyWiFiCommunicationesp8266Contributedhttps://downloads.arduino.cc/libraries/github.com/localrice/EasyWiFi-1.0.0.zipEasyWiFi-1.0.0.zip"
     }
 ]
