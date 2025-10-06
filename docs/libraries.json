@@ -113139,7 +113139,7 @@
     },
     {
         "name": "bb_scd41",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "sentence": "Sensiron SCD4x CO2 sensor library.",
@@ -113149,12 +113149,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/bitbank2/bb_scd41-1.1.0.zip",
-        "archiveFileName": "bb_scd41-1.1.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/bitbank2/bb_scd41-1.1.1.zip",
+        "archiveFileName": "bb_scd41-1.1.1.zip",
         "dependencies": [
             "BitBang_I2C"
         ],
-        "fullText": "bb_scd411.1.0Larry BankLarry BankSensiron SCD4x CO2 sensor library.Supports SCD40 and SCD41 with flexible connection options.https://github.com/bitbank2/bb_scd41Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/bitbank2/bb_scd41-1.1.0.zipbb_scd41-1.1.0.zipBitBang_I2C"
+        "fullText": "bb_scd411.1.1Larry BankLarry BankSensiron SCD4x CO2 sensor library.Supports SCD40 and SCD41 with flexible connection options.https://github.com/bitbank2/bb_scd41Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/bitbank2/bb_scd41-1.1.1.zipbb_scd41-1.1.1.zipBitBang_I2C"
     },
     {
         "name": "7Segment",
@@ -147984,7 +147984,7 @@
     },
     {
         "name": "Pervasive_Touch_Small",
-        "version": "9.0.2",
+        "version": "9.0.9",
         "author": "Pervasive Displays, Inc.",
         "maintainer": "Arvin Tan <https://www.pervasivedisplays.com>",
         "sentence": "Driver for Pervasive Displays touch-screens",
@@ -147994,12 +147994,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_Touch_Small-9.0.2.zip",
-        "archiveFileName": "Pervasive_Touch_Small-9.0.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_Touch_Small-9.0.9.zip",
+        "archiveFileName": "Pervasive_Touch_Small-9.0.9.zip",
         "dependencies": [
             "PDLS_Common"
         ],
-        "fullText": "Pervasive_Touch_Small9.0.2Pervasive Displays, Inc.Arvin Tan <https://www.pervasivedisplays.com>Driver for Pervasive Displays touch-screenswith wide temperature and embedded fast update, small sizehttps://github.com/PervasiveDisplaysDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_Touch_Small-9.0.2.zipPervasive_Touch_Small-9.0.2.zipPDLS_Common"
+        "fullText": "Pervasive_Touch_Small9.0.9Pervasive Displays, Inc.Arvin Tan <https://www.pervasivedisplays.com>Driver for Pervasive Displays touch-screenswith wide temperature and embedded fast update, small sizehttps://github.com/PervasiveDisplaysDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/PervasiveDisplays/Pervasive_Touch_Small-9.0.9.zipPervasive_Touch_Small-9.0.9.zipPDLS_Common"
     },
     {
         "name": "Pervasive_Wide_Large",
@@ -157010,7 +157010,7 @@
     },
     {
         "name": "DigiPotX9C",
-        "version": "1.0.1",
+        "version": "1.1.0",
         "author": "Upamanyu Ray <ray.upamanyu4pwork@gmail.com>",
         "maintainer": "Upamanyu Ray <ray.upamanyu4pwork@gmail.com>",
         "sentence": "Arduino Library for Renesas X9C10X series digital potentiometer, focussing on the ESP32",
@@ -157020,12 +157020,12 @@
         "architectures": "avr, esp32, stm32 (upcoming)",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tingerlingerr/DigiPotX9C-1.0.1.zip",
-        "archiveFileName": "DigiPotX9C-1.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/tingerlingerr/DigiPotX9C-1.1.0.zip",
+        "archiveFileName": "DigiPotX9C-1.1.0.zip",
         "dependencies": [
-            "EEPROM"
+            ""
         ],
-        "fullText": "DigiPotX9C1.0.1Upamanyu Ray <ray.upamanyu4pwork@gmail.com>Upamanyu Ray <ray.upamanyu4pwork@gmail.com>Arduino Library for Renesas X9C10X series digital potentiometer, focussing on the ESP32Allows reliable and fast resistance changes. Works for X9C102, X9C103 and X9C104 with calibration, some error handling and pin validationhttps://github.com/tingerlingerr/DigiPotX9CUncategorizedavr, esp32, stm32 (upcoming)Contributedhttps://downloads.arduino.cc/libraries/github.com/tingerlingerr/DigiPotX9C-1.0.1.zipDigiPotX9C-1.0.1.zipEEPROM"
+        "fullText": "DigiPotX9C1.1.0Upamanyu Ray <ray.upamanyu4pwork@gmail.com>Upamanyu Ray <ray.upamanyu4pwork@gmail.com>Arduino Library for Renesas X9C10X series digital potentiometer, focussing on the ESP32Allows reliable and fast resistance changes. Works for X9C102, X9C103 and X9C104 with calibration, some error handling and pin validationhttps://github.com/tingerlingerr/DigiPotX9CUncategorizedavr, esp32, stm32 (upcoming)Contributedhttps://downloads.arduino.cc/libraries/github.com/tingerlingerr/DigiPotX9C-1.1.0.zipDigiPotX9C-1.1.0.zip"
     },
     {
         "name": "Exosite IIoT HTTP Device",
@@ -157452,7 +157452,7 @@
     },
     {
         "name": "LX16A-bus",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Aleksandr Vankov <av3136@columbia.edu>",
         "maintainer": "Aleksandr Vankov <av3136@columbia.edu>",
         "sentence": "LX-16A Bus Servo Library.",
@@ -157462,12 +157462,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/alecxcode/LX16A_bus-1.0.1.zip",
-        "archiveFileName": "LX16A_bus-1.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/alecxcode/LX16A_bus-1.0.2.zip",
+        "archiveFileName": "LX16A_bus-1.0.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "LX16A-bus1.0.1Aleksandr Vankov <av3136@columbia.edu>Aleksandr Vankov <av3136@columbia.edu>LX-16A Bus Servo Library.This library allows operation of LA-16A (Hiwonder) servomotors through the BusLinker using RX and TX pins. No additional breadboards or microchips required.https://github.com/alecxcode/LX16A-busDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/alecxcode/LX16A_bus-1.0.1.zipLX16A_bus-1.0.1.zip"
+        "fullText": "LX16A-bus1.0.2Aleksandr Vankov <av3136@columbia.edu>Aleksandr Vankov <av3136@columbia.edu>LX-16A Bus Servo Library.This library allows operation of LA-16A (Hiwonder) servomotors through the BusLinker using RX and TX pins. No additional breadboards or microchips required.https://github.com/alecxcode/LX16A-busDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/alecxcode/LX16A_bus-1.0.2.zipLX16A_bus-1.0.2.zip"
     },
     {
         "name": "val_flash_spi",
@@ -162554,5 +162554,120 @@
             ""
         ],
         "fullText": "EasyWiFi1.0.0Kinjal Kavish Boroborokinjalkavish@gmail.comMinimal WiFi Manager with captive portal.Library for WiFi managemnent and credential storage for ESP8266 boards.https://github.com/localrice/EasyWiFiCommunicationesp8266Contributedhttps://downloads.arduino.cc/libraries/github.com/localrice/EasyWiFi-1.0.0.zipEasyWiFi-1.0.0.zip"
+    },
+    {
+        "name": "7Semi-RS485-Temperature-Humidity-Probe-Arduino-Library",
+        "version": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "sentence": "Simple Modbus RTU reader for 7Semi RS485 temperature/humidity probe.",
+        "paragraph": "Works on Arduino UNO using SoftwareSerial. Provides begin(), setSlaveId(), setStartAddress(), setNumRegs(), setTurnaroundUs(), readData().",
+        "website": "https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_RS485_Temperature_Humidity_Probe_Arduino_Library-1.0.0.zip",
+        "archiveFileName": "7Semi_RS485_Temperature_Humidity_Probe_Arduino_Library-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "7Semi-RS485-Temperature-Humidity-Probe-Arduino-Library1.0.07Semi <info@7semi.com>7Semi <info@7semi.com>Simple Modbus RTU reader for 7Semi RS485 temperature/humidity probe.Works on Arduino UNO using SoftwareSerial. Provides begin(), setSlaveId(), setStartAddress(), setNumRegs(), setTurnaroundUs(), readData().https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-LibraryUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_RS485_Temperature_Humidity_Probe_Arduino_Library-1.0.0.zip7Semi_RS485_Temperature_Humidity_Probe_Arduino_Library-1.0.0.zip"
+    },
+    {
+        "name": "SSD1306",
+        "version": "1.0.0",
+        "author": "Volodymyr Kumpan",
+        "maintainer": "Volodymyr Kumpan <v.kumpan@outlook.com>",
+        "sentence": "Arduino library for controlling SSD1306 OLED displays.",
+        "paragraph": "Lightweight SSD1306 OLED display library with scalable text rendering and multi-page writing.",
+        "website": "https://github.com/vkumpan/SSD1306",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/vkumpan/SSD1306-1.0.0.zip",
+        "archiveFileName": "SSD1306-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "SSD13061.0.0Volodymyr KumpanVolodymyr Kumpan <v.kumpan@outlook.com>Arduino library for controlling SSD1306 OLED displays.Lightweight SSD1306 OLED display library with scalable text rendering and multi-page writing.https://github.com/vkumpan/SSD1306DisplayavrContributedhttps://downloads.arduino.cc/libraries/github.com/vkumpan/SSD1306-1.0.0.zipSSD1306-1.0.0.zip"
+    },
+    {
+        "name": "7Semi_CO2TH",
+        "version": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "sentence": "I2C driver for the 7Semi CO₂TH sensor with RHT compensation.",
+        "paragraph": "Features: automatic I2C address scanning, product ID verification, continuous/single-shot measurement, CRC-8-verified RHT/pressure compensation, sleep/reset/conditioning/self-test helpers, and minimal examples for quick evaluation.",
+        "website": "https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_CO2TH-1.0.0.zip",
+        "archiveFileName": "7Semi_CO2TH-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "7Semi_CO2TH1.0.07Semi <info@7semi.com>7Semi <info@7semi.com>I2C driver for the 7Semi CO₂TH sensor with RHT compensation.Features: automatic I2C address scanning, product ID verification, continuous/single-shot measurement, CRC-8-verified RHT/pressure compensation, sleep/reset/conditioning/self-test helpers, and minimal examples for quick evaluation.https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_CO2TH-1.0.0.zip7Semi_CO2TH-1.0.0.zip"
+    },
+    {
+        "name": "TimerKernel",
+        "version": "1.0.3",
+        "author": "MrDev-5000",
+        "maintainer": "MrDev-5000",
+        "sentence": "This is a lightweight Arduino library for managing non-blocking timers.",
+        "paragraph": "TimerKernel is a simple and lightweight Arduino library for creating non-blocking timers. It allows easy scheduling of tasks and toggling of states with millisecond and microsecond precision, without delay(). Ideal for beginners and advanced users who need reliable timing in their Arduino projects.",
+        "website": "https://github.com/MrDev-5000/TimerKernel",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.0.3.zip",
+        "archiveFileName": "TimerKernel-1.0.3.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "TimerKernel1.0.3MrDev-5000MrDev-5000This is a lightweight Arduino library for managing non-blocking timers.TimerKernel is a simple and lightweight Arduino library for creating non-blocking timers. It allows easy scheduling of tasks and toggling of states with millisecond and microsecond precision, without delay(). Ideal for beginners and advanced users who need reliable timing in their Arduino projects.https://github.com/MrDev-5000/TimerKernelTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.0.3.zipTimerKernel-1.0.3.zip"
+    },
+    {
+        "name": "PZEMPlus",
+        "version": "0.5.0",
+        "author": "Lucas Hudson",
+        "maintainer": "Lucas Hudson",
+        "sentence": "Arduino/ESP32 library to easily read data from Peacefair energy monitoring devices",
+        "paragraph": "This library provides an easy-to-use interface for reading data from Peacefair energy monitoring devices including PZEM-004T, PZEM-6L24, PZIOT-E02, PZEM-003, and PZEM-017. It supports both Arduino and ESP32 platforms with Modbus RTU communication.",
+        "website": "https://github.com/lucashudson-eng/PZEMPlus",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/lucashudson-eng/PZEMPlus-0.5.0.zip",
+        "archiveFileName": "PZEMPlus-0.5.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "PZEMPlus0.5.0Lucas HudsonLucas HudsonArduino/ESP32 library to easily read data from Peacefair energy monitoring devicesThis library provides an easy-to-use interface for reading data from Peacefair energy monitoring devices including PZEM-004T, PZEM-6L24, PZIOT-E02, PZEM-003, and PZEM-017. It supports both Arduino and ESP32 platforms with Modbus RTU communication.https://github.com/lucashudson-eng/PZEMPlusCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lucashudson-eng/PZEMPlus-0.5.0.zipPZEMPlus-0.5.0.zip"
+    },
+    {
+        "name": "POTA",
+        "version": "1.0.0",
+        "author": "Francesco Alessandro Colucci",
+        "maintainer": "pleasedontcode <info@pleasedontcode.com>",
+        "sentence": "Please Over The Air (POTA) — secure OTA updater for ESP32, ESP8266 and Arduino Opta",
+        "paragraph": "POTA provides a small, secure, and easy-to-use OTA update helper integrated with the Please Over The Air (POTA) service from https://www.pleasedontcode.com. It checks your update server, verifies the server HMAC token, and performs the OTA update using the board-specific mechanism (e.g. esp_https_ota for ESP32, ESPhttpUpdate for ESP8266, Arduino_Portenta_OTA for Opta). Currently supports ESP32-based boards, ESP8266-based boards and Arduino Opta, with more platforms planned.",
+        "website": "https://github.com/pleasedontcode/POTA",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, mbed_opta",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/pleasedontcode/POTA-1.0.0.zip",
+        "archiveFileName": "POTA-1.0.0.zip",
+        "dependencies": [
+            "ArduinoJson",
+            "Arduino_Portenta_OTA"
+        ],
+        "fullText": "POTA1.0.0Francesco Alessandro Coluccipleasedontcode <info@pleasedontcode.com>Please Over The Air (POTA) — secure OTA updater for ESP32, ESP8266 and Arduino OptaPOTA provides a small, secure, and easy-to-use OTA update helper integrated with the Please Over The Air (POTA) service from https://www.pleasedontcode.com. It checks your update server, verifies the server HMAC token, and performs the OTA update using the board-specific mechanism (e.g. esp_https_ota for ESP32, ESPhttpUpdate for ESP8266, Arduino_Portenta_OTA for Opta). Currently supports ESP32-based boards, ESP8266-based boards and Arduino Opta, with more platforms planned.https://github.com/pleasedontcode/POTACommunicationesp32, esp8266, mbed_optaContributedhttps://downloads.arduino.cc/libraries/github.com/pleasedontcode/POTA-1.0.0.zipPOTA-1.0.0.zipArduinoJson, Arduino_Portenta_OTA"
     }
 ]
