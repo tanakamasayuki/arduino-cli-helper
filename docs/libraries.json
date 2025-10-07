@@ -95153,22 +95153,22 @@
     },
     {
         "name": "pfodParser",
-        "version": "3.63.10",
+        "version": "3.64.1",
         "author": "Matthew Ford",
         "maintainer": "Matthew Ford",
         "sentence": "A library to parse pfod messages sent from pfodApp/pfodWeb and provides support for sending drawing commands to pfodApp/pfodWeb",
         "paragraph": "The library also includes pfodSecurity and pfodSMS_SIM900 and pfodSMS_SIM5320 classes and pfodWaitForUtils.",
         "website": "https://github.com/drmpf/pfodParser",
-        "category": "Communication",
+        "category": "Uncategorized",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/drmpf/pfodParser-3.63.10.zip",
-        "archiveFileName": "pfodParser-3.63.10.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/drmpf/pfodParser-3.64.1.zip",
+        "archiveFileName": "pfodParser-3.64.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "pfodParser3.63.10Matthew FordMatthew FordA library to parse pfod messages sent from pfodApp/pfodWeb and provides support for sending drawing commands to pfodApp/pfodWebThe library also includes pfodSecurity and pfodSMS_SIM900 and pfodSMS_SIM5320 classes and pfodWaitForUtils.https://github.com/drmpf/pfodParserCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/drmpf/pfodParser-3.63.10.zippfodParser-3.63.10.zip"
+        "fullText": "pfodParser3.64.1Matthew FordMatthew FordA library to parse pfod messages sent from pfodApp/pfodWeb and provides support for sending drawing commands to pfodApp/pfodWebThe library also includes pfodSecurity and pfodSMS_SIM900 and pfodSMS_SIM5320 classes and pfodWaitForUtils.https://github.com/drmpf/pfodParserUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/drmpf/pfodParser-3.64.1.zippfodParser-3.64.1.zip"
     },
     {
         "name": "Air Commander Entire Control",
@@ -97243,7 +97243,7 @@
     },
     {
         "name": "BresserWeatherSensorReceiver",
-        "version": "0.34.0",
+        "version": "0.35.0",
         "author": "Matthias Prinke <matthias-bs@web.de>",
         "maintainer": "Matthias Prinke <matthias-bs@web.de>",
         "sentence": "Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.",
@@ -97253,15 +97253,18 @@
         "architectures": "esp32, esp8266, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.34.0.zip",
-        "archiveFileName": "BresserWeatherSensorReceiver-0.34.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.35.0.zip",
+        "archiveFileName": "BresserWeatherSensorReceiver-0.35.0.zip",
         "dependencies": [
             "RadioLib",
             "MQTT",
             "ArduinoJson",
-            "Preferences"
+            "Preferences",
+            "ESP Async TCP",
+            "Async TCP",
+            "ESP Async WebServer"
         ],
-        "fullText": "BresserWeatherSensorReceiver0.34.0Matthias Prinke <matthias-bs@web.de>Matthias Prinke <matthias-bs@web.de>Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.https://github.com/matthias-bs/BresserWeatherSensorReceiverSensorsesp32, esp8266, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.34.0.zipBresserWeatherSensorReceiver-0.34.0.zipRadioLib, MQTT, ArduinoJson, Preferences"
+        "fullText": "BresserWeatherSensorReceiver0.35.0Matthias Prinke <matthias-bs@web.de>Matthias Prinke <matthias-bs@web.de>Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.https://github.com/matthias-bs/BresserWeatherSensorReceiverSensorsesp32, esp8266, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.35.0.zipBresserWeatherSensorReceiver-0.35.0.zipRadioLib, MQTT, ArduinoJson, Preferences, ESP Async TCP, Async TCP, ESP Async WebServer"
     },
     {
         "name": "RussianText_u8g",
@@ -112256,18 +112259,18 @@
     },
     {
         "name": "M304 Library",
-        "version": "1.3.21",
+        "version": "1.3.22",
         "author": "Masafumi Horimoto",
         "maintainer": "HOLLY&Co.,Ltd. <horimoto@holly-linux.com>",
         "sentence": "Library useful when programming control nodes using the M304 board for UECS control nodes. M304-lowcode v3.2.x",
         "paragraph": "Library useful when programming control nodes using the M304 board for UECS control nodes",
         "website": "https://github.com/mhorimoto/M304-lib.git",
         "category": "Uncategorized",
-        "architectures": "arduino:avr:mega",
+        "architectures": "avr",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mhorimoto/M304_Library-1.3.21.zip",
-        "archiveFileName": "M304_Library-1.3.21.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mhorimoto/M304_Library-1.3.22.zip",
+        "archiveFileName": "M304_Library-1.3.22.zip",
         "dependencies": [
             "LiquidCrystal",
             "SPI",
@@ -112278,7 +112281,7 @@
             "Time",
             "LibYxml"
         ],
-        "fullText": "M304 Library1.3.21Masafumi HorimotoHOLLY&Co.,Ltd. <horimoto@holly-linux.com>Library useful when programming control nodes using the M304 board for UECS control nodes. M304-lowcode v3.2.xLibrary useful when programming control nodes using the M304 board for UECS control nodeshttps://github.com/mhorimoto/M304-lib.gitUncategorizedarduino:avr:megaContributedhttps://downloads.arduino.cc/libraries/github.com/mhorimoto/M304_Library-1.3.21.zipM304_Library-1.3.21.zipLiquidCrystal, SPI, Ethernet2, EEPROM, Wire, DS1307RTC, Time, LibYxml"
+        "fullText": "M304 Library1.3.22Masafumi HorimotoHOLLY&Co.,Ltd. <horimoto@holly-linux.com>Library useful when programming control nodes using the M304 board for UECS control nodes. M304-lowcode v3.2.xLibrary useful when programming control nodes using the M304 board for UECS control nodeshttps://github.com/mhorimoto/M304-lib.gitUncategorizedavrContributedhttps://downloads.arduino.cc/libraries/github.com/mhorimoto/M304_Library-1.3.22.zipM304_Library-1.3.22.zipLiquidCrystal, SPI, Ethernet2, EEPROM, Wire, DS1307RTC, Time, LibYxml"
     },
     {
         "name": "LibLCC",
@@ -122201,22 +122204,22 @@
     },
     {
         "name": "roo_time",
-        "version": "1.2.1",
+        "version": "1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Basic management of elapsed time, wall time, and date time, with multi-timezone support.",
-        "paragraph": "Provides type safety around time intervals and different time units, guarding against common programming errors like confusing time units, or confusing 'timestamps' with 'intervals'.",
+        "paragraph": "Provides type safety around durations and different time units, guarding against common programming errors like confusing time units, or confusing 'timestamps' with 'durations'.",
         "website": "https://github.com/dejwk/roo_time",
         "category": "Timing",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_time-1.2.1.zip",
-        "archiveFileName": "roo_time-1.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_time-1.3.0.zip",
+        "archiveFileName": "roo_time-1.3.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "roo_time1.2.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Basic management of elapsed time, wall time, and date time, with multi-timezone support.Provides type safety around time intervals and different time units, guarding against common programming errors like confusing time units, or confusing 'timestamps' with 'intervals'.https://github.com/dejwk/roo_timeTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_time-1.2.1.ziproo_time-1.2.1.zip"
+        "fullText": "roo_time1.3.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Basic management of elapsed time, wall time, and date time, with multi-timezone support.Provides type safety around durations and different time units, guarding against common programming errors like confusing time units, or confusing 'timestamps' with 'durations'.https://github.com/dejwk/roo_timeTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_time-1.3.0.ziproo_time-1.3.0.zip"
     },
     {
         "name": "SettingsManagerESP32",
@@ -122353,7 +122356,7 @@
     },
     {
         "name": "roo_scheduler",
-        "version": "2.1.2",
+        "version": "2.1.3",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Allows scheduling delayed and/or repetitive tasks.",
@@ -122363,14 +122366,14 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.2.zip",
-        "archiveFileName": "roo_scheduler-2.1.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.3.zip",
+        "archiveFileName": "roo_scheduler-2.1.3.zip",
         "dependencies": [
-            "roo_time",
             "roo_collections",
-            "roo_threads"
+            "roo_threads",
+            "roo_time"
         ],
-        "fullText": "roo_scheduler2.1.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.2.ziproo_scheduler-2.1.2.ziproo_time, roo_collections, roo_threads"
+        "fullText": "roo_scheduler2.1.3Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Allows scheduling delayed and/or repetitive tasks.Works on boards that support C++ standard library (e.g. Espressif ESP32 family). Specifically, it requires the following standard headers: `<memory>`, `<queue>`, and `<functional>`. Uses `std::priority_queue` for storage, and therefore: (1) Maintains the queue in a flat vector, and thus, does not dynamically reallocate memory as long as the queue remains below its present capacity. (In most practical cases, the queue will stay within small bound capacity); (2) Scheduling a task, as well as looking up the nearest scheduled task, is O(log N), where N is the queue length, so it remains fast even in those rare cases when the queue gets longer. The tasks can be defined as function pointers, but also as inline lambdas, or generally as arbitrary callables, so it is convenient and idiomatic to make them stateful.https://github.com/dejwk/roo_schedulerTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_scheduler-2.1.3.ziproo_scheduler-2.1.3.ziproo_collections, roo_threads, roo_time"
     },
     {
         "name": "HydroinoJobMgr",
@@ -123447,7 +123450,7 @@
     },
     {
         "name": "roo_logging",
-        "version": "1.2.0",
+        "version": "1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Logging library, targeted at ESP32 and related boards.",
@@ -123457,13 +123460,14 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.2.0.zip",
-        "archiveFileName": "roo_logging-1.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.3.0.zip",
+        "archiveFileName": "roo_logging-1.3.0.zip",
         "dependencies": [
             "roo_flags",
-            "roo_time"
+            "roo_time",
+            "roo_threads"
         ],
-        "fullText": "roo_logging1.2.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Logging library, targeted at ESP32 and related boards.Port of Google's 'glog' library.https://github.com/dejwk/roo_loggingOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.2.0.ziproo_logging-1.2.0.ziproo_flags, roo_time"
+        "fullText": "roo_logging1.3.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Logging library, targeted at ESP32 and related boards.Port of Google's 'glog' library.https://github.com/dejwk/roo_loggingOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.3.0.ziproo_logging-1.3.0.ziproo_flags, roo_time, roo_threads"
     },
     {
         "name": "AsproSolarShield",
@@ -132119,22 +132123,22 @@
     },
     {
         "name": "MatrixMiniR4",
-        "version": "1.1.5",
+        "version": "1.1.9",
         "author": "KKITC",
-        "maintainer": "Matrix Robotics & KKITC <service1@kkitc.net>",
+        "maintainer": "Matrix Robotics & KKITC <sales@kkitc.net>",
         "sentence": "An Arduino R4 based Robotics controller made by MATRIX Robotics.",
-        "paragraph": "With R4 Controller and MATRIX building system, you can make tons of projects. From basic tracking car to omni-directional mobile platform, you can make any ideas comes out of your mind.",
+        "paragraph": "The Matrix R4 integrates STM32 processing, compact 6-axis IMU Gyro and advanced motor contol, providing a versatile platform for quickly building Arduino-based robots. From simple line-followers to omni-directional platforms, it makes turning ideas into robots fast and easy.",
         "website": "https://github.com/Matrix-Robotics/MatrixMiniR4",
         "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Matrix-Robotics/MatrixMiniR4-1.1.5.zip",
-        "archiveFileName": "MatrixMiniR4-1.1.5.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Matrix-Robotics/MatrixMiniR4-1.1.9.zip",
+        "archiveFileName": "MatrixMiniR4-1.1.9.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MatrixMiniR41.1.5KKITCMatrix Robotics & KKITC <service1@kkitc.net>An Arduino R4 based Robotics controller made by MATRIX Robotics.With R4 Controller and MATRIX building system, you can make tons of projects. From basic tracking car to omni-directional mobile platform, you can make any ideas comes out of your mind.https://github.com/Matrix-Robotics/MatrixMiniR4Device Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Matrix-Robotics/MatrixMiniR4-1.1.5.zipMatrixMiniR4-1.1.5.zip"
+        "fullText": "MatrixMiniR41.1.9KKITCMatrix Robotics & KKITC <sales@kkitc.net>An Arduino R4 based Robotics controller made by MATRIX Robotics.The Matrix R4 integrates STM32 processing, compact 6-axis IMU Gyro and advanced motor contol, providing a versatile platform for quickly building Arduino-based robots. From simple line-followers to omni-directional platforms, it makes turning ideas into robots fast and easy.https://github.com/Matrix-Robotics/MatrixMiniR4Device Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Matrix-Robotics/MatrixMiniR4-1.1.9.zipMatrixMiniR4-1.1.9.zip"
     },
     {
         "name": "CBUSMCP_CAN",
@@ -136888,7 +136892,7 @@
     },
     {
         "name": "roo_onewire",
-        "version": "2.0.1",
+        "version": "2.0.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Arduino library for OneWire thermometers.",
@@ -136898,15 +136902,15 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-2.0.1.zip",
-        "archiveFileName": "roo_onewire-2.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-2.0.2.zip",
+        "archiveFileName": "roo_onewire-2.0.2.zip",
         "dependencies": [
             "roo_collections",
             "roo_logging",
             "roo_quantity",
             "roo_scheduler"
         ],
-        "fullText": "roo_onewire2.0.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino library for OneWire thermometers.Supports asynchronous conversion with event notification, and persistent configuration to dynamically (re)assign static thermometer 'roles' to specific devices.https://github.com/dejwk/roo_onewireSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-2.0.1.ziproo_onewire-2.0.1.ziproo_collections, roo_logging, roo_quantity, roo_scheduler"
+        "fullText": "roo_onewire2.0.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino library for OneWire thermometers.Supports asynchronous conversion with event notification, and persistent configuration to dynamically (re)assign static thermometer 'roles' to specific devices.https://github.com/dejwk/roo_onewireSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_onewire-2.0.2.ziproo_onewire-2.0.2.ziproo_collections, roo_logging, roo_quantity, roo_scheduler"
     },
     {
         "name": "roo_windows_wifi",
@@ -141574,7 +141578,7 @@
     },
     {
         "name": "roo_time_ds3231",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Arduino driver for DS3231 real-time clock, compliant with roo_time.",
@@ -141584,12 +141588,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_time_ds3231-1.0.0.zip",
-        "archiveFileName": "roo_time_ds3231-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_time_ds3231-1.1.0.zip",
+        "archiveFileName": "roo_time_ds3231-1.1.0.zip",
         "dependencies": [
             "roo_time"
         ],
-        "fullText": "roo_time_ds32311.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino driver for DS3231 real-time clock, compliant with roo_time.https://github.com/dejwk/roo_time_ds3231Timing*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_time_ds3231-1.0.0.ziproo_time_ds3231-1.0.0.ziproo_time"
+        "fullText": "roo_time_ds32311.1.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino driver for DS3231 real-time clock, compliant with roo_time.https://github.com/dejwk/roo_time_ds3231Timing*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_time_ds3231-1.1.0.ziproo_time_ds3231-1.1.0.ziproo_time"
     },
     {
         "name": "SM_16RELAYS",
@@ -142462,7 +142466,7 @@
     },
     {
         "name": "SSD1306 OLED Display",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Saurav Sajeev",
         "maintainer": "sauravsajeev202@gmail.com",
         "sentence": "An easy-to-use library for controlling SSD1306 OLED displays with custom fonts, graphs, plots, progress bars, and more.",
@@ -142472,12 +142476,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/styropyr0/SSD1306_OLED_Display-1.0.4.zip",
-        "archiveFileName": "SSD1306_OLED_Display-1.0.4.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/styropyr0/SSD1306_OLED_Display-1.0.5.zip",
+        "archiveFileName": "SSD1306_OLED_Display-1.0.5.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SSD1306 OLED Display1.0.4Saurav Sajeevsauravsajeev202@gmail.comAn easy-to-use library for controlling SSD1306 OLED displays with custom fonts, graphs, plots, progress bars, and more.This library supports controlling OLED displays using the SSD1306 driver. It provides support for custom fonts, animated text, progress bars, bitmap image rendering, and other display-related features. Compatible with 128x64 and 128x32 pixel OLED displays.https://github.com/styropyr0/oled.hDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/styropyr0/SSD1306_OLED_Display-1.0.4.zipSSD1306_OLED_Display-1.0.4.zip"
+        "fullText": "SSD1306 OLED Display1.0.5Saurav Sajeevsauravsajeev202@gmail.comAn easy-to-use library for controlling SSD1306 OLED displays with custom fonts, graphs, plots, progress bars, and more.This library supports controlling OLED displays using the SSD1306 driver. It provides support for custom fonts, animated text, progress bars, bitmap image rendering, and other display-related features. Compatible with 128x64 and 128x32 pixel OLED displays.https://github.com/styropyr0/oled.hDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/styropyr0/SSD1306_OLED_Display-1.0.5.zipSSD1306_OLED_Display-1.0.5.zip"
     },
     {
         "name": "loremipsum",
@@ -144691,7 +144695,7 @@
     },
     {
         "name": "roo_io",
-        "version": "1.3.0",
+        "version": "1.4.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Unified I/O library for microcontrollers.",
@@ -144701,17 +144705,18 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-1.3.0.zip",
-        "archiveFileName": "roo_io-1.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-1.4.0.zip",
+        "archiveFileName": "roo_io-1.4.0.zip",
         "dependencies": [
             "roo_backport",
-            "roo_logging"
+            "roo_logging",
+            "roo_threads"
         ],
-        "fullText": "roo_io1.3.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Unified I/O library for microcontrollers.Standard C++. On ESP32, works with Arduino as well as esp-idf.https://github.com/dejwk/roo_ioCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-1.3.0.ziproo_io-1.3.0.ziproo_backport, roo_logging"
+        "fullText": "roo_io1.4.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Unified I/O library for microcontrollers.Standard C++. On ESP32, works with Arduino as well as esp-idf.https://github.com/dejwk/roo_ioCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-1.4.0.ziproo_io-1.4.0.ziproo_backport, roo_logging, roo_threads"
     },
     {
         "name": "roo_io_arduino",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Arduino filesystem adapters for the roo_io library.",
@@ -144721,15 +144726,15 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.1.zip",
-        "archiveFileName": "roo_io_arduino-1.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.2.zip",
+        "archiveFileName": "roo_io_arduino-1.2.2.zip",
         "dependencies": [
             "FS",
             "SD",
             "roo_io",
             "roo_logging"
         ],
-        "fullText": "roo_io_arduino1.2.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino filesystem adapters for the roo_io library.https://github.com/dejwk/roo_io_arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.1.ziproo_io_arduino-1.2.1.zipFS, SD, roo_io, roo_logging"
+        "fullText": "roo_io_arduino1.2.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino filesystem adapters for the roo_io library.https://github.com/dejwk/roo_io_arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.2.ziproo_io_arduino-1.2.2.zipFS, SD, roo_io, roo_logging"
     },
     {
         "name": "RandomForestModel",
@@ -151183,22 +151188,22 @@
     },
     {
         "name": "WS2812_SYC_Air001",
-        "version": "1.0.0",
+        "version": "1.0.2",
         "author": "Eason-SYC",
         "maintainer": "Eason-SYC",
         "sentence": "Supports displaying multiple colors and allows using colored lights to draw simple graphics.",
-        "paragraph": "Supports displaying multiple colors and allows using colored lights to draw simple graphics.",
+        "paragraph": "For Air001",
         "website": "https://github.com/Eason-SYC/WS2812_SYC_Air001",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Eason-SYC/WS2812_SYC_Air001-1.0.0.zip",
-        "archiveFileName": "WS2812_SYC_Air001-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Eason-SYC/WS2812_SYC_Air001-1.0.2.zip",
+        "archiveFileName": "WS2812_SYC_Air001-1.0.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "WS2812_SYC_Air0011.0.0Eason-SYCEason-SYCSupports displaying multiple colors and allows using colored lights to draw simple graphics.Supports displaying multiple colors and allows using colored lights to draw simple graphics.https://github.com/Eason-SYC/WS2812_SYC_Air001Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/Eason-SYC/WS2812_SYC_Air001-1.0.0.zipWS2812_SYC_Air001-1.0.0.zip"
+        "fullText": "WS2812_SYC_Air0011.0.2Eason-SYCEason-SYCSupports displaying multiple colors and allows using colored lights to draw simple graphics.For Air001https://github.com/Eason-SYC/WS2812_SYC_Air001Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/Eason-SYC/WS2812_SYC_Air001-1.0.2.zipWS2812_SYC_Air001-1.0.2.zip"
     },
     {
         "name": "MyLedIO",
@@ -155593,7 +155598,7 @@
     },
     {
         "name": "roo_quantity",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Type-safe and unit-independent representation of physical quantities.",
@@ -155603,18 +155608,18 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.1.0.zip",
-        "archiveFileName": "roo_quantity-1.1.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.1.1.zip",
+        "archiveFileName": "roo_quantity-1.1.1.zip",
         "dependencies": [
             "roo_flags",
             "roo_logging",
             "roo_time"
         ],
-        "fullText": "roo_quantity1.1.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Type-safe and unit-independent representation of physical quantities.Helps you avoid bugs related to confusing the units or the order of numerical parameters.https://github.com/dejwk/roo_quantitySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.1.0.ziproo_quantity-1.1.0.ziproo_flags, roo_logging, roo_time"
+        "fullText": "roo_quantity1.1.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Type-safe and unit-independent representation of physical quantities.Helps you avoid bugs related to confusing the units or the order of numerical parameters.https://github.com/dejwk/roo_quantitySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_quantity-1.1.1.ziproo_quantity-1.1.1.ziproo_flags, roo_logging, roo_time"
     },
     {
         "name": "roo_threads",
-        "version": "1.1.2",
+        "version": "1.1.3",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Experimental portable threading library for microcontrollers.",
@@ -155624,12 +155629,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.2.zip",
-        "archiveFileName": "roo_threads-1.1.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.3.zip",
+        "archiveFileName": "roo_threads-1.1.3.zip",
         "dependencies": [
             "roo_time"
         ],
-        "fullText": "roo_threads1.1.2Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Experimental portable threading library for microcontrollers.Targeting Espressif family primarily, and intended to support local emulation using roo_testing.https://github.com/dejwk/roo_threadsDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.2.ziproo_threads-1.1.2.ziproo_time"
+        "fullText": "roo_threads1.1.3Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Experimental portable threading library for microcontrollers.Targeting Espressif family primarily, and intended to support local emulation using roo_testing.https://github.com/dejwk/roo_threadsDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_threads-1.1.3.ziproo_threads-1.1.3.ziproo_time"
     },
     {
         "name": "BMP390",
@@ -162633,22 +162638,22 @@
     },
     {
         "name": "PZEMPlus",
-        "version": "0.5.0",
+        "version": "0.5.3",
         "author": "Lucas Hudson",
         "maintainer": "Lucas Hudson",
-        "sentence": "Arduino/ESP32 library to easily read data from Peacefair energy monitoring devices",
-        "paragraph": "This library provides an easy-to-use interface for reading data from Peacefair energy monitoring devices including PZEM-004T, PZEM-6L24, PZIOT-E02, PZEM-003, and PZEM-017. It supports both Arduino and ESP32 platforms with Modbus RTU communication.",
+        "sentence": "Arduino/ESP32 library to easily read data from Peacefair energy monitoring devices (PZEM-004T, PZEM-003, PZEM-017, PZEM-6L24 and PZIOT-E02)",
+        "paragraph": null,
         "website": "https://github.com/lucashudson-eng/PZEMPlus",
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/lucashudson-eng/PZEMPlus-0.5.0.zip",
-        "archiveFileName": "PZEMPlus-0.5.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/lucashudson-eng/PZEMPlus-0.5.3.zip",
+        "archiveFileName": "PZEMPlus-0.5.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "PZEMPlus0.5.0Lucas HudsonLucas HudsonArduino/ESP32 library to easily read data from Peacefair energy monitoring devicesThis library provides an easy-to-use interface for reading data from Peacefair energy monitoring devices including PZEM-004T, PZEM-6L24, PZIOT-E02, PZEM-003, and PZEM-017. It supports both Arduino and ESP32 platforms with Modbus RTU communication.https://github.com/lucashudson-eng/PZEMPlusCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lucashudson-eng/PZEMPlus-0.5.0.zipPZEMPlus-0.5.0.zip"
+        "fullText": "PZEMPlus0.5.3Lucas HudsonLucas HudsonArduino/ESP32 library to easily read data from Peacefair energy monitoring devices (PZEM-004T, PZEM-003, PZEM-017, PZEM-6L24 and PZIOT-E02)https://github.com/lucashudson-eng/PZEMPlusCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lucashudson-eng/PZEMPlus-0.5.3.zipPZEMPlus-0.5.3.zip"
     },
     {
         "name": "POTA",
@@ -162669,5 +162674,157 @@
             "Arduino_Portenta_OTA"
         ],
         "fullText": "POTA1.0.0Francesco Alessandro Coluccipleasedontcode <info@pleasedontcode.com>Please Over The Air (POTA) — secure OTA updater for ESP32, ESP8266 and Arduino OptaPOTA provides a small, secure, and easy-to-use OTA update helper integrated with the Please Over The Air (POTA) service from https://www.pleasedontcode.com. It checks your update server, verifies the server HMAC token, and performs the OTA update using the board-specific mechanism (e.g. esp_https_ota for ESP32, ESPhttpUpdate for ESP8266, Arduino_Portenta_OTA for Opta). Currently supports ESP32-based boards, ESP8266-based boards and Arduino Opta, with more platforms planned.https://github.com/pleasedontcode/POTACommunicationesp32, esp8266, mbed_optaContributedhttps://downloads.arduino.cc/libraries/github.com/pleasedontcode/POTA-1.0.0.zipPOTA-1.0.0.zipArduinoJson, Arduino_Portenta_OTA"
+    },
+    {
+        "name": "LD2410Async",
+        "version": "0.9.3",
+        "author": "Lizard King",
+        "maintainer": "Lizard King",
+        "sentence": "Asynchronous driver for the Hi-Link LD2410 human presence radar sensor.",
+        "paragraph": "Provides a non-blocking, FreeRTOS-based API for the Hi-Link LD2410 radar sensor on ESP32. Includes async configuration, presence detection callbacks, and full access to sensor data.",
+        "website": "https://github.com/lizardking/LD2410Async",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/lizardking/LD2410Async-0.9.3.zip",
+        "archiveFileName": "LD2410Async-0.9.3.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "LD2410Async0.9.3Lizard KingLizard KingAsynchronous driver for the Hi-Link LD2410 human presence radar sensor.Provides a non-blocking, FreeRTOS-based API for the Hi-Link LD2410 radar sensor on ESP32. Includes async configuration, presence detection callbacks, and full access to sensor data.https://github.com/lizardking/LD2410AsyncSensorsesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/lizardking/LD2410Async-0.9.3.zipLD2410Async-0.9.3.zip"
+    },
+    {
+        "name": "Timers_one_for_all",
+        "version": "3.0.1",
+        "author": "埃博拉酱 <vhtmfu@outlook.com>",
+        "maintainer": "埃博拉酱 <vhtmfu@outlook.com>",
+        "sentence": "充分利用你开发板上所有的硬件计时器。**非兼容性更新，谨慎升级**",
+        "paragraph": "循环等待、延迟执行、时间中断、定时重复、秒表计时，可以自由指定或自动分配互不冲突的所有独立硬件计时器，硬件中断，事件驱动。",
+        "website": "https://github.com/Ebola-Chan-bot/Timers_one_for_all",
+        "category": "Timing",
+        "architectures": "avr, sam",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/Timers_one_for_all-3.0.1.zip",
+        "archiveFileName": "Timers_one_for_all-3.0.1.zip",
+        "dependencies": [
+            "Cpp_Standard_Library"
+        ],
+        "fullText": "Timers_one_for_all3.0.1埃博拉酱 <vhtmfu@outlook.com>埃博拉酱 <vhtmfu@outlook.com>充分利用你开发板上所有的硬件计时器。**非兼容性更新，谨慎升级**循环等待、延迟执行、时间中断、定时重复、秒表计时，可以自由指定或自动分配互不冲突的所有独立硬件计时器，硬件中断，事件驱动。https://github.com/Ebola-Chan-bot/Timers_one_for_allTimingavr, samContributedhttps://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/Timers_one_for_all-3.0.1.zipTimers_one_for_all-3.0.1.zipCpp_Standard_Library"
+    },
+    {
+        "name": "Quick_digital_IO_interrupt",
+        "version": "3.0.1",
+        "author": "埃博拉酱 <vhtmfu@outlook.com>",
+        "maintainer": "埃博拉酱 <vhtmfu@outlook.com>",
+        "sentence": "高性能引脚IO和中断操作。**非兼容性更新，谨慎升级**",
+        "paragraph": "内置的引脚读写函数`digitalRead`和`digitalWrite`需要每次将引脚转换成寄存器地址再进行读写，而且还需要检查PWM计时器设定，虽然增加了可靠性，减少了内存占用，但是性能较低，无法满足超高频操作的需求。内置的引脚中断操作功能也十分有限。本库牺牲一定内存空间和与其它功能的兼容性和稳健性，追求使用尽可能少的指令周期完成引脚操作，并支持内置函数所欠缺的一些扩展功能。",
+        "website": "https://github.com/Ebola-Chan-bot/Quick_digital_IO_interrupt",
+        "category": "Signal Input/Output",
+        "architectures": "avr, sam",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/Quick_digital_IO_interrupt-3.0.1.zip",
+        "archiveFileName": "Quick_digital_IO_interrupt-3.0.1.zip",
+        "dependencies": [
+            "Cpp_Standard_Library"
+        ],
+        "fullText": "Quick_digital_IO_interrupt3.0.1埃博拉酱 <vhtmfu@outlook.com>埃博拉酱 <vhtmfu@outlook.com>高性能引脚IO和中断操作。**非兼容性更新，谨慎升级**内置的引脚读写函数`digitalRead`和`digitalWrite`需要每次将引脚转换成寄存器地址再进行读写，而且还需要检查PWM计时器设定，虽然增加了可靠性，减少了内存占用，但是性能较低，无法满足超高频操作的需求。内置的引脚中断操作功能也十分有限。本库牺牲一定内存空间和与其它功能的兼容性和稳健性，追求使用尽可能少的指令周期完成引脚操作，并支持内置函数所欠缺的一些扩展功能。https://github.com/Ebola-Chan-bot/Quick_digital_IO_interruptSignal Input/Outputavr, samContributedhttps://downloads.arduino.cc/libraries/github.com/Ebola-Chan-bot/Quick_digital_IO_interrupt-3.0.1.zipQuick_digital_IO_interrupt-3.0.1.zipCpp_Standard_Library"
+    },
+    {
+        "name": "PS4Arduino",
+        "version": "1.0.0",
+        "author": "Flamethrower",
+        "maintainer": "Flamethrower",
+        "sentence": "Library to use HID-capable boards as a controller for PS4.",
+        "paragraph": "Meant to be used with the PS4Arduino-AVR core (see library README for instructions)",
+        "website": "https://github.com/Flamethr0wer/PS4Arduino",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Flamethr0wer/PS4Arduino-1.0.0.zip",
+        "archiveFileName": "PS4Arduino-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "PS4Arduino1.0.0FlamethrowerFlamethrowerLibrary to use HID-capable boards as a controller for PS4.Meant to be used with the PS4Arduino-AVR core (see library README for instructions)https://github.com/Flamethr0wer/PS4ArduinoDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Flamethr0wer/PS4Arduino-1.0.0.zipPS4Arduino-1.0.0.zip"
+    },
+    {
+        "name": "DIYables ESP32 WebServer",
+        "version": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io (diyables.io@gmail.com)",
+        "sentence": "DIYables ESP32 WebServer library with WebSocket support",
+        "paragraph": "DIYables ESP32 WebServer library designed for ESP32 boards. It includes multi-page web server capabilities and WebSocket support for real-time communication, perfect for IoT projects and DIYables ESP32 boards.",
+        "website": "https://diyables.io/esp32-board",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/DIYables/DIYables_ESP32_WebServer-1.0.0.zip",
+        "archiveFileName": "DIYables_ESP32_WebServer-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "DIYables ESP32 WebServer1.0.0DIYables.ioDIYables.io (diyables.io@gmail.com)DIYables ESP32 WebServer library with WebSocket supportDIYables ESP32 WebServer library designed for ESP32 boards. It includes multi-page web server capabilities and WebSocket support for real-time communication, perfect for IoT projects and DIYables ESP32 boards.https://diyables.io/esp32-boardCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/DIYables/DIYables_ESP32_WebServer-1.0.0.zipDIYables_ESP32_WebServer-1.0.0.zip"
+    },
+    {
+        "name": "bb_proximity",
+        "version": "1.0.0",
+        "author": "Larry Bank",
+        "maintainer": "Larry Bank",
+        "sentence": "multi-device library for a variety of ALS/Proximity sensors.",
+        "paragraph": "A full featured I2C sensor library which auto-detects the most popular I2C devices.",
+        "website": "https://github.com/bitbank2/bb_proximity",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/bitbank2/bb_proximity-1.0.0.zip",
+        "archiveFileName": "bb_proximity-1.0.0.zip",
+        "dependencies": [
+            "BitBang_I2C"
+        ],
+        "fullText": "bb_proximity1.0.0Larry BankLarry Bankmulti-device library for a variety of ALS/Proximity sensors.A full featured I2C sensor library which auto-detects the most popular I2C devices.https://github.com/bitbank2/bb_proximityCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/bitbank2/bb_proximity-1.0.0.zipbb_proximity-1.0.0.zipBitBang_I2C"
+    },
+    {
+        "name": "PhotonCore",
+        "version": "2.0.2",
+        "author": "MrDev-5000",
+        "maintainer": "MrDev-5000",
+        "sentence": "This is a powerful Arduino library to create smooth, non-blocking LED effects",
+        "paragraph": "PhotonCore is a lightweight Arduino library for non-blocking, customizable LED effects and multitasking.",
+        "website": "https://github.com/MrDev-5000/PhotonCore",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/MrDev-5000/PhotonCore-2.0.2.zip",
+        "archiveFileName": "PhotonCore-2.0.2.zip",
+        "dependencies": [
+            "TimerKernel"
+        ],
+        "fullText": "PhotonCore2.0.2MrDev-5000MrDev-5000This is a powerful Arduino library to create smooth, non-blocking LED effectsPhotonCore is a lightweight Arduino library for non-blocking, customizable LED effects and multitasking.https://github.com/MrDev-5000/PhotonCoreSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/MrDev-5000/PhotonCore-2.0.2.zipPhotonCore-2.0.2.zipTimerKernel"
+    },
+    {
+        "name": "Geek Factory GFDisplay7S Library",
+        "version": "1.0.0",
+        "author": "Geek Electronics",
+        "maintainer": "Jesus Ruben Santa Anna Zamudio",
+        "sentence": "Manage multiplexed 7 segment displays easily.",
+        "paragraph": "Display numbers on 7 segment displays with this library that takes care of display multiplexing.",
+        "website": "https://github.com/geekfactory/GFDisplay7S",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/geekfactory/Geek_Factory_GFDisplay7S_Library-1.0.0.zip",
+        "archiveFileName": "Geek_Factory_GFDisplay7S_Library-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "Geek Factory GFDisplay7S Library1.0.0Geek ElectronicsJesus Ruben Santa Anna ZamudioManage multiplexed 7 segment displays easily.Display numbers on 7 segment displays with this library that takes care of display multiplexing.https://github.com/geekfactory/GFDisplay7SDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/geekfactory/Geek_Factory_GFDisplay7S_Library-1.0.0.zipGeek_Factory_GFDisplay7S_Library-1.0.0.zip"
     }
 ]
