@@ -4767,7 +4767,7 @@
     },
     {
         "name": "SparkFun BME280",
-        "version": "2.0.9",
+        "version": "2.0.11",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "sentence": "A library to drive the Bosch BME280 Altimeter and Pressure sensor",
@@ -4777,12 +4777,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BME280-2.0.9.zip",
-        "archiveFileName": "SparkFun_BME280-2.0.9.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BME280-2.0.11.zip",
+        "archiveFileName": "SparkFun_BME280-2.0.11.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SparkFun BME2802.0.9SparkFun ElectronicsSparkFun Electronics <sparkfun.com>A library to drive the Bosch BME280 Altimeter and Pressure sensorThe SparkFun CCS811/BME280 Environmental Combo Breakout takes care of all your atmospheric-quality sensing needs with the popular CCS811 and BME280 ICs. This unique breakout provides a variety of environmental data, including barometric pressure, humidity, temperature, TVOCs and equivalent CO2 (or eCO2) levels.https://github.com/sparkfun/SparkFun_BME280_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BME280-2.0.9.zipSparkFun_BME280-2.0.9.zip"
+        "fullText": "SparkFun BME2802.0.11SparkFun ElectronicsSparkFun Electronics <sparkfun.com>A library to drive the Bosch BME280 Altimeter and Pressure sensorThe SparkFun CCS811/BME280 Environmental Combo Breakout takes care of all your atmospheric-quality sensing needs with the popular CCS811 and BME280 ICs. This unique breakout provides a variety of environmental data, including barometric pressure, humidity, temperature, TVOCs and equivalent CO2 (or eCO2) levels.https://github.com/sparkfun/SparkFun_BME280_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BME280-2.0.11.zipSparkFun_BME280-2.0.11.zip"
     },
     {
         "name": "Akafugu Four Letter Word Library",
@@ -95384,7 +95384,7 @@
     },
     {
         "name": "ESP32_BleSerial",
-        "version": "2.0.1",
+        "version": "3.0.0",
         "author": "Avinab Malla <avinabmalla@yahoo.com>",
         "maintainer": "Avinab Malla <avinabmalla@yahoo.com>",
         "sentence": "A BLE Serial library for Arduino ESP32",
@@ -95394,12 +95394,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/avinabmalla/ESP32_BleSerial-2.0.1.zip",
-        "archiveFileName": "ESP32_BleSerial-2.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/avinabmalla/ESP32_BleSerial-3.0.0.zip",
+        "archiveFileName": "ESP32_BleSerial-3.0.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESP32_BleSerial2.0.1Avinab Malla <avinabmalla@yahoo.com>Avinab Malla <avinabmalla@yahoo.com>A BLE Serial library for Arduino ESP32A BLE Serial library for Arduino ESP32https://github.com/avinabmalla/ESP32_BleSerialCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/avinabmalla/ESP32_BleSerial-2.0.1.zipESP32_BleSerial-2.0.1.zip"
+        "fullText": "ESP32_BleSerial3.0.0Avinab Malla <avinabmalla@yahoo.com>Avinab Malla <avinabmalla@yahoo.com>A BLE Serial library for Arduino ESP32A BLE Serial library for Arduino ESP32https://github.com/avinabmalla/ESP32_BleSerialCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/avinabmalla/ESP32_BleSerial-3.0.0.zipESP32_BleSerial-3.0.0.zip"
     },
     {
         "name": "ESPAutoWiFiConfig",
@@ -104617,7 +104617,7 @@
     },
     {
         "name": "SparkFun u-blox GNSS v3",
-        "version": "3.1.12",
+        "version": "3.1.13",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "sentence": "Library for I2C, Serial and SPI Communication with u-blox GNSS modules<br/><br/>",
@@ -104627,12 +104627,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_u_blox_GNSS_v3-3.1.12.zip",
-        "archiveFileName": "SparkFun_u_blox_GNSS_v3-3.1.12.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_u_blox_GNSS_v3-3.1.13.zip",
+        "archiveFileName": "SparkFun_u_blox_GNSS_v3-3.1.13.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SparkFun u-blox GNSS v33.1.12SparkFun Electronics <techsupport@sparkfun.com>SparkFun Electronics <sparkfun.com>Library for I2C, Serial and SPI Communication with u-blox GNSS modules<br/><br/>An Arduino Library to support the latest u-blox GNSS modules, using both NMEA and UBX protocols over I2C, Serial and SPI.<br/><br/><b>Important note:</b> this version uses the u-blox Configuration Interface to detect and configure the module. It is not backward-compatible with older modules like the M8.<br/><br/>Useful for interfacing to the <a href=\"https://www.sparkfun.com/products/15136\">SparkFun GPS-RTK2 ZED-F9P</a> and <a href=\"https://www.sparkfun.com/products/18037\">SparkFun MAX-M10S Breakout</a>.<br/>https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_u_blox_GNSS_v3-3.1.12.zipSparkFun_u_blox_GNSS_v3-3.1.12.zip"
+        "fullText": "SparkFun u-blox GNSS v33.1.13SparkFun Electronics <techsupport@sparkfun.com>SparkFun Electronics <sparkfun.com>Library for I2C, Serial and SPI Communication with u-blox GNSS modules<br/><br/>An Arduino Library to support the latest u-blox GNSS modules, using both NMEA and UBX protocols over I2C, Serial and SPI.<br/><br/><b>Important note:</b> this version uses the u-blox Configuration Interface to detect and configure the module. It is not backward-compatible with older modules like the M8.<br/><br/>Useful for interfacing to the <a href=\"https://www.sparkfun.com/products/15136\">SparkFun GPS-RTK2 ZED-F9P</a> and <a href=\"https://www.sparkfun.com/products/18037\">SparkFun MAX-M10S Breakout</a>.<br/>https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_u_blox_GNSS_v3-3.1.13.zipSparkFun_u_blox_GNSS_v3-3.1.13.zip"
     },
     {
         "name": "AsyncTCP",
@@ -125483,7 +125483,7 @@
     },
     {
         "name": "MycilaConfig",
-        "version": "7.0.3",
+        "version": "7.1.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "A simple and efficient config library",
@@ -125493,12 +125493,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaConfig-7.0.3.zip",
-        "archiveFileName": "MycilaConfig-7.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaConfig-7.1.0.zip",
+        "archiveFileName": "MycilaConfig-7.1.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MycilaConfig7.0.3Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>A simple and efficient config libraryhttps://github.com/mathieucarbou/MycilaConfigOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaConfig-7.0.3.zipMycilaConfig-7.0.3.zip"
+        "fullText": "MycilaConfig7.1.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>A simple and efficient config libraryhttps://github.com/mathieucarbou/MycilaConfigOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaConfig-7.1.0.zipMycilaConfig-7.1.0.zip"
     },
     {
         "name": "MycilaJSY",
@@ -125851,7 +125851,7 @@
     },
     {
         "name": "MycilaHADiscovery",
-        "version": "6.0.1",
+        "version": "6.2.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "Simple and efficient Home Assistant Discovery library for Arduino / ESP32",
@@ -125861,12 +125861,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaHADiscovery-6.0.1.zip",
-        "archiveFileName": "MycilaHADiscovery-6.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaHADiscovery-6.2.0.zip",
+        "archiveFileName": "MycilaHADiscovery-6.2.0.zip",
         "dependencies": [
             "ArduinoJson"
         ],
-        "fullText": "MycilaHADiscovery6.0.1Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>Simple and efficient Home Assistant Discovery library for Arduino / ESP32https://github.com/mathieucarbou/MycilaHADiscoveryOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaHADiscovery-6.0.1.zipMycilaHADiscovery-6.0.1.zipArduinoJson"
+        "fullText": "MycilaHADiscovery6.2.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>Simple and efficient Home Assistant Discovery library for Arduino / ESP32https://github.com/mathieucarbou/MycilaHADiscoveryOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaHADiscovery-6.2.0.zipMycilaHADiscovery-6.2.0.zipArduinoJson"
     },
     {
         "name": "ESP32-PTQS1005",
@@ -125889,7 +125889,7 @@
     },
     {
         "name": "MycilaMQTT",
-        "version": "6.0.7",
+        "version": "6.1.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "A simple and efficient MQTT/MQTTS client for Arduino / ESP32 based on Espressif API",
@@ -125899,12 +125899,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaMQTT-6.0.7.zip",
-        "archiveFileName": "MycilaMQTT-6.0.7.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaMQTT-6.1.0.zip",
+        "archiveFileName": "MycilaMQTT-6.1.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MycilaMQTT6.0.7Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>A simple and efficient MQTT/MQTTS client for Arduino / ESP32 based on Espressif APIhttps://github.com/mathieucarbou/MycilaMQTTOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaMQTT-6.0.7.zipMycilaMQTT-6.0.7.zip"
+        "fullText": "MycilaMQTT6.1.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>A simple and efficient MQTT/MQTTS client for Arduino / ESP32 based on Espressif APIhttps://github.com/mathieucarbou/MycilaMQTTOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaMQTT-6.1.0.zipMycilaMQTT-6.1.0.zip"
     },
     {
         "name": "EspNowCam",
@@ -136202,7 +136202,7 @@
     },
     {
         "name": "MycilaWebSerial",
-        "version": "8.1.2",
+        "version": "8.1.3",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "A Web based Serial Monitor for ESP8266 & ESP32 to debug your code remotely.",
@@ -136212,16 +136212,16 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaWebSerial-8.1.2.zip",
-        "archiveFileName": "MycilaWebSerial-8.1.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaWebSerial-8.1.3.zip",
+        "archiveFileName": "MycilaWebSerial-8.1.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MycilaWebSerial8.1.2Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>A Web based Serial Monitor for ESP8266 & ESP32 to debug your code remotely.MycilaWebSerial is a webpage based Serial Monitor to log, monitor, or debug your code remotely.https://github.com/mathieucarbou/MycilaWebSerialCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaWebSerial-8.1.2.zipMycilaWebSerial-8.1.2.zip"
+        "fullText": "MycilaWebSerial8.1.3Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>A Web based Serial Monitor for ESP8266 & ESP32 to debug your code remotely.MycilaWebSerial is a webpage based Serial Monitor to log, monitor, or debug your code remotely.https://github.com/mathieucarbou/MycilaWebSerialCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaWebSerial-8.1.3.zipMycilaWebSerial-8.1.3.zip"
     },
     {
         "name": "MycilaUtilities",
-        "version": "3.3.0",
+        "version": "3.3.1",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "sentence": "Utils stuff for Arduino / ESP32 like PID, Time, CircularBuffer, etc",
@@ -136231,12 +136231,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaUtilities-3.3.0.zip",
-        "archiveFileName": "MycilaUtilities-3.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaUtilities-3.3.1.zip",
+        "archiveFileName": "MycilaUtilities-3.3.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MycilaUtilities3.3.0Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>Utils stuff for Arduino / ESP32 like PID, Time, CircularBuffer, etchttps://github.com/mathieucarbou/MycilaUtilitiesOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaUtilities-3.3.0.zipMycilaUtilities-3.3.0.zip"
+        "fullText": "MycilaUtilities3.3.1Mathieu Carbou <mathieu.carbou@gmail.com>Mathieu Carbou <mathieu.carbou@gmail.com>Utils stuff for Arduino / ESP32 like PID, Time, CircularBuffer, etchttps://github.com/mathieucarbou/MycilaUtilitiesOtheresp32Contributedhttps://downloads.arduino.cc/libraries/github.com/mathieucarbou/MycilaUtilities-3.3.1.zipMycilaUtilities-3.3.1.zip"
     },
     {
         "name": "MycilaSystem",
@@ -154660,7 +154660,7 @@
     },
     {
         "name": "EasyMQTT",
-        "version": "1.0.7",
+        "version": "1.0.10",
         "author": "saveme1507 <asepsoo55@gmail.com>",
         "maintainer": "asepsoo55@gmail.com <asepsoo55@gmail.com>",
         "sentence": "Simple MQTT wrapper for ESP32, ESP8266, wemos with SSL, OTA, and Blynk-style usage",
@@ -154670,14 +154670,14 @@
         "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/saveme1507/EasyMQTT-1.0.7.zip",
-        "archiveFileName": "EasyMQTT-1.0.7.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/saveme1507/EasyMQTT-1.0.10.zip",
+        "archiveFileName": "EasyMQTT-1.0.10.zip",
         "dependencies": [
             "PubSubClient",
             "ArduinoJson",
             "ArduinoHttpClient"
         ],
-        "fullText": "EasyMQTT1.0.7saveme1507 <asepsoo55@gmail.com>asepsoo55@gmail.com <asepsoo55@gmail.com>Simple MQTT wrapper for ESP32, ESP8266, wemos with SSL, OTA, and Blynk-style usageSupports SSL, OTA, auto reconnect, Blynk-style handler, and easy setup for MQTT.https://github.com/saveme1507/EasyMQTTCommunicationesp32, esp8266Contributedhttps://downloads.arduino.cc/libraries/github.com/saveme1507/EasyMQTT-1.0.7.zipEasyMQTT-1.0.7.zipPubSubClient, ArduinoJson, ArduinoHttpClient"
+        "fullText": "EasyMQTT1.0.10saveme1507 <asepsoo55@gmail.com>asepsoo55@gmail.com <asepsoo55@gmail.com>Simple MQTT wrapper for ESP32, ESP8266, wemos with SSL, OTA, and Blynk-style usageSupports SSL, OTA, auto reconnect, Blynk-style handler, and easy setup for MQTT.https://github.com/saveme1507/EasyMQTTCommunicationesp32, esp8266Contributedhttps://downloads.arduino.cc/libraries/github.com/saveme1507/EasyMQTT-1.0.10.zipEasyMQTT-1.0.10.zipPubSubClient, ArduinoJson, ArduinoHttpClient"
     },
     {
         "name": "M_RGB",
@@ -159590,7 +159590,7 @@
     },
     {
         "name": "ANBSensorsModbus",
-        "version": "0.2.6",
+        "version": "0.3.0",
         "author": "Sara Damiano <sdamiano@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "sentence": "A library for communicating with pH sensors manufactured by ANB Sensors using Modbus.",
@@ -159600,13 +159600,13 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.2.6.zip",
-        "archiveFileName": "ANBSensorsModbus-0.2.6.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.3.0.zip",
+        "archiveFileName": "ANBSensorsModbus-0.3.0.zip",
         "dependencies": [
             "SensorModbusMaster",
             "fast_math"
         ],
-        "fullText": "ANBSensorsModbus0.2.6Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>A library for communicating with pH sensors manufactured by ANB Sensors using Modbus.https://github.com/EnviroDIY/ANBSensorsModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.2.6.zipANBSensorsModbus-0.2.6.zipSensorModbusMaster, fast_math"
+        "fullText": "ANBSensorsModbus0.3.0Sara Damiano <sdamiano@stroudcenter.org>Sara Damiano <sdamiano@stroudcenter.org>A library for communicating with pH sensors manufactured by ANB Sensors using Modbus.https://github.com/EnviroDIY/ANBSensorsModbusSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/EnviroDIY/ANBSensorsModbus-0.3.0.zipANBSensorsModbus-0.3.0.zipSensorModbusMaster, fast_math"
     },
     {
         "name": "7Semi HMC6343 Compass",
@@ -161235,7 +161235,7 @@
     },
     {
         "name": "ESPWiFiManagerByDroidbane",
-        "version": "2.0.1",
+        "version": "3.0.1",
         "author": "Droidbane",
         "maintainer": "Tanrimgeliyorum@gmail.com",
         "sentence": "ESP8266 server-based operations: remote Wi-Fi get wifi password and ssid from phone or web, reboot and update wifi information.",
@@ -161245,12 +161245,12 @@
         "architectures": "esp8266",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Droidbane/ESPWiFiManagerByDroidbane-2.0.1.zip",
-        "archiveFileName": "ESPWiFiManagerByDroidbane-2.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Droidbane/ESPWiFiManagerByDroidbane-3.0.1.zip",
+        "archiveFileName": "ESPWiFiManagerByDroidbane-3.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESPWiFiManagerByDroidbane2.0.1DroidbaneTanrimgeliyorum@gmail.comESP8266 server-based operations: remote Wi-Fi get wifi password and ssid from phone or web, reboot and update wifi information.This ESP8266-based library simplifies remote device management. New Wi-Fi SSID and password information is retrieved via the phone or web interface, stored in the LittleFS file system, and automatically connected to the network when the device is rebooted. Existing settings can be updated or deleted. REST endpoints: /wifi (POST: ssid, password), /restart (POST), /wifi-update (POST). Usage examples can be reviewed in the File → Examples → ESPWiFiManagerByDroidbane menu.https://github.com/DroidbaneUncategorizedesp8266Contributedhttps://downloads.arduino.cc/libraries/github.com/Droidbane/ESPWiFiManagerByDroidbane-2.0.1.zipESPWiFiManagerByDroidbane-2.0.1.zip"
+        "fullText": "ESPWiFiManagerByDroidbane3.0.1DroidbaneTanrimgeliyorum@gmail.comESP8266 server-based operations: remote Wi-Fi get wifi password and ssid from phone or web, reboot and update wifi information.This ESP8266-based library simplifies remote device management. New Wi-Fi SSID and password information is retrieved via the phone or web interface, stored in the LittleFS file system, and automatically connected to the network when the device is rebooted. Existing settings can be updated or deleted. REST endpoints: /wifi (POST: ssid, password), /restart (POST), /wifi-update (POST). Usage examples can be reviewed in the File → Examples → ESPWiFiManagerByDroidbane menu.https://github.com/DroidbaneUncategorizedesp8266Contributedhttps://downloads.arduino.cc/libraries/github.com/Droidbane/ESPWiFiManagerByDroidbane-3.0.1.zipESPWiFiManagerByDroidbane-3.0.1.zip"
     },
     {
         "name": "Soldered DS3234 RTC",
@@ -162619,7 +162619,7 @@
     },
     {
         "name": "TimerKernel",
-        "version": "1.0.3",
+        "version": "1.1.3",
         "author": "MrDev-5000",
         "maintainer": "MrDev-5000",
         "sentence": "This is a lightweight Arduino library for managing non-blocking timers.",
@@ -162629,12 +162629,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.0.3.zip",
-        "archiveFileName": "TimerKernel-1.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.1.3.zip",
+        "archiveFileName": "TimerKernel-1.1.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "TimerKernel1.0.3MrDev-5000MrDev-5000This is a lightweight Arduino library for managing non-blocking timers.TimerKernel is a simple and lightweight Arduino library for creating non-blocking timers. It allows easy scheduling of tasks and toggling of states with millisecond and microsecond precision, without delay(). Ideal for beginners and advanced users who need reliable timing in their Arduino projects.https://github.com/MrDev-5000/TimerKernelTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.0.3.zipTimerKernel-1.0.3.zip"
+        "fullText": "TimerKernel1.1.3MrDev-5000MrDev-5000This is a lightweight Arduino library for managing non-blocking timers.TimerKernel is a simple and lightweight Arduino library for creating non-blocking timers. It allows easy scheduling of tasks and toggling of states with millisecond and microsecond precision, without delay(). Ideal for beginners and advanced users who need reliable timing in their Arduino projects.https://github.com/MrDev-5000/TimerKernelTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.1.3.zipTimerKernel-1.1.3.zip"
     },
     {
         "name": "PZEMPlus",
@@ -162826,5 +162826,24 @@
             ""
         ],
         "fullText": "Geek Factory GFDisplay7S Library1.0.0Geek ElectronicsJesus Ruben Santa Anna ZamudioManage multiplexed 7 segment displays easily.Display numbers on 7 segment displays with this library that takes care of display multiplexing.https://github.com/geekfactory/GFDisplay7SDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/geekfactory/Geek_Factory_GFDisplay7S_Library-1.0.0.zipGeek_Factory_GFDisplay7S_Library-1.0.0.zip"
+    },
+    {
+        "name": "SerialCommandManager",
+        "version": "1.0.0",
+        "author": "Si Carter <s1cart3r@gmail.com>",
+        "maintainer": "Si Carter <s1cart3r@gmail.com>",
+        "sentence": "Parses structured serial commands with key/value parameters and routes them to handlers with debug and error support.",
+        "paragraph": "SerialCommandManager is a lightweight Arduino/ESP library that parses structured serial commands with optional key/value parameters, routes them to registered handlers, and provides debug, error, and fallback support for robust serial communication.",
+        "website": "https://github.com/k3ldar/SerialCommandManager",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/k3ldar/SerialCommandManager-1.0.0.zip",
+        "archiveFileName": "SerialCommandManager-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "SerialCommandManager1.0.0Si Carter <s1cart3r@gmail.com>Si Carter <s1cart3r@gmail.com>Parses structured serial commands with key/value parameters and routes them to handlers with debug and error support.SerialCommandManager is a lightweight Arduino/ESP library that parses structured serial commands with optional key/value parameters, routes them to registered handlers, and provides debug, error, and fallback support for robust serial communication.https://github.com/k3ldar/SerialCommandManagerCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/k3ldar/SerialCommandManager-1.0.0.zipSerialCommandManager-1.0.0.zip"
     }
 ]
