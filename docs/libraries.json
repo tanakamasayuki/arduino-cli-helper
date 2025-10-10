@@ -16712,8 +16712,8 @@
     },
     {
         "name": "WiiChuck",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.1, 0.0.2, 0.0.3, 0.0.4, 0.0.5, 0.0.6, 0.0.7, 0.0.8, 0.0.9",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.1, 0.0.2, 0.0.3, 0.0.4, 0.0.5, 0.0.6, 0.0.7, 0.0.8, 0.0.9",
         "author": "Kevin Harrington <mad.hephaestus@gmail.com>,Alex Camilo <acamilo@gmail.com>",
         "maintainer": "Kevin Harrington <mad.hephaestus@gmail.com>",
         "sentence": "A library to communicate with all Wii i2c devices, Classic Controllers, Nunchuks and other Wii extension devices.",
@@ -16723,12 +16723,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/madhephaestus/WiiChuck-0.4.0.zip",
-        "archiveFileName": "WiiChuck-0.4.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/madhephaestus/WiiChuck-0.4.1.zip",
+        "archiveFileName": "WiiChuck-0.4.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "WiiChuck0.4.00.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.1, 0.0.2, 0.0.3, 0.0.4, 0.0.5, 0.0.6, 0.0.7, 0.0.8, 0.0.9Kevin Harrington <mad.hephaestus@gmail.com>,Alex Camilo <acamilo@gmail.com>Kevin Harrington <mad.hephaestus@gmail.com>A library to communicate with all Wii i2c devices, Classic Controllers, Nunchuks and other Wii extension devices.This Arduino library supports servo mapping and 7 different controllers including the Nunchuk, Classic Controller, and Guitar Hero guitar.https://github.com/madhephaestus/WiiChuckCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/madhephaestus/WiiChuck-0.4.0.zipWiiChuck-0.4.0.zip"
+        "fullText": "WiiChuck0.4.10.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.1, 0.0.2, 0.0.3, 0.0.4, 0.0.5, 0.0.6, 0.0.7, 0.0.8, 0.0.9Kevin Harrington <mad.hephaestus@gmail.com>,Alex Camilo <acamilo@gmail.com>Kevin Harrington <mad.hephaestus@gmail.com>A library to communicate with all Wii i2c devices, Classic Controllers, Nunchuks and other Wii extension devices.This Arduino library supports servo mapping and 7 different controllers including the Nunchuk, Classic Controller, and Guitar Hero guitar.https://github.com/madhephaestus/WiiChuckCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/madhephaestus/WiiChuck-0.4.1.zipWiiChuck-0.4.1.zip"
     },
     {
         "name": "HaLakeKitFirst",
@@ -44559,8 +44559,8 @@
     },
     {
         "name": "Adafruit TinyUSB Library",
-        "version": "3.7.2",
-        "versions": "3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1",
+        "version": "3.7.3",
+        "versions": "3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "sentence": "TinyUSB library for Arduino",
@@ -44570,14 +44570,14 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_TinyUSB_Library-3.7.2.zip",
-        "archiveFileName": "Adafruit_TinyUSB_Library-3.7.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_TinyUSB_Library-3.7.3.zip",
+        "archiveFileName": "Adafruit_TinyUSB_Library-3.7.3.zip",
         "dependencies": [
             "Adafruit SPIFlash",
             "MIDI Library",
             "SdFat - Adafruit Fork"
         ],
-        "fullText": "Adafruit TinyUSB Library3.7.23.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1AdafruitAdafruit <info@adafruit.com>TinyUSB library for ArduinoSupport nRF5x, SAMD21, SAMD51, RP2040, ESP32-S2/S3, CH32Vhttps://github.com/adafruit/Adafruit_TinyUSB_ArduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_TinyUSB_Library-3.7.2.zipAdafruit_TinyUSB_Library-3.7.2.zipAdafruit SPIFlash, MIDI Library, SdFat - Adafruit Fork"
+        "fullText": "Adafruit TinyUSB Library3.7.33.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1AdafruitAdafruit <info@adafruit.com>TinyUSB library for ArduinoSupport nRF5x, SAMD21, SAMD51, RP2040, ESP32-S2/S3, CH32Vhttps://github.com/adafruit/Adafruit_TinyUSB_ArduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_TinyUSB_Library-3.7.3.zipAdafruit_TinyUSB_Library-3.7.3.zipAdafruit SPIFlash, MIDI Library, SdFat - Adafruit Fork"
     },
     {
         "name": "TN_SwitchState",
@@ -61369,8 +61369,8 @@
     },
     {
         "name": "DABShield",
-        "version": "2.0.6",
-        "versions": "2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.4.0, 1.3.0, 1.2.0, 1.1.3, 1.1.2",
+        "version": "2.0.7",
+        "versions": "2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.4.0, 1.3.0, 1.2.0, 1.1.3, 1.1.2",
         "author": "Adrian Verity <adrian@dabshield.com>",
         "maintainer": "Adrian Verity <adrian@dabshield.com>",
         "sentence": "Library for controlling DABShield DAB/DAB+/FM digital radio shield",
@@ -61380,12 +61380,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dabshield/DABShield-2.0.6.zip",
-        "archiveFileName": "DABShield-2.0.6.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dabshield/DABShield-2.0.7.zip",
+        "archiveFileName": "DABShield-2.0.7.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "DABShield2.0.62.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.4.0, 1.3.0, 1.2.0, 1.1.3, 1.1.2Adrian Verity <adrian@dabshield.com>Adrian Verity <adrian@dabshield.com>Library for controlling DABShield DAB/DAB+/FM digital radio shieldSupports DAB/DAB+ functionality with Service Info, and FM with RDS, Compatible with both 3.3v and 5v boards e.g. UNO, DUE, M0, ZERO, etchttp://dabshield.com/Device Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dabshield/DABShield-2.0.6.zipDABShield-2.0.6.zip"
+        "fullText": "DABShield2.0.72.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.4.0, 1.3.0, 1.2.0, 1.1.3, 1.1.2Adrian Verity <adrian@dabshield.com>Adrian Verity <adrian@dabshield.com>Library for controlling DABShield DAB/DAB+/FM digital radio shieldSupports DAB/DAB+ functionality with Service Info, and FM with RDS, Compatible with both 3.3v and 5v boards e.g. UNO, DUE, M0, ZERO, etchttp://dabshield.com/Device Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/dabshield/DABShield-2.0.7.zipDABShield-2.0.7.zip"
     },
     {
         "name": "I2CKeyPad",
@@ -62461,23 +62461,23 @@
     },
     {
         "name": "EMailSender",
-        "version": "3.0.14",
-        "versions": "3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
         "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
-        "sentence": "Send EMail via SMTP, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.",
-        "paragraph": "Library to send EMail with attachments via STM32 (w5500/enc28j60 + SSL, SPI Flash, SdFat2) Arduino (w5500/enc28j60, SD, SdFat2, SPI Flash), Arduino SAMD board (WiFiNINA, SD, SPI Flash, SdFat2), esp8266 (w5500/enc28j60 + SSL, SPIFFS, LittleFS and SD) (core <=2.4.2 must be set and >2.4.2) esp32 (w5500/enc28j60 + SSL, SPIFFS, LITTLEFS, Ffat and SD), Raspberry Pi Pico (rp2040) (w5500/enc28j60 + SSL, SPIFFS, SPIFlash, LITTLEFS and SD).",
+        "sentence": "Send EMail via SMTP with STARTTLS support, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.",
+        "paragraph": "Library to send EMail with attachments and STARTTLS (port 587) support via STM32 (w5500/enc28j60 + SSL, SPI Flash, SdFat2) Arduino SAMD (WiFiNINA, SD, SPI Flash, SdFat2), esp8266 (w5500/enc28j60 + SSL, SPIFFS, LittleFS and SD), esp32 (w5500/enc28j60 + SSLClient, WiFiClientSecure, SPIFFS, LITTLEFS, Ffat and SD), Raspberry Pi Pico (rp2040) (w5500/enc28j60 + SSL, SPIFFS, SPIFlash, LITTLEFS and SD). IMPORTANT: Arduino Mega/Uno do NOT support SSL/TLS due to RAM limitations (requires 24KB, available only 8KB/2KB). Use ESP32/ESP8266 for secure email.",
         "website": "https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/",
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-3.0.14.zip",
-        "archiveFileName": "EMailSender-3.0.14.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-4.0.0.zip",
+        "archiveFileName": "EMailSender-4.0.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "EMailSender3.0.143.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0Renzo Mischianti <renzo.mischianti@gmail.com>Renzo Mischianti <renzo.mischianti@gmail.com>Send EMail via SMTP, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.Library to send EMail with attachments via STM32 (w5500/enc28j60 + SSL, SPI Flash, SdFat2) Arduino (w5500/enc28j60, SD, SdFat2, SPI Flash), Arduino SAMD board (WiFiNINA, SD, SPI Flash, SdFat2), esp8266 (w5500/enc28j60 + SSL, SPIFFS, LittleFS and SD) (core <=2.4.2 must be set and >2.4.2) esp32 (w5500/enc28j60 + SSL, SPIFFS, LITTLEFS, Ffat and SD), Raspberry Pi Pico (rp2040) (w5500/enc28j60 + SSL, SPIFFS, SPIFlash, LITTLEFS and SD).https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-3.0.14.zipEMailSender-3.0.14.zip"
+        "fullText": "EMailSender4.0.04.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0Renzo Mischianti <renzo.mischianti@gmail.com>Renzo Mischianti <renzo.mischianti@gmail.com>Send EMail via SMTP with STARTTLS support, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.Library to send EMail with attachments and STARTTLS (port 587) support via STM32 (w5500/enc28j60 + SSL, SPI Flash, SdFat2) Arduino SAMD (WiFiNINA, SD, SPI Flash, SdFat2), esp8266 (w5500/enc28j60 + SSL, SPIFFS, LittleFS and SD), esp32 (w5500/enc28j60 + SSLClient, WiFiClientSecure, SPIFFS, LITTLEFS, Ffat and SD), Raspberry Pi Pico (rp2040) (w5500/enc28j60 + SSL, SPIFFS, SPIFlash, LITTLEFS and SD). IMPORTANT: Arduino Mega/Uno do NOT support SSL/TLS due to RAM limitations (requires 24KB, available only 8KB/2KB). Use ESP32/ESP8266 for secure email.https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-4.0.0.zipEMailSender-4.0.0.zip"
     },
     {
         "name": "Protothreads",
@@ -64274,8 +64274,8 @@
     },
     {
         "name": "ESP8266Audio",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
         "author": "Earle F. Philhower, III",
         "maintainer": "Earle F. Philhower, III",
         "sentence": "Audio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040",
@@ -64285,12 +64285,12 @@
         "architectures": "esp8266, esp32, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.0.0.zip",
-        "archiveFileName": "ESP8266Audio-2.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.1.0.zip",
+        "archiveFileName": "ESP8266Audio-2.1.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESP8266Audio2.0.02.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0Earle F. Philhower, IIIEarle F. Philhower, IIIAudio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040Decode compressed MP3, AAC, FLAC, Screamtracker MOD, MIDI, RTTL, TI Talkie, and WAV and play on an I2S DAC or a software-driven delta-sigma DAC and 1-transistor amplifier.https://github.com/earlephilhower/ESP8266AudioSignal Input/Outputesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.0.0.zipESP8266Audio-2.0.0.zip"
+        "fullText": "ESP8266Audio2.1.02.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0Earle F. Philhower, IIIEarle F. Philhower, IIIAudio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040Decode compressed MP3, AAC, FLAC, Screamtracker MOD, MIDI, RTTL, TI Talkie, and WAV and play on an I2S DAC or a software-driven delta-sigma DAC and 1-transistor amplifier.https://github.com/earlephilhower/ESP8266AudioSignal Input/Outputesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.1.0.zipESP8266Audio-2.1.0.zip"
     },
     {
         "name": "BY8X01-16P Audio Module Library",
@@ -79156,8 +79156,8 @@
     },
     {
         "name": "TunePlayer",
-        "version": "1.3.3",
-        "versions": "1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.4",
+        "versions": "1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Jotham Gates <koyugaDev@gmail.com>",
         "maintainer": "Jotham Gates <koyugaDev@gmail.com>",
         "sentence": "A library to decode and play simple tunes.",
@@ -79167,12 +79167,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/jgOhYeah/TunePlayer-1.3.3.zip",
-        "archiveFileName": "TunePlayer-1.3.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/jgOhYeah/TunePlayer-1.3.4.zip",
+        "archiveFileName": "TunePlayer-1.3.4.zip",
         "dependencies": [
             "Queue"
         ],
-        "fullText": "TunePlayer1.3.31.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0Jotham Gates <koyugaDev@gmail.com>Jotham Gates <koyugaDev@gmail.com>A library to decode and play simple tunes.Each note is stored as a 16 bit integer and the method of loading tunes and how each note is played is reconfigurable. The current anticipated method of tune playing revolves around a pwm square wave.https://github.com/jgOhYeah/TunePlayerOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/jgOhYeah/TunePlayer-1.3.3.zipTunePlayer-1.3.3.zipQueue"
+        "fullText": "TunePlayer1.3.41.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0Jotham Gates <koyugaDev@gmail.com>Jotham Gates <koyugaDev@gmail.com>A library to decode and play simple tunes.Each note is stored as a 16 bit integer and the method of loading tunes and how each note is played is reconfigurable. The current anticipated method of tune playing revolves around a pwm square wave.https://github.com/jgOhYeah/TunePlayerOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/jgOhYeah/TunePlayer-1.3.4.zipTunePlayer-1.3.4.zipQueue"
     },
     {
         "name": "Two Way ESP",
@@ -98284,7 +98284,7 @@
     {
         "name": "Adafruit WipperSnapper",
         "version": "1.0.0",
-        "versions": "1.0.0, 1.0.0-beta.97, 1.0.0-beta.96, 1.0.0-beta.95, 1.0.0-beta.94, 1.0.0-beta.93, 1.0.0-beta.92, 1.0.0-beta.90, 1.0.0-beta.89, 1.0.0-beta.88, 1.0.0-beta.87, 1.0.0-beta.86, 1.0.0-beta.85, 1.0.0-beta.84, 1.0.0-beta.82, 1.0.0-beta.78, 1.0.0-beta.77, 1.0.0-beta.76, 1.0.0-beta.75, 1.0.0-beta.74, 1.0.0-beta.73, 1.0.0-beta.72, 1.0.0-beta.71, 1.0.0-beta.70, 1.0.0-beta.68, 1.0.0-beta.66, 1.0.0-beta.64, 1.0.0-beta.62, 1.0.0-beta.61, 1.0.0-beta.60, 1.0.0-beta.59, 1.0.0-beta.58, 1.0.0-beta.57, 1.0.0-beta.56, 1.0.0-beta.54, 1.0.0-beta.53, 1.0.0-beta.52, 1.0.0-beta.51, 1.0.0-beta.50, 1.0.0-beta.49, 1.0.0-beta.48, 1.0.0-beta.47, 1.0.0-beta.46, 1.0.0-beta.45, 1.0.0-beta.44, 1.0.0-beta.43, 1.0.0-beta.42, 1.0.0-beta.41, 1.0.0-beta.40, 1.0.0-beta.39, 1.0.0-beta.38, 1.0.0-beta.9, 1.0.0-beta.8, 1.0.0-beta.6, 1.0.0-beta.4, 1.0.0-beta.1, 0.1.0, 1.0.0-alpha.74, 1.0.0-alpha.75, 1.0.0-alpha.79, 1.0.0-alpha.81, 1.0.0-alpha.82, 1.0.0-alpha.89, 1.0.0-beta.98, 1.0.0-beta.99, 1.0.0-beta.100, 1.0.0-beta.101, 1.0.0-beta.102, 1.0.0-beta.103, 1.0.0-beta.104, 1.0.0-beta.105, 1.0.0-beta.106, 1.0.0-beta.107, 1.0.0-beta.108, 1.0.0-beta.109, 1.0.0-beta.110, 1.0.0-beta.111, 1.0.0-beta.112, 1.0.0-beta.113, 1.0.0-beta.114, 1.0.0-beta.115, 1.0.0-beta.116, 1.0.0-beta.117",
+        "versions": "1.0.0, 1.0.0-beta.97, 1.0.0-beta.96, 1.0.0-beta.95, 1.0.0-beta.94, 1.0.0-beta.93, 1.0.0-beta.92, 1.0.0-beta.90, 1.0.0-beta.89, 1.0.0-beta.88, 1.0.0-beta.87, 1.0.0-beta.86, 1.0.0-beta.85, 1.0.0-beta.84, 1.0.0-beta.82, 1.0.0-beta.78, 1.0.0-beta.77, 1.0.0-beta.76, 1.0.0-beta.75, 1.0.0-beta.74, 1.0.0-beta.73, 1.0.0-beta.72, 1.0.0-beta.71, 1.0.0-beta.70, 1.0.0-beta.68, 1.0.0-beta.66, 1.0.0-beta.64, 1.0.0-beta.62, 1.0.0-beta.61, 1.0.0-beta.60, 1.0.0-beta.59, 1.0.0-beta.58, 1.0.0-beta.57, 1.0.0-beta.56, 1.0.0-beta.54, 1.0.0-beta.53, 1.0.0-beta.52, 1.0.0-beta.51, 1.0.0-beta.50, 1.0.0-beta.49, 1.0.0-beta.48, 1.0.0-beta.47, 1.0.0-beta.46, 1.0.0-beta.45, 1.0.0-beta.44, 1.0.0-beta.43, 1.0.0-beta.42, 1.0.0-beta.41, 1.0.0-beta.40, 1.0.0-beta.39, 1.0.0-beta.38, 1.0.0-beta.9, 1.0.0-beta.8, 1.0.0-beta.6, 1.0.0-beta.4, 1.0.0-beta.1, 0.1.0, 1.0.0-alpha.74, 1.0.0-alpha.75, 1.0.0-alpha.79, 1.0.0-alpha.81, 1.0.0-alpha.82, 1.0.0-alpha.89, 1.0.0-beta.98, 1.0.0-beta.99, 1.0.0-beta.100, 1.0.0-beta.101, 1.0.0-beta.102, 1.0.0-beta.103, 1.0.0-beta.104, 1.0.0-beta.105, 1.0.0-beta.106, 1.0.0-beta.107, 1.0.0-beta.108, 1.0.0-beta.109, 1.0.0-beta.110, 1.0.0-beta.111, 1.0.0-beta.112, 1.0.0-beta.113, 1.0.0-beta.114, 1.0.0-beta.115, 1.0.0-beta.116, 1.0.0-beta.117, 1.0.0-beta.118",
         "author": "Adafruit",
         "maintainer": "Adafruit <adafruitio@adafruit.com>",
         "sentence": "Arduino application for Adafruit.io WipperSnapper",
@@ -98359,7 +98359,7 @@
             "SdFat - Adafruit Fork",
             "Adafruit GFX Library"
         ],
-        "fullText": "Adafruit WipperSnapper1.0.01.0.0, 1.0.0-beta.97, 1.0.0-beta.96, 1.0.0-beta.95, 1.0.0-beta.94, 1.0.0-beta.93, 1.0.0-beta.92, 1.0.0-beta.90, 1.0.0-beta.89, 1.0.0-beta.88, 1.0.0-beta.87, 1.0.0-beta.86, 1.0.0-beta.85, 1.0.0-beta.84, 1.0.0-beta.82, 1.0.0-beta.78, 1.0.0-beta.77, 1.0.0-beta.76, 1.0.0-beta.75, 1.0.0-beta.74, 1.0.0-beta.73, 1.0.0-beta.72, 1.0.0-beta.71, 1.0.0-beta.70, 1.0.0-beta.68, 1.0.0-beta.66, 1.0.0-beta.64, 1.0.0-beta.62, 1.0.0-beta.61, 1.0.0-beta.60, 1.0.0-beta.59, 1.0.0-beta.58, 1.0.0-beta.57, 1.0.0-beta.56, 1.0.0-beta.54, 1.0.0-beta.53, 1.0.0-beta.52, 1.0.0-beta.51, 1.0.0-beta.50, 1.0.0-beta.49, 1.0.0-beta.48, 1.0.0-beta.47, 1.0.0-beta.46, 1.0.0-beta.45, 1.0.0-beta.44, 1.0.0-beta.43, 1.0.0-beta.42, 1.0.0-beta.41, 1.0.0-beta.40, 1.0.0-beta.39, 1.0.0-beta.38, 1.0.0-beta.9, 1.0.0-beta.8, 1.0.0-beta.6, 1.0.0-beta.4, 1.0.0-beta.1, 0.1.0, 1.0.0-alpha.74, 1.0.0-alpha.75, 1.0.0-alpha.79, 1.0.0-alpha.81, 1.0.0-alpha.82, 1.0.0-alpha.89, 1.0.0-beta.98, 1.0.0-beta.99, 1.0.0-beta.100, 1.0.0-beta.101, 1.0.0-beta.102, 1.0.0-beta.103, 1.0.0-beta.104, 1.0.0-beta.105, 1.0.0-beta.106, 1.0.0-beta.107, 1.0.0-beta.108, 1.0.0-beta.109, 1.0.0-beta.110, 1.0.0-beta.111, 1.0.0-beta.112, 1.0.0-beta.113, 1.0.0-beta.114, 1.0.0-beta.115, 1.0.0-beta.116, 1.0.0-beta.117AdafruitAdafruit <adafruitio@adafruit.com>Arduino application for Adafruit.io WipperSnapperArduino application for Adafruit.io WipperSnapperhttps://github.com/adafruit/Adafruit_Wippersnapper_ArduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_WipperSnapper-1.0.0.zipAdafruit_WipperSnapper-1.0.0.zipAdafruit NeoPixel, Adafruit SPIFlash, ArduinoJson, Adafruit DotStar, Adafruit INA219, Adafruit LTR329 and LTR303, Adafruit LTR390 Library, Adafruit MCP3421, Adafruit NAU7802 Library, Adafruit SleepyDog Library, Adafruit TMP117, Adafruit TinyUSB Library, Adafruit AHTX0, Adafruit BME280 Library, Adafruit BMP280 Library, Adafruit BMP3XX Library, Adafruit DPS310, Adafruit DS248x, Adafruit SCD30, Adafruit SGP30 Sensor, Adafruit SGP40 Sensor, Sensirion I2C SCD4x, Sensirion I2C SEN5X, arduino-sht, Adafruit Si7021 Library, Adafruit MQTT Library, Adafruit MS8607, Adafruit MCP9808 Library, Adafruit MCP9600 Library, Adafruit MPL115A2, Adafruit MPRLS Library, Adafruit TSL2591 Library, Adafruit_VL53L0X, Adafruit VL53L1X, STM32duino VL53L4CD, STM32duino VL53L4CX, Adafruit_VL6180X, Adafruit PM25 AQI Sensor, Adafruit VCNL4020 Library, Adafruit VCNL4040, Adafruit VEML7700 Library, Adafruit LC709203F, Adafruit LPS2X, Adafruit LPS35HW, Adafruit seesaw Library, Adafruit BME680 Library, Adafruit MAX1704X, Adafruit ADT7410 Library, Adafruit HTS221, Adafruit HTU21DF Library, Adafruit HTU31D Library, Adafruit PCT2075, hp_BH1750, ENS160 - Adafruit Fork, RTClib, StreamUtils, Adafruit BusIO, Adafruit Unified Sensor, Sensirion Core, SdFat - Adafruit Fork, Adafruit GFX Library"
+        "fullText": "Adafruit WipperSnapper1.0.01.0.0, 1.0.0-beta.97, 1.0.0-beta.96, 1.0.0-beta.95, 1.0.0-beta.94, 1.0.0-beta.93, 1.0.0-beta.92, 1.0.0-beta.90, 1.0.0-beta.89, 1.0.0-beta.88, 1.0.0-beta.87, 1.0.0-beta.86, 1.0.0-beta.85, 1.0.0-beta.84, 1.0.0-beta.82, 1.0.0-beta.78, 1.0.0-beta.77, 1.0.0-beta.76, 1.0.0-beta.75, 1.0.0-beta.74, 1.0.0-beta.73, 1.0.0-beta.72, 1.0.0-beta.71, 1.0.0-beta.70, 1.0.0-beta.68, 1.0.0-beta.66, 1.0.0-beta.64, 1.0.0-beta.62, 1.0.0-beta.61, 1.0.0-beta.60, 1.0.0-beta.59, 1.0.0-beta.58, 1.0.0-beta.57, 1.0.0-beta.56, 1.0.0-beta.54, 1.0.0-beta.53, 1.0.0-beta.52, 1.0.0-beta.51, 1.0.0-beta.50, 1.0.0-beta.49, 1.0.0-beta.48, 1.0.0-beta.47, 1.0.0-beta.46, 1.0.0-beta.45, 1.0.0-beta.44, 1.0.0-beta.43, 1.0.0-beta.42, 1.0.0-beta.41, 1.0.0-beta.40, 1.0.0-beta.39, 1.0.0-beta.38, 1.0.0-beta.9, 1.0.0-beta.8, 1.0.0-beta.6, 1.0.0-beta.4, 1.0.0-beta.1, 0.1.0, 1.0.0-alpha.74, 1.0.0-alpha.75, 1.0.0-alpha.79, 1.0.0-alpha.81, 1.0.0-alpha.82, 1.0.0-alpha.89, 1.0.0-beta.98, 1.0.0-beta.99, 1.0.0-beta.100, 1.0.0-beta.101, 1.0.0-beta.102, 1.0.0-beta.103, 1.0.0-beta.104, 1.0.0-beta.105, 1.0.0-beta.106, 1.0.0-beta.107, 1.0.0-beta.108, 1.0.0-beta.109, 1.0.0-beta.110, 1.0.0-beta.111, 1.0.0-beta.112, 1.0.0-beta.113, 1.0.0-beta.114, 1.0.0-beta.115, 1.0.0-beta.116, 1.0.0-beta.117, 1.0.0-beta.118AdafruitAdafruit <adafruitio@adafruit.com>Arduino application for Adafruit.io WipperSnapperArduino application for Adafruit.io WipperSnapperhttps://github.com/adafruit/Adafruit_Wippersnapper_ArduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_WipperSnapper-1.0.0.zipAdafruit_WipperSnapper-1.0.0.zipAdafruit NeoPixel, Adafruit SPIFlash, ArduinoJson, Adafruit DotStar, Adafruit INA219, Adafruit LTR329 and LTR303, Adafruit LTR390 Library, Adafruit MCP3421, Adafruit NAU7802 Library, Adafruit SleepyDog Library, Adafruit TMP117, Adafruit TinyUSB Library, Adafruit AHTX0, Adafruit BME280 Library, Adafruit BMP280 Library, Adafruit BMP3XX Library, Adafruit DPS310, Adafruit DS248x, Adafruit SCD30, Adafruit SGP30 Sensor, Adafruit SGP40 Sensor, Sensirion I2C SCD4x, Sensirion I2C SEN5X, arduino-sht, Adafruit Si7021 Library, Adafruit MQTT Library, Adafruit MS8607, Adafruit MCP9808 Library, Adafruit MCP9600 Library, Adafruit MPL115A2, Adafruit MPRLS Library, Adafruit TSL2591 Library, Adafruit_VL53L0X, Adafruit VL53L1X, STM32duino VL53L4CD, STM32duino VL53L4CX, Adafruit_VL6180X, Adafruit PM25 AQI Sensor, Adafruit VCNL4020 Library, Adafruit VCNL4040, Adafruit VEML7700 Library, Adafruit LC709203F, Adafruit LPS2X, Adafruit LPS35HW, Adafruit seesaw Library, Adafruit BME680 Library, Adafruit MAX1704X, Adafruit ADT7410 Library, Adafruit HTS221, Adafruit HTU21DF Library, Adafruit HTU31D Library, Adafruit PCT2075, hp_BH1750, ENS160 - Adafruit Fork, RTClib, StreamUtils, Adafruit BusIO, Adafruit Unified Sensor, Sensirion Core, SdFat - Adafruit Fork, Adafruit GFX Library"
     },
     {
         "name": "Goldfish4Tech",
@@ -140941,8 +140941,8 @@
     },
     {
         "name": "ICM45686",
-        "version": "1.0.2-test1",
-        "versions": "1.0.2-test1, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "sentence": "Allows to read accelerometer, gyroscope and temperature sensors from an ICM45686 Invensence IMU device.",
@@ -140952,17 +140952,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.2-test1.zip",
-        "archiveFileName": "ICM45686-1.0.2-test1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.3.zip",
+        "archiveFileName": "ICM45686-1.0.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ICM456861.0.2-test11.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45686 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45686 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45686Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.2-test1.zipICM45686-1.0.2-test1.zip"
+        "fullText": "ICM456861.0.31.0.3, 1.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45686 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45686 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45686Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.3.zipICM45686-1.0.3.zip"
     },
     {
         "name": "ICM45605",
-        "version": "1.0.2-test1",
-        "versions": "1.0.2-test1, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "sentence": "Allows to read accelerometer, gyroscope and temperature sensors from an ICM45605 Invensence IMU device.",
@@ -140972,12 +140972,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.2-test1.zip",
-        "archiveFileName": "ICM45605-1.0.2-test1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.3.zip",
+        "archiveFileName": "ICM45605-1.0.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ICM456051.0.2-test11.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45605 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45605 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45605Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.2-test1.zipICM45605-1.0.2-test1.zip"
+        "fullText": "ICM456051.0.31.0.3, 1.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45605 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45605 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45605Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.3.zipICM45605-1.0.3.zip"
     },
     {
         "name": "esp32-rmt-ir",
@@ -162166,8 +162166,8 @@
     },
     {
         "name": "YNV_Driver_v5",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Ynvisible <sales@ynvisible.com>",
         "maintainer": "Ynvisible <ynvisible.com>",
         "sentence": "Library for driving the Ynvisible displays on the Driver v5 board.",
@@ -162177,12 +162177,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.1.zip",
-        "archiveFileName": "YNV_Driver_v5-1.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.2.zip",
+        "archiveFileName": "YNV_Driver_v5-1.0.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "YNV_Driver_v51.0.11.0.1Ynvisible <sales@ynvisible.com>Ynvisible <ynvisible.com>Library for driving the Ynvisible displays on the Driver v5 board.Allows for the control of any Ynvisible display. Has an example for the Evaluation Kit sold in the Ynvisible shop.https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-LibraryDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.1.zipYNV_Driver_v5-1.0.1.zip"
+        "fullText": "YNV_Driver_v51.0.21.0.2, 1.0.1Ynvisible <sales@ynvisible.com>Ynvisible <ynvisible.com>Library for driving the Ynvisible displays on the Driver v5 board.Allows for the control of any Ynvisible display. Has an example for the Evaluation Kit sold in the Ynvisible shop.https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-LibraryDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.2.zipYNV_Driver_v5-1.0.2.zip"
     },
     {
         "name": "NEXNTC",
@@ -162711,8 +162711,8 @@
     },
     {
         "name": "ScioSense_UFM01",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "ScioSense",
         "maintainer": "ScioSense <info@sciosense.com>",
         "sentence": "Arduino library for UFM01 ultrasonic flow sensing module through one-wire and UART from ScioSense",
@@ -162722,12 +162722,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/sciosense/ScioSense_UFM01-1.0.0.zip",
-        "archiveFileName": "ScioSense_UFM01-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/sciosense/ScioSense_UFM01-1.1.0.zip",
+        "archiveFileName": "ScioSense_UFM01-1.1.0.zip",
         "dependencies": [
             "OneWire"
         ],
-        "fullText": "ScioSense_UFM011.0.01.0.0ScioSenseScioSense <info@sciosense.com>Arduino library for UFM01 ultrasonic flow sensing module through one-wire and UART from ScioSenseThis library controls the UFM01 sensor. The main feature of this library is performing a one-wire measurement, retrieving the measurement data.https://github.com/sciosense/ufm01-arduinoSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sciosense/ScioSense_UFM01-1.0.0.zipScioSense_UFM01-1.0.0.zipOneWire"
+        "fullText": "ScioSense_UFM011.1.01.1.0, 1.0.0ScioSenseScioSense <info@sciosense.com>Arduino library for UFM01 ultrasonic flow sensing module through one-wire and UART from ScioSenseThis library controls the UFM01 sensor. The main feature of this library is performing a one-wire measurement, retrieving the measurement data.https://github.com/sciosense/ufm01-arduinoSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sciosense/ScioSense_UFM01-1.1.0.zipScioSense_UFM01-1.1.0.zipOneWire"
     },
     {
         "name": "LCD595-ISU",
@@ -166775,10 +166775,10 @@
     },
     {
         "name": "FmtLib",
-        "version": "11.2.0",
-        "versions": "11.2.0",
-        "author": "Riley Cornelius <rileyccornelius@gmail.com> Clément Bonnet <public@darkwizard.fr>",
-        "maintainer": "Riley Cornelius <rileyccornelius@gmail.com>",
+        "version": "11.2.2",
+        "versions": "11.2.2, 11.2.0",
+        "author": "Riley Cornelius, Clément Bonnet",
+        "maintainer": "Riley Cornelius",
         "sentence": "A port of the {fmt} library for Arduino.",
         "paragraph": "{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.",
         "website": "https://github.com/RileyCornelius/FmtLib-Arduino",
@@ -166786,12 +166786,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RileyCornelius/FmtLib-11.2.0.zip",
-        "archiveFileName": "FmtLib-11.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RileyCornelius/FmtLib-11.2.2.zip",
+        "archiveFileName": "FmtLib-11.2.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "FmtLib11.2.011.2.0Riley Cornelius <rileyccornelius@gmail.com> Clément Bonnet <public@darkwizard.fr>Riley Cornelius <rileyccornelius@gmail.com>A port of the {fmt} library for Arduino.{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.https://github.com/RileyCornelius/FmtLib-ArduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/RileyCornelius/FmtLib-11.2.0.zipFmtLib-11.2.0.zip"
+        "fullText": "FmtLib11.2.211.2.2, 11.2.0Riley Cornelius, Clément BonnetRiley CorneliusA port of the {fmt} library for Arduino.{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.https://github.com/RileyCornelius/FmtLib-ArduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/RileyCornelius/FmtLib-11.2.2.zipFmtLib-11.2.2.zip"
     },
     {
         "name": "Tinker C6",
@@ -166916,8 +166916,8 @@
     },
     {
         "name": "FormatLog",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0",
+        "version": "0.5.2",
+        "versions": "0.5.2, 0.5.1, 0.5.0",
         "author": "Riley Cornelius",
         "maintainer": "Riley Cornelius",
         "sentence": "A modern logging library using {fmt} library for Arduino.",
@@ -166927,12 +166927,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RileyCornelius/FormatLog-0.5.1.zip",
-        "archiveFileName": "FormatLog-0.5.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RileyCornelius/FormatLog-0.5.2.zip",
+        "archiveFileName": "FormatLog-0.5.2.zip",
         "dependencies": [
             "FmtLib"
         ],
-        "fullText": "FormatLog0.5.10.5.1, 0.5.0Riley CorneliusRiley CorneliusA modern logging library using {fmt} library for Arduino.FormatLog brings modern C++ formatting to Arduino development, offering a powerful, lightweight logging solution with compile-time configuration, multiple output formats, and excellent performance.https://github.com/RileyCornelius/FormatLogCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/RileyCornelius/FormatLog-0.5.1.zipFormatLog-0.5.1.zipFmtLib"
+        "fullText": "FormatLog0.5.20.5.2, 0.5.1, 0.5.0Riley CorneliusRiley CorneliusA modern logging library using {fmt} library for Arduino.FormatLog brings modern C++ formatting to Arduino development, offering a powerful, lightweight logging solution with compile-time configuration, multiple output formats, and excellent performance.https://github.com/RileyCornelius/FormatLogCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/RileyCornelius/FormatLog-0.5.2.zipFormatLog-0.5.2.zipFmtLib"
     },
     {
         "name": "SL_simpletask",
@@ -171044,8 +171044,8 @@
     },
     {
         "name": "TimerKernel",
-        "version": "1.1.3",
-        "versions": "1.1.3, 1.0.3",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.1.3, 1.0.3",
         "author": "MrDev-5000",
         "maintainer": "MrDev-5000",
         "sentence": "This is a lightweight Arduino library for managing non-blocking timers.",
@@ -171055,12 +171055,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.1.3.zip",
-        "archiveFileName": "TimerKernel-1.1.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.2.3.zip",
+        "archiveFileName": "TimerKernel-1.2.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "TimerKernel1.1.31.1.3, 1.0.3MrDev-5000MrDev-5000This is a lightweight Arduino library for managing non-blocking timers.TimerKernel is a simple and lightweight Arduino library for creating non-blocking timers. It allows easy scheduling of tasks and toggling of states with millisecond and microsecond precision, without delay(). Ideal for beginners and advanced users who need reliable timing in their Arduino projects.https://github.com/MrDev-5000/TimerKernelTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.1.3.zipTimerKernel-1.1.3.zip"
+        "fullText": "TimerKernel1.2.31.2.3, 1.1.3, 1.0.3MrDev-5000MrDev-5000This is a lightweight Arduino library for managing non-blocking timers.TimerKernel is a simple and lightweight Arduino library for creating non-blocking timers. It allows easy scheduling of tasks and toggling of states with millisecond and microsecond precision, without delay(). Ideal for beginners and advanced users who need reliable timing in their Arduino projects.https://github.com/MrDev-5000/TimerKernelTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/MrDev-5000/TimerKernel-1.2.3.zipTimerKernel-1.2.3.zip"
     },
     {
         "name": "PZEMPlus",
@@ -171365,23 +171365,23 @@
     },
     {
         "name": "tlv",
-        "version": "0.1.1",
-        "versions": "0.1.1",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.1.1",
         "author": "James Wanderer",
         "maintainer": "James Wanderer [jmwanderer@gmail.com]",
         "sentence": "Library for encoding and decoding BER TLV data",
         "paragraph": "This library supports a subset of the standard BER TLV format. It provides encodng and decoding to binrary buffers with reduced dynamic member allocation.",
         "website": "https://github.com/jmwanderer/tlv.arduino",
-        "category": "Other",
+        "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/jmwanderer/tlv-0.1.1.zip",
-        "archiveFileName": "tlv-0.1.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/jmwanderer/tlv-0.2.1.zip",
+        "archiveFileName": "tlv-0.2.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "tlv0.1.10.1.1James WandererJames Wanderer [jmwanderer@gmail.com]Library for encoding and decoding BER TLV dataThis library supports a subset of the standard BER TLV format. It provides encodng and decoding to binrary buffers with reduced dynamic member allocation.https://github.com/jmwanderer/tlv.arduinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/jmwanderer/tlv-0.1.1.ziptlv-0.1.1.zip"
+        "fullText": "tlv0.2.10.2.1, 0.1.1James WandererJames Wanderer [jmwanderer@gmail.com]Library for encoding and decoding BER TLV dataThis library supports a subset of the standard BER TLV format. It provides encodng and decoding to binrary buffers with reduced dynamic member allocation.https://github.com/jmwanderer/tlv.arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/jmwanderer/tlv-0.2.1.ziptlv-0.2.1.zip"
     },
     {
         "name": "FilterDesigner",
