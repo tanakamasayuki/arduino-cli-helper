@@ -7039,8 +7039,8 @@
     },
     {
         "name": "thinger.io",
-        "version": "2.40.0",
-        "versions": "2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.5.5, 1.1.1, 1.1.0, 1.0.0, 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.4.2, 2.4.3, 2.5.0, 2.5.1, 2.5.2, 2.5.6, 2.5.8, 2.5.9, 2.6.0, 2.6.1, 2.7.1, 2.7.2, 2.9.1, 2.9.2",
+        "version": "2.41.0",
+        "versions": "2.41.0, 2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.5.5, 1.1.1, 1.1.0, 1.0.0, 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.4.2, 2.4.3, 2.5.0, 2.5.1, 2.5.2, 2.5.6, 2.5.8, 2.5.9, 2.6.0, 2.6.1, 2.7.1, 2.7.2, 2.9.1, 2.9.2",
         "author": "Alvaro Luis Bustamante <alvarolb@thinger.io>",
         "maintainer": "Thinger.io <admin@thinger.io>",
         "sentence": "Arduino library for IOTMP protocol used on Thinger.io IOT Platform.",
@@ -7050,12 +7050,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/thinger-io/thinger_io-2.40.0.zip",
-        "archiveFileName": "thinger_io-2.40.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/thinger-io/thinger_io-2.41.0.zip",
+        "archiveFileName": "thinger_io-2.41.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "thinger.io2.40.02.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.5.5, 1.1.1, 1.1.0, 1.0.0, 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.4.2, 2.4.3, 2.5.0, 2.5.1, 2.5.2, 2.5.6, 2.5.8, 2.5.9, 2.6.0, 2.6.1, 2.7.1, 2.7.2, 2.9.1, 2.9.2Alvaro Luis Bustamante <alvarolb@thinger.io>Thinger.io <admin@thinger.io>Arduino library for IOTMP protocol used on Thinger.io IOT Platform.Thinger.io is an open source platform for the Internet of Things. It will allow connecting your things or devices for remote sensing and actuating using the protocol IOTMP. Working with several devices like ESP8266, ESP32, Arduino Ethernet, Arduino Wifi, Arduino MKR1000, Arduino MKR1010, Arduino Nano RP2040 Connect, Arduino Nano 33 IOT, Arduino MKRNB1500, Arduino GSM1400, Arduino Portenta, Arduino Opta, Arduino R4, Arduino Yun, Adafruit CC3000, Arduino + GSM Modules, Texas Instruments CC3200, ENC28J60, LinkIt ONE.https://github.com/thinger-io/Arduino-LibraryCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/thinger-io/thinger_io-2.40.0.zipthinger_io-2.40.0.zip"
+        "fullText": "thinger.io2.41.02.41.0, 2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.5.5, 1.1.1, 1.1.0, 1.0.0, 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.4.2, 2.4.3, 2.5.0, 2.5.1, 2.5.2, 2.5.6, 2.5.8, 2.5.9, 2.6.0, 2.6.1, 2.7.1, 2.7.2, 2.9.1, 2.9.2Alvaro Luis Bustamante <alvarolb@thinger.io>Thinger.io <admin@thinger.io>Arduino library for IOTMP protocol used on Thinger.io IOT Platform.Thinger.io is an open source platform for the Internet of Things. It will allow connecting your things or devices for remote sensing and actuating using the protocol IOTMP. Working with several devices like ESP8266, ESP32, Arduino Ethernet, Arduino Wifi, Arduino MKR1000, Arduino MKR1010, Arduino Nano RP2040 Connect, Arduino Nano 33 IOT, Arduino MKRNB1500, Arduino GSM1400, Arduino Portenta, Arduino Opta, Arduino R4, Arduino Yun, Adafruit CC3000, Arduino + GSM Modules, Texas Instruments CC3200, ENC28J60, LinkIt ONE.https://github.com/thinger-io/Arduino-LibraryCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/thinger-io/thinger_io-2.41.0.zipthinger_io-2.41.0.zip"
     },
     {
         "name": "CmdMessenger",
@@ -7501,8 +7501,8 @@
     },
     {
         "name": "TaskScheduler",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
+        "version": "4.0.2",
+        "versions": "4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "sentence": "Cooperative multitasking for Arduino, ESPx, STM32 and other microcontrollers.",
@@ -7512,12 +7512,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-4.0.1.zip",
-        "archiveFileName": "TaskScheduler-4.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-4.0.2.zip",
+        "archiveFileName": "TaskScheduler-4.0.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "TaskScheduler4.0.14.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0Anatoli Arkhipenko <arkhipenko@hotmail.com>Anatoli Arkhipenko <arkhipenko@hotmail.com>Cooperative multitasking for Arduino, ESPx, STM32 and other microcontrollers.Supports: periodic task execution (with dynamic execution period in milliseconds or microseconds – frequency of execution), number of iterations (limited or infinite number of iterations), execution of tasks in predefined sequence, dynamic change of task execution parameters (frequency, number of iterations, callback methods), power saving via entering IDLE sleep mode when tasks are not scheduled to run, event-driven task invocation via Status Request object, task IDs and Control Points for error handling and watchdog timer, Local Task Storage pointer (allowing use of same callback code for multiple tasks), layered task prioritization, std::functions (where supported), overall task timeout, static and dynamic callback method binding.https://github.com/arkhipenko/TaskScheduler.gitTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-4.0.1.zipTaskScheduler-4.0.1.zip"
+        "fullText": "TaskScheduler4.0.24.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0Anatoli Arkhipenko <arkhipenko@hotmail.com>Anatoli Arkhipenko <arkhipenko@hotmail.com>Cooperative multitasking for Arduino, ESPx, STM32 and other microcontrollers.Supports: periodic task execution (with dynamic execution period in milliseconds or microseconds – frequency of execution), number of iterations (limited or infinite number of iterations), execution of tasks in predefined sequence, dynamic change of task execution parameters (frequency, number of iterations, callback methods), power saving via entering IDLE sleep mode when tasks are not scheduled to run, event-driven task invocation via Status Request object, task IDs and Control Points for error handling and watchdog timer, Local Task Storage pointer (allowing use of same callback code for multiple tasks), layered task prioritization, std::functions (where supported), overall task timeout, static and dynamic callback method binding.https://github.com/arkhipenko/TaskScheduler.gitTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/arkhipenko/TaskScheduler-4.0.2.zipTaskScheduler-4.0.2.zip"
     },
     {
         "name": "TMRpcm",
@@ -62461,8 +62461,8 @@
     },
     {
         "name": "EMailSender",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
         "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "sentence": "Send EMail via SMTP with STARTTLS support, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.",
@@ -62472,12 +62472,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-4.0.0.zip",
-        "archiveFileName": "EMailSender-4.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-4.0.1.zip",
+        "archiveFileName": "EMailSender-4.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "EMailSender4.0.04.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0Renzo Mischianti <renzo.mischianti@gmail.com>Renzo Mischianti <renzo.mischianti@gmail.com>Send EMail via SMTP with STARTTLS support, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.Library to send EMail with attachments and STARTTLS (port 587) support via STM32 (w5500/enc28j60 + SSL, SPI Flash, SdFat2) Arduino SAMD (WiFiNINA, SD, SPI Flash, SdFat2), esp8266 (w5500/enc28j60 + SSL, SPIFFS, LittleFS and SD), esp32 (w5500/enc28j60 + SSLClient, WiFiClientSecure, SPIFFS, LITTLEFS, Ffat and SD), Raspberry Pi Pico (rp2040) (w5500/enc28j60 + SSL, SPIFFS, SPIFlash, LITTLEFS and SD). IMPORTANT: Arduino Mega/Uno do NOT support SSL/TLS due to RAM limitations (requires 24KB, available only 8KB/2KB). Use ESP32/ESP8266 for secure email.https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-4.0.0.zipEMailSender-4.0.0.zip"
+        "fullText": "EMailSender4.0.14.0.1, 4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0Renzo Mischianti <renzo.mischianti@gmail.com>Renzo Mischianti <renzo.mischianti@gmail.com>Send EMail via SMTP with STARTTLS support, library for Raspberry Pi Pico W, Arduino, SAMD (WiFiNINA), STM32, esp8266 and esp32.Library to send EMail with attachments and STARTTLS (port 587) support via STM32 (w5500/enc28j60 + SSL, SPI Flash, SdFat2) Arduino SAMD (WiFiNINA, SD, SPI Flash, SdFat2), esp8266 (w5500/enc28j60 + SSL, SPIFFS, LittleFS and SD), esp32 (w5500/enc28j60 + SSLClient, WiFiClientSecure, SPIFFS, LITTLEFS, Ffat and SD), Raspberry Pi Pico (rp2040) (w5500/enc28j60 + SSL, SPIFFS, SPIFlash, LITTLEFS and SD). IMPORTANT: Arduino Mega/Uno do NOT support SSL/TLS due to RAM limitations (requires 24KB, available only 8KB/2KB). Use ESP32/ESP8266 for secure email.https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/xreef/EMailSender-4.0.1.zipEMailSender-4.0.1.zip"
     },
     {
         "name": "Protothreads",
@@ -126318,7 +126318,7 @@
     {
         "name": "Satspares_DWIN_DGUS_HMI",
         "version": "2.17.0",
-        "versions": "2.17.0, 2.11.0, 2.1.0, 2.1.5, 2.1.6",
+        "versions": "2.17.0, 2.11.0, 2.1.0, 2.1.5, 2.1.6, 2.1.7",
         "author": "Tejeet Magar and Satspares",
         "maintainer": "Satspares <satspares@gmail.com>",
         "sentence": "Updated version of the original DWIN version.",
@@ -126333,7 +126333,7 @@
         "dependencies": [
             ""
         ],
-        "fullText": "Satspares_DWIN_DGUS_HMI2.17.02.17.0, 2.11.0, 2.1.0, 2.1.5, 2.1.6Tejeet Magar and SatsparesSatspares <satspares@gmail.com>Updated version of the original DWIN version.DWIN DGUS LCD Control Display Satspares update.https://github.com/satspares/DWIN_DGUS_HMIDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/satspares/Satspares_DWIN_DGUS_HMI-2.17.0.zipSatspares_DWIN_DGUS_HMI-2.17.0.zip"
+        "fullText": "Satspares_DWIN_DGUS_HMI2.17.02.17.0, 2.11.0, 2.1.0, 2.1.5, 2.1.6, 2.1.7Tejeet Magar and SatsparesSatspares <satspares@gmail.com>Updated version of the original DWIN version.DWIN DGUS LCD Control Display Satspares update.https://github.com/satspares/DWIN_DGUS_HMIDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/satspares/Satspares_DWIN_DGUS_HMI-2.17.0.zipSatspares_DWIN_DGUS_HMI-2.17.0.zip"
     },
     {
         "name": "esp32-BLE112",
@@ -140941,8 +140941,8 @@
     },
     {
         "name": "ICM45686",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "sentence": "Allows to read accelerometer, gyroscope and temperature sensors from an ICM45686 Invensence IMU device.",
@@ -140952,17 +140952,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.3.zip",
-        "archiveFileName": "ICM45686-1.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.4.zip",
+        "archiveFileName": "ICM45686-1.0.4.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ICM456861.0.31.0.3, 1.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45686 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45686 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45686Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.3.zipICM45686-1.0.3.zip"
+        "fullText": "ICM456861.0.41.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45686 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45686 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45686Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45686-1.0.4.zipICM45686-1.0.4.zip"
     },
     {
         "name": "ICM45605",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "sentence": "Allows to read accelerometer, gyroscope and temperature sensors from an ICM45605 Invensence IMU device.",
@@ -140972,12 +140972,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.3.zip",
-        "archiveFileName": "ICM45605-1.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.4.zip",
+        "archiveFileName": "ICM45605-1.0.4.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ICM456051.0.31.0.3, 1.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45605 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45605 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45605Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.3.zipICM45605-1.0.3.zip"
+        "fullText": "ICM456051.0.41.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45605 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45605 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Tilt, Step counter, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45605Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45605-1.0.4.zipICM45605-1.0.4.zip"
     },
     {
         "name": "esp32-rmt-ir",
@@ -142914,8 +142914,8 @@
     },
     {
         "name": "Terminal",
-        "version": "1.0.9",
-        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.10",
+        "versions": "1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "John J. Gavel <john.gavel@gmail.com>",
         "maintainer": "John J. Gavel <john.gavel@gmail.com>",
         "sentence": "Terminal for Serial Ports, Telnet, and other Streams.",
@@ -142925,12 +142925,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/johngavel/Terminal-1.0.9.zip",
-        "archiveFileName": "Terminal-1.0.9.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/johngavel/Terminal-1.0.10.zip",
+        "archiveFileName": "Terminal-1.0.10.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Terminal1.0.91.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0John J. Gavel <john.gavel@gmail.com>John J. Gavel <john.gavel@gmail.com>Terminal for Serial Ports, Telnet, and other Streams.Processing, Parsing, Executing, and Output Control for Terminals. Provides the ability to easily add commands to Terminals, Execute commands, and Parse and Tokenize the Input. Handles backspace and up/down arrows from history.https://github.com/johngavel/TerminalCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/johngavel/Terminal-1.0.9.zipTerminal-1.0.9.zip"
+        "fullText": "Terminal1.0.101.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0John J. Gavel <john.gavel@gmail.com>John J. Gavel <john.gavel@gmail.com>Terminal for Serial Ports, Telnet, and other Streams.Processing, Parsing, Executing, and Output Control for Terminals. Provides the ability to easily add commands to Terminals, Execute commands, and Parse and Tokenize the Input. Handles backspace and up/down arrows from history.https://github.com/johngavel/TerminalCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/johngavel/Terminal-1.0.10.zipTerminal-1.0.10.zip"
     },
     {
         "name": "MT-arduino-momentary-button",
@@ -167716,8 +167716,8 @@
     },
     {
         "name": "Twin_AIoT",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "TwinScience",
         "maintainer": "abdullah@twinscience.com",
         "sentence": "A library containing example codes for Twin AIoT module.",
@@ -167727,13 +167727,13 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.8.zip",
-        "archiveFileName": "Twin_AIoT-1.0.8.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.1.0.zip",
+        "archiveFileName": "Twin_AIoT-1.1.0.zip",
         "dependencies": [
             "ESP32Servo",
             "FastLED"
         ],
-        "fullText": "Twin_AIoT1.0.81.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0TwinScienceabdullah@twinscience.comA library containing example codes for Twin AIoT module.This library is used for ESP32-S3 based custom board designed by TwinSciencehttps://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_libraryDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.0.8.zipTwin_AIoT-1.0.8.zipESP32Servo, FastLED"
+        "fullText": "Twin_AIoT1.1.01.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0TwinScienceabdullah@twinscience.comA library containing example codes for Twin AIoT module.This library is used for ESP32-S3 based custom board designed by TwinSciencehttps://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_libraryDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/twin-science-robotics/Twin_AIoT-1.1.0.zipTwin_AIoT-1.1.0.zipESP32Servo, FastLED"
     },
     {
         "name": "Tektite RotEv Controller",
@@ -167837,8 +167837,8 @@
     },
     {
         "name": "DShotRMT",
-        "version": "0.8.9",
-        "versions": "0.8.9, 0.8.8, 0.8.7, 0.8.6, 0.8.3, 0.8.0, 0.7.6, 0.7.5, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.3, 0.6.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.9, 0.8.8, 0.8.7, 0.8.6, 0.8.3, 0.8.0, 0.7.6, 0.7.5, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.3, 0.6.0",
         "author": "Wastl Kraus <wir-sind-die-matrix.de>",
         "maintainer": "Wastl Kraus <wir-sind-die-matrix.de>",
         "sentence": "DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.",
@@ -167848,12 +167848,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.9.zip",
-        "archiveFileName": "DShotRMT-0.8.9.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.9.0.zip",
+        "archiveFileName": "DShotRMT-0.9.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "DShotRMT0.8.90.8.9, 0.8.8, 0.8.7, 0.8.6, 0.8.3, 0.8.0, 0.7.6, 0.7.5, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.3, 0.6.0Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.8.9.zipDShotRMT-0.8.9.zip"
+        "fullText": "DShotRMT0.9.00.9.0, 0.8.9, 0.8.8, 0.8.7, 0.8.6, 0.8.3, 0.8.0, 0.7.6, 0.7.5, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.3, 0.6.0Wastl Kraus <wir-sind-die-matrix.de>Wastl Kraus <wir-sind-die-matrix.de>DShotRMT Library supporting all DShot Types and speeds. Tested with BlHeli_S.This library can control a BlHeli_S by using encoded DShot commands.https://github.com/derdoktor667/DShotRMTSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/derdoktor667/DShotRMT-0.9.0.zipDShotRMT-0.9.0.zip"
     },
     {
         "name": "ANBSensorsModbus",
@@ -171422,5 +171422,87 @@
             ""
         ],
         "fullText": "SC03_C2H5OH1.0.11.0.1, 1.0.0zzvllvzzJohn <zvllvzz@gmail.com>First and only library for electrochemical ethanol sensor SC03_C2H5OH on Arduino IDESupports Arduino boards to read SC03_C2H5OH sensorhttps://github.com/zzvllvzz/SC03_C2H5OH/SensorsavrContributedhttps://downloads.arduino.cc/libraries/github.com/zzvllvzz/SC03_C2H5OH-1.0.1.zipSC03_C2H5OH-1.0.1.zip"
+    },
+    {
+        "name": "ICM45689",
+        "version": "1.0.4",
+        "versions": "1.0.4",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "sentence": "Allows to read accelerometer, gyroscope and temperature sensors from an ICM45689 Invensence IMU device.",
+        "paragraph": "This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45689 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Wake on Motion...",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45689",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45689-1.0.4.zip",
+        "archiveFileName": "ICM45689-1.0.4.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "ICM456891.0.41.0.4TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45689 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45689 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45689Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45689-1.0.4.zipICM45689-1.0.4.zip"
+    },
+    {
+        "name": "ICM45608",
+        "version": "1.0.4",
+        "versions": "1.0.4",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "sentence": "Allows to read accelerometer, gyroscope and temperature sensors from an ICM45608 Invensence IMU device.",
+        "paragraph": "This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45608 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Wake on Motion...",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45608",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45608-1.0.4.zip",
+        "archiveFileName": "ICM45608-1.0.4.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "ICM456081.0.41.0.4TDK/InvensenseTDK/InvensenseAllows to read accelerometer, gyroscope and temperature sensors from an ICM45608 Invensence IMU device.This library allows to easily configure and log accelerometer, gyroscope and temperature data from an ICM45608 device, using the SPI or the I2C interface. It also provides embedded algorithms such as Tap, Wake on Motion...https://github.com/tdk-invn-oss/motion.arduino.ICM45608Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/tdk-invn-oss/ICM45608-1.0.4.zipICM45608-1.0.4.zip"
+    },
+    {
+        "name": "ScioSense_AS60XX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ScioSense",
+        "maintainer": "ScioSense <info@sciosense.com>",
+        "sentence": "Arduino library for AS60xx ultrasonic flow converter family from ScioSense",
+        "paragraph": "This library controls the AS6031, AS6040, and AS6031F1 sensor. The main feature of this library is performing SPI measurements, writing a configuration, and retrieving the measurement data.",
+        "website": "https://github.com/sciosense/as60xx-arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/sciosense/ScioSense_AS60XX-1.0.0.zip",
+        "archiveFileName": "ScioSense_AS60XX-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "ScioSense_AS60XX1.0.01.0.0ScioSenseScioSense <info@sciosense.com>Arduino library for AS60xx ultrasonic flow converter family from ScioSenseThis library controls the AS6031, AS6040, and AS6031F1 sensor. The main feature of this library is performing SPI measurements, writing a configuration, and retrieving the measurement data.https://github.com/sciosense/as60xx-arduinoSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/sciosense/ScioSense_AS60XX-1.0.0.zipScioSense_AS60XX-1.0.0.zip"
+    },
+    {
+        "name": "DaedalusLink-ESP32",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "David Jakovlev <contact@dajakov.com>",
+        "maintainer": "David Jakovlev <contact@dajakov.com>",
+        "sentence": "ESP32 WebSocket server implementation of the DaedalusLink protocol.",
+        "paragraph": "Provides an easy way to define dynamic GUI controls for robots via JSON, compatible with the DaedalusLink app.",
+        "website": "https://github.com/dajakov/daedaluslink-arduino_esp32-lib",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/dajakov/DaedalusLink_ESP32-0.1.0.zip",
+        "archiveFileName": "DaedalusLink_ESP32-0.1.0.zip",
+        "dependencies": [
+            "ESP Async WebServer",
+            "Async TCP",
+            "ArduinoJson"
+        ],
+        "fullText": "DaedalusLink-ESP320.1.00.1.0David Jakovlev <contact@dajakov.com>David Jakovlev <contact@dajakov.com>ESP32 WebSocket server implementation of the DaedalusLink protocol.Provides an easy way to define dynamic GUI controls for robots via JSON, compatible with the DaedalusLink app.https://github.com/dajakov/daedaluslink-arduino_esp32-libCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/dajakov/DaedalusLink_ESP32-0.1.0.zipDaedalusLink_ESP32-0.1.0.zipESP Async WebServer, Async TCP, ArduinoJson"
     }
 ]
