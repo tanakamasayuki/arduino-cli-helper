@@ -70372,8 +70372,8 @@
     },
     {
         "name": "GFX Library for Arduino",
-        "version": "1.6.1",
-        "versions": "1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
+        "version": "1.6.2",
+        "versions": "1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
         "author": "Moon On Our Nation <moononournation@gmail.com>",
         "maintainer": "Moon On Our Nation <moononournation@gmail.com>",
         "sentence": "Arduino_GFX is a GFX library for various color displays with various data bus interfaces",
@@ -70383,12 +70383,12 @@
         "architectures": "",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/moononournation/GFX_Library_for_Arduino-1.6.1.zip",
-        "archiveFileName": "GFX_Library_for_Arduino-1.6.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/moononournation/GFX_Library_for_Arduino-1.6.2.zip",
+        "archiveFileName": "GFX_Library_for_Arduino-1.6.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "GFX Library for Arduino1.6.11.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1Moon On Our Nation <moononournation@gmail.com>Moon On Our Nation <moononournation@gmail.com>Arduino_GFX is a GFX library for various color displays with various data bus interfacesArduino_GFX is a Arduino graphics library. Currently support GC9A01 round display, GC9106, GC9107, HX8347C, HX8347D, HX8352C, HX8357A, HX8357B, HX8369A, ILI6122, ILI9225, ILI9331, ILI9341, ILI9342(M5Stack, ESP32-S3-BOX), ILI9481, ILI9486, ILI9488, ILI9806, JBT6K71, NT35310, NT35510, NT39125, NV3041A, OTM8009A, R61529, RM67162, SEPS525, SSD1283A, SSD1331, SSD1351, ST7735, ST7789, ST7796 and virtually all Raspberry Pi DPI (RGB) display. Tested RGB display: GC9503V, ILI6485, ST7262, ST7701. Currently support software SPI (8-bit and 9-bit), hardware SPI (8-bit, ESP32 also support 9-bit), 8-bit parallel interface(AVR, ESP32, RPi Pico, RTL8720, STM32), 16-bit parallel interface(ESP32 and RPi Pico) and RGB Panel interface(ESP32S3).https://github.com/moononournation/Arduino_GFXUncategorizedContributedhttps://downloads.arduino.cc/libraries/github.com/moononournation/GFX_Library_for_Arduino-1.6.1.zipGFX_Library_for_Arduino-1.6.1.zip"
+        "fullText": "GFX Library for Arduino1.6.21.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1Moon On Our Nation <moononournation@gmail.com>Moon On Our Nation <moononournation@gmail.com>Arduino_GFX is a GFX library for various color displays with various data bus interfacesArduino_GFX is a Arduino graphics library. Currently support GC9A01 round display, GC9106, GC9107, HX8347C, HX8347D, HX8352C, HX8357A, HX8357B, HX8369A, ILI6122, ILI9225, ILI9331, ILI9341, ILI9342(M5Stack, ESP32-S3-BOX), ILI9481, ILI9486, ILI9488, ILI9806, JBT6K71, NT35310, NT35510, NT39125, NV3041A, OTM8009A, R61529, RM67162, SEPS525, SSD1283A, SSD1331, SSD1351, ST7735, ST7789, ST7796 and virtually all Raspberry Pi DPI (RGB) display. Tested RGB display: GC9503V, ILI6485, ST7262, ST7701. Currently support software SPI (8-bit and 9-bit), hardware SPI (8-bit, ESP32 also support 9-bit), 8-bit parallel interface(AVR, ESP32, RPi Pico, RTL8720, STM32), 16-bit parallel interface(ESP32 and RPi Pico) and RGB Panel interface(ESP32S3).https://github.com/moononournation/Arduino_GFXUncategorizedContributedhttps://downloads.arduino.cc/libraries/github.com/moononournation/GFX_Library_for_Arduino-1.6.2.zipGFX_Library_for_Arduino-1.6.2.zip"
     },
     {
         "name": "WIOTerminal_WiFiManager",
@@ -100796,8 +100796,8 @@
     },
     {
         "name": "XPowersLib",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
         "author": "Lewis He",
         "maintainer": "Lewis He <lewishe@outlook.com>",
         "sentence": "Arduino, CircuitPython, MicroPython, esp-idf and other frameworks power management series library",
@@ -100807,12 +100807,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/lewisxhe/XPowersLib-0.3.0.zip",
-        "archiveFileName": "XPowersLib-0.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/lewisxhe/XPowersLib-0.3.1.zip",
+        "archiveFileName": "XPowersLib-0.3.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "XPowersLib0.3.00.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.4, 0.1.3, 0.1.1, 0.1.0Lewis HeLewis He <lewishe@outlook.com>Arduino, CircuitPython, MicroPython, esp-idf and other frameworks power management series librarySupport AXP192,AXP202,AXP2101,SY6970,BQ25896,HUSB238 Chiphttps://github.com/lewisxhe/XPowersLibCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lewisxhe/XPowersLib-0.3.0.zipXPowersLib-0.3.0.zip"
+        "fullText": "XPowersLib0.3.10.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.4, 0.1.3, 0.1.1, 0.1.0Lewis HeLewis He <lewishe@outlook.com>Arduino, CircuitPython, MicroPython, esp-idf and other frameworks power management series librarySupport AXP192,AXP202,AXP2101,SY6970,BQ25896,HUSB238 Chiphttps://github.com/lewisxhe/XPowersLibCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/lewisxhe/XPowersLib-0.3.1.zipXPowersLib-0.3.1.zip"
     },
     {
         "name": "TrueProx",
@@ -115719,8 +115719,8 @@
     },
     {
         "name": "QuarkTS",
-        "version": "1.7.6",
-        "versions": "1.7.6, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.7.7",
+        "versions": "1.7.7, 1.7.6, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "J. Camilo Gomez C. <kmilo17pet@gmail.com>",
         "maintainer": "J. Camilo Gomez C. <kmilo17pet@gmail.com>",
         "sentence": "An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.",
@@ -115730,12 +115730,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.6.zip",
-        "archiveFileName": "QuarkTS-1.7.6.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.7.zip",
+        "archiveFileName": "QuarkTS-1.7.7.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "QuarkTS1.7.61.7.6, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1J. Camilo Gomez C. <kmilo17pet@gmail.com>J. Camilo Gomez C. <kmilo17pet@gmail.com>An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.QuarkTS++ is an operating system that provides a modern environment to build stable and predictable event-driven multitasking embedded software. The OS is built on top of a cooperative quasi-static scheduler and its simplified kernel implements a specialized round-robin scheme using a linked-chain approach and an event-queue to provide true FIFO priority-scheduling..https://github.com/kmilo17pet/QuarkTS-cppTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.6.zipQuarkTS-1.7.6.zip"
+        "fullText": "QuarkTS1.7.71.7.7, 1.7.6, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1J. Camilo Gomez C. <kmilo17pet@gmail.com>J. Camilo Gomez C. <kmilo17pet@gmail.com>An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.QuarkTS++ is an operating system that provides a modern environment to build stable and predictable event-driven multitasking embedded software. The OS is built on top of a cooperative quasi-static scheduler and its simplified kernel implements a specialized round-robin scheme using a linked-chain approach and an event-queue to provide true FIFO priority-scheduling..https://github.com/kmilo17pet/QuarkTS-cppTiming*Contributedhttps://downloads.arduino.cc/libraries/github.com/kmilo17pet/QuarkTS-1.7.7.zipQuarkTS-1.7.7.zip"
     },
     {
         "name": "CirquePinnacle",
@@ -130255,8 +130255,8 @@
     },
     {
         "name": "LilyGo-AMOLED-Series",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
         "author": "LilyGo",
         "maintainer": "LewisHe <lewishe@outlook.com>",
         "sentence": "Library for LilyGo T-Display AMOLED Series",
@@ -130266,8 +130266,8 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Xinyuan-LilyGO/LilyGo_AMOLED_Series-1.2.2.zip",
-        "archiveFileName": "LilyGo_AMOLED_Series-1.2.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Xinyuan-LilyGO/LilyGo_AMOLED_Series-1.2.3.zip",
+        "archiveFileName": "LilyGo_AMOLED_Series-1.2.3.zip",
         "dependencies": [
             "AceButton",
             "Adafruit NeoPixel",
@@ -130279,7 +130279,7 @@
             "XPowersLib",
             "GFX Library for Arduino"
         ],
-        "fullText": "LilyGo-AMOLED-Series1.2.21.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1LilyGoLewisHe <lewishe@outlook.com>Library for LilyGo T-Display AMOLED SeriesSupport SH8501,RM67162,RM690B0,JD9613https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-SeriesDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Xinyuan-LilyGO/LilyGo_AMOLED_Series-1.2.2.zipLilyGo_AMOLED_Series-1.2.2.zipAceButton, Adafruit NeoPixel, lvgl, SensorLib, SparkFun MAX3010x Pulse and Proximity Sensor Library, TFT_eSPI, TinyGPSPlus, XPowersLib, GFX Library for Arduino"
+        "fullText": "LilyGo-AMOLED-Series1.2.31.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1LilyGoLewisHe <lewishe@outlook.com>Library for LilyGo T-Display AMOLED SeriesSupport SH8501,RM67162,RM690B0,JD9613https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-SeriesDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Xinyuan-LilyGO/LilyGo_AMOLED_Series-1.2.3.zipLilyGo_AMOLED_Series-1.2.3.zipAceButton, Adafruit NeoPixel, lvgl, SensorLib, SparkFun MAX3010x Pulse and Proximity Sensor Library, TFT_eSPI, TinyGPSPlus, XPowersLib, GFX Library for Arduino"
     },
     {
         "name": "SerialMP3",
@@ -135855,8 +135855,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleChess",
-        "version": "0.4.3",
-        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "sentence": "Bluetooth low energy (BLE) library for communication via CECP chess protocol.",
@@ -135866,12 +135866,12 @@
         "architectures": "esp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_nicla",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.4.3.zip",
-        "archiveFileName": "vovagorodok_ArduinoBleChess-0.4.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.6.0.zip",
+        "archiveFileName": "vovagorodok_ArduinoBleChess-0.6.0.zip",
         "dependencies": [
-            "ArduinoBLE"
+            ""
         ],
-        "fullText": "vovagorodok_ArduinoBleChess0.4.30.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for communication via CECP chess protocol.This library supports functionality of CECP protocol for BLE deviceshttps://github.com/vovagorodok/ArduinoBleChessCommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.4.3.zipvovagorodok_ArduinoBleChess-0.4.3.zipArduinoBLE"
+        "fullText": "vovagorodok_ArduinoBleChess0.6.00.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for communication via CECP chess protocol.This library supports functionality of CECP protocol for BLE deviceshttps://github.com/vovagorodok/ArduinoBleChessCommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.6.0.zipvovagorodok_ArduinoBleChess-0.6.0.zip"
     },
     {
         "name": "vovagorodok_ArduinoBleOTA",
@@ -155449,8 +155449,8 @@
     },
     {
         "name": "Rotary_encoder",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
         "author": "Csermendy Bendeguz",
         "maintainer": "Csermendy Bendeguz",
         "sentence": "Reads the position of a rotary encoder.",
@@ -155460,12 +155460,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Bendeguz-Cs/Rotary_encoder-2.0.3.zip",
-        "archiveFileName": "Rotary_encoder-2.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Bendeguz-Cs/Rotary_encoder-2.1.0.zip",
+        "archiveFileName": "Rotary_encoder-2.1.0.zip",
         "dependencies": [
             "PinChangeInterrupt"
         ],
-        "fullText": "Rotary_encoder2.0.32.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3Csermendy BendeguzCsermendy BendeguzReads the position of a rotary encoder.Easy to use with multiple funtions.https://github.com/Bendeguz-Cs/Rotary_encoder/tree/mainDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Bendeguz-Cs/Rotary_encoder-2.0.3.zipRotary_encoder-2.0.3.zipPinChangeInterrupt"
+        "fullText": "Rotary_encoder2.1.02.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3Csermendy BendeguzCsermendy BendeguzReads the position of a rotary encoder.Easy to use with multiple funtions.https://github.com/Bendeguz-Cs/Rotary_encoder/tree/mainDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Bendeguz-Cs/Rotary_encoder-2.1.0.zipRotary_encoder-2.1.0.zipPinChangeInterrupt"
     },
     {
         "name": "GrafikLogger",
@@ -167777,23 +167777,23 @@
     },
     {
         "name": "Dimmer_ITC",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.0.0",
         "author": "Ítalo Coelho",
         "maintainer": "Ítalo Coelho",
         "sentence": "AC Dimmer Control",
         "paragraph": "A library to control AC Loads with Linear Response, includes Automatic Zero-Cross Delay Calibration.",
         "website": "https://github.com/italo-coelho/Dimmer_ITC",
-        "category": "Uncategorized",
+        "category": "Device Control",
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/italo-coelho/Dimmer_ITC-1.0.0.zip",
-        "archiveFileName": "Dimmer_ITC-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/italo-coelho/Dimmer_ITC-1.1.1.zip",
+        "archiveFileName": "Dimmer_ITC-1.1.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Dimmer_ITC1.0.01.0.0Ítalo CoelhoÍtalo CoelhoAC Dimmer ControlA library to control AC Loads with Linear Response, includes Automatic Zero-Cross Delay Calibration.https://github.com/italo-coelho/Dimmer_ITCUncategorizedesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/italo-coelho/Dimmer_ITC-1.0.0.zipDimmer_ITC-1.0.0.zip"
+        "fullText": "Dimmer_ITC1.1.11.1.1, 1.0.0Ítalo CoelhoÍtalo CoelhoAC Dimmer ControlA library to control AC Loads with Linear Response, includes Automatic Zero-Cross Delay Calibration.https://github.com/italo-coelho/Dimmer_ITCDevice Controlesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/italo-coelho/Dimmer_ITC-1.1.1.zipDimmer_ITC-1.1.1.zip"
     },
     {
         "name": "DFRobot_MHZ9041A",
@@ -168323,8 +168323,8 @@
     },
     {
         "name": "ESP32_MCPWM",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Little Man Builds",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "sentence": "Practical ESP32 MCPWM H-bridge motor driver with soft-brake, dead-time, center-aligned PWM, safety and capture fallbacks.",
@@ -168334,12 +168334,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.1.0.zip",
-        "archiveFileName": "ESP32_MCPWM-1.1.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.1.1.zip",
+        "archiveFileName": "ESP32_MCPWM-1.1.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESP32_MCPWM1.1.01.1.0, 1.0.0Little Man BuildsLittle Man Builds <littlemanbuilds@gmail.com>Practical ESP32 MCPWM H-bridge motor driver with soft-brake, dead-time, center-aligned PWM, safety and capture fallbacks.Tiny surface API with full configuration via structs. Supports Arduino-ESP32. Includes examples for quick start and advanced features.https://github.com/littlemanbuilds/ESP32_MCPWMDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.1.0.zipESP32_MCPWM-1.1.0.zip"
+        "fullText": "ESP32_MCPWM1.1.11.1.1, 1.1.0, 1.0.0Little Man BuildsLittle Man Builds <littlemanbuilds@gmail.com>Practical ESP32 MCPWM H-bridge motor driver with soft-brake, dead-time, center-aligned PWM, safety and capture fallbacks.Tiny surface API with full configuration via structs. Supports Arduino-ESP32. Includes examples for quick start and advanced features.https://github.com/littlemanbuilds/ESP32_MCPWMDevice Controlesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/ESP32_MCPWM-1.1.1.zipESP32_MCPWM-1.1.1.zip"
     },
     {
         "name": "ToFFilter",
@@ -168464,8 +168464,8 @@
     },
     {
         "name": "picoEEPROM",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
         "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "sentence": "An Arduino library simplifying usage of EEPROM with RP based boards.",
@@ -168475,12 +168475,12 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.1.zip",
-        "archiveFileName": "picoEEPROM-1.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.3.zip",
+        "archiveFileName": "picoEEPROM-1.0.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "picoEEPROM1.0.11.0.1, 1.0.0Szymon Glinka <szymonglinka2006@gmail.com>Szymon Glinka <szymonglinka2006@gmail.com>An Arduino library simplifying usage of EEPROM with RP based boards.This library works ONLY with boards from Arduino-Pico board library and is designed to simplify usage of EEPROM with RP chipbased boards.https://github.com/Glinek/picoEEPROMData Storagerp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.1.zippicoEEPROM-1.0.1.zip"
+        "fullText": "picoEEPROM1.0.31.0.3, 1.0.1, 1.0.0Szymon Glinka <szymonglinka2006@gmail.com>Szymon Glinka <szymonglinka2006@gmail.com>An Arduino library simplifying usage of EEPROM with RP based boards.This library works ONLY with boards from Arduino-Pico board library and is designed to simplify usage of EEPROM with RP chipbased boards.https://github.com/Glinek/picoEEPROMData Storagerp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.3.zippicoEEPROM-1.0.3.zip"
     },
     {
         "name": "SL002_DHT11",
@@ -168886,8 +168886,8 @@
     },
     {
         "name": "Universal_Button",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "sentence": "Generic multi-button handler with debounce, short/long events, exact last-press duration, pluggable readers, enum-friendly API, and optional time source injection.",
@@ -168897,12 +168897,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.4.0.zip",
-        "archiveFileName": "Universal_Button-1.4.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.4.1.zip",
+        "archiveFileName": "Universal_Button-1.4.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Universal_Button1.4.01.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0Little Man Builds (Darren Osborne)Little Man Builds <littlemanbuilds@gmail.com>Generic multi-button handler with debounce, short/long events, exact last-press duration, pluggable readers, enum-friendly API, and optional time source injection.Header-only Arduino library for handling multiple buttons with robust debounce; short/long classification; exact getLastPressDuration(); per-button overrides (timing/polarity/enable); reader callbacks for GPIO and expanders (e.g., MCP23017); and helpers (peek/clear/heldMillis/reset). Supports Arduino millis() or a custom time source (e.g., FreeRTOS ticks) via TimeFn injection. Includes GPIO, port-expander, and cached-read examples.https://github.com/LittleManBuilds/Universal_ButtonSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.4.0.zipUniversal_Button-1.4.0.zip"
+        "fullText": "Universal_Button1.4.11.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0Little Man Builds (Darren Osborne)Little Man Builds <littlemanbuilds@gmail.com>Generic multi-button handler with debounce, short/long events, exact last-press duration, pluggable readers, enum-friendly API, and optional time source injection.Header-only Arduino library for handling multiple buttons with robust debounce; short/long classification; exact getLastPressDuration(); per-button overrides (timing/polarity/enable); reader callbacks for GPIO and expanders (e.g., MCP23017); and helpers (peek/clear/heldMillis/reset). Supports Arduino millis() or a custom time source (e.g., FreeRTOS ticks) via TimeFn injection. Includes GPIO, port-expander, and cached-read examples.https://github.com/LittleManBuilds/Universal_ButtonSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/Universal_Button-1.4.1.zipUniversal_Button-1.4.1.zip"
     },
     {
         "name": "7Semi_MAX17048",
@@ -169288,23 +169288,23 @@
     },
     {
         "name": "MegaTPA",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "MixertiX 1sussy1amogus1@gmail.com",
         "maintainer": "MixertiX 1sussy1amogus1@gmail.com",
-        "sentence": "No Delay Library for: buttons and timers.",
+        "sentence": "No Delay Library for: buttons and timers. And BLDC. New update for BLDC motors.",
         "paragraph": "Very easy use. Please, subscribe on me: https://www.youtube.com/@mixertiX",
         "website": "https://github.com/YoungEngineerMixertiX/MegaTPA",
         "category": "Uncategorized",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.0.0.zip",
-        "archiveFileName": "MegaTPA-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.1.0.zip",
+        "archiveFileName": "MegaTPA-1.1.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MegaTPA1.0.01.0.0MixertiX 1sussy1amogus1@gmail.comMixertiX 1sussy1amogus1@gmail.comNo Delay Library for: buttons and timers.Very easy use. Please, subscribe on me: https://www.youtube.com/@mixertiXhttps://github.com/YoungEngineerMixertiX/MegaTPAUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.0.0.zipMegaTPA-1.0.0.zip"
+        "fullText": "MegaTPA1.1.01.1.0, 1.0.0MixertiX 1sussy1amogus1@gmail.comMixertiX 1sussy1amogus1@gmail.comNo Delay Library for: buttons and timers. And BLDC. New update for BLDC motors.Very easy use. Please, subscribe on me: https://www.youtube.com/@mixertiXhttps://github.com/YoungEngineerMixertiX/MegaTPAUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.1.0.zipMegaTPA-1.1.0.zip"
     },
     {
         "name": "OBD2 CanBus",
@@ -169448,23 +169448,23 @@
     },
     {
         "name": "tinkeriot",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.5, 1.0.4, 1.0.0",
         "author": "Fauzan Khairi bin Che Harun <fauzan@utm.my>",
         "maintainer": "Fauzan Khairi bin Che Harun <fauzan@utm.my>",
         "sentence": "A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.",
         "paragraph": "A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.",
-        "website": "https://github.com/ezz-30/arduino_tinkeriot",
+        "website": "https://github.com/apauaie/arduino_tinkeriot",
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.5.zip",
-        "archiveFileName": "tinkeriot-1.0.5.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.8.zip",
+        "archiveFileName": "tinkeriot-1.0.8.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "tinkeriot1.0.51.0.5, 1.0.4, 1.0.0Fauzan Khairi bin Che Harun <fauzan@utm.my>Fauzan Khairi bin Che Harun <fauzan@utm.my>A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.https://github.com/ezz-30/arduino_tinkeriotCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.5.ziptinkeriot-1.0.5.zip"
+        "fullText": "tinkeriot1.0.81.0.8, 1.0.5, 1.0.4, 1.0.0Fauzan Khairi bin Che Harun <fauzan@utm.my>Fauzan Khairi bin Che Harun <fauzan@utm.my>A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.A library that makes using the tinkerkit easy allow easy connection the tinkercode.my iot dashboard.https://github.com/apauaie/arduino_tinkeriotCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/ezz-30/tinkeriot-1.0.8.ziptinkeriot-1.0.8.zip"
     },
     {
         "name": "Boton",
@@ -169528,8 +169528,8 @@
     },
     {
         "name": "SnapshotBus",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "sentence": "Single-writer atomic snapshot channel for RTOS/Arduino (ESP32-tested).",
@@ -169539,12 +169539,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/SnapshotBus-1.0.0.zip",
-        "archiveFileName": "SnapshotBus-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/SnapshotBus-1.0.1.zip",
+        "archiveFileName": "SnapshotBus-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SnapshotBus1.0.01.0.0Little Man Builds (Darren Osborne)Little Man Builds <littlemanbuilds@gmail.com>Single-writer atomic snapshot channel for RTOS/Arduino (ESP32-tested).Lock-free (seqlock-style) transport for passing small structs between tasks or ISRs and tasks. Header-only, zero-allocation, ESP32-ready but portable.https://github.com/littlemanbuilds/SnapshotBusOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/SnapshotBus-1.0.0.zipSnapshotBus-1.0.0.zip"
+        "fullText": "SnapshotBus1.0.11.0.1, 1.0.0Little Man Builds (Darren Osborne)Little Man Builds <littlemanbuilds@gmail.com>Single-writer atomic snapshot channel for RTOS/Arduino (ESP32-tested).Lock-free (seqlock-style) transport for passing small structs between tasks or ISRs and tasks. Header-only, zero-allocation, ESP32-ready but portable.https://github.com/littlemanbuilds/SnapshotBusOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/SnapshotBus-1.0.1.zipSnapshotBus-1.0.1.zip"
     },
     {
         "name": "Updater",
@@ -170272,8 +170272,8 @@
     },
     {
         "name": "SHT4x",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for the SHT4x temperature and humidity sensor",
@@ -170283,12 +170283,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.2.zip",
-        "archiveFileName": "SHT4x-0.0.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.3.zip",
+        "archiveFileName": "SHT4x-0.0.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SHT4x0.0.20.0.2, 0.0.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the SHT4x temperature and humidity sensorClass for SHT4x Temperature Humidity Adafruit I2Chttps://github.com/RobTillaart/SHT4xSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.2.zipSHT4x-0.0.2.zip"
+        "fullText": "SHT4x0.0.30.0.3, 0.0.2, 0.0.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the SHT4x temperature and humidity sensorClass for SHT4x Temperature Humidity Adafruit I2Chttps://github.com/RobTillaart/SHT4xSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/SHT4x-0.0.3.zipSHT4x-0.0.3.zip"
     },
     {
         "name": "Multi_Timer_V2",
@@ -171345,8 +171345,8 @@
     },
     {
         "name": "RCLink",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Little Man Builds",
         "maintainer": "Little Man Builds <darren@ozzyimages.com>",
         "sentence": "Header-only RC link with iBUS/SBUS transports, shaping/filters, JSON config, and easy failsafe/signature helpers.",
@@ -171356,12 +171356,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/RCLink-1.0.0.zip",
-        "archiveFileName": "RCLink-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/littlemanbuilds/RCLink-1.0.2.zip",
+        "archiveFileName": "RCLink-1.0.2.zip",
         "dependencies": [
             "ArduinoJson"
         ],
-        "fullText": "RCLink1.0.01.0.0Little Man BuildsLittle Man Builds <darren@ozzyimages.com>Header-only RC link with iBUS/SBUS transports, shaping/filters, JSON config, and easy failsafe/signature helpers.RCLink is a clean, dependency-light RC link for Arduino/ESP32. It includes robust iBUS and SBUS transports, per-channel mapping and shaping (deadband, expo, invert, EMA), epsilon suppression, receiver-failsafe signature detection, and a tiny ArduinoJson-based loader. New: RcMacros adds one-line failsafe signature macros and helper builders.https://github.com/littlemanbuilds/RCLinkCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/RCLink-1.0.0.zipRCLink-1.0.0.zipArduinoJson"
+        "fullText": "RCLink1.0.21.0.2, 1.0.1, 1.0.0Little Man BuildsLittle Man Builds <darren@ozzyimages.com>Header-only RC link with iBUS/SBUS transports, shaping/filters, JSON config, and easy failsafe/signature helpers.RCLink is a clean, dependency-light RC link for Arduino/ESP32. It includes robust iBUS and SBUS transports, per-channel mapping and shaping (deadband, expo, invert, EMA), epsilon suppression, receiver-failsafe signature detection, and a tiny ArduinoJson-based loader. New: RcMacros adds one-line failsafe signature macros and helper builders.https://github.com/littlemanbuilds/RCLinkCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/littlemanbuilds/RCLink-1.0.2.zipRCLink-1.0.2.zipArduinoJson"
     },
     {
         "name": "tlv",
@@ -171504,5 +171504,25 @@
             "ArduinoJson"
         ],
         "fullText": "DaedalusLink-ESP320.1.00.1.0David Jakovlev <contact@dajakov.com>David Jakovlev <contact@dajakov.com>ESP32 WebSocket server implementation of the DaedalusLink protocol.Provides an easy way to define dynamic GUI controls for robots via JSON, compatible with the DaedalusLink app.https://github.com/dajakov/daedaluslink-arduino_esp32-libCommunicationesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/dajakov/DaedalusLink_ESP32-0.1.0.zipDaedalusLink_ESP32-0.1.0.zipESP Async WebServer, Async TCP, ArduinoJson"
+    },
+    {
+        "name": "MoonMin Scanner Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Paul Watts",
+        "maintainer": "Paul Watts",
+        "sentence": "Arduino library for the MoonMin scanner module. The module is an I2C module running on an ATTiny1614 with a linear actuator and RFID module.",
+        "paragraph": "This library provides interaction with the MoonMin scanner module. The module is a 'Fake' mineral scanner used at Nottingham Trent University for its moon rover robot project.",
+        "website": "https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/PaulNTU/MoonMin_Scanner_Library-1.0.0.zip",
+        "archiveFileName": "MoonMin_Scanner_Library-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "MoonMin Scanner Library1.0.01.0.0Paul WattsPaul WattsArduino library for the MoonMin scanner module. The module is an I2C module running on an ATTiny1614 with a linear actuator and RFID module.This library provides interaction with the MoonMin scanner module. The module is a 'Fake' mineral scanner used at Nottingham Trent University for its moon rover robot project.https://github.com/PaulNTU/MoonMin-Scanner-Arduino-LibraryDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/PaulNTU/MoonMin_Scanner_Library-1.0.0.zipMoonMin_Scanner_Library-1.0.0.zip"
     }
 ]
