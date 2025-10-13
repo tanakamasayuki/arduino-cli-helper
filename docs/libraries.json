@@ -64274,8 +64274,8 @@
     },
     {
         "name": "ESP8266Audio",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
         "author": "Earle F. Philhower, III",
         "maintainer": "Earle F. Philhower, III",
         "sentence": "Audio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040",
@@ -64285,12 +64285,12 @@
         "architectures": "esp8266, esp32, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.1.0.zip",
-        "archiveFileName": "ESP8266Audio-2.1.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.2.0.zip",
+        "archiveFileName": "ESP8266Audio-2.2.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESP8266Audio2.1.02.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0Earle F. Philhower, IIIEarle F. Philhower, IIIAudio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040Decode compressed MP3, AAC, FLAC, Screamtracker MOD, MIDI, RTTL, TI Talkie, and WAV and play on an I2S DAC or a software-driven delta-sigma DAC and 1-transistor amplifier.https://github.com/earlephilhower/ESP8266AudioSignal Input/Outputesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.1.0.zipESP8266Audio-2.1.0.zip"
+        "fullText": "ESP8266Audio2.2.02.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0Earle F. Philhower, IIIEarle F. Philhower, IIIAudio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040Decode compressed MP3, AAC, FLAC, Screamtracker MOD, MIDI, RTTL, TI Talkie, and WAV and play on an I2S DAC or a software-driven delta-sigma DAC and 1-transistor amplifier.https://github.com/earlephilhower/ESP8266AudioSignal Input/Outputesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.2.0.zipESP8266Audio-2.2.0.zip"
     },
     {
         "name": "BY8X01-16P Audio Module Library",
@@ -71088,8 +71088,8 @@
     },
     {
         "name": "AS5047P",
-        "version": "2.2.2",
-        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0",
         "author": "Jonas Merkle [JJM] <jonas@jjm.one>",
         "maintainer": "Jonas Merkle [JJM] <jonas@jjm.one>",
         "sentence": "An Arduino library for the AS5047P high-resolution rotary position sensor.",
@@ -71099,12 +71099,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/jonas-merkle/AS5047P-2.2.2.zip",
-        "archiveFileName": "AS5047P-2.2.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/jonas-merkle/AS5047P-3.0.0.zip",
+        "archiveFileName": "AS5047P-3.0.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "AS5047P2.2.22.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0Jonas Merkle [JJM] <jonas@jjm.one>Jonas Merkle [JJM] <jonas@jjm.one>An Arduino library for the AS5047P high-resolution rotary position sensor.An Arduino library for the AS5047P high-resolution rotary position sensor. Supporting also the following sensor types: AS5047D, AS5147, AS5147P, AS5247https://github.com/jonas-merkle/AS5047PSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/jonas-merkle/AS5047P-2.2.2.zipAS5047P-2.2.2.zip"
+        "fullText": "AS5047P3.0.03.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0Jonas Merkle [JJM] <jonas@jjm.one>Jonas Merkle [JJM] <jonas@jjm.one>An Arduino library for the AS5047P high-resolution rotary position sensor.An Arduino library for the AS5047P high-resolution rotary position sensor. Supporting also the following sensor types: AS5047D, AS5147, AS5147P, AS5247https://github.com/jonas-merkle/AS5047PSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/jonas-merkle/AS5047P-3.0.0.zipAS5047P-3.0.0.zip"
     },
     {
         "name": "ProtoCentral MAX30003 ECG AFE Sensor Library",
@@ -77656,8 +77656,8 @@
     },
     {
         "name": "GyverPower",
-        "version": "2.2.1",
-        "versions": "2.2.1, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.8.0, 1.7.0, 1.6.0",
+        "version": "2.2.2",
+        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.8.0, 1.7.0, 1.6.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "sentence": "Library for power management of AVR",
@@ -77667,12 +77667,12 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverPower-2.2.1.zip",
-        "archiveFileName": "GyverPower-2.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverPower-2.2.2.zip",
+        "archiveFileName": "GyverPower-2.2.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "GyverPower2.2.12.2.1, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.8.0, 1.7.0, 1.6.0AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Library for power management of AVRLibrary for power management of AVRhttps://github.com/GyverLibs/GyverPowerOtheravrContributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverPower-2.2.1.zipGyverPower-2.2.1.zip"
+        "fullText": "GyverPower2.2.22.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.8.0, 1.7.0, 1.6.0AlexGyver <alex@alexgyver.ru>AlexGyver <alex@alexgyver.ru>Library for power management of AVRLibrary for power management of AVRhttps://github.com/GyverLibs/GyverPowerOtheravrContributedhttps://downloads.arduino.cc/libraries/github.com/GyverLibs/GyverPower-2.2.2.zipGyverPower-2.2.2.zip"
     },
     {
         "name": "GyverOS",
@@ -102284,8 +102284,8 @@
     },
     {
         "name": "BresserWeatherSensorReceiver",
-        "version": "0.35.0",
-        "versions": "0.35.0, 0.34.0, 0.33.1, 0.33.0, 0.32.1, 0.32.0, 0.31.0, 0.30.0, 0.29.0, 0.28.10, 0.28.9, 0.28.8, 0.28.7, 0.28.6, 0.28.5, 0.28.4, 0.28.3, 0.28.2, 0.28.1, 0.28.0, 0.27.4, 0.27.3, 0.27.2, 0.27.1, 0.27.0, 0.26.0, 0.25.0, 0.24.1, 0.24.0, 0.23.1, 0.23.0, 0.22.1, 0.22.0, 0.21.0, 0.20.1, 0.20.0, 0.19.6, 0.19.5, 0.19.4, 0.19.3, 0.19.1, 0.19.0, 0.18.0, 0.17.1, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.1, 0.11.0, 0.10.0, 0.9.3, 0.9.2, 0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.3, 0.3.2, 0.3.0, 0.0.3",
+        "version": "0.36.0",
+        "versions": "0.36.0, 0.35.0, 0.34.0, 0.33.1, 0.33.0, 0.32.1, 0.32.0, 0.31.0, 0.30.0, 0.29.0, 0.28.10, 0.28.9, 0.28.8, 0.28.7, 0.28.6, 0.28.5, 0.28.4, 0.28.3, 0.28.2, 0.28.1, 0.28.0, 0.27.4, 0.27.3, 0.27.2, 0.27.1, 0.27.0, 0.26.0, 0.25.0, 0.24.1, 0.24.0, 0.23.1, 0.23.0, 0.22.1, 0.22.0, 0.21.0, 0.20.1, 0.20.0, 0.19.6, 0.19.5, 0.19.4, 0.19.3, 0.19.1, 0.19.0, 0.18.0, 0.17.1, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.1, 0.11.0, 0.10.0, 0.9.3, 0.9.2, 0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.3, 0.3.2, 0.3.0, 0.0.3",
         "author": "Matthias Prinke <matthias-bs@web.de>",
         "maintainer": "Matthias Prinke <matthias-bs@web.de>",
         "sentence": "Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.",
@@ -102295,8 +102295,8 @@
         "architectures": "esp32, esp8266, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.35.0.zip",
-        "archiveFileName": "BresserWeatherSensorReceiver-0.35.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.36.0.zip",
+        "archiveFileName": "BresserWeatherSensorReceiver-0.36.0.zip",
         "dependencies": [
             "RadioLib",
             "MQTT",
@@ -102304,9 +102304,14 @@
             "Preferences",
             "ESP Async TCP",
             "Async TCP",
-            "ESP Async WebServer"
+            "ESP Async WebServer",
+            "Adafruit SSD1306",
+            "RTClib",
+            "WiFiManager",
+            "ESP_DoubleResetDetector",
+            "lora-serialization"
         ],
-        "fullText": "BresserWeatherSensorReceiver0.35.00.35.0, 0.34.0, 0.33.1, 0.33.0, 0.32.1, 0.32.0, 0.31.0, 0.30.0, 0.29.0, 0.28.10, 0.28.9, 0.28.8, 0.28.7, 0.28.6, 0.28.5, 0.28.4, 0.28.3, 0.28.2, 0.28.1, 0.28.0, 0.27.4, 0.27.3, 0.27.2, 0.27.1, 0.27.0, 0.26.0, 0.25.0, 0.24.1, 0.24.0, 0.23.1, 0.23.0, 0.22.1, 0.22.0, 0.21.0, 0.20.1, 0.20.0, 0.19.6, 0.19.5, 0.19.4, 0.19.3, 0.19.1, 0.19.0, 0.18.0, 0.17.1, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.1, 0.11.0, 0.10.0, 0.9.3, 0.9.2, 0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.3, 0.3.2, 0.3.0, 0.0.3Matthias Prinke <matthias-bs@web.de>Matthias Prinke <matthias-bs@web.de>Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.https://github.com/matthias-bs/BresserWeatherSensorReceiverSensorsesp32, esp8266, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.35.0.zipBresserWeatherSensorReceiver-0.35.0.zipRadioLib, MQTT, ArduinoJson, Preferences, ESP Async TCP, Async TCP, ESP Async WebServer"
+        "fullText": "BresserWeatherSensorReceiver0.36.00.36.0, 0.35.0, 0.34.0, 0.33.1, 0.33.0, 0.32.1, 0.32.0, 0.31.0, 0.30.0, 0.29.0, 0.28.10, 0.28.9, 0.28.8, 0.28.7, 0.28.6, 0.28.5, 0.28.4, 0.28.3, 0.28.2, 0.28.1, 0.28.0, 0.27.4, 0.27.3, 0.27.2, 0.27.1, 0.27.0, 0.26.0, 0.25.0, 0.24.1, 0.24.0, 0.23.1, 0.23.0, 0.22.1, 0.22.0, 0.21.0, 0.20.1, 0.20.0, 0.19.6, 0.19.5, 0.19.4, 0.19.3, 0.19.1, 0.19.0, 0.18.0, 0.17.1, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.1, 0.11.0, 0.10.0, 0.9.3, 0.9.2, 0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.3, 0.3.2, 0.3.0, 0.0.3Matthias Prinke <matthias-bs@web.de>Matthias Prinke <matthias-bs@web.de>Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver for Arduino based on CC1101, SX1276/RFM95W, SX1262 or LR1121.https://github.com/matthias-bs/BresserWeatherSensorReceiverSensorsesp32, esp8266, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/matthias-bs/BresserWeatherSensorReceiver-0.36.0.zipBresserWeatherSensorReceiver-0.36.0.zipRadioLib, MQTT, ArduinoJson, Preferences, ESP Async TCP, Async TCP, ESP Async WebServer, Adafruit SSD1306, RTClib, WiFiManager, ESP_DoubleResetDetector, lora-serialization"
     },
     {
         "name": "RussianText_u8g",
@@ -133112,8 +133117,8 @@
     },
     {
         "name": "Bonezegei_DS1307",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Bonezegei (Jofel Batutay)",
         "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
         "sentence": "DS1307 Driver",
@@ -133123,12 +133128,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/bonezegei/Bonezegei_DS1307-1.0.2.zip",
-        "archiveFileName": "Bonezegei_DS1307-1.0.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/bonezegei/Bonezegei_DS1307-1.0.4.zip",
+        "archiveFileName": "Bonezegei_DS1307-1.0.4.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Bonezegei_DS13071.0.21.0.2, 1.0.1, 1.0.0Bonezegei (Jofel Batutay)Jofel Batutay <jofelbatutay@gmail.com>DS1307 DriverRTC Libraryhttps://github.com/bonezegei/Bonezegei_DS1307Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/bonezegei/Bonezegei_DS1307-1.0.2.zipBonezegei_DS1307-1.0.2.zip"
+        "fullText": "Bonezegei_DS13071.0.41.0.4, 1.0.2, 1.0.1, 1.0.0Bonezegei (Jofel Batutay)Jofel Batutay <jofelbatutay@gmail.com>DS1307 DriverRTC Libraryhttps://github.com/bonezegei/Bonezegei_DS1307Other*Contributedhttps://downloads.arduino.cc/libraries/github.com/bonezegei/Bonezegei_DS1307-1.0.4.zipBonezegei_DS1307-1.0.4.zip"
     },
     {
         "name": "Sitron Labs WK2132 Arduino Library",
@@ -135855,23 +135860,23 @@
     },
     {
         "name": "vovagorodok_ArduinoBleChess",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.6.3",
+        "versions": "0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
-        "sentence": "Bluetooth low energy (BLE) library for communication via CECP chess protocol.",
-        "paragraph": "This library supports functionality of CECP protocol for BLE devices",
+        "sentence": "Bluetooth low energy (BLE) library for communication via chess peripheral protocol.",
+        "paragraph": "This library supports functionality of chess peripheral protocol for BLE devices",
         "website": "https://github.com/vovagorodok/ArduinoBleChess",
         "category": "Communication",
         "architectures": "esp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_nicla",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.6.0.zip",
-        "archiveFileName": "vovagorodok_ArduinoBleChess-0.6.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.6.3.zip",
+        "archiveFileName": "vovagorodok_ArduinoBleChess-0.6.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "vovagorodok_ArduinoBleChess0.6.00.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for communication via CECP chess protocol.This library supports functionality of CECP protocol for BLE deviceshttps://github.com/vovagorodok/ArduinoBleChessCommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.6.0.zipvovagorodok_ArduinoBleChess-0.6.0.zip"
+        "fullText": "vovagorodok_ArduinoBleChess0.6.30.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for communication via chess peripheral protocol.This library supports functionality of chess peripheral protocol for BLE deviceshttps://github.com/vovagorodok/ArduinoBleChessCommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleChess-0.6.3.zipvovagorodok_ArduinoBleChess-0.6.3.zip"
     },
     {
         "name": "vovagorodok_ArduinoBleOTA",
@@ -144148,8 +144153,8 @@
     },
     {
         "name": "HomeAssistantEntities",
-        "version": "8.0.14",
-        "versions": "8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0",
+        "version": "8.0.15",
+        "versions": "8.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "sentence": "Library for providing sensors and actuators to Home Assistant using MQTT.",
@@ -144159,12 +144164,12 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.14.zip",
-        "archiveFileName": "HomeAssistantEntities-8.0.14.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.15.zip",
+        "archiveFileName": "HomeAssistantEntities-8.0.15.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "HomeAssistantEntities8.0.148.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0Johan Böhlin <github@johboh.dev>Johan Böhlin <github@johboh.dev>Library for providing sensors and actuators to Home Assistant using MQTT.Simplify and standardize the use of sensors and actuators in Home Assistant.https://github.com/Johboh/HomeAssistantEntitiesCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.14.zipHomeAssistantEntities-8.0.14.zip"
+        "fullText": "HomeAssistantEntities8.0.158.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0Johan Böhlin <github@johboh.dev>Johan Böhlin <github@johboh.dev>Library for providing sensors and actuators to Home Assistant using MQTT.Simplify and standardize the use of sensors and actuators in Home Assistant.https://github.com/Johboh/HomeAssistantEntitiesCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.15.zipHomeAssistantEntities-8.0.15.zip"
     },
     {
         "name": "nlohmann-json",
@@ -169288,23 +169293,23 @@
     },
     {
         "name": "MegaTPA",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "MixertiX 1sussy1amogus1@gmail.com",
         "maintainer": "MixertiX 1sussy1amogus1@gmail.com",
-        "sentence": "No Delay Library for: buttons and timers. And BLDC. New update for BLDC motors.",
+        "sentence": "No Delay Library for: buttons and timers. And BLDC. New update for BLDC motors and Serial.",
         "paragraph": "Very easy use. Please, subscribe on me: https://www.youtube.com/@mixertiX",
         "website": "https://github.com/YoungEngineerMixertiX/MegaTPA",
         "category": "Uncategorized",
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.1.0.zip",
-        "archiveFileName": "MegaTPA-1.1.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.2.1.zip",
+        "archiveFileName": "MegaTPA-1.2.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MegaTPA1.1.01.1.0, 1.0.0MixertiX 1sussy1amogus1@gmail.comMixertiX 1sussy1amogus1@gmail.comNo Delay Library for: buttons and timers. And BLDC. New update for BLDC motors.Very easy use. Please, subscribe on me: https://www.youtube.com/@mixertiXhttps://github.com/YoungEngineerMixertiX/MegaTPAUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.1.0.zipMegaTPA-1.1.0.zip"
+        "fullText": "MegaTPA1.2.11.2.1, 1.2.0, 1.1.0, 1.0.0MixertiX 1sussy1amogus1@gmail.comMixertiX 1sussy1amogus1@gmail.comNo Delay Library for: buttons and timers. And BLDC. New update for BLDC motors and Serial.Very easy use. Please, subscribe on me: https://www.youtube.com/@mixertiXhttps://github.com/YoungEngineerMixertiX/MegaTPAUncategorized*Contributedhttps://downloads.arduino.cc/libraries/github.com/YoungEngineerMixertiX/MegaTPA-1.2.1.zipMegaTPA-1.2.1.zip"
     },
     {
         "name": "OBD2 CanBus",
@@ -171405,8 +171410,8 @@
     },
     {
         "name": "SC03_C2H5OH",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "zzvllvzz",
         "maintainer": "John <zvllvzz@gmail.com>",
         "sentence": "First and only library for electrochemical ethanol sensor SC03_C2H5OH on Arduino IDE",
@@ -171416,12 +171421,12 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/zzvllvzz/SC03_C2H5OH-1.0.1.zip",
-        "archiveFileName": "SC03_C2H5OH-1.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/zzvllvzz/SC03_C2H5OH-1.0.2.zip",
+        "archiveFileName": "SC03_C2H5OH-1.0.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SC03_C2H5OH1.0.11.0.1, 1.0.0zzvllvzzJohn <zvllvzz@gmail.com>First and only library for electrochemical ethanol sensor SC03_C2H5OH on Arduino IDESupports Arduino boards to read SC03_C2H5OH sensorhttps://github.com/zzvllvzz/SC03_C2H5OH/SensorsavrContributedhttps://downloads.arduino.cc/libraries/github.com/zzvllvzz/SC03_C2H5OH-1.0.1.zipSC03_C2H5OH-1.0.1.zip"
+        "fullText": "SC03_C2H5OH1.0.21.0.2, 1.0.1, 1.0.0zzvllvzzJohn <zvllvzz@gmail.com>First and only library for electrochemical ethanol sensor SC03_C2H5OH on Arduino IDESupports Arduino boards to read SC03_C2H5OH sensorhttps://github.com/zzvllvzz/SC03_C2H5OH/SensorsavrContributedhttps://downloads.arduino.cc/libraries/github.com/zzvllvzz/SC03_C2H5OH-1.0.2.zipSC03_C2H5OH-1.0.2.zip"
     },
     {
         "name": "ICM45689",
