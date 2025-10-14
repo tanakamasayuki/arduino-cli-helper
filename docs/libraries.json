@@ -18093,8 +18093,8 @@
     },
     {
         "name": "Brasilino",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>",
         "maintainer": "Brasilino Team <brasilino@otaciliomaia.com>",
         "sentence": "Biblioteca de tradução e facilitação de funções para Arduino em PT-BR",
@@ -18104,12 +18104,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.2.0.zip",
-        "archiveFileName": "Brasilino-1.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.2.1.zip",
+        "archiveFileName": "Brasilino-1.2.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Brasilino1.2.01.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.2.0.zipBrasilino-1.2.0.zip"
+        "fullText": "Brasilino1.2.11.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0Otacilio Neto <contato@otaciliomaia.com>, Thiago Augusto <martinsthiagoaugusto@gmail.com>, Erick Simões <erick.simoes@live.com>Brasilino Team <brasilino@otaciliomaia.com>Biblioteca de tradução e facilitação de funções para Arduino em PT-BREsta biblioteca permite ao programador utilizar como língua nativa o Português do Brasil, o PT-BR, além de inserir uma série de facilitações na línguagem de programação próprias para o ensino e aprendizagem.https://github.com/OtacilioN/BrasilinoOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/OtacilioN/Brasilino-1.2.1.zipBrasilino-1.2.1.zip"
     },
     {
         "name": "SDS011 sensor Library",
@@ -56079,8 +56079,8 @@
     },
     {
         "name": "BH1750FVI_RT",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for BH1750FVI (GY-30) lux sensor",
@@ -56090,12 +56090,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/BH1750FVI_RT-0.3.2.zip",
-        "archiveFileName": "BH1750FVI_RT-0.3.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/BH1750FVI_RT-0.3.3.zip",
+        "archiveFileName": "BH1750FVI_RT-0.3.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "BH1750FVI_RT0.3.20.3.2, 0.3.1, 0.3.0, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for BH1750FVI (GY-30) lux sensorIncludes compensation for angle, temperature and (experimental) wavelength. GY30.https://github.com/RobTillaart/BH1750FVI_RTSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/BH1750FVI_RT-0.3.2.zipBH1750FVI_RT-0.3.2.zip"
+        "fullText": "BH1750FVI_RT0.3.30.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for BH1750FVI (GY-30) lux sensorIncludes compensation for angle, temperature and (experimental) wavelength. GY30.https://github.com/RobTillaart/BH1750FVI_RTSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/BH1750FVI_RT-0.3.3.zipBH1750FVI_RT-0.3.3.zip"
     },
     {
         "name": "OptoDebounce",
@@ -56539,8 +56539,8 @@
     },
     {
         "name": "DAC8554",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for DAC8534 and DAC8554 SPI Digital Analog Convertor.",
@@ -56550,12 +56550,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8554-0.4.1.zip",
-        "archiveFileName": "DAC8554-0.4.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8554-0.4.2.zip",
+        "archiveFileName": "DAC8554-0.4.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "DAC85540.4.10.4.1, 0.4.0, 0.3.0, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for DAC8534 and DAC8554 SPI Digital Analog Convertor.https://github.com/RobTillaart/DAC8554Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8554-0.4.1.zipDAC8554-0.4.1.zip"
+        "fullText": "DAC85540.4.20.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for DAC8534 and DAC8554 SPI Digital Analog Convertor.https://github.com/RobTillaart/DAC8554Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8554-0.4.2.zipDAC8554-0.4.2.zip"
     },
     {
         "name": "DAC8552",
@@ -56579,8 +56579,8 @@
     },
     {
         "name": "DAC8551",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for DAC8501, DAC8531, DAC8550 and DAC8551 SPI 16-bit Digital Analog Convertor.",
@@ -56590,12 +56590,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8551-0.4.1.zip",
-        "archiveFileName": "DAC8551-0.4.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8551-0.4.2.zip",
+        "archiveFileName": "DAC8551-0.4.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "DAC85510.4.10.4.1, 0.4.0, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for DAC8501, DAC8531, DAC8550 and DAC8551 SPI 16-bit Digital Analog Convertor.https://github.com/RobTillaart/DAC8551Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8551-0.4.1.zipDAC8551-0.4.1.zip"
+        "fullText": "DAC85510.4.20.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for DAC8501, DAC8531, DAC8550 and DAC8551 SPI 16-bit Digital Analog Convertor.https://github.com/RobTillaart/DAC8551Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/DAC8551-0.4.2.zipDAC8551-0.4.2.zip"
     },
     {
         "name": "Temperature",
@@ -57317,8 +57317,8 @@
     },
     {
         "name": "FastShiftOut",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for (AVR) optimized shiftOut - e.g. 74HC595",
@@ -57328,12 +57328,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftOut-0.4.1.zip",
-        "archiveFileName": "FastShiftOut-0.4.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftOut-0.4.2.zip",
+        "archiveFileName": "FastShiftOut-0.4.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "FastShiftOut0.4.10.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for (AVR) optimized shiftOut - e.g. 74HC595Implements print() interface.https://github.com/RobTillaart/FastShiftOutSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftOut-0.4.1.zipFastShiftOut-0.4.1.zip"
+        "fullText": "FastShiftOut0.4.20.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for (AVR) optimized shiftOut - e.g. 74HC595Implements print() interface.https://github.com/RobTillaart/FastShiftOutSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftOut-0.4.2.zipFastShiftOut-0.4.2.zip"
     },
     {
         "name": "LiquidCrystalIO",
@@ -57357,8 +57357,8 @@
     },
     {
         "name": "FastShiftIn",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for (AVR) optimized shiftIn - e.g. for 74HC165",
@@ -57368,12 +57368,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftIn-0.4.0.zip",
-        "archiveFileName": "FastShiftIn-0.4.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftIn-0.4.1.zip",
+        "archiveFileName": "FastShiftIn-0.4.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "FastShiftIn0.4.00.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for (AVR) optimized shiftIn - e.g. for 74HC165https://github.com/RobTillaart/FastShiftInSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftIn-0.4.0.zipFastShiftIn-0.4.0.zip"
+        "fullText": "FastShiftIn0.4.10.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for (AVR) optimized shiftIn - e.g. for 74HC165https://github.com/RobTillaart/FastShiftInSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftIn-0.4.1.zipFastShiftIn-0.4.1.zip"
     },
     {
         "name": "Spacecat",
@@ -104235,8 +104235,8 @@
     },
     {
         "name": "CHT8305",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.3",
+        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for CHT8305 temperature and humidity sensor.",
@@ -104246,12 +104246,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8305-0.2.2.zip",
-        "archiveFileName": "CHT8305-0.2.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8305-0.2.3.zip",
+        "archiveFileName": "CHT8305-0.2.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "CHT83050.2.20.2.2, 0.2.1, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for CHT8305 temperature and humidity sensor.https://github.com/RobTillaart/CHT8305Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8305-0.2.2.zipCHT8305-0.2.2.zip"
+        "fullText": "CHT83050.2.30.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for CHT8305 temperature and humidity sensor.https://github.com/RobTillaart/CHT8305Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8305-0.2.3.zipCHT8305-0.2.3.zip"
     },
     {
         "name": "Arduino_BMI270_BMM150",
@@ -105657,8 +105657,8 @@
     },
     {
         "name": "FastShiftInOut",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for (AVR) optimized shiftInOut (simultaneously)",
@@ -105668,12 +105668,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftInOut-0.2.1.zip",
-        "archiveFileName": "FastShiftInOut-0.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftInOut-0.2.2.zip",
+        "archiveFileName": "FastShiftInOut-0.2.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "FastShiftInOut0.2.10.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for (AVR) optimized shiftInOut (simultaneously)https://github.com/RobTillaart/FastShiftInOutSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftInOut-0.2.1.zipFastShiftInOut-0.2.1.zip"
+        "fullText": "FastShiftInOut0.2.20.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for (AVR) optimized shiftInOut (simultaneously)https://github.com/RobTillaart/FastShiftInOutSignal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/FastShiftInOut-0.2.2.zipFastShiftInOut-0.2.2.zip"
     },
     {
         "name": "nRF52_PWM",
@@ -135880,8 +135880,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleOTA",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "sentence": "Bluetooth low energy (BLE) library for uploads.",
@@ -135891,14 +135891,12 @@
         "architectures": "esp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_nicla",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-1.2.0.zip",
-        "archiveFileName": "vovagorodok_ArduinoBleOTA-1.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-2.0.2.zip",
+        "archiveFileName": "vovagorodok_ArduinoBleOTA-2.0.2.zip",
         "dependencies": [
-            "ArduinoOTA",
-            "CRC",
-            "CircularBuffer"
+            ""
         ],
-        "fullText": "vovagorodok_ArduinoBleOTA1.2.01.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for uploads.This library supports functionality of uploads via BLEhttps://github.com/vovagorodok/ArduinoBleOTACommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-1.2.0.zipvovagorodok_ArduinoBleOTA-1.2.0.zipArduinoOTA, CRC, CircularBuffer"
+        "fullText": "vovagorodok_ArduinoBleOTA2.0.22.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for uploads.This library supports functionality of uploads via BLEhttps://github.com/vovagorodok/ArduinoBleOTACommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-2.0.2.zipvovagorodok_ArduinoBleOTA-2.0.2.zip"
     },
     {
         "name": "vovagorodok_ArduinoPin",
@@ -143339,8 +143337,8 @@
     },
     {
         "name": "EVN",
-        "version": "1.4.4",
-        "versions": "1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.0.2, 1.0.1, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3",
+        "version": "1.4.5",
+        "versions": "1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.0.2, 1.0.1, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3",
         "author": "Heng Teng Yi <tengyi.maker@gmail.com>",
         "maintainer": "Heng Teng Yi <tengyi.maker@gmail.com>",
         "sentence": "Software libraries for EVN Alpha.",
@@ -143350,12 +143348,12 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/EVNdevs/EVN-1.4.4.zip",
-        "archiveFileName": "EVN-1.4.4.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/EVNdevs/EVN-1.4.5.zip",
+        "archiveFileName": "EVN-1.4.5.zip",
         "dependencies": [
             "Madgwick"
         ],
-        "fullText": "EVN1.4.41.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.0.2, 1.0.1, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3Heng Teng Yi <tengyi.maker@gmail.com>Heng Teng Yi <tengyi.maker@gmail.com>Software libraries for EVN Alpha.Includes all helper classes for EVN Alpha, an RP2040 based robot controller.https://evn.readthedocs.ioDevice Controlrp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/EVNdevs/EVN-1.4.4.zipEVN-1.4.4.zipMadgwick"
+        "fullText": "EVN1.4.51.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.0.2, 1.0.1, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3Heng Teng Yi <tengyi.maker@gmail.com>Heng Teng Yi <tengyi.maker@gmail.com>Software libraries for EVN Alpha.Includes all helper classes for EVN Alpha, an RP2040 based robot controller.https://evn.readthedocs.ioDevice Controlrp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/EVNdevs/EVN-1.4.5.zipEVN-1.4.5.zipMadgwick"
     },
     {
         "name": "RotaryEncoderPCNT",
@@ -144153,8 +144151,8 @@
     },
     {
         "name": "HomeAssistantEntities",
-        "version": "8.0.15",
-        "versions": "8.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0",
+        "version": "8.0.17",
+        "versions": "8.0.17, 8.0.16, 8.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "sentence": "Library for providing sensors and actuators to Home Assistant using MQTT.",
@@ -144164,12 +144162,12 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.15.zip",
-        "archiveFileName": "HomeAssistantEntities-8.0.15.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.17.zip",
+        "archiveFileName": "HomeAssistantEntities-8.0.17.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "HomeAssistantEntities8.0.158.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0Johan Böhlin <github@johboh.dev>Johan Böhlin <github@johboh.dev>Library for providing sensors and actuators to Home Assistant using MQTT.Simplify and standardize the use of sensors and actuators in Home Assistant.https://github.com/Johboh/HomeAssistantEntitiesCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.15.zipHomeAssistantEntities-8.0.15.zip"
+        "fullText": "HomeAssistantEntities8.0.178.0.17, 8.0.16, 8.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0Johan Böhlin <github@johboh.dev>Johan Böhlin <github@johboh.dev>Library for providing sensors and actuators to Home Assistant using MQTT.Simplify and standardize the use of sensors and actuators in Home Assistant.https://github.com/Johboh/HomeAssistantEntitiesCommunicationesp8266, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/Johboh/HomeAssistantEntities-8.0.17.zipHomeAssistantEntities-8.0.17.zip"
     },
     {
         "name": "nlohmann-json",
@@ -170844,8 +170842,8 @@
     },
     {
         "name": "Frugal-IoT",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.2",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.2",
         "author": "Mitra Ardron",
         "maintainer": "Mitra Ardron <mitra@mitra.biz>",
         "sentence": "Platform for affordable sensors",
@@ -170855,8 +170853,8 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.3.zip",
-        "archiveFileName": "Frugal_IoT-0.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.4.zip",
+        "archiveFileName": "Frugal_IoT-0.0.4.zip",
         "dependencies": [
             "MQTT",
             "BH1750",
@@ -170865,7 +170863,7 @@
             "SHT85",
             "HX711"
         ],
-        "fullText": "Frugal-IoT0.0.30.0.3, 0.0.2Mitra ArdronMitra Ardron <mitra@mitra.biz>Platform for affordable sensorsThe Frugal-IoT library implement an easy to use platform for a variety of sensors communicating over WiFi, LoRa, MQTT etchttps://github.com/mitra42/frugal-iotSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.3.zipFrugal_IoT-0.0.3.zipMQTT, BH1750, Button2, DHTNEW, SHT85, HX711"
+        "fullText": "Frugal-IoT0.0.40.0.4, 0.0.3, 0.0.2Mitra ArdronMitra Ardron <mitra@mitra.biz>Platform for affordable sensorsThe Frugal-IoT library implement an easy to use platform for a variety of sensors communicating over WiFi, LoRa, MQTT etchttps://github.com/mitra42/frugal-iotSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/mitra42/Frugal_IoT-0.0.4.zipFrugal_IoT-0.0.4.zipMQTT, BH1750, Button2, DHTNEW, SHT85, HX711"
     },
     {
         "name": "FastLED_min",
@@ -171270,8 +171268,8 @@
     },
     {
         "name": "SerialCommandManager",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "sentence": "Parses structured serial commands with key/value parameters and routes them to handlers with debug and error support.",
@@ -171281,12 +171279,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/k3ldar/SerialCommandManager-1.0.0.zip",
-        "archiveFileName": "SerialCommandManager-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/k3ldar/SerialCommandManager-2.0.0.zip",
+        "archiveFileName": "SerialCommandManager-2.0.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SerialCommandManager1.0.01.0.0Si Carter <s1cart3r@gmail.com>Si Carter <s1cart3r@gmail.com>Parses structured serial commands with key/value parameters and routes them to handlers with debug and error support.SerialCommandManager is a lightweight Arduino/ESP library that parses structured serial commands with optional key/value parameters, routes them to registered handlers, and provides debug, error, and fallback support for robust serial communication.https://github.com/k3ldar/SerialCommandManagerCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/k3ldar/SerialCommandManager-1.0.0.zipSerialCommandManager-1.0.0.zip"
+        "fullText": "SerialCommandManager2.0.02.0.0, 1.0.0Si Carter <s1cart3r@gmail.com>Si Carter <s1cart3r@gmail.com>Parses structured serial commands with key/value parameters and routes them to handlers with debug and error support.SerialCommandManager is a lightweight Arduino/ESP library that parses structured serial commands with optional key/value parameters, routes them to registered handlers, and provides debug, error, and fallback support for robust serial communication.https://github.com/k3ldar/SerialCommandManagerCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/k3ldar/SerialCommandManager-2.0.0.zipSerialCommandManager-2.0.0.zip"
     },
     {
         "name": "bb_temperature",
@@ -171529,5 +171527,65 @@
             ""
         ],
         "fullText": "MoonMin Scanner Library1.0.01.0.0Paul WattsPaul WattsArduino library for the MoonMin scanner module. The module is an I2C module running on an ATTiny1614 with a linear actuator and RFID module.This library provides interaction with the MoonMin scanner module. The module is a 'Fake' mineral scanner used at Nottingham Trent University for its moon rover robot project.https://github.com/PaulNTU/MoonMin-Scanner-Arduino-LibraryDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/PaulNTU/MoonMin_Scanner_Library-1.0.0.zipMoonMin_Scanner_Library-1.0.0.zip"
+    },
+    {
+        "name": "MultiGestureLib",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Herobrine Pixel",
+        "maintainer": "Herobrine Pixel <ashasah77@gmail.com>",
+        "sentence": "Universal gesture detection using low-cost sensors (IR proximity and HC-SR04 ultrasonic).",
+        "paragraph": "Detect swipe/tap/hover/circle gestures with cheap sensors. Supports digital IR proximity sensors and HC-SR04 ultrasonic. Includes callbacks, sensitivity and debounce settings.",
+        "website": "https://github.com/Herobrine-pixel/MultiGestureLib",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Herobrine-pixel/MultiGestureLib-1.0.0.zip",
+        "archiveFileName": "MultiGestureLib-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "MultiGestureLib1.0.01.0.0Herobrine PixelHerobrine Pixel <ashasah77@gmail.com>Universal gesture detection using low-cost sensors (IR proximity and HC-SR04 ultrasonic).Detect swipe/tap/hover/circle gestures with cheap sensors. Supports digital IR proximity sensors and HC-SR04 ultrasonic. Includes callbacks, sensitivity and debounce settings.https://github.com/Herobrine-pixel/MultiGestureLibSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/Herobrine-pixel/MultiGestureLib-1.0.0.zipMultiGestureLib-1.0.0.zip"
+    },
+    {
+        "name": "AutoPlex7",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nyjah",
+        "maintainer": "Nyjah",
+        "sentence": "Control seven segment displays with ease.",
+        "paragraph": "AutoPlex7 is a simple and versatile library for controlling seven segment displays. It works with both main types of displays, has flexible pin layout, and handles multiplexing in the background so you never have to worry about refresh calls.",
+        "website": "https://github.com/TechTronicsEngineering/AutoPlex7",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/TechTronicsEngineering/AutoPlex7-1.0.0.zip",
+        "archiveFileName": "AutoPlex7-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "AutoPlex71.0.01.0.0NyjahNyjahControl seven segment displays with ease.AutoPlex7 is a simple and versatile library for controlling seven segment displays. It works with both main types of displays, has flexible pin layout, and handles multiplexing in the background so you never have to worry about refresh calls.https://github.com/TechTronicsEngineering/AutoPlex7Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/TechTronicsEngineering/AutoPlex7-1.0.0.zipAutoPlex7-1.0.0.zip"
+    },
+    {
+        "name": "SegMap595",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
+        "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
+        "sentence": "A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.",
+        "paragraph": null,
+        "website": "https://github.com/ErlingSigurdson/SegMap595",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.0.2.zip",
+        "archiveFileName": "SegMap595-1.0.2.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "SegMap5951.0.21.0.2, 1.0.1, 1.0.0Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.https://github.com/ErlingSigurdson/SegMap595Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.0.2.zipSegMap595-1.0.2.zip"
     }
 ]
