@@ -35543,8 +35543,8 @@
     },
     {
         "name": "AnyRtttl",
-        "version": "2.3.1",
-        "versions": "2.3.1, 2.3.0, 2.2.1, 2.2.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0",
         "author": "Antoine Beauchamp <end2endzone@gmail.com>",
         "maintainer": "Antoine Beauchamp <end2endzone@gmail.com>",
         "sentence": "A feature rich arduino library for playing rtttl melodies.",
@@ -35554,12 +35554,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/end2endzone/AnyRtttl-2.3.1.zip",
-        "archiveFileName": "AnyRtttl-2.3.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/end2endzone/AnyRtttl-2.4.0.zip",
+        "archiveFileName": "AnyRtttl-2.4.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "AnyRtttl2.3.12.3.1, 2.3.0, 2.2.1, 2.2.0Antoine Beauchamp <end2endzone@gmail.com>Antoine Beauchamp <end2endzone@gmail.com>A feature rich arduino library for playing rtttl melodies.The AnyRtttl is a feature rich library which supports all best RTTTL features: Blocking & Non-Blocking modes, custom tone(), delay() and millis() functions, PROGMEM support, and much more.https://github.com/end2endzone/AnyRtttlOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/end2endzone/AnyRtttl-2.3.1.zipAnyRtttl-2.3.1.zip"
+        "fullText": "AnyRtttl2.4.02.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0Antoine Beauchamp <end2endzone@gmail.com>Antoine Beauchamp <end2endzone@gmail.com>A feature rich arduino library for playing rtttl melodies.The AnyRtttl is a feature rich library which supports all best RTTTL features: Blocking & Non-Blocking modes, custom tone(), delay() and millis() functions, PROGMEM support, and much more.https://github.com/end2endzone/AnyRtttlOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/end2endzone/AnyRtttl-2.4.0.zipAnyRtttl-2.4.0.zip"
     },
     {
         "name": "Cloudchip IoT",
@@ -74294,8 +74294,8 @@
     },
     {
         "name": "TCA9548",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino Library for TCA9548 I2C multiplexer and compatibles.",
@@ -74305,12 +74305,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/TCA9548-0.3.0.zip",
-        "archiveFileName": "TCA9548-0.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/TCA9548-0.3.1.zip",
+        "archiveFileName": "TCA9548-0.3.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "TCA95480.3.00.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino Library for TCA9548 I2C multiplexer and compatibles.TCA9548, TCA9548a, PCA9548, PCA9548a, PCA9546, PCA9545, PCA9543https://github.com/RobTillaart/TCA9548Signal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/TCA9548-0.3.0.zipTCA9548-0.3.0.zip"
+        "fullText": "TCA95480.3.10.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino Library for TCA9548 I2C multiplexer and compatibles.TCA9548, TCA9548a, PCA9548, PCA9548a, PCA9546, PCA9545, PCA9543https://github.com/RobTillaart/TCA9548Signal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/TCA9548-0.3.1.zipTCA9548-0.3.1.zip"
     },
     {
         "name": "MD_PWM",
@@ -86903,8 +86903,8 @@
     },
     {
         "name": "float16",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library to implement float16 data type.",
@@ -86914,12 +86914,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/float16-0.3.0.zip",
-        "archiveFileName": "float16-0.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/float16-0.3.1.zip",
+        "archiveFileName": "float16-0.3.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "float160.3.00.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library to implement float16 data type.https://github.com/RobTillaart/float16Data Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/float16-0.3.0.zipfloat16-0.3.0.zip"
+        "fullText": "float160.3.10.3.1, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library to implement float16 data type.https://github.com/RobTillaart/float16Data Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/float16-0.3.1.zipfloat16-0.3.1.zip"
     },
     {
         "name": "GyverLBUF",
@@ -110693,8 +110693,8 @@
     },
     {
         "name": "HC4067",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for a HC4067 1 x 16 channel multiplexer",
@@ -110704,12 +110704,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4067-0.3.0.zip",
-        "archiveFileName": "HC4067-0.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4067-0.3.1.zip",
+        "archiveFileName": "HC4067-0.3.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "HC40670.3.00.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4067 1 x 16 channel multiplexerCD74HC4067,74HC4067,74HCT4067https://github.com/RobTillaart/HC4067Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4067-0.3.0.zipHC4067-0.3.0.zip"
+        "fullText": "HC40670.3.10.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4067 1 x 16 channel multiplexerCD74HC4067,74HC4067,74HCT4067https://github.com/RobTillaart/HC4067Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4067-0.3.1.zipHC4067-0.3.1.zip"
     },
     {
         "name": "SimpleTimeout",
@@ -110753,8 +110753,8 @@
     },
     {
         "name": "HC4051",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for a HC4051 1x8 channel multiplexer",
@@ -110764,17 +110764,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4051-0.3.0.zip",
-        "archiveFileName": "HC4051-0.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4051-0.3.1.zip",
+        "archiveFileName": "HC4051-0.3.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "HC40510.3.00.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4051 1x8 channel multiplexerhttps://github.com/RobTillaart/HC4051Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4051-0.3.0.zipHC4051-0.3.0.zip"
+        "fullText": "HC40510.3.10.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4051 1x8 channel multiplexerhttps://github.com/RobTillaart/HC4051Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4051-0.3.1.zipHC4051-0.3.1.zip"
     },
     {
         "name": "HC4052",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.3, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for a HC4052 2 x 4 channel multiplexer",
@@ -110784,17 +110784,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4052-0.2.1.zip",
-        "archiveFileName": "HC4052-0.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4052-0.2.2.zip",
+        "archiveFileName": "HC4052-0.2.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "HC40520.2.10.2.1, 0.2.0, 0.1.3, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4052 2 x 4 channel multiplexerhttps://github.com/RobTillaart/HC4052Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4052-0.2.1.zipHC4052-0.2.1.zip"
+        "fullText": "HC40520.2.20.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4052 2 x 4 channel multiplexerhttps://github.com/RobTillaart/HC4052Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4052-0.2.2.zipHC4052-0.2.2.zip"
     },
     {
         "name": "HC4053",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for a HC4053 3 x 2 channel multiplexer",
@@ -110804,12 +110804,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4053-0.2.1.zip",
-        "archiveFileName": "HC4053-0.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4053-0.2.2.zip",
+        "archiveFileName": "HC4053-0.2.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "HC40530.2.10.2.1, 0.2.0, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4053 3 x 2 channel multiplexerhttps://github.com/RobTillaart/HC4053Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4053-0.2.1.zipHC4053-0.2.1.zip"
+        "fullText": "HC40530.2.20.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for a HC4053 3 x 2 channel multiplexerhttps://github.com/RobTillaart/HC4053Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/HC4053-0.2.2.zipHC4053-0.2.2.zip"
     },
     {
         "name": "SparkFun WM8960 Arduino Library",
@@ -125061,8 +125061,8 @@
     },
     {
         "name": "ESP32RotaryEncoder",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2",
         "author": "Matthew Clark",
         "maintainer": "Matthew Clark",
         "sentence": "Use a rotary encoder with your ESP32 easily!",
@@ -125072,12 +125072,12 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/MaffooClock/ESP32RotaryEncoder-1.1.2.zip",
-        "archiveFileName": "ESP32RotaryEncoder-1.1.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/MaffooClock/ESP32RotaryEncoder-1.2.0.zip",
+        "archiveFileName": "ESP32RotaryEncoder-1.2.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESP32RotaryEncoder1.1.21.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2Matthew ClarkMatthew ClarkUse a rotary encoder with your ESP32 easily!This library uses interrupts for instant detection of knob turns or button presses (with software de-bounce) without blocking or other delays.https://github.com/MaffooClock/ESP32RotaryEncoderSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/MaffooClock/ESP32RotaryEncoder-1.1.2.zipESP32RotaryEncoder-1.1.2.zip"
+        "fullText": "ESP32RotaryEncoder1.2.01.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2Matthew ClarkMatthew ClarkUse a rotary encoder with your ESP32 easily!This library uses interrupts for instant detection of knob turns or button presses (with software de-bounce) without blocking or other delays.https://github.com/MaffooClock/ESP32RotaryEncoderSignal Input/Outputesp32Contributedhttps://downloads.arduino.cc/libraries/github.com/MaffooClock/ESP32RotaryEncoder-1.2.0.zipESP32RotaryEncoder-1.2.0.zip"
     },
     {
         "name": "PreferencesCLI",
@@ -130078,8 +130078,8 @@
     },
     {
         "name": "MCP_POT",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.2.3",
+        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for MCP41xxx and MCP42xxx SPI based digital potentiometers.",
@@ -130089,12 +130089,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP_POT-0.2.2.zip",
-        "archiveFileName": "MCP_POT-0.2.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP_POT-0.2.3.zip",
+        "archiveFileName": "MCP_POT-0.2.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MCP_POT0.2.20.2.2, 0.2.1, 0.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MCP41xxx and MCP42xxx SPI based digital potentiometers.MCP41010, MCP41050, MCP41100, MCP42010, MCP42050, MCP42100https://github.com/RobTillaart/MCP_POTSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP_POT-0.2.2.zipMCP_POT-0.2.2.zip"
+        "fullText": "MCP_POT0.2.30.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MCP41xxx and MCP42xxx SPI based digital potentiometers.MCP41010, MCP41050, MCP41100, MCP42010, MCP42050, MCP42100https://github.com/RobTillaart/MCP_POTSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP_POT-0.2.3.zipMCP_POT-0.2.3.zip"
     },
     {
         "name": "GSON",
@@ -134959,8 +134959,8 @@
     },
     {
         "name": "float16ext",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library to implement float16ext data type.",
@@ -134970,12 +134970,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/float16ext-0.2.0.zip",
-        "archiveFileName": "float16ext-0.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/float16ext-0.2.1.zip",
+        "archiveFileName": "float16ext-0.2.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "float16ext0.2.00.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library to implement float16ext data type.https://github.com/RobTillaart/float16extData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/float16ext-0.2.0.zipfloat16ext-0.2.0.zip"
+        "fullText": "float16ext0.2.10.2.1, 0.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library to implement float16ext data type.https://github.com/RobTillaart/float16extData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/float16ext-0.2.1.zipfloat16ext-0.2.1.zip"
     },
     {
         "name": "MAX520",
@@ -135880,8 +135880,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleOTA",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "sentence": "Bluetooth low energy (BLE) library for uploads.",
@@ -135891,12 +135891,12 @@
         "architectures": "esp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_nicla",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-2.0.2.zip",
-        "archiveFileName": "vovagorodok_ArduinoBleOTA-2.0.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-2.0.3.zip",
+        "archiveFileName": "vovagorodok_ArduinoBleOTA-2.0.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "vovagorodok_ArduinoBleOTA2.0.22.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for uploads.This library supports functionality of uploads via BLEhttps://github.com/vovagorodok/ArduinoBleOTACommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-2.0.2.zipvovagorodok_ArduinoBleOTA-2.0.2.zip"
+        "fullText": "vovagorodok_ArduinoBleOTA2.0.32.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0vovagorodokvovagorodok <vovagorodok2@gmail.com>Bluetooth low energy (BLE) library for uploads.This library supports functionality of uploads via BLEhttps://github.com/vovagorodok/ArduinoBleOTACommunicationesp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_niclaContributedhttps://downloads.arduino.cc/libraries/github.com/vovagorodok/vovagorodok_ArduinoBleOTA-2.0.3.zipvovagorodok_ArduinoBleOTA-2.0.3.zip"
     },
     {
         "name": "vovagorodok_ArduinoPin",
@@ -142109,8 +142109,8 @@
     },
     {
         "name": "MCP4261",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for MCP4261 SPI based digital potentiometers.",
@@ -142120,12 +142120,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP4261-0.2.0.zip",
-        "archiveFileName": "MCP4261-0.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP4261-0.2.1.zip",
+        "archiveFileName": "MCP4261-0.2.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MCP42610.2.00.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MCP4261 SPI based digital potentiometers.MCP4141,MCP4142,MCP4161,MCP4162,MCP4241,MCP4242,MCP4261,MCP4262https://github.com/RobTillaart/MCP4261Signal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP4261-0.2.0.zipMCP4261-0.2.0.zip"
+        "fullText": "MCP42610.2.10.2.1, 0.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for MCP4261 SPI based digital potentiometers.MCP4141,MCP4142,MCP4161,MCP4162,MCP4241,MCP4242,MCP4261,MCP4262https://github.com/RobTillaart/MCP4261Signal Input/Output*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/MCP4261-0.2.1.zipMCP4261-0.2.1.zip"
     },
     {
         "name": "StreamIO",
@@ -158166,23 +158166,23 @@
     },
     {
         "name": "SparkFun BMV080 Arduino Library",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.1.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.1.0",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <https://www.sparkfun.com>",
         "sentence": "The SparkFun Air Quality PM1/PM2.5/PM10 Sensor - BMV080 (Qwiic)is an ultra-small, fan-less air quality sensor for sensing particulate matter!",
         "paragraph": "NOTE: This library requires the installation of the Bosch BMV080 SDK - See https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library for instructions. The sensing element measures merely 4.2mm x 3.5mm x 3.1mm (W x L x H), which is more than 450 times smaller than any comparable device on the market. The innovative design is based on ultra-compact lasers with integrated photodiodes. The sensor applies sophisticated algorithms to measure PM1 and PM2.5 concentrations directly in free space, without requiring an intrusive fan.",
         "website": "https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library",
         "category": "Sensors",
-        "architectures": "esp32, esp32s2, esp32s3, cortex-m33, cortex-m0plus, cortex-m4f",
+        "architectures": "esp32, esp32s2, esp32s3, esp32c6, cortex-m33, cortex-m0plus, cortex-m4f",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BMV080_Arduino_Library-1.0.3.zip",
-        "archiveFileName": "SparkFun_BMV080_Arduino_Library-1.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BMV080_Arduino_Library-1.0.4.zip",
+        "archiveFileName": "SparkFun_BMV080_Arduino_Library-1.0.4.zip",
         "dependencies": [
             "SparkFun Toolkit"
         ],
-        "fullText": "SparkFun BMV080 Arduino Library1.0.31.0.3, 1.0.2, 1.0.1, 1.0.0, 0.1.0SparkFun Electronics <techsupport@sparkfun.com>SparkFun Electronics <https://www.sparkfun.com>The SparkFun Air Quality PM1/PM2.5/PM10 Sensor - BMV080 (Qwiic)is an ultra-small, fan-less air quality sensor for sensing particulate matter!NOTE: This library requires the installation of the Bosch BMV080 SDK - See https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library for instructions. The sensing element measures merely 4.2mm x 3.5mm x 3.1mm (W x L x H), which is more than 450 times smaller than any comparable device on the market. The innovative design is based on ultra-compact lasers with integrated photodiodes. The sensor applies sophisticated algorithms to measure PM1 and PM2.5 concentrations directly in free space, without requiring an intrusive fan.https://github.com/sparkfun/SparkFun_BMV080_Arduino_LibrarySensorsesp32, esp32s2, esp32s3, cortex-m33, cortex-m0plus, cortex-m4fContributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BMV080_Arduino_Library-1.0.3.zipSparkFun_BMV080_Arduino_Library-1.0.3.zipSparkFun Toolkit"
+        "fullText": "SparkFun BMV080 Arduino Library1.0.41.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.1.0SparkFun Electronics <techsupport@sparkfun.com>SparkFun Electronics <https://www.sparkfun.com>The SparkFun Air Quality PM1/PM2.5/PM10 Sensor - BMV080 (Qwiic)is an ultra-small, fan-less air quality sensor for sensing particulate matter!NOTE: This library requires the installation of the Bosch BMV080 SDK - See https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library for instructions. The sensing element measures merely 4.2mm x 3.5mm x 3.1mm (W x L x H), which is more than 450 times smaller than any comparable device on the market. The innovative design is based on ultra-compact lasers with integrated photodiodes. The sensor applies sophisticated algorithms to measure PM1 and PM2.5 concentrations directly in free space, without requiring an intrusive fan.https://github.com/sparkfun/SparkFun_BMV080_Arduino_LibrarySensorsesp32, esp32s2, esp32s3, esp32c6, cortex-m33, cortex-m0plus, cortex-m4fContributedhttps://downloads.arduino.cc/libraries/github.com/sparkfun/SparkFun_BMV080_Arduino_Library-1.0.4.zipSparkFun_BMV080_Arduino_Library-1.0.4.zipSparkFun Toolkit"
     },
     {
         "name": "PTX105R SDK for SPI",
@@ -162169,8 +162169,8 @@
     },
     {
         "name": "YNV_Driver_v5",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "Ynvisible <sales@ynvisible.com>",
         "maintainer": "Ynvisible <ynvisible.com>",
         "sentence": "Library for driving the Ynvisible displays on the Driver v5 board.",
@@ -162180,12 +162180,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.2.zip",
-        "archiveFileName": "YNV_Driver_v5-1.0.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.3.zip",
+        "archiveFileName": "YNV_Driver_v5-1.0.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "YNV_Driver_v51.0.21.0.2, 1.0.1Ynvisible <sales@ynvisible.com>Ynvisible <ynvisible.com>Library for driving the Ynvisible displays on the Driver v5 board.Allows for the control of any Ynvisible display. Has an example for the Evaluation Kit sold in the Ynvisible shop.https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-LibraryDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.2.zipYNV_Driver_v5-1.0.2.zip"
+        "fullText": "YNV_Driver_v51.0.31.0.3, 1.0.2, 1.0.1Ynvisible <sales@ynvisible.com>Ynvisible <ynvisible.com>Library for driving the Ynvisible displays on the Driver v5 board.Allows for the control of any Ynvisible display. Has an example for the Evaluation Kit sold in the Ynvisible shop.https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-LibraryDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/Ynvisible-Electronics/YNV_Driver_v5-1.0.3.zipYNV_Driver_v5-1.0.3.zip"
     },
     {
         "name": "NEXNTC",
@@ -171550,8 +171550,8 @@
     },
     {
         "name": "AutoPlex7",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "sentence": "Control seven segment displays with ease.",
@@ -171561,17 +171561,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/TechTronicsEngineering/AutoPlex7-1.0.0.zip",
-        "archiveFileName": "AutoPlex7-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/TechTronicsEngineering/AutoPlex7-1.0.1.zip",
+        "archiveFileName": "AutoPlex7-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "AutoPlex71.0.01.0.0NyjahNyjahControl seven segment displays with ease.AutoPlex7 is a simple and versatile library for controlling seven segment displays. It works with both main types of displays, has flexible pin layout, and handles multiplexing in the background so you never have to worry about refresh calls.https://github.com/TechTronicsEngineering/AutoPlex7Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/TechTronicsEngineering/AutoPlex7-1.0.0.zipAutoPlex7-1.0.0.zip"
+        "fullText": "AutoPlex71.0.11.0.1, 1.0.0NyjahNyjahControl seven segment displays with ease.AutoPlex7 is a simple and versatile library for controlling seven segment displays. It works with both main types of displays, has flexible pin layout, and handles multiplexing in the background so you never have to worry about refresh calls.https://github.com/TechTronicsEngineering/AutoPlex7Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/TechTronicsEngineering/AutoPlex7-1.0.1.zipAutoPlex7-1.0.1.zip"
     },
     {
         "name": "SegMap595",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "sentence": "A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.",
@@ -171581,11 +171581,135 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.0.2.zip",
-        "archiveFileName": "SegMap595-1.0.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.1.0.zip",
+        "archiveFileName": "SegMap595-1.1.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SegMap5951.0.21.0.2, 1.0.1, 1.0.0Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.https://github.com/ErlingSigurdson/SegMap595Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.0.2.zipSegMap595-1.0.2.zip"
+        "fullText": "SegMap5951.1.01.1.0, 1.0.2, 1.0.1, 1.0.0Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.https://github.com/ErlingSigurdson/SegMap595Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.1.0.zipSegMap595-1.1.0.zip"
+    },
+    {
+        "name": "mvswifi_esp32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Vishal Jain <jain.vishal1695@gmail.com>",
+        "maintainer": "Vishal Jain <jain.vishal1695@gmail.com>",
+        "sentence": "ESP32 WiFi credential service using native NVS storage",
+        "paragraph": "Ultra-minimal WiFi credential management optimized for ESP32 hardware. Uses native NVS (Non-Volatile Storage) with automatic wear leveling and hardware encryption support. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.",
+        "website": "https://github.com/vishaljain/mvswifi_esp32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp32-1.0.0.zip",
+        "archiveFileName": "mvswifi_esp32-1.0.0.zip",
+        "dependencies": [
+            "WiFi",
+            "WebServer",
+            "Preferences"
+        ],
+        "fullText": "mvswifi_esp321.0.01.0.0Vishal Jain <jain.vishal1695@gmail.com>Vishal Jain <jain.vishal1695@gmail.com>ESP32 WiFi credential service using native NVS storageUltra-minimal WiFi credential management optimized for ESP32 hardware. Uses native NVS (Non-Volatile Storage) with automatic wear leveling and hardware encryption support. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.https://github.com/vishaljain/mvswifi_esp32Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp32-1.0.0.zipmvswifi_esp32-1.0.0.zipWiFi, WebServer, Preferences"
+    },
+    {
+        "name": "mvswifi_esp8266",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Vishal Jain <jain.vishal1695@gmail.com>",
+        "maintainer": "Vishal Jain <jain.vishal1695@gmail.com>",
+        "sentence": "ESP8266 WiFi credential service using EEPROM storage",
+        "paragraph": "Ultra-minimal WiFi credential management optimized for ESP8266/NodeMCU hardware. Uses EEPROM storage for persistent WiFi credentials with minimal memory footprint. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.",
+        "website": "https://gitlab.com/Vishal1695/mvswifi_esp8266",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp8266-1.0.1.zip",
+        "archiveFileName": "mvswifi_esp8266-1.0.1.zip",
+        "dependencies": [
+            "ESP8266WiFi",
+            "ESP8266WebServer",
+            "EEPROM"
+        ],
+        "fullText": "mvswifi_esp82661.0.11.0.1, 1.0.0Vishal Jain <jain.vishal1695@gmail.com>Vishal Jain <jain.vishal1695@gmail.com>ESP8266 WiFi credential service using EEPROM storageUltra-minimal WiFi credential management optimized for ESP8266/NodeMCU hardware. Uses EEPROM storage for persistent WiFi credentials with minimal memory footprint. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.https://gitlab.com/Vishal1695/mvswifi_esp8266Communicationesp8266Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp8266-1.0.1.zipmvswifi_esp8266-1.0.1.zipESP8266WiFi, ESP8266WebServer, EEPROM"
+    },
+    {
+        "name": "Windnerd_Core",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "windnerd.net <dev@windnerd.net>",
+        "maintainer": "windnerd.net <dev@windnerd.net>",
+        "sentence": "Driver and utilities for WindNerd Core wind sensor board.",
+        "paragraph": "Build a 3D-printed anemometer with full magnetic sensing for your weather station.",
+        "website": "https://github.com/windnerd-labs/windnerd-core",
+        "category": "Sensors",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/windnerd-labs/Windnerd_Core-1.0.0.zip",
+        "archiveFileName": "Windnerd_Core-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "Windnerd_Core1.0.01.0.0windnerd.net <dev@windnerd.net>windnerd.net <dev@windnerd.net>Driver and utilities for WindNerd Core wind sensor board.Build a 3D-printed anemometer with full magnetic sensing for your weather station.https://github.com/windnerd-labs/windnerd-coreSensorsstm32Contributedhttps://downloads.arduino.cc/libraries/github.com/windnerd-labs/Windnerd_Core-1.0.0.zipWindnerd_Core-1.0.0.zip"
+    },
+    {
+        "name": "AdvancedOximeter",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jaikulk",
+        "maintainer": "Jaikulk",
+        "sentence": "Advanced library for MAX30102 pulse oximeter and heart rate monitoring with register-level control.",
+        "paragraph": "Provides FIFO handling, digital filters, heart-rate and SpO2 estimation, and signal quality metrics.",
+        "website": "https://github.com/jaikulk14/AdvancedOximeter",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/jaikulk14/AdvancedOximeter-1.0.0.zip",
+        "archiveFileName": "AdvancedOximeter-1.0.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "AdvancedOximeter1.0.01.0.0JaikulkJaikulkAdvanced library for MAX30102 pulse oximeter and heart rate monitoring with register-level control.Provides FIFO handling, digital filters, heart-rate and SpO2 estimation, and signal quality metrics.https://github.com/jaikulk14/AdvancedOximeterSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/jaikulk14/AdvancedOximeter-1.0.0.zipAdvancedOximeter-1.0.0.zip"
+    },
+    {
+        "name": "AlashMotorControlLite",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7",
+        "author": "Alash Engineering <support@alash-electronics.kz>",
+        "maintainer": "Alash Engineering <support@alash-electronics.kz>",
+        "sentence": "Simple and powerful DC motor control library for Arduino and ESP32.",
+        "paragraph": "Universal API for controlling DC motors through various drivers (L298N, TB6612FNG, ZK-5AD, DRV8833, BTS7960). Supports 4 driver modes, speed control from -100 to 100, ESP32 3.x ready. Includes 17 examples from basic to advanced (mecanum wheels). Perfect for robots, cars, and motor control projects.",
+        "website": "https://github.com/Alash-electronics/AlashMotorControlLite",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/Alash-electronics/AlashMotorControlLite-1.0.8.zip",
+        "archiveFileName": "AlashMotorControlLite-1.0.8.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "AlashMotorControlLite1.0.81.0.8, 1.0.7Alash Engineering <support@alash-electronics.kz>Alash Engineering <support@alash-electronics.kz>Simple and powerful DC motor control library for Arduino and ESP32.Universal API for controlling DC motors through various drivers (L298N, TB6612FNG, ZK-5AD, DRV8833, BTS7960). Supports 4 driver modes, speed control from -100 to 100, ESP32 3.x ready. Includes 17 examples from basic to advanced (mecanum wheels). Perfect for robots, cars, and motor control projects.https://github.com/Alash-electronics/AlashMotorControlLiteDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Alash-electronics/AlashMotorControlLite-1.0.8.zipAlashMotorControlLite-1.0.8.zip"
+    },
+    {
+        "name": "ue_i2c_icp_10111_sen",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "UNIT Electronics <contact@uelectronics.com>, Adrian Studer (original author)",
+        "maintainer": "UNIT Electronics <contact@uelectronics.com>",
+        "sentence": "Arduino library for TDK Invensense ICP-101xx high-resolution pressure sensors - UNIT Electronics.",
+        "paragraph": "Enhanced Arduino library for ICP-10100, ICP-10111, ICP-10125 sensors by UNIT Electronics. Based on original work by Adrian Studer with DevLab-specific improvements. Features multiple accuracy modes, custom I2C pin configuration, and compatibility with UNIT Electronics DevLab breakout boards. BSD Licensed.",
+        "website": "https://github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": null,
+        "url": "https://downloads.arduino.cc/libraries/github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen-1.2.0.zip",
+        "archiveFileName": "ue_i2c_icp_10111_sen-1.2.0.zip",
+        "dependencies": [
+            ""
+        ],
+        "fullText": "ue_i2c_icp_10111_sen1.2.01.2.0UNIT Electronics <contact@uelectronics.com>, Adrian Studer (original author)UNIT Electronics <contact@uelectronics.com>Arduino library for TDK Invensense ICP-101xx high-resolution pressure sensors - UNIT Electronics.Enhanced Arduino library for ICP-10100, ICP-10111, ICP-10125 sensors by UNIT Electronics. Based on original work by Adrian Studer with DevLab-specific improvements. Features multiple accuracy modes, custom I2C pin configuration, and compatibility with UNIT Electronics DevLab breakout boards. BSD Licensed.https://github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_senSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen-1.2.0.zipue_i2c_icp_10111_sen-1.2.0.zip"
     }
 ]
