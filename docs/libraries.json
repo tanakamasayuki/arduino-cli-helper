@@ -77049,8 +77049,8 @@
     },
     {
         "name": "ICM42670P",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM42670P",
@@ -106252,8 +106252,8 @@
     },
     {
         "name": "ICM45686",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45686",
@@ -106267,8 +106267,8 @@
     },
     {
         "name": "ICM45605",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45605",
@@ -106539,8 +106539,8 @@
     },
     {
         "name": "ICM42670S",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM42670S",
@@ -127297,8 +127297,8 @@
     },
     {
         "name": "Universal_Button",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/LittleManBuilds/Universal_Button",
@@ -129221,8 +129221,8 @@
     },
     {
         "name": "ICM45608",
-        "version": "1.0.4",
-        "versions": "1.0.4",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45608",
@@ -129448,8 +129448,8 @@
     },
     {
         "name": "Shrike Flash Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Vicharak",
         "maintainer": "Vicharak <deepak.sharda@vicharak.in>",
         "website": "https://github.com/vicharak-in/shrike_flash",
@@ -129458,7 +129458,7 @@
         "types": "Contributed",
         "repository": "https://github.com/vicharak-in/shrike_flash.git",
         "dependencies": [
-            "LittleFS"
+            ""
         ]
     },
     {
