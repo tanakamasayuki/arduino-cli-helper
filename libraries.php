@@ -1,10 +1,10 @@
 <?php
-// Fetch Arduino libraries doxygen DB and export to docs/libraries.json
+// Fetch Arduino library index and export to docs/libraries.json
 
 $baseDir = __DIR__;
 $webDir = $baseDir . DIRECTORY_SEPARATOR . 'docs';
 $outPath = $webDir . DIRECTORY_SEPARATOR . 'libraries.json';
-$srcUrl = 'https://lang-ship.com/reference/Arduino/libraries/doxygen.db';
+$srcUrl = 'http://downloads.arduino.cc/libraries/library_index.json';
 
 // Ensure web directory exists
 if (!is_dir($webDir)) {
@@ -14,103 +14,165 @@ if (!is_dir($webDir)) {
     }
 }
 
-// Download DB to a temporary file
-$tmpDb = tempnam(sys_get_temp_dir(), 'doxygen_db_');
-if ($tmpDb === false) {
-    fwrite(STDERR, "Failed to create temporary file.\n");
-    exit(1);
-}
-
-$downloadOk = false;
+// Download library index JSON
+$rawData = null;
 $errMsg = '';
 
-// Try cURL extension first
 if (function_exists('curl_init')) {
     $ch = curl_init($srcUrl);
-    $fh = fopen($tmpDb, 'wb');
-    if ($ch && $fh) {
+    if ($ch) {
         curl_setopt_array($ch, array(
+            CURLOPT_RETURNTRANSFER => true,
             CURLOPT_FOLLOWLOCATION => true,
             CURLOPT_FAILONERROR => true,
             CURLOPT_CONNECTTIMEOUT => 15,
             CURLOPT_TIMEOUT => 60,
-            CURLOPT_FILE => $fh,
             CURLOPT_USERAGENT => 'ArduinoCliBoard/1.0 (+php)'
         ));
-        $res = curl_exec($ch);
-        if ($res === false) {
+        $data = curl_exec($ch);
+        if ($data === false) {
             $errMsg = 'cURL error: ' . curl_error($ch);
         } else {
             $http = curl_getinfo($ch, CURLINFO_HTTP_CODE);
             if ($http >= 200 && $http < 300) {
-                $downloadOk = true;
+                $rawData = $data;
             } else {
                 $errMsg = 'HTTP status: ' . $http;
             }
         }
         curl_close($ch);
-        if (is_resource($fh)) fclose($fh);
     } else {
-        if ($ch) curl_close($ch);
-        if (isset($fh) && is_resource($fh)) fclose($fh);
-        $errMsg = 'Failed to init cURL/file handle';
+        $errMsg = 'Failed to init cURL handle';
     }
 }
 
-// Fallback to file_get_contents if needed
-if (!$downloadOk) {
+if ($rawData === null) {
     $ctx = stream_context_create(array(
         'http' => array('timeout' => 60, 'follow_location' => 1, 'user_agent' => 'ArduinoCliBoard/1.0 (+php)'),
         'https' => array('timeout' => 60, 'user_agent' => 'ArduinoCliBoard/1.0 (+php)'),
     ));
-    $data = @file_get_contents($srcUrl, false, $ctx);
-    if ($data !== false) {
-        if (file_put_contents($tmpDb, $data) !== false) {
-            $downloadOk = true;
-        } else {
-            $errMsg = 'Failed to write downloaded data to temp file';
-        }
+    $fallback = @file_get_contents($srcUrl, false, $ctx);
+    if ($fallback !== false) {
+        $rawData = $fallback;
+    } elseif ($errMsg === '') {
+        $errMsg = 'Failed to download library index';
     }
 }
 
-if (!$downloadOk) {
-    @unlink($tmpDb);
-    fwrite(STDERR, "Failed to download DB: {$errMsg}\n");
+if ($rawData === null) {
+    fwrite(STDERR, "Failed to download library index: {$errMsg}\n");
     exit(1);
 }
 
-// Ensure SQLite3 is available
-if (!class_exists('SQLite3')) {
-    @unlink($tmpDb);
-    fwrite(STDERR, "SQLite3 extension is required.\n");
+$decoded = json_decode($rawData, true);
+if (!is_array($decoded)) {
+    fwrite(STDERR, "Failed to decode library index JSON.\n");
     exit(1);
 }
 
-// Open DB and query
-$db = new SQLite3($tmpDb, SQLITE3_OPEN_READONLY);
-if (!$db) {
-    @unlink($tmpDb);
-    fwrite(STDERR, "Failed to open SQLite DB.\n");
+$libraryEntries = $decoded['libraries'] ?? null;
+if (!is_array($libraryEntries)) {
+    fwrite(STDERR, "Unexpected library index format.\n");
     exit(1);
 }
 
-$res = $db->query('SELECT * FROM doxygen');
-if ($res === false) {
-    $db->close();
-    @unlink($tmpDb);
-    fwrite(STDERR, "Failed to query doxygen table.\n");
-    exit(1);
+$aggregated = array();
+foreach ($libraryEntries as $library) {
+    if (!is_array($library) || !isset($library['name'], $library['version'])) {
+        continue;
+    }
+
+    $name = $library['name'];
+    $version = $library['version'];
+
+    $dependencies = array();
+    if (!empty($library['dependencies']) && is_array($library['dependencies'])) {
+        foreach ($library['dependencies'] as $dep) {
+            if (is_array($dep) && isset($dep['name']) && $dep['name'] !== '') {
+                $dependencies[] = $dep['name'];
+            } elseif (is_string($dep) && $dep !== '') {
+                $dependencies[] = $dep;
+            }
+        }
+    }
+    $dependenciesStr = implode(', ', $dependencies);
+
+    $architecturesField = $library['architectures'] ?? array();
+    if (is_array($architecturesField)) {
+        $architecturesStr = implode(', ', $architecturesField);
+    } elseif (is_string($architecturesField)) {
+        $architecturesStr = $architecturesField;
+    } else {
+        $architecturesStr = '';
+    }
+
+    $typesField = $library['types'] ?? array();
+    if (is_array($typesField)) {
+        $typesStr = implode(', ', $typesField);
+    } elseif (is_string($typesField)) {
+        $typesStr = $typesField;
+    } else {
+        $typesStr = '';
+    }
+
+    $entry = array(
+        'name' => $name,
+        'version' => $version,
+        'versions' => array($version),
+        'author' => $library['author'] ?? null,
+        'maintainer' => $library['maintainer'] ?? null,
+        'website' => $library['website'] ?? null,
+        'category' => $library['category'] ?? null,
+        'architectures' => $architecturesStr,
+        'types' => $typesStr,
+        'repository' => $library['repository'] ?? null,
+        'dependencies' => $dependenciesStr,
+    );
+
+    if (isset($aggregated[$name])) {
+        $existing = $aggregated[$name];
+        $existingVersions = $existing['versions'];
+        if (!in_array($version, $existingVersions, true)) {
+            $existingVersions[] = $version;
+        }
+
+        if (version_compare($existing['version'], $version) === 1) {
+            $existing['versions'] = $existingVersions;
+            $aggregated[$name] = $existing;
+            continue;
+        }
+
+        $entry['versions'] = array_merge($entry['versions'], $existingVersions);
+    }
+
+    $aggregated[$name] = $entry;
 }
 
 $rows = array();
-while ($row = $res->fetchArray(SQLITE3_ASSOC)) {
-    if (isset($row['dependencies'])) {
-        $row['dependencies'] = explode(', ', $row['dependencies']);
-    }
-    $rows[] = $row;
+foreach ($aggregated as $item) {
+    $versions = array_values(array_unique($item['versions']));
+    usort($versions, function ($a, $b) {
+        return version_compare($b, $a);
+    });
+
+    $latestVersion = $versions[0] ?? $item['version'];
+    $versionsStr = implode(', ', $versions);
+    $dependenciesStr = $item['dependencies'];
+
+    $rows[] = array(
+        'name' => $item['name'],
+        'version' => $latestVersion,
+        'versions' => $versionsStr,
+        'author' => $item['author'],
+        'maintainer' => $item['maintainer'],
+        'website' => $item['website'],
+        'category' => $item['category'],
+        'architectures' => $item['architectures'],
+        'types' => $item['types'],
+        'repository' => $item['repository'],
+        'dependencies' => explode(', ', $dependenciesStr),
+    );
 }
-$db->close();
-@unlink($tmpDb);
 
 // Encode and write JSON
 $jsonFlags = 0;

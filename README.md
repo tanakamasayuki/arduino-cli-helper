@@ -105,12 +105,14 @@ ARDUINO_CLI_CMD="arduino-cli" php run.php
 - `board_details.json` は `web/board_details.json` に直接保存・上書きします。
 - HTML ビューアは `web/board_details.json` を読み込みます。
 
-## ライブラリ一覧の取得（doxygen.db → JSON）
+## ライブラリ一覧の取得（library_index.json → JSON）
 - 実行: `php libraries.php`
-- 仕様:
-  - `https://lang-ship.com/reference/Arduino/libraries/doxygen.db` をダウンロード
-  - SQLite3 で `SELECT * FROM doxygen` を実行
-  - 結果を `web/libraries.json` に pretty-print で保存（同時に標準出力にも出力）
+- 処理内容:
+  - `http://downloads.arduino.cc/libraries/library_index.json` をダウンロード
+  - ライブラリごとの最新バージョンを採用し、バージョン履歴は重複を除いて新しい順に整列
+  - `name`, `version`, `versions`, `author`, `maintainer`, `website`, `category`, `architectures`, `types`, `repository`, `dependencies` を抽出
+  - 生成したデータを pretty-print で `docs/libraries.json` に保存（同じ内容を標準出力にも出力）
 - 前提:
-  - PHPの `SQLite3` 拡張が有効
-  - ネットワークにアクセス可能（cURL拡張推奨。なければ `file_get_contents` での取得を試行）
+  - ネットワークにアクセスできること
+  - PHP の cURL 拡張（未インストールの場合は `file_get_contents` でフォールバック取得）
+
