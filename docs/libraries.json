@@ -129536,5 +129536,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ProtoBot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Microbots <info@microbots.io>",
+        "maintainer": "Microbots <info@microbots.io>",
+        "website": "https://microbots.io/ProtoBot",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/microbotsio/ProtoBot.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EasyENC",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Solder&Code",
+        "maintainer": "Solder&Code",
+        "website": "https://github.com/MAKE-arduino/-EasyENC",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MAKE-arduino/EasyENC.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
