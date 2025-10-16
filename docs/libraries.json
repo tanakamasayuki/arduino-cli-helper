@@ -57601,8 +57601,8 @@
     },
     {
         "name": "OneBitDisplay",
-        "version": "2.3.3",
-        "versions": "2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.11.0, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.11.0, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "sentence": "OLED, LCD and e-paper library for 1-bit per pixel displays.",
@@ -57612,12 +57612,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/bitbank2/OneBitDisplay-2.3.3.zip",
-        "archiveFileName": "OneBitDisplay-2.3.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/bitbank2/OneBitDisplay-3.0.0.zip",
+        "archiveFileName": "OneBitDisplay-3.0.0.zip",
         "dependencies": [
             "BitBang_I2C"
         ],
-        "fullText": "OneBitDisplay2.3.32.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.11.0, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0Larry BankLarry BankOLED, LCD and e-paper library for 1-bit per pixel displays.Supports most monochrome OLEDs, LCDs, Sharp Memory LCDs and many e-paper displays. Designed to provide a rich set of features with a simple API. Can automatically detect the display address (3C or 3D) and the controller type (SSD1306, SH1106 or SH1107). Includes 5 sizes of fixed fonts (6x8, 8x8, 12x16, 16x16, 16x32). Can use I2C, SPI or bit bang I2C+SPI on any GPIO pins with the use of my BitBang_I2C library. Supports display sizes of: 128x128, 128x64, 128x32, 64x32, 96x16, 72x40. Includes scrolling text/gfx, deferred rendering, lines, sprites, circles, rectangles and more.https://github.com/bitbank2/OneBitDisplayDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/bitbank2/OneBitDisplay-2.3.3.zipOneBitDisplay-2.3.3.zipBitBang_I2C"
+        "fullText": "OneBitDisplay3.0.03.0.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.11.0, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0Larry BankLarry BankOLED, LCD and e-paper library for 1-bit per pixel displays.Supports most monochrome OLEDs, LCDs, Sharp Memory LCDs and many e-paper displays. Designed to provide a rich set of features with a simple API. Can automatically detect the display address (3C or 3D) and the controller type (SSD1306, SH1106 or SH1107). Includes 5 sizes of fixed fonts (6x8, 8x8, 12x16, 16x16, 16x32). Can use I2C, SPI or bit bang I2C+SPI on any GPIO pins with the use of my BitBang_I2C library. Supports display sizes of: 128x128, 128x64, 128x32, 64x32, 96x16, 72x40. Includes scrolling text/gfx, deferred rendering, lines, sprites, circles, rectangles and more.https://github.com/bitbank2/OneBitDisplayDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/bitbank2/OneBitDisplay-3.0.0.zipOneBitDisplay-3.0.0.zipBitBang_I2C"
     },
     {
         "name": "CRCx",
@@ -58384,8 +58384,8 @@
     },
     {
         "name": "ArxTypeTraits",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.12, 0.1.11, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.12, 0.1.11, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "hideakitai",
         "maintainer": "hideakitai",
         "sentence": "C++ type_traits for Arduino which cannot use it as default",
@@ -58395,12 +58395,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/hideakitai/ArxTypeTraits-0.3.1.zip",
-        "archiveFileName": "ArxTypeTraits-0.3.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/hideakitai/ArxTypeTraits-0.3.2.zip",
+        "archiveFileName": "ArxTypeTraits-0.3.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ArxTypeTraits0.3.10.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.12, 0.1.11, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0hideakitaihideakitaiC++ type_traits for Arduino which cannot use it as defaultC++ type_traits for Arduino which cannot use it as defaulthttps://github.com/hideakitai/ArxTypeTraitsData Storage*Contributedhttps://downloads.arduino.cc/libraries/github.com/hideakitai/ArxTypeTraits-0.3.1.zipArxTypeTraits-0.3.1.zip"
+        "fullText": "ArxTypeTraits0.3.20.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.12, 0.1.11, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0hideakitaihideakitaiC++ type_traits for Arduino which cannot use it as defaultC++ type_traits for Arduino which cannot use it as defaulthttps://github.com/hideakitai/ArxTypeTraitsData Storage*Contributedhttps://downloads.arduino.cc/libraries/github.com/hideakitai/ArxTypeTraits-0.3.2.zipArxTypeTraits-0.3.2.zip"
     },
     {
         "name": "ProtoCentral HealthyPi v4 Library",
@@ -59854,8 +59854,8 @@
     },
     {
         "name": "RTC",
-        "version": "1.11.0",
-        "versions": "1.11.0, 1.10.0, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.6.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.12.0",
+        "versions": "1.12.0, 1.11.0, 1.10.0, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.6.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Manjunath CV",
         "maintainer": "Manjunath CV <cvmanjoo@gmail.com>",
         "sentence": "Library for I2C based RTCs (DS1307, DS3231, PCF8563, PCF8523, MCP7940).",
@@ -59865,12 +59865,12 @@
         "architectures": "avr, mbed_nano, rp2040, mbed_rp2040, esp32, esp8266, renesas_uno",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/cvmanjoo/RTC-1.11.0.zip",
-        "archiveFileName": "RTC-1.11.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/cvmanjoo/RTC-1.12.0.zip",
+        "archiveFileName": "RTC-1.12.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "RTC1.11.01.11.0, 1.10.0, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.6.0, 1.0.2, 1.0.1, 1.0.0Manjunath CVManjunath CV <cvmanjoo@gmail.com>Library for I2C based RTCs (DS1307, DS3231, PCF8563, PCF8523, MCP7940).Enables the functionality for clock reading, clock setting, alarms and timers of I2C RTCs.https://github.com/cvmanjoo/RTCTimingavr, mbed_nano, rp2040, mbed_rp2040, esp32, esp8266, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/cvmanjoo/RTC-1.11.0.zipRTC-1.11.0.zip"
+        "fullText": "RTC1.12.01.12.0, 1.11.0, 1.10.0, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.6.0, 1.0.2, 1.0.1, 1.0.0Manjunath CVManjunath CV <cvmanjoo@gmail.com>Library for I2C based RTCs (DS1307, DS3231, PCF8563, PCF8523, MCP7940).Enables the functionality for clock reading, clock setting, alarms and timers of I2C RTCs.https://github.com/cvmanjoo/RTCTimingavr, mbed_nano, rp2040, mbed_rp2040, esp32, esp8266, renesas_unoContributedhttps://downloads.arduino.cc/libraries/github.com/cvmanjoo/RTC-1.12.0.zipRTC-1.12.0.zip"
     },
     {
         "name": "Adafruit SHTC3 Library",
@@ -64274,8 +64274,8 @@
     },
     {
         "name": "ESP8266Audio",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
         "author": "Earle F. Philhower, III",
         "maintainer": "Earle F. Philhower, III",
         "sentence": "Audio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040",
@@ -64285,12 +64285,12 @@
         "architectures": "esp8266, esp32, rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.2.0.zip",
-        "archiveFileName": "ESP8266Audio-2.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.3.0.zip",
+        "archiveFileName": "ESP8266Audio-2.3.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "ESP8266Audio2.2.02.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0Earle F. Philhower, IIIEarle F. Philhower, IIIAudio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040Decode compressed MP3, AAC, FLAC, Screamtracker MOD, MIDI, RTTL, TI Talkie, and WAV and play on an I2S DAC or a software-driven delta-sigma DAC and 1-transistor amplifier.https://github.com/earlephilhower/ESP8266AudioSignal Input/Outputesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.2.0.zipESP8266Audio-2.2.0.zip"
+        "fullText": "ESP8266Audio2.3.02.3.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0Earle F. Philhower, IIIEarle F. Philhower, IIIAudio file and I2S sound playing routines for ESP8266, ESP32, and Raspberry Pi Pico RP2040Decode compressed MP3, AAC, FLAC, Screamtracker MOD, MIDI, RTTL, TI Talkie, and WAV and play on an I2S DAC or a software-driven delta-sigma DAC and 1-transistor amplifier.https://github.com/earlephilhower/ESP8266AudioSignal Input/Outputesp8266, esp32, rp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/ESP8266Audio-2.3.0.zipESP8266Audio-2.3.0.zip"
     },
     {
         "name": "BY8X01-16P Audio Module Library",
@@ -124816,8 +124816,8 @@
     },
     {
         "name": "MakeBlock Drive Updated",
-        "version": "3.29.0",
-        "versions": "3.29.0, 3.28.2, 3.28.1, 3.27.1, 3.27.0",
+        "version": "3.29.1",
+        "versions": "3.29.1, 3.29.0, 3.28.2, 3.28.1, 3.27.1, 3.27.0",
         "author": "Nick B (Original : Mark Yan), Cégep de Shawinigan",
         "maintainer": "Nick B, Cégep de Shawinigan",
         "sentence": "Use to drive all devices provided by Makeblock company.",
@@ -124827,12 +124827,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.29.0.zip",
-        "archiveFileName": "MakeBlock_Drive_Updated-3.29.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.29.1.zip",
+        "archiveFileName": "MakeBlock_Drive_Updated-3.29.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "MakeBlock Drive Updated3.29.03.29.0, 3.28.2, 3.28.1, 3.27.1, 3.27.0Nick B (Original : Mark Yan), Cégep de ShawiniganNick B, Cégep de ShawiniganUse to drive all devices provided by Makeblock company.This library is an updated version of the MakeBlock Drive library. It is based on the original MakeBlock Drive library, but has been updated to fix some issues. Feel free to pull request if you find any bugs.https://github.com/nbourre/Makeblock-LibrariesDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.29.0.zipMakeBlock_Drive_Updated-3.29.0.zip"
+        "fullText": "MakeBlock Drive Updated3.29.13.29.1, 3.29.0, 3.28.2, 3.28.1, 3.27.1, 3.27.0Nick B (Original : Mark Yan), Cégep de ShawiniganNick B, Cégep de ShawiniganUse to drive all devices provided by Makeblock company.This library is an updated version of the MakeBlock Drive library. It is based on the original MakeBlock Drive library, but has been updated to fix some issues. Feel free to pull request if you find any bugs.https://github.com/nbourre/Makeblock-LibrariesDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/nbourre/MakeBlock_Drive_Updated-3.29.1.zipMakeBlock_Drive_Updated-3.29.1.zip"
     },
     {
         "name": "Adafruit AD569x Library",
@@ -128902,8 +128902,8 @@
     },
     {
         "name": "roo_display",
-        "version": "2.2.1",
-        "versions": "2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "2.2.2",
+        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Graphics library, supporting variety of display devices and touch panels.",
@@ -128913,15 +128913,14 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.1.zip",
-        "archiveFileName": "roo_display-2.2.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.2.zip",
+        "archiveFileName": "roo_display-2.2.2.zip",
         "dependencies": [
             "roo_backport",
             "roo_collections",
-            "roo_io",
-            "roo_io_arduino"
+            "roo_io"
         ],
-        "fullText": "roo_display2.2.12.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Graphics library, supporting variety of display devices and touch panels.Supports SPI and parallel protocols. Efficient, feature-rich, fast, and customizable.https://github.com/dejwk/roo_displayDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.1.ziproo_display-2.2.1.ziproo_backport, roo_collections, roo_io, roo_io_arduino"
+        "fullText": "roo_display2.2.22.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Graphics library, supporting variety of display devices and touch panels.Supports SPI and parallel protocols. Efficient, feature-rich, fast, and customizable.https://github.com/dejwk/roo_displayDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_display-2.2.2.ziproo_display-2.2.2.ziproo_backport, roo_collections, roo_io"
     },
     {
         "name": "roo_material_icons",
@@ -129850,8 +129849,8 @@
     },
     {
         "name": "roo_logging",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Logging library, targeted at ESP32 and related boards.",
@@ -129861,14 +129860,14 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.3.0.zip",
-        "archiveFileName": "roo_logging-1.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.4.0.zip",
+        "archiveFileName": "roo_logging-1.4.0.zip",
         "dependencies": [
             "roo_flags",
             "roo_time",
             "roo_threads"
         ],
-        "fullText": "roo_logging1.3.01.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Logging library, targeted at ESP32 and related boards.Port of Google's 'glog' library.https://github.com/dejwk/roo_loggingOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.3.0.ziproo_logging-1.3.0.ziproo_flags, roo_time, roo_threads"
+        "fullText": "roo_logging1.4.01.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Logging library, targeted at ESP32 and related boards.Port of Google's 'glog' library.https://github.com/dejwk/roo_loggingOther*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_logging-1.4.0.ziproo_logging-1.4.0.ziproo_flags, roo_time, roo_threads"
     },
     {
         "name": "AsproSolarShield",
@@ -132816,8 +132815,8 @@
     },
     {
         "name": "CHT8310",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for CHT8310 temperature and humidity sensor.",
@@ -132827,12 +132826,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8310-0.2.0.zip",
-        "archiveFileName": "CHT8310-0.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8310-0.2.1.zip",
+        "archiveFileName": "CHT8310-0.2.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "CHT83100.2.00.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for CHT8310 temperature and humidity sensor.https://github.com/RobTillaart/CHT8310Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8310-0.2.0.zipCHT8310-0.2.0.zip"
+        "fullText": "CHT83100.2.10.2.1, 0.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for CHT8310 temperature and humidity sensor.https://github.com/RobTillaart/CHT8310Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/CHT8310-0.2.1.zipCHT8310-0.2.1.zip"
     },
     {
         "name": "TouchyTouch",
@@ -135546,8 +135545,8 @@
     },
     {
         "name": "SpotifyEsp32",
-        "version": "2.0.10",
-        "versions": "2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Finian Landes, Pia Piekarek, T-vK",
         "maintainer": "Finian Landes <landesfinian@gmail.com>",
         "sentence": "A wrapper for the Spotify API",
@@ -135557,13 +135556,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/FinianLandes/SpotifyEsp32-2.0.10.zip",
-        "archiveFileName": "SpotifyEsp32-2.0.10.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/FinianLandes/SpotifyEsp32-3.0.0.zip",
+        "archiveFileName": "SpotifyEsp32-3.0.0.zip",
         "dependencies": [
-            "ArduinoJson",
-            "base64"
+            "ArduinoJson"
         ],
-        "fullText": "SpotifyEsp322.0.102.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1Finian Landes, Pia Piekarek, T-vKFinian Landes <landesfinian@gmail.com>A wrapper for the Spotify APIThis library provides a client to interact with the Spotify API. It is designed to be used with the ESP32 microcontroller.https://github.com/FinianLandes/SpotifyEsp32Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/FinianLandes/SpotifyEsp32-2.0.10.zipSpotifyEsp32-2.0.10.zipArduinoJson, base64"
+        "fullText": "SpotifyEsp323.0.03.0.0, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1Finian Landes, Pia Piekarek, T-vKFinian Landes <landesfinian@gmail.com>A wrapper for the Spotify APIThis library provides a client to interact with the Spotify API. It is designed to be used with the ESP32 microcontroller.https://github.com/FinianLandes/SpotifyEsp32Communication*Contributedhttps://downloads.arduino.cc/libraries/github.com/FinianLandes/SpotifyEsp32-3.0.0.zipSpotifyEsp32-3.0.0.zipArduinoJson"
     },
     {
         "name": "M5StampC3LED",
@@ -138703,8 +138701,8 @@
     },
     {
         "name": "LTR390_DFR",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for the I2C LTR390 UV sensor (DF Robotics edition).",
@@ -138714,17 +138712,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_DFR-0.1.1.zip",
-        "archiveFileName": "LTR390_DFR-0.1.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_DFR-0.1.2.zip",
+        "archiveFileName": "LTR390_DFR-0.1.2.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "LTR390_DFR0.1.10.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the I2C LTR390 UV sensor (DF Robotics edition).https://github.com/RobTillaart/LTR390_DFRSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_DFR-0.1.1.zipLTR390_DFR-0.1.1.zip"
+        "fullText": "LTR390_DFR0.1.20.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the I2C LTR390 UV sensor (DF Robotics edition).https://github.com/RobTillaart/LTR390_DFRSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_DFR-0.1.2.zipLTR390_DFR-0.1.2.zip"
     },
     {
         "name": "LTR390_RT",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for the I2C LTR390 UV sensor.",
@@ -138734,12 +138732,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_RT-0.1.2.zip",
-        "archiveFileName": "LTR390_RT-0.1.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_RT-0.1.3.zip",
+        "archiveFileName": "LTR390_RT-0.1.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "LTR390_RT0.1.20.1.2, 0.1.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the I2C LTR390 UV sensor.https://github.com/RobTillaart/LTR390_RTSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_RT-0.1.2.zipLTR390_RT-0.1.2.zip"
+        "fullText": "LTR390_RT0.1.30.1.3, 0.1.2, 0.1.1Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the I2C LTR390 UV sensor.https://github.com/RobTillaart/LTR390_RTSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/LTR390_RT-0.1.3.zipLTR390_RT-0.1.3.zip"
     },
     {
         "name": "PicoWebsocket",
@@ -139474,8 +139472,8 @@
     },
     {
         "name": "Kurtosis",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for calculating skewness and kurtosis of a dataset.",
@@ -139485,12 +139483,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/Kurtosis-0.1.2.zip",
-        "archiveFileName": "Kurtosis-0.1.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/Kurtosis-0.1.3.zip",
+        "archiveFileName": "Kurtosis-0.1.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "Kurtosis0.1.20.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for calculating skewness and kurtosis of a dataset.symmetrical, asymmetrical, statistichttps://github.com/RobTillaart/KurtosisData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/Kurtosis-0.1.2.zipKurtosis-0.1.2.zip"
+        "fullText": "Kurtosis0.1.30.1.3, 0.1.2, 0.1.1, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for calculating skewness and kurtosis of a dataset.symmetrical, asymmetrical, statistichttps://github.com/RobTillaart/KurtosisData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/Kurtosis-0.1.3.zipKurtosis-0.1.3.zip"
     },
     {
         "name": "LTC230x",
@@ -140061,8 +140059,8 @@
     },
     {
         "name": "PCR",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.1, 0.2.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for PCR process control.",
@@ -140072,12 +140070,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/PCR-0.3.0.zip",
-        "archiveFileName": "PCR-0.3.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/PCR-0.4.0.zip",
+        "archiveFileName": "PCR-0.4.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "PCR0.3.00.3.0, 0.2.1, 0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for PCR process control.polymerase, chain, reaction, denature, annealing, extension.https://github.com/RobTillaart/PCRData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/PCR-0.3.0.zipPCR-0.3.0.zip"
+        "fullText": "PCR0.4.00.4.0, 0.3.0, 0.2.1, 0.2.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for PCR process control.polymerase, chain, reaction, denature, annealing, extension.https://github.com/RobTillaart/PCRData Processing*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/PCR-0.4.0.zipPCR-0.4.0.zip"
     },
     {
         "name": "ERPC",
@@ -147359,8 +147357,8 @@
     },
     {
         "name": "tgx",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0",
         "author": "Arvind Singh",
         "maintainer": "Arvind Singh",
         "sentence": "A tiny 2D and 3D graphics library.",
@@ -147370,12 +147368,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/vindar/tgx-1.0.5.zip",
-        "archiveFileName": "tgx-1.0.5.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/vindar/tgx-1.0.7.zip",
+        "archiveFileName": "tgx-1.0.7.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "tgx1.0.51.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0Arvind SinghArvind SinghA tiny 2D and 3D graphics library.TGX is a tiny but full featured C++ graphics library for drawing 2D and 3D graphics onto a memory framebuffer. The library runs on any 32 bits CPU or MPU such as ESP32, Teensy, Pico (M4, M7, RP2040, RP2350...). It provides an extensive set of 2D/3D drawing primitives and aims at high quality rendering (anti-aliasing, alpha-blending, bilinear texture filtering...). The library itself is hardware-agnostic: an independent driver is required to display the image drawn in memory onto a physical screen.https://github.com/vindar/tgxDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/vindar/tgx-1.0.5.ziptgx-1.0.5.zip"
+        "fullText": "tgx1.0.71.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0Arvind SinghArvind SinghA tiny 2D and 3D graphics library.TGX is a tiny but full featured C++ graphics library for drawing 2D and 3D graphics onto a memory framebuffer. The library runs on any 32 bits CPU or MPU such as ESP32, Teensy, Pico (M4, M7, RP2040, RP2350...). It provides an extensive set of 2D/3D drawing primitives and aims at high quality rendering (anti-aliasing, alpha-blending, bilinear texture filtering...). The library itself is hardware-agnostic: an independent driver is required to display the image drawn in memory onto a physical screen.https://github.com/vindar/tgxDisplay*Contributedhttps://downloads.arduino.cc/libraries/github.com/vindar/tgx-1.0.7.ziptgx-1.0.7.zip"
     },
     {
         "name": "OSP ReusableApps aoapps",
@@ -152069,8 +152067,8 @@
     },
     {
         "name": "BackgroundAudio",
-        "version": "1.4.2",
-        "versions": "1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.3",
+        "versions": "1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Earle F. Philhower, III <earlephilhower@yahoo.com>",
         "maintainer": "Earle F. Philhower, III <earlephilhower@yahoo.com>",
         "sentence": "Plays MP3, AAC, and WAV via an IRQ based mechanism to allow \"multitasking\" while playing",
@@ -152080,12 +152078,12 @@
         "architectures": "rp2040, esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.2.zip",
-        "archiveFileName": "BackgroundAudio-1.4.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.3.zip",
+        "archiveFileName": "BackgroundAudio-1.4.3.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "BackgroundAudio1.4.21.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0Earle F. Philhower, III <earlephilhower@yahoo.com>Earle F. Philhower, III <earlephilhower@yahoo.com>Plays MP3, AAC, and WAV via an IRQ based mechanism to allow \"multitasking\" while playingUses interrupts to allow a sketch to run while MP3, AAC, or WAV decoding goes on behind the scenes. Decodes in natural frames to optimize CPU usage. Allows for handling the UI of a sketch without stopping or jitter on playback.https://github.com/earlephilhower/BackgroundAudioCommunicationrp2040, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.2.zipBackgroundAudio-1.4.2.zip"
+        "fullText": "BackgroundAudio1.4.31.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0Earle F. Philhower, III <earlephilhower@yahoo.com>Earle F. Philhower, III <earlephilhower@yahoo.com>Plays MP3, AAC, and WAV via an IRQ based mechanism to allow \"multitasking\" while playingUses interrupts to allow a sketch to run while MP3, AAC, or WAV decoding goes on behind the scenes. Decodes in natural frames to optimize CPU usage. Allows for handling the UI of a sketch without stopping or jitter on playback.https://github.com/earlephilhower/BackgroundAudioCommunicationrp2040, esp32Contributedhttps://downloads.arduino.cc/libraries/github.com/earlephilhower/BackgroundAudio-1.4.3.zipBackgroundAudio-1.4.3.zip"
     },
     {
         "name": "ArtificialRTC",
@@ -152189,8 +152187,8 @@
     },
     {
         "name": "roo_io",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Unified I/O library for microcontrollers.",
@@ -152200,19 +152198,19 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-1.4.0.zip",
-        "archiveFileName": "roo_io-1.4.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-2.0.1.zip",
+        "archiveFileName": "roo_io-2.0.1.zip",
         "dependencies": [
             "roo_backport",
             "roo_logging",
             "roo_threads"
         ],
-        "fullText": "roo_io1.4.01.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Unified I/O library for microcontrollers.Standard C++. On ESP32, works with Arduino as well as esp-idf.https://github.com/dejwk/roo_ioCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-1.4.0.ziproo_io-1.4.0.ziproo_backport, roo_logging, roo_threads"
+        "fullText": "roo_io2.0.12.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Unified I/O library for microcontrollers.Standard C++. On ESP32, works with Arduino as well as esp-idf.https://github.com/dejwk/roo_ioCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io-2.0.1.ziproo_io-2.0.1.ziproo_backport, roo_logging, roo_threads"
     },
     {
         "name": "roo_io_arduino",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "sentence": "Arduino filesystem adapters for the roo_io library.",
@@ -152222,15 +152220,15 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.2.zip",
-        "archiveFileName": "roo_io_arduino-1.2.2.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.4.zip",
+        "archiveFileName": "roo_io_arduino-1.2.4.zip",
         "dependencies": [
             "FS",
             "SD",
             "roo_io",
             "roo_logging"
         ],
-        "fullText": "roo_io_arduino1.2.21.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino filesystem adapters for the roo_io library.https://github.com/dejwk/roo_io_arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.2.ziproo_io_arduino-1.2.2.zipFS, SD, roo_io, roo_logging"
+        "fullText": "roo_io_arduino1.2.41.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1Dejwk <dejwk.oss@gmail.com>Dejwk <dejwk.oss@gmail.com>Arduino filesystem adapters for the roo_io library.https://github.com/dejwk/roo_io_arduinoCommunication*Contributedhttps://downloads.arduino.cc/libraries/github.com/dejwk/roo_io_arduino-1.2.4.ziproo_io_arduino-1.2.4.zipFS, SD, roo_io, roo_logging"
     },
     {
         "name": "RandomForestModel",
@@ -168467,8 +168465,8 @@
     },
     {
         "name": "picoEEPROM",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "sentence": "An Arduino library simplifying usage of EEPROM with RP based boards.",
@@ -168478,12 +168476,12 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.3.zip",
-        "archiveFileName": "picoEEPROM-1.0.3.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.5.zip",
+        "archiveFileName": "picoEEPROM-1.0.5.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "picoEEPROM1.0.31.0.3, 1.0.1, 1.0.0Szymon Glinka <szymonglinka2006@gmail.com>Szymon Glinka <szymonglinka2006@gmail.com>An Arduino library simplifying usage of EEPROM with RP based boards.This library works ONLY with boards from Arduino-Pico board library and is designed to simplify usage of EEPROM with RP chipbased boards.https://github.com/Glinek/picoEEPROMData Storagerp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.3.zippicoEEPROM-1.0.3.zip"
+        "fullText": "picoEEPROM1.0.51.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0Szymon Glinka <szymonglinka2006@gmail.com>Szymon Glinka <szymonglinka2006@gmail.com>An Arduino library simplifying usage of EEPROM with RP based boards.This library works ONLY with boards from Arduino-Pico board library and is designed to simplify usage of EEPROM with RP chipbased boards.https://github.com/Glinek/picoEEPROMData Storagerp2040Contributedhttps://downloads.arduino.cc/libraries/github.com/Glinek/picoEEPROM-1.0.5.zippicoEEPROM-1.0.5.zip"
     },
     {
         "name": "SL002_DHT11",
@@ -168869,8 +168867,8 @@
     },
     {
         "name": "AS7331",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "sentence": "Arduino library for the I2C AS7331 UV sensor.",
@@ -168880,12 +168878,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/AS7331-0.2.0.zip",
-        "archiveFileName": "AS7331-0.2.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/RobTillaart/AS7331-0.3.0.zip",
+        "archiveFileName": "AS7331-0.3.0.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "AS73310.2.00.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the I2C AS7331 UV sensor.UV-A, UV-B, UV-C, Celsius.https://github.com/RobTillaart/AS7331Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/AS7331-0.2.0.zipAS7331-0.2.0.zip"
+        "fullText": "AS73310.3.00.3.0, 0.2.0, 0.1.0Rob Tillaart <rob.tillaart@gmail.com>Rob Tillaart <rob.tillaart@gmail.com>Arduino library for the I2C AS7331 UV sensor.UV-A, UV-B, UV-C, Celsius.https://github.com/RobTillaart/AS7331Sensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/RobTillaart/AS7331-0.3.0.zipAS7331-0.3.0.zip"
     },
     {
         "name": "Universal_Button",
@@ -169894,8 +169892,8 @@
     },
     {
         "name": "STM32duino ISM6HG256X",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "sentence": "Intelligent IMU with simultaneous low-g and high-g acceleration detection.",
@@ -169905,17 +169903,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM6HG256X-1.0.0.zip",
-        "archiveFileName": "STM32duino_ISM6HG256X-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM6HG256X-1.0.1.zip",
+        "archiveFileName": "STM32duino_ISM6HG256X-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "STM32duino ISM6HG256X1.0.01.0.0STMicroelectronicsstm32duinoIntelligent IMU with simultaneous low-g and high-g acceleration detection.This library provides Arduino support for ISM6HG256X for STM32 boards.https://github.com/stm32duino/ISM6HG256XSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM6HG256X-1.0.0.zipSTM32duino_ISM6HG256X-1.0.0.zip"
+        "fullText": "STM32duino ISM6HG256X1.0.11.0.1, 1.0.0STMicroelectronicsstm32duinoIntelligent IMU with simultaneous low-g and high-g acceleration detection.This library provides Arduino support for ISM6HG256X for STM32 boards.https://github.com/stm32duino/ISM6HG256XSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM6HG256X-1.0.1.zipSTM32duino_ISM6HG256X-1.0.1.zip"
     },
     {
         "name": "STM32duino ISM330IS",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "sentence": "Ultra Low Power inertial measurement unit.",
@@ -169925,17 +169923,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM330IS-1.0.0.zip",
-        "archiveFileName": "STM32duino_ISM330IS-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM330IS-1.0.1.zip",
+        "archiveFileName": "STM32duino_ISM330IS-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "STM32duino ISM330IS1.0.01.0.0STMicroelectronicsstm32duinoUltra Low Power inertial measurement unit.This library provides Arduino support for ISM330IS for STM32 boards.https://github.com/stm32duino/ISM330ISSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM330IS-1.0.0.zipSTM32duino_ISM330IS-1.0.0.zip"
+        "fullText": "STM32duino ISM330IS1.0.11.0.1, 1.0.0STMicroelectronicsstm32duinoUltra Low Power inertial measurement unit.This library provides Arduino support for ISM330IS for STM32 boards.https://github.com/stm32duino/ISM330ISSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ISM330IS-1.0.1.zipSTM32duino_ISM330IS-1.0.1.zip"
     },
     {
         "name": "STM32duino IIS2DULPX",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "sentence": "Ultra Low Power inertial measurement unit.",
@@ -169945,17 +169943,17 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_IIS2DULPX-1.0.0.zip",
-        "archiveFileName": "STM32duino_IIS2DULPX-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_IIS2DULPX-1.0.1.zip",
+        "archiveFileName": "STM32duino_IIS2DULPX-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "STM32duino IIS2DULPX1.0.01.0.0STMicroelectronicsstm32duinoUltra Low Power inertial measurement unit.This library provides Arduino support for the Ultra Low Power IIS2DULPX for STM32 boards.https://github.com/stm32duino/IIS2DULPXSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_IIS2DULPX-1.0.0.zipSTM32duino_IIS2DULPX-1.0.0.zip"
+        "fullText": "STM32duino IIS2DULPX1.0.11.0.1, 1.0.0STMicroelectronicsstm32duinoUltra Low Power inertial measurement unit.This library provides Arduino support for the Ultra Low Power IIS2DULPX for STM32 boards.https://github.com/stm32duino/IIS2DULPXSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_IIS2DULPX-1.0.1.zipSTM32duino_IIS2DULPX-1.0.1.zip"
     },
     {
         "name": "STM32duino ILPS22QS",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "sentence": "Nano pressure sensor.",
@@ -169965,12 +169963,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ILPS22QS-1.0.0.zip",
-        "archiveFileName": "STM32duino_ILPS22QS-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ILPS22QS-1.0.1.zip",
+        "archiveFileName": "STM32duino_ILPS22QS-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "STM32duino ILPS22QS1.0.01.0.0STMicroelectronicsstm32duinoNano pressure sensor.This library provides Arduino support for the Ultra Low Power ILPS22QS for STM32 boards.https://github.com/stm32duino/ILPS22QSSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ILPS22QS-1.0.0.zipSTM32duino_ILPS22QS-1.0.0.zip"
+        "fullText": "STM32duino ILPS22QS1.0.11.0.1, 1.0.0STMicroelectronicsstm32duinoNano pressure sensor.This library provides Arduino support for the Ultra Low Power ILPS22QS for STM32 boards.https://github.com/stm32duino/ILPS22QSSensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/stm32duino/STM32duino_ILPS22QS-1.0.1.zipSTM32duino_ILPS22QS-1.0.1.zip"
     },
     {
         "name": "SUSI2",
@@ -171027,8 +171025,8 @@
     },
     {
         "name": "7Semi_CO2TH",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "7Semi <info@7semi.com>",
         "maintainer": "7Semi <info@7semi.com>",
         "sentence": "I2C driver for the 7Semi CO₂TH sensor with RHT compensation.",
@@ -171038,12 +171036,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_CO2TH-1.0.0.zip",
-        "archiveFileName": "7Semi_CO2TH-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_CO2TH-1.0.1.zip",
+        "archiveFileName": "7Semi_CO2TH-1.0.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "7Semi_CO2TH1.0.01.0.07Semi <info@7semi.com>7Semi <info@7semi.com>I2C driver for the 7Semi CO₂TH sensor with RHT compensation.Features: automatic I2C address scanning, product ID verification, continuous/single-shot measurement, CRC-8-verified RHT/pressure compensation, sleep/reset/conditioning/self-test helpers, and minimal examples for quick evaluation.https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_CO2TH-1.0.0.zip7Semi_CO2TH-1.0.0.zip"
+        "fullText": "7Semi_CO2TH1.0.11.0.1, 1.0.07Semi <info@7semi.com>7Semi <info@7semi.com>I2C driver for the 7Semi CO₂TH sensor with RHT compensation.Features: automatic I2C address scanning, product ID verification, continuous/single-shot measurement, CRC-8-verified RHT/pressure compensation, sleep/reset/conditioning/self-test helpers, and minimal examples for quick evaluation.https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_LibrarySensors*Contributedhttps://downloads.arduino.cc/libraries/github.com/7semi-solutions/7Semi_CO2TH-1.0.1.zip7Semi_CO2TH-1.0.1.zip"
     },
     {
         "name": "TimerKernel",
@@ -171570,8 +171568,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "sentence": "A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.",
@@ -171581,39 +171579,37 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.1.0.zip",
-        "archiveFileName": "SegMap595-1.1.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.1.1.zip",
+        "archiveFileName": "SegMap595-1.1.1.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "SegMap5951.1.01.1.0, 1.0.2, 1.0.1, 1.0.0Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.https://github.com/ErlingSigurdson/SegMap595Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.1.0.zipSegMap595-1.1.0.zip"
+        "fullText": "SegMap5951.1.11.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>A single-class Arduino-friendly library for mapping the outputs of a 74HC595 IC to the segments of a 7-segment display.https://github.com/ErlingSigurdson/SegMap595Display*Contributedhttps://downloads.arduino.cc/libraries/github.com/ErlingSigurdson/SegMap595-1.1.1.zipSegMap595-1.1.1.zip"
     },
     {
         "name": "mvswifi_esp32",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Vishal Jain <jain.vishal1695@gmail.com>",
         "maintainer": "Vishal Jain <jain.vishal1695@gmail.com>",
         "sentence": "ESP32 WiFi credential service using native NVS storage",
         "paragraph": "Ultra-minimal WiFi credential management optimized for ESP32 hardware. Uses native NVS (Non-Volatile Storage) with automatic wear leveling and hardware encryption support. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.",
-        "website": "https://github.com/vishaljain/mvswifi_esp32",
+        "website": "https://gitlab.com/Vishal1695/mvswifi_esp32",
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp32-1.0.0.zip",
-        "archiveFileName": "mvswifi_esp32-1.0.0.zip",
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp32-1.0.2.zip",
+        "archiveFileName": "mvswifi_esp32-1.0.2.zip",
         "dependencies": [
-            "WiFi",
-            "WebServer",
-            "Preferences"
+            ""
         ],
-        "fullText": "mvswifi_esp321.0.01.0.0Vishal Jain <jain.vishal1695@gmail.com>Vishal Jain <jain.vishal1695@gmail.com>ESP32 WiFi credential service using native NVS storageUltra-minimal WiFi credential management optimized for ESP32 hardware. Uses native NVS (Non-Volatile Storage) with automatic wear leveling and hardware encryption support. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.https://github.com/vishaljain/mvswifi_esp32Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp32-1.0.0.zipmvswifi_esp32-1.0.0.zipWiFi, WebServer, Preferences"
+        "fullText": "mvswifi_esp321.0.21.0.2, 1.0.0Vishal Jain <jain.vishal1695@gmail.com>Vishal Jain <jain.vishal1695@gmail.com>ESP32 WiFi credential service using native NVS storageUltra-minimal WiFi credential management optimized for ESP32 hardware. Uses native NVS (Non-Volatile Storage) with automatic wear leveling and hardware encryption support. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.https://gitlab.com/Vishal1695/mvswifi_esp32Communicationesp32Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp32-1.0.2.zipmvswifi_esp32-1.0.2.zip"
     },
     {
         "name": "mvswifi_esp8266",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Vishal Jain <jain.vishal1695@gmail.com>",
         "maintainer": "Vishal Jain <jain.vishal1695@gmail.com>",
         "sentence": "ESP8266 WiFi credential service using EEPROM storage",
@@ -171623,14 +171619,12 @@
         "architectures": "esp8266",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp8266-1.0.1.zip",
-        "archiveFileName": "mvswifi_esp8266-1.0.1.zip",
+        "url": "https://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp8266-1.0.2.zip",
+        "archiveFileName": "mvswifi_esp8266-1.0.2.zip",
         "dependencies": [
-            "ESP8266WiFi",
-            "ESP8266WebServer",
-            "EEPROM"
+            ""
         ],
-        "fullText": "mvswifi_esp82661.0.11.0.1, 1.0.0Vishal Jain <jain.vishal1695@gmail.com>Vishal Jain <jain.vishal1695@gmail.com>ESP8266 WiFi credential service using EEPROM storageUltra-minimal WiFi credential management optimized for ESP8266/NodeMCU hardware. Uses EEPROM storage for persistent WiFi credentials with minimal memory footprint. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.https://gitlab.com/Vishal1695/mvswifi_esp8266Communicationesp8266Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp8266-1.0.1.zipmvswifi_esp8266-1.0.1.zipESP8266WiFi, ESP8266WebServer, EEPROM"
+        "fullText": "mvswifi_esp82661.0.21.0.2, 1.0.1, 1.0.0Vishal Jain <jain.vishal1695@gmail.com>Vishal Jain <jain.vishal1695@gmail.com>ESP8266 WiFi credential service using EEPROM storageUltra-minimal WiFi credential management optimized for ESP8266/NodeMCU hardware. Uses EEPROM storage for persistent WiFi credentials with minimal memory footprint. Perfect for IoT devices that need WiFi provisioning via Android app. Simple 2-line integration with existing projects. Compatible with mvsConnect Android application.https://gitlab.com/Vishal1695/mvswifi_esp8266Communicationesp8266Contributedhttps://downloads.arduino.cc/libraries/gitlab.com/Vishal1695/mvswifi_esp8266-1.0.2.zipmvswifi_esp8266-1.0.2.zip"
     },
     {
         "name": "Windnerd_Core",
@@ -171674,8 +171668,8 @@
     },
     {
         "name": "AlashMotorControlLite",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7",
         "author": "Alash Engineering <support@alash-electronics.kz>",
         "maintainer": "Alash Engineering <support@alash-electronics.kz>",
         "sentence": "Simple and powerful DC motor control library for Arduino and ESP32.",
@@ -171685,12 +171679,12 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": null,
-        "url": "https://downloads.arduino.cc/libraries/github.com/Alash-electronics/AlashMotorControlLite-1.0.8.zip",
-        "archiveFileName": "AlashMotorControlLite-1.0.8.zip",
+        "url": "https://downloads.arduino.cc/libraries/github.com/Alash-electronics/AlashMotorControlLite-1.0.9.zip",
+        "archiveFileName": "AlashMotorControlLite-1.0.9.zip",
         "dependencies": [
             ""
         ],
-        "fullText": "AlashMotorControlLite1.0.81.0.8, 1.0.7Alash Engineering <support@alash-electronics.kz>Alash Engineering <support@alash-electronics.kz>Simple and powerful DC motor control library for Arduino and ESP32.Universal API for controlling DC motors through various drivers (L298N, TB6612FNG, ZK-5AD, DRV8833, BTS7960). Supports 4 driver modes, speed control from -100 to 100, ESP32 3.x ready. Includes 17 examples from basic to advanced (mecanum wheels). Perfect for robots, cars, and motor control projects.https://github.com/Alash-electronics/AlashMotorControlLiteDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Alash-electronics/AlashMotorControlLite-1.0.8.zipAlashMotorControlLite-1.0.8.zip"
+        "fullText": "AlashMotorControlLite1.0.91.0.9, 1.0.8, 1.0.7Alash Engineering <support@alash-electronics.kz>Alash Engineering <support@alash-electronics.kz>Simple and powerful DC motor control library for Arduino and ESP32.Universal API for controlling DC motors through various drivers (L298N, TB6612FNG, ZK-5AD, DRV8833, BTS7960). Supports 4 driver modes, speed control from -100 to 100, ESP32 3.x ready. Includes 17 examples from basic to advanced (mecanum wheels). Perfect for robots, cars, and motor control projects.https://github.com/Alash-electronics/AlashMotorControlLiteDevice Control*Contributedhttps://downloads.arduino.cc/libraries/github.com/Alash-electronics/AlashMotorControlLite-1.0.9.zipAlashMotorControlLite-1.0.9.zip"
     },
     {
         "name": "ue_i2c_icp_10111_sen",
