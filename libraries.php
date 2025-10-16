@@ -70,7 +70,7 @@ if (!is_array($decoded)) {
     exit(1);
 }
 
-$libraryEntries = $decoded['libraries'] ?? null;
+$libraryEntries = isset($decoded['libraries']) ? $decoded['libraries'] : null;
 if (!is_array($libraryEntries)) {
     fwrite(STDERR, "Unexpected library index format.\n");
     exit(1);
@@ -97,7 +97,7 @@ foreach ($libraryEntries as $library) {
     }
     $dependenciesStr = implode(', ', $dependencies);
 
-    $architecturesField = $library['architectures'] ?? array();
+    $architecturesField = isset($library['architectures']) ? $library['architectures'] : array();
     if (is_array($architecturesField)) {
         $architecturesStr = implode(', ', $architecturesField);
     } elseif (is_string($architecturesField)) {
@@ -106,7 +106,7 @@ foreach ($libraryEntries as $library) {
         $architecturesStr = '';
     }
 
-    $typesField = $library['types'] ?? array();
+    $typesField = isset($library['types']) ? $library['types'] : array();
     if (is_array($typesField)) {
         $typesStr = implode(', ', $typesField);
     } elseif (is_string($typesField)) {
@@ -119,13 +119,13 @@ foreach ($libraryEntries as $library) {
         'name' => $name,
         'version' => $version,
         'versions' => array($version),
-        'author' => $library['author'] ?? null,
-        'maintainer' => $library['maintainer'] ?? null,
-        'website' => $library['website'] ?? null,
-        'category' => $library['category'] ?? null,
+        'author' => isset($library['author']) ? $library['author'] : null,
+        'maintainer' => isset($library['maintainer']) ? $library['maintainer'] : null,
+        'website' => isset($library['website']) ? $library['website'] : null,
+        'category' => isset($library['category']) ? $library['category'] : null,
         'architectures' => $architecturesStr,
         'types' => $typesStr,
-        'repository' => $library['repository'] ?? null,
+        'repository' => isset($library['repository']) ? $library['repository'] : null,
         'dependencies' => $dependenciesStr,
     );
 
@@ -155,7 +155,7 @@ foreach ($aggregated as $item) {
         return version_compare($b, $a);
     });
 
-    $latestVersion = $versions[0] ?? $item['version'];
+    $latestVersion = isset($versions[0]) ? $versions[0] : $item['version'];
     $versionsStr = implode(', ', $versions);
     $dependenciesStr = $item['dependencies'];
 
