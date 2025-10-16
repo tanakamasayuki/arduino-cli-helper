@@ -1,6 +1,33 @@
 <?php
 // Fetch Arduino library index and export to docs/libraries.json
 
+$memoryTarget = '512M';
+if (function_exists('ini_set')) {
+    $currentLimit = ini_get('memory_limit');
+    if ($currentLimit !== false) {
+        if ($currentLimit === '-1') {
+            $memoryTarget = null;
+        } elseif (preg_match('/^(\d+)([KMG]?)/i', $currentLimit, $m)) {
+            $factor = 1;
+            $unit = strtoupper($m[2]);
+            if ($unit === 'K')
+                $factor = 1024;
+            if ($unit === 'M')
+                $factor = 1024 * 1024;
+            if ($unit === 'G')
+                $factor = 1024 * 1024 * 1024;
+            $currentBytes = (int) $m[1] * $factor;
+            $targetBytes = 512 * 1024 * 1024;
+            if ($currentBytes >= $targetBytes) {
+                $memoryTarget = null;
+            }
+        }
+    }
+    if ($memoryTarget !== null) {
+        ini_set('memory_limit', $memoryTarget);
+    }
+}
+
 $baseDir = __DIR__;
 $webDir = $baseDir . DIRECTORY_SEPARATOR . 'docs';
 $outPath = $webDir . DIRECTORY_SEPARATOR . 'libraries.json';
@@ -65,6 +92,7 @@ if ($rawData === null) {
 }
 
 $decoded = json_decode($rawData, true);
+unset($rawData);
 if (!is_array($decoded)) {
     fwrite(STDERR, "Failed to decode library index JSON.\n");
     exit(1);
@@ -176,9 +204,12 @@ foreach ($aggregated as $item) {
 
 // Encode and write JSON
 $jsonFlags = 0;
-if (defined('JSON_PRETTY_PRINT')) $jsonFlags |= JSON_PRETTY_PRINT;
-if (defined('JSON_UNESCAPED_UNICODE')) $jsonFlags |= JSON_UNESCAPED_UNICODE;
-if (defined('JSON_UNESCAPED_SLASHES')) $jsonFlags |= JSON_UNESCAPED_SLASHES;
+if (defined('JSON_PRETTY_PRINT'))
+    $jsonFlags |= JSON_PRETTY_PRINT;
+if (defined('JSON_UNESCAPED_UNICODE'))
+    $jsonFlags |= JSON_UNESCAPED_UNICODE;
+if (defined('JSON_UNESCAPED_SLASHES'))
+    $jsonFlags |= JSON_UNESCAPED_SLASHES;
 $json = json_encode($rows, $jsonFlags);
 if ($json === false || $json === null) {
     fwrite(STDERR, "Failed to encode JSON.\n");
