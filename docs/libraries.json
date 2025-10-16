@@ -129505,5 +129505,21 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DIYables ESP32 WebApps",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables",
+        "maintainer": "DIYables <support@diyables.io>",
+        "website": "https://diyables.io/webapps-esp32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables-ESP32-WebApps-Library.git",
+        "dependencies": [
+            "DIYables ESP32 WebServer",
+            "DIYables WebApps"
+        ]
     }
 ]
