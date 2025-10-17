@@ -101066,21 +101066,6 @@
         ]
     },
     {
-        "name": "MycilaPZEM004Tv3",
-        "version": "7.0.2",
-        "versions": "7.0.2, 7.0.1, 7.0.0, 6.0.0, 5.0.1, 5.0.0, 4.0.7, 4.0.6, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.0, 3.0.0, 2.1.0, 2.0.1, 2.0.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
-        "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
-        "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
-        "website": "https://github.com/mathieucarbou/MycilaPZEM004Tv3",
-        "category": "Other",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/mathieucarbou/MycilaPZEM004Tv3.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "FloatToAscii",
         "version": "1.0.4",
         "versions": "1.0.4, 1.0.3",
@@ -106256,7 +106241,7 @@
     {
         "name": "ICM45686",
         "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45686",
@@ -106271,7 +106256,7 @@
     {
         "name": "ICM45605",
         "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2-test1, 1.0.1, 1.0.0",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45605",
@@ -127088,8 +127073,8 @@
     },
     {
         "name": "FlyskyIBUS",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.0",
         "author": "derdoktor667",
         "maintainer": "derdoktor667",
         "website": "https://github.com/derdoktor667/FlyskyIBUS",
@@ -127730,7 +127715,7 @@
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
-        "repository": "https://github.com/ezz-30/arduino_tinkeriot.git",
+        "repository": "https://github.com/apauaie/arduino_tinkeriot.git",
         "dependencies": [
             ""
         ]
@@ -128139,21 +128124,6 @@
         "architectures": "",
         "types": "Contributed",
         "repository": "https://github.com/Harmony-Maker-Club/AIP1640_LED_Matrix.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "QuectelEC200U_CN",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.1.1",
-        "author": "misternegative21",
-        "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
-        "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/MISTERNEGATIVE21/QuectelEC200U.git",
         "dependencies": [
             ""
         ]
@@ -128594,21 +128564,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Chanatip112/HanumanMini.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "Pedro Robot",
-        "version": "1.0.3",
-        "versions": "1.0.3",
-        "author": "Almoutazar SAANDI",
-        "maintainer": "contact@pedrobot.com",
-        "website": "https://github.com/almtzr/Pedro",
-        "category": "Uncategorized",
-        "architectures": "arduino micro",
-        "types": "Contributed",
-        "repository": "https://github.com/almtzr/PedroRobot.git",
         "dependencies": [
             ""
         ]
@@ -129581,6 +129536,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/automatician/EEProm_Safe_Wear_Level.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MycilaPZEM",
+        "version": "8.0.0",
+        "versions": "8.0.0",
+        "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
+        "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
+        "website": "https://github.com/mathieucarbou/MycilaPZEM",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mathieucarbou/MycilaPZEM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "QuectelEC200U",
+        "version": "1.5.1",
+        "versions": "1.5.1",
+        "author": "misternegative21",
+        "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
+        "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MISTERNEGATIVE21/QuectelEC200U.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PedroRobot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Almtzr",
+        "maintainer": "Almtzr",
+        "website": "https://github.com/almtzr/Pedro",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/almtzr/PedroRobot.git",
         "dependencies": [
             ""
         ]
