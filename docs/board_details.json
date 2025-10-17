@@ -13195,7 +13195,7 @@
 },
   "Seeeduino:nrf52:tracker_t1000_e_lorawan": {
     "name": "Seeed Tracker T1000 E LoRaWAN",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "config_options": [
         {
             "option": "softdevice",
@@ -13251,7 +13251,7 @@
 },
   "Seeeduino:nrf52:wio_tracker_1110": {
     "name": "Seeed Wio Tracker 1110",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "config_options": [
         {
             "option": "softdevice",
@@ -13337,7 +13337,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840": {
     "name": "Seeed XIAO nRF52840",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "config_options": [
         {
             "option": "softdevice",
@@ -13378,7 +13378,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840Plus": {
     "name": "Seeed XIAO nRF52840 Plus",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "config_options": [
         {
             "option": "softdevice",
@@ -13419,7 +13419,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840Sense": {
     "name": "Seeed XIAO nRF52840 Sense",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "config_options": [
         {
             "option": "softdevice",
@@ -13460,7 +13460,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840SensePlus": {
     "name": "Seeed XIAO nRF52840 Sense Plus",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "config_options": [
         {
             "option": "softdevice",
