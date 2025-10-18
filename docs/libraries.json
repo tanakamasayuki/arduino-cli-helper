@@ -129585,5 +129585,23 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "roo_transport",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dejwk <dejwk.oss@gmail.com>",
+        "maintainer": "Dejwk <dejwk.oss@gmail.com>",
+        "website": "https://github.com/dejwk/roo_transport",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dejwk/roo_transport.git",
+        "dependencies": [
+            "roo_collections",
+            "roo_io",
+            "roo_logging",
+            "roo_threads"
+        ]
     }
 ]
