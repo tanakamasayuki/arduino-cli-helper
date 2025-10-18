@@ -128849,8 +128849,8 @@
     },
     {
         "name": "SSD1306",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Volodymyr Kumpan",
         "maintainer": "Volodymyr Kumpan <v.kumpan@outlook.com>",
         "website": "https://github.com/vkumpan/SSD1306",
@@ -129513,8 +129513,8 @@
     },
     {
         "name": "EasyENC",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "Solder&Code",
         "maintainer": "Solder&Code",
         "website": "https://github.com/MAKE-arduino/-EasyENC",
