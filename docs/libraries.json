@@ -108409,8 +108409,8 @@
     },
     {
         "name": "roo_prefs",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_prefs",
@@ -129602,6 +129602,22 @@
             "roo_io",
             "roo_logging",
             "roo_threads"
+        ]
+    },
+    {
+        "name": "AlgoIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fernando Carello <fernando@gt50.com>",
+        "maintainer": "Fernando Carello <fernando@gt50.com>",
+        "website": "https://github.com/gt50/AlgoIoT",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nickthelegend/AlgoSense.git",
+        "dependencies": [
+            "ArduinoJson",
+            "Base64"
         ]
     }
 ]
