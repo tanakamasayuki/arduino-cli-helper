@@ -108409,8 +108409,8 @@
     },
     {
         "name": "roo_prefs",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_prefs",
@@ -108419,7 +108419,6 @@
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_prefs.git",
         "dependencies": [
-            "Preferences",
             "roo_backport"
         ]
     },
@@ -129266,8 +129265,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/SegMap595",
