@@ -53248,8 +53248,8 @@
     },
     {
         "name": "Embedded Template Library ETL",
-        "version": "20.43.4",
-        "versions": "20.43.4, 20.43.3, 20.43.2, 20.43.1, 20.40.0, 20.39.4, 20.38.17, 20.38.11, 20.22.0, 20.11.5, 20.11.4, 20.2.2, 19.3.9, 19.3.8, 19.3.6",
+        "version": "20.44.1",
+        "versions": "20.44.1, 20.43.4, 20.43.3, 20.43.2, 20.43.1, 20.40.0, 20.39.4, 20.38.17, 20.38.11, 20.22.0, 20.11.5, 20.11.4, 20.2.2, 19.3.9, 19.3.8, 19.3.6",
         "author": "John Wellbelove <john.wellbelove@etlcpp.com>",
         "maintainer": "John Wellbelove <john.wellbelove@etlcpp.com>",
         "website": "https://www.etlcpp.com/",
@@ -98713,8 +98713,8 @@
     },
     {
         "name": "PxMatrix-1R",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Aleksandra Menschikova, Dominic Buchstaller <dbuchstaller@web.de>",
         "maintainer": "Aleksandra Menschikova <aleksandra.menschikova@gmail.com>",
         "website": "https://github.com/tort32/PxMatrix",
@@ -108442,8 +108442,8 @@
     },
     {
         "name": "roo_wifi",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_wifi",
@@ -108453,10 +108453,7 @@
         "repository": "https://github.com/dejwk/roo_wifi.git",
         "dependencies": [
             "roo_collections",
-            "roo_logging",
-            "roo_prefs",
-            "roo_scheduler",
-            "roo_time"
+            "roo_prefs"
         ]
     },
     {
@@ -108548,8 +108545,8 @@
     },
     {
         "name": "roo_windows_wifi",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_windows",
@@ -108558,6 +108555,7 @@
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_windows_wifi.git",
         "dependencies": [
+            "roo_backport",
             "roo_wifi",
             "roo_windows"
         ]
