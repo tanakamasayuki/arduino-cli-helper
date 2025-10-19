@@ -108425,8 +108425,8 @@
     },
     {
         "name": "roo_control",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_control",
@@ -108435,14 +108435,9 @@
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_control.git",
         "dependencies": [
-            "nanopb",
-            "roo_collections",
             "roo_logging",
-            "roo_prefs",
             "roo_quantity",
-            "roo_scheduler",
-            "roo_time",
-            "roo_transceivers"
+            "roo_scheduler"
         ]
     },
     {
@@ -129664,6 +129659,21 @@
         "repository": "https://github.com/dejwk/roo_locale.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "PlugAndPlay",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "4Project",
+        "maintainer": "4Project <info@4project.co.il>",
+        "website": "https://github.com/4project-co-il/PlugAndPlay",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/4project-co-il/PlugAndPlay.git",
+        "dependencies": [
+            "EventBasedFramework"
         ]
     }
 ]
