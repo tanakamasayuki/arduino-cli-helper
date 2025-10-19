@@ -45514,8 +45514,8 @@
     },
     {
         "name": "HT16K33",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HT16K33",
@@ -117421,8 +117421,8 @@
     },
     {
         "name": "EventBasedFramework",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.6, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.6, 0.1.0",
         "author": "4Project",
         "maintainer": "4Project <info@4project.co.il>",
         "website": "https://github.com/4project-co-il/EBF",
@@ -117431,7 +117431,7 @@
         "types": "Contributed",
         "repository": "https://github.com/4project-co-il/EBF.git",
         "dependencies": [
-            ""
+            "Servo"
         ]
     },
     {
@@ -129631,6 +129631,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Hamas888/ChronoLog.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "logic",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/logic",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/Logic.git",
         "dependencies": [
             ""
         ]
