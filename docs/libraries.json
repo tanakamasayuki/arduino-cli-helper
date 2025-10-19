@@ -98392,8 +98392,8 @@
     },
     {
         "name": "roo_icons",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.3",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_icons",
@@ -108466,8 +108466,8 @@
     },
     {
         "name": "roo_windows",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_windows",
@@ -108478,11 +108478,12 @@
         "dependencies": [
             "roo_collections",
             "roo_display",
+            "roo_locale",
             "roo_logging",
             "roo_icons",
             "roo_io",
-            "roo_time",
-            "roo_scheduler"
+            "roo_scheduler",
+            "roo_time"
         ]
     },
     {
@@ -129622,8 +129623,8 @@
     },
     {
         "name": "ChronoLog",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1",
         "author": "Hamas Saeed <hamasaeed888@gmail.com>",
         "maintainer": "Hamas Saeed <hamasaeed888@gmail.com>",
         "website": "https://github.com/Hamas888/ChronoLog",
@@ -129646,6 +129647,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/Logic.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "roo_locale",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Dejwk <dejwk.oss@gmail.com>",
+        "maintainer": "Dejwk <dejwk.oss@gmail.com>",
+        "website": "https://github.com/dejwk/roo_locale",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dejwk/roo_locale.git",
         "dependencies": [
             ""
         ]
