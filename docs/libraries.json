@@ -129622,8 +129622,8 @@
     },
     {
         "name": "ChronoLog",
-        "version": "1.1.1",
-        "versions": "1.1.1",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1",
         "author": "Hamas Saeed <hamasaeed888@gmail.com>",
         "maintainer": "Hamas Saeed <hamasaeed888@gmail.com>",
         "website": "https://github.com/Hamas888/ChronoLog",
