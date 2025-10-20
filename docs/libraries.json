@@ -129702,5 +129702,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "LTC2625",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Skipper Wraith <skipperwraith@gmail.com>",
+        "maintainer": "Skipper Wraith <skipperwraith@gmail.com>",
+        "website": "https://github.com/skipperwraith/LTC2625",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/skipperwraith/LTC2625.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
