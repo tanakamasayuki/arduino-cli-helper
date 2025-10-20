@@ -59580,8 +59580,8 @@
     },
     {
         "name": "esp-fs-webserver",
-        "version": "2.0.9",
-        "versions": "2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.3, 1.2.2, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.0, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "2.0.10",
+        "versions": "2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.3, 1.2.2, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.0, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "maintainer": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "website": "https://github.com/cotestatnt/esp-fs-webserver",
@@ -129430,8 +129430,8 @@
     },
     {
         "name": "probot",
-        "version": "0.1.2",
-        "versions": "0.1.2",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.2",
         "author": "Tuna Gül",
         "maintainer": "Tuna Gül <tunagul54@gmail.com>",
         "website": "https://github.com/nfrproducts/probot-lib",
@@ -129684,6 +129684,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/geekfactory/GFLED.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FineTuneBMX160",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "FineTune",
+        "maintainer": "David Secades <davidsecacontrol@gmail.com>",
+        "website": "https://github.com/davidsecacontrol/FineTune-BMX160",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/davidsecacontrol/FineTune-BMX160.git",
         "dependencies": [
             ""
         ]
