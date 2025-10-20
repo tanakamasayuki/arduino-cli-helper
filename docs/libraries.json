@@ -129672,5 +129672,20 @@
         "dependencies": [
             "EventBasedFramework"
         ]
+    },
+    {
+        "name": "Geek Factory GFLED Library",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Geek Factory <www.geekfactory.mx>",
+        "maintainer": "Jesus Ruben Santa Anna Zamudio <www.geekfactory.mx>",
+        "website": "https://github.com/geekfactory/GFLED",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/geekfactory/GFLED.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
