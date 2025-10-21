@@ -129521,13 +129521,13 @@
     },
     {
         "name": "EEProm_Safe_Wear_Level",
-        "version": "25.10.6",
-        "versions": "25.10.6, 25.10.5",
+        "version": "25.10.7",
+        "versions": "25.10.7, 25.10.6, 25.10.5",
         "author": "Torsten Frieser / automatician",
         "maintainer": "Torsten Frieser / automatician",
         "website": "https://github.com/automatician/EEProm_Safe_Wear_Level",
         "category": "Data Storage",
-        "architectures": "*",
+        "architectures": "",
         "types": "Contributed",
         "repository": "https://github.com/automatician/EEProm_Safe_Wear_Level.git",
         "dependencies": [
