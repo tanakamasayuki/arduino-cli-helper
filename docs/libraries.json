@@ -129732,5 +129732,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Bridgetek_EVE5",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bridgetek",
+        "maintainer": "Bridgetek <support.emea@brtchip.com>",
+        "website": "https://github.com/Bridgetek/EVE5-Arduino-Dev",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bridgetek/EVE5-Arduino-Dev.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
