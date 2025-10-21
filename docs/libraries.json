@@ -129717,5 +129717,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MPU6050_VibrationRMS",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Iftahul Yusro",
+        "maintainer": "Iftahul Yusro <iftahulyusro@gmail.com>",
+        "website": "https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
