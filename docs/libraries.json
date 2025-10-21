@@ -129747,5 +129747,36 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "KK-Buffer",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Kay Kasper",
+        "maintainer": "Kay Kasper",
+        "website": "https://github.com/kay-bs/KK-Buffer",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kay-bs/KK-Buffer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "JMBase",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Juanjo Martín",
+        "maintainer": "Juanjo Martín",
+        "website": "https://github.com/juanjo-martin/JMBase",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/juanjomartinf/JMBase.git",
+        "dependencies": [
+            "WiFi",
+            "PubSubClient"
+        ]
     }
 ]
