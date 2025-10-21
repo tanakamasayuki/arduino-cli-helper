@@ -127701,13 +127701,13 @@
     },
     {
         "name": "tinkeriot",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.5, 1.0.4, 1.0.0",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.5, 1.0.4, 1.0.0",
         "author": "Fauzan Khairi bin Che Harun <fauzan@utm.my>",
         "maintainer": "Fauzan Khairi bin Che Harun <fauzan@utm.my>",
         "website": "https://github.com/apauaie/arduino_tinkeriot",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/apauaie/arduino_tinkeriot.git",
         "dependencies": [
