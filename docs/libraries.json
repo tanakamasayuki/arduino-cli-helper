@@ -89407,13 +89407,13 @@
     },
     {
         "name": "DIYables_IRcontroller",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "DIYables.io",
         "maintainer": "DIYables.io (diyables.io@gmail.com)",
         "website": "https://diyables.io/products/infrared-ir-remote-control-kits-with-controller-and-receiver",
         "category": "Communication",
-        "architectures": "avr, megaavr, samd, esp8266, esp32, stm32, STM32F1, mbed, mbed_nano, rp2040, mbed_rp2040",
+        "architectures": "avr, megaavr, samd, esp8266, esp32, stm32, STM32F1, mbed, mbed_nano, rp2040, mbed_rp2040, renesas_uno",
         "types": "Contributed",
         "repository": "https://github.com/DIYables/DIYables_IRcontroller.git",
         "dependencies": [
@@ -128670,8 +128670,8 @@
     },
     {
         "name": "VLCB",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Sven Rosvall <sven@rosvall.ie>",
         "maintainer": "Sven Rosvall <sven@rosvall.ie>",
         "website": "https://github.com/SvenRosvall/VLCB-Arduino",
