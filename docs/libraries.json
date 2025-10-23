@@ -120986,8 +120986,8 @@
     },
     {
         "name": "Arduino_NetworkConfigurator",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.0.1",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.0.1",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_NetworkConfigurator",
@@ -127551,8 +127551,8 @@
     },
     {
         "name": "ST7305_MonoTFT_Library",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.0.1",
         "author": "FT-tele",
         "maintainer": "FT-tele<ft_telecom@outlook.com>",
         "website": "https://github.com/FT-tele/",
@@ -129855,6 +129855,21 @@
         "repository": "https://github.com/DFRobot/DFRobot_CT1780.git",
         "dependencies": [
             "OneWire"
+        ]
+    },
+    {
+        "name": "Sensirion I2C SFM3505",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sensirion",
+        "maintainer": "Sensirion",
+        "website": "https://github.com/Sensirion/arduino-i2c-sfm3505",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Sensirion/arduino-i2c-sfm3505.git",
+        "dependencies": [
+            "Sensirion Core"
         ]
     }
 ]
