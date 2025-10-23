@@ -128872,8 +128872,8 @@
     },
     {
         "name": "TimerKernel",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.1.3, 1.0.3",
+        "version": "1.3.4",
+        "versions": "1.3.4, 1.2.3, 1.1.3, 1.0.3",
         "author": "MrDev-5000",
         "maintainer": "MrDev-5000",
         "website": "https://github.com/MrDev-5000/TimerKernel",
