@@ -73417,13 +73417,13 @@
     },
     {
         "name": "Preferences",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0",
+        "version": "2.2.2",
+        "versions": "2.2.2, 2.1.0, 2.0.0",
         "author": "Volodymyr Shymanskyy",
         "maintainer": "Volodymyr Shymanskyy <vshymanskyi@gmail.com>",
         "website": "https://github.com/vshymanskyy/Preferences",
         "category": "Data Storage",
-        "architectures": "all",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/vshymanskyy/Preferences.git",
         "dependencies": [
@@ -129870,6 +129870,21 @@
         "repository": "https://github.com/Sensirion/arduino-i2c-sfm3505.git",
         "dependencies": [
             "Sensirion Core"
+        ]
+    },
+    {
+        "name": "Arduino_LTR381RGB",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Arduino",
+        "maintainer": "Arduino <info@arduino.cc>",
+        "website": "https://github.com/arduino-libraries/Arduino_LTR381RGB",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Arduino",
+        "repository": "https://github.com/arduino-libraries/Arduino_LTR381RGB.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
