@@ -111059,8 +111059,8 @@
     },
     {
         "name": "WindQX",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1",
         "author": "Carlos Orts <mcorts69@gmail.com>",
         "maintainer": "Carlos Orts <mcorts69@gmail.com>",
         "website": "https://github.com/McOrts/WindQX_Library",
