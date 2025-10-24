@@ -129886,5 +129886,24 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "STM32duino X-NUCLEO-IKS5A1",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "STMicroelectronics",
+        "maintainer": "stm32duino",
+        "website": "https://github.com/stm32duino/X-NUCLEO-IKS5A1",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/stm32duino/X-NUCLEO-IKS5A1.git",
+        "dependencies": [
+            "STM32duino ISM6HG256X",
+            "STM32duino IIS2DULPX",
+            "STM32duino ISM330IS",
+            "STM32duino IIS2MDC",
+            "STM32duino ILPS22QS"
+        ]
     }
 ]
