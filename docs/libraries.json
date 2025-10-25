@@ -52278,8 +52278,8 @@
     },
     {
         "name": "mrm-servo",
-        "version": "0.0.12",
-        "versions": "0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1, 0.0.0",
+        "version": "0.0.13",
+        "versions": "0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1, 0.0.0",
         "author": "Zoran Pribičević <priba@microline.hr>",
         "maintainer": "Zoran Pribičević <priba@microline.hr>",
         "website": "https://github.com/PribaNosati/mrm-servo",
@@ -56073,8 +56073,8 @@
     },
     {
         "name": "MPU9250_WE",
-        "version": "1.2.16",
-        "versions": "1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.2.17",
+        "versions": "1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "maintainer": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "website": "https://github.com/wollewald/MPU9250_WE",
