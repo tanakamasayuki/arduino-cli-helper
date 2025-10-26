@@ -129972,5 +129972,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "NextionControl",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Si Carter <s1cart3r@gmail.com>",
+        "maintainer": "Si Carter <s1cart3r@gmail.com>",
+        "website": "https://github.com/k3ldar/NextionControl",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/k3ldar/NextionControl.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
