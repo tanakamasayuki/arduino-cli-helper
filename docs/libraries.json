@@ -52417,8 +52417,8 @@
     },
     {
         "name": "HomeSpan",
-        "version": "2.1.5",
-        "versions": "2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 2.0.0-rc.1, 1.9.1, 1.9.0, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1",
+        "version": "2.1.6",
+        "versions": "2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 2.0.0-rc.1, 1.9.1, 1.9.0, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1",
         "author": "Gregg <homespan@icloud.com>",
         "maintainer": "Gregg <homespan@icloud.com>",
         "website": "https://github.com/HomeSpan/HomeSpan",
@@ -129265,8 +129265,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/SegMap595",
@@ -129690,8 +129690,8 @@
     },
     {
         "name": "FineTuneBMX160",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "FineTune",
         "maintainer": "David Secades <davidsecacontrol@gmail.com>",
         "website": "https://github.com/davidsecacontrol/FineTune-BMX160",
