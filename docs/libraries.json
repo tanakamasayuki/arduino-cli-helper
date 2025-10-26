@@ -130002,5 +130002,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ChipNorm_TM1637",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Enrique Fernandez for ChipNorm by FMH",
+        "maintainer": "Enrique Fernandez for ChipNorm by FMH",
+        "website": "https://github.com/chipnorm/ChipNorm_TM1637.git",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/chipnorm/TM1637.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
