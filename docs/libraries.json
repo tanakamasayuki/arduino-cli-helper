@@ -114366,8 +114366,8 @@
     },
     {
         "name": "InputEvents",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.5.2",
+        "versions": "1.5.2, 1.5.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Philip Fletcher <philip.fletcher@stutchbury.com>",
         "maintainer": "Philip Fletcher <philip.fletcher@stutchbury.com>",
         "website": "https://github.com/Stutchbury/InputEvents",
