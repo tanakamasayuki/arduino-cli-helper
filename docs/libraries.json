@@ -130017,5 +130017,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "HandaDigitalSpeaker",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Davinder Handa",
+        "maintainer": "Davinder Handa",
+        "website": "https://github.com/davinderhanda/HandaDigitalSound",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DavinderHanda/HandaDigitalSpeaker.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
