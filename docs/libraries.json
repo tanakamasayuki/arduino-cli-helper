@@ -128887,8 +128887,8 @@
     },
     {
         "name": "PZEMPlus",
-        "version": "0.5.3",
-        "versions": "0.5.3, 0.5.0",
+        "version": "0.6.2",
+        "versions": "0.6.2, 0.5.3, 0.5.0",
         "author": "Lucas Hudson",
         "maintainer": "Lucas Hudson",
         "website": "https://github.com/lucashudson-eng/PZEMPlus",
