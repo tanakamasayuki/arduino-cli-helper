@@ -81154,8 +81154,8 @@
     },
     {
         "name": "LIN master portable",
-        "version": "1.7.0",
-        "versions": "1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0",
+        "version": "1.8.0",
+        "versions": "1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0",
         "author": "Georg Icking-Konert",
         "maintainer": "Georg Icking-Konert (gicking)",
         "website": "https://github.com/gicking/LIN_master_portable_Arduino",
@@ -81164,7 +81164,8 @@
         "types": "Contributed",
         "repository": "https://github.com/gicking/LIN_master_portable_Arduino.git",
         "dependencies": [
-            ""
+            "NeoHWSerial",
+            "EspSoftwareSerial"
         ]
     },
     {
@@ -130121,6 +130122,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/PTSolns/PTSolns_AHTx.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Everyday Pixel Fonts",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "VEXED,Daniel Egnor",
+        "maintainer": "Daniel Egnor",
+        "website": "https://github.com/egnor/everyday_pixel_fonts",
+        "category": "Display",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/egnor/everyday_pixel_fonts.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PTSolns_VEML7700",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "PTSolns",
+        "maintainer": "PTSolns <contact@ptsolns.com>",
+        "website": "https://docs.ptsolns.com/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PTSolns/PTSolns_VEML7700.git",
         "dependencies": [
             ""
         ]
