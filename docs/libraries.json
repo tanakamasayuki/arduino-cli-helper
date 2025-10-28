@@ -130047,5 +130047,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "FastRGB",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Ben Stokman",
+        "maintainer": "Ben Stokman <ben.stokman@protonmail.com>",
+        "website": "https://git.benstokman.me/benjistokman/FastRGB",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/benjistokman/FastRGB.git",
+        "dependencies": [
+            "arxsmartptr"
+        ]
     }
 ]
