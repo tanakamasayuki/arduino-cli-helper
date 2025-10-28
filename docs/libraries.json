@@ -116536,8 +116536,8 @@
     },
     {
         "name": "LIN slave portable",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Georg Icking-Konert",
         "maintainer": "Georg Icking-Konert (gicking)",
         "website": "https://github.com/gicking/LIN_slave_portable_Arduino",
@@ -116546,7 +116546,8 @@
         "types": "Contributed",
         "repository": "https://github.com/gicking/LIN_slave_portable_Arduino.git",
         "dependencies": [
-            "NeoHWSerial"
+            "NeoHWSerial",
+            "EspSoftwareSerial"
         ]
     },
     {
@@ -130044,6 +130045,82 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/DigitalCodesign/MentorBit-FinalCarrera.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RCSwitchRmt",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Efrain Ovalle (Upartech)",
+        "maintainer": "Efrain Ovalle <contacto@upartech.com>",
+        "website": "https://github.com/Upartech/RCSwitchRmt",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Upartech/RCSwitchRmt.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UniversalRadioWSN",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Francisco Rosales <franciscorosaleshuey@gmail.com>, Omar Tox",
+        "maintainer": "Francisco Rosales <franciscorosaleshuey@gmail.com>",
+        "website": "https://github.com/FranciscoRos/UniversalRadioWSN",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/FranciscoRos/UniversalRadioWSN.git",
+        "dependencies": [
+            "LoRa",
+            "RF24"
+        ]
+    },
+    {
+        "name": "AdaptiveTXWSN",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Francisco Rosales <franciscorosaleshuey@gmail.com>, Omar Tox",
+        "maintainer": "Francisco Rosales <franciscorosaleshuey@gmail.com>",
+        "website": "https://github.com/FranciscoRos/AdaptiveTXWSN",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/FranciscoRos/AdaptiveTXWSN.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CodecWSN",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Francisco Rosales Huey",
+        "maintainer": "WSN Project",
+        "website": "https://github.com/FranciscoRos/CodecWSN",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/FranciscoRos/CodecWSN.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PTSolns_AHTx",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "PTSolns",
+        "maintainer": "PTSolns <contact@ptsolns.com>",
+        "website": "https://ptsolns.com/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PTSolns/PTSolns_AHTx.git",
         "dependencies": [
             ""
         ]
