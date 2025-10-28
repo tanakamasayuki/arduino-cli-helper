@@ -99506,8 +99506,8 @@
     },
     {
         "name": "MycilaJSY",
-        "version": "15.3.8",
-        "versions": "15.3.8, 15.3.7, 15.3.6, 15.3.5, 15.3.4, 15.3.3, 15.3.2, 15.3.1, 15.3.0, 15.2.0, 15.1.0, 15.0.4, 15.0.3, 15.0.2, 15.0.1, 15.0.0, 14.0.2, 14.0.1, 14.0.0, 13.1.1, 13.1.0, 13.0.4, 13.0.3, 13.0.2, 13.0.1, 13.0.0, 12.0.0, 11.2.0, 11.1.4, 11.1.3, 11.1.2, 11.1.1, 11.1.0, 11.0.4, 11.0.3, 11.0.1, 11.0.0, 10.1.0, 10.0.1, 3.0.1, 3.0.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0",
+        "version": "15.3.9",
+        "versions": "15.3.9, 15.3.8, 15.3.7, 15.3.6, 15.3.5, 15.3.4, 15.3.3, 15.3.2, 15.3.1, 15.3.0, 15.2.0, 15.1.0, 15.0.4, 15.0.3, 15.0.2, 15.0.1, 15.0.0, 14.0.2, 14.0.1, 14.0.0, 13.1.1, 13.1.0, 13.0.4, 13.0.3, 13.0.2, 13.0.1, 13.0.0, 12.0.0, 11.2.0, 11.1.4, 11.1.3, 11.1.2, 11.1.1, 11.1.0, 11.0.4, 11.0.3, 11.0.1, 11.0.0, 10.1.0, 10.0.1, 3.0.1, 3.0.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaJSY",
@@ -103527,26 +103527,6 @@
         "repository": "https://github.com/board707/DMD_STM32.git",
         "dependencies": [
             "Adafruit GFX Library"
-        ]
-    },
-    {
-        "name": "Modulino",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
-        "author": "Arduino",
-        "maintainer": "Arduino <info@arduino.cc>",
-        "website": "https://github.com/arduino-libraries/Modulino",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Arduino",
-        "repository": "https://github.com/arduino-libraries/Arduino_Modulino.git",
-        "dependencies": [
-            "STM32duino VL53L4CD",
-            "STM32duino VL53L4ED",
-            "Arduino_LSM6DSOX",
-            "Arduino_LPS22HB",
-            "Arduino_HS300x",
-            "ArduinoGraphics"
         ]
     },
     {
@@ -110798,21 +110778,6 @@
         "repository": "https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library.git",
         "dependencies": [
             ""
-        ]
-    },
-    {
-        "name": "esp-brookesia",
-        "version": "0.4.2",
-        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0",
-        "author": "espressif",
-        "maintainer": "espressif",
-        "website": "https://github.com/espressif/esp-brookesia",
-        "category": "Other",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/espressif/esp-brookesia.git",
-        "dependencies": [
-            "lvgl"
         ]
     },
     {
@@ -119639,21 +119604,6 @@
         ]
     },
     {
-        "name": "esp-boost",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
-        "author": "espressif",
-        "maintainer": "espressif",
-        "website": "https://github.com/espressif/esp-boost",
-        "category": "Other",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/espressif/esp-boost.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "RoboFace",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -122253,21 +122203,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/magnus-cpu/NexNTC.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "Arduino_CapacitiveTouchUNO",
-        "version": "1.4.0",
-        "versions": "1.4.0",
-        "author": "Cristian Dragomir",
-        "maintainer": "Cristian Dragomir",
-        "website": "https://github.com/arduino-libraries/Arduino_CapacitiveTouch",
-        "category": "Signal Input/Output",
-        "architectures": "renesas_uno",
-        "types": "Arduino",
-        "repository": "https://github.com/arduino-libraries/Arduino_CapacitiveTouch.git",
         "dependencies": [
             ""
         ]
@@ -127415,21 +127350,6 @@
         ]
     },
     {
-        "name": "king_Armin_sparkyTDAxis12_I2C_lib",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Armin",
-        "maintainer": "real.armin.ghajari2005@gmail.com",
-        "website": "https://github.com/Rmin-code2005/sparkey_gyro_I2C",
-        "category": "Sensors",
-        "architectures": "avr",
-        "types": "Contributed",
-        "repository": "https://github.com/Rmin-code2005/sparkey_gyro_I2C.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "Sensirion I2C SEN63C",
         "version": "0.1.0",
         "versions": "0.1.0",
@@ -127635,21 +127555,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/7semi-solutions/7Semi-ADS7830-Arduino-Library.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "sparkey_gyro_I2C",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Armin",
-        "maintainer": "real.armin.ghajari2005@gmail.com",
-        "website": "https://github.com/Rmin-code2005/sparkey_gyro_i2c",
-        "category": "Sensors",
-        "architectures": "avr",
-        "types": "Contributed",
-        "repository": "https://github.com/Rmin-code2005/sparkey_gyro_i2c.git",
         "dependencies": [
             ""
         ]
@@ -129522,7 +129427,7 @@
     {
         "name": "EEProm_Safe_Wear_Level",
         "version": "25.10.7",
-        "versions": "25.10.7, 25.10.6, 25.10.5",
+        "versions": "25.10.7",
         "author": "Torsten Frieser / automatician",
         "maintainer": "Torsten Frieser / automatician",
         "website": "https://github.com/automatician/EEProm_Safe_Wear_Level",
@@ -129536,8 +129441,8 @@
     },
     {
         "name": "MycilaPZEM",
-        "version": "8.0.0",
-        "versions": "8.0.0",
+        "version": "8.0.1",
+        "versions": "8.0.1, 8.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaPZEM",
@@ -130061,6 +129966,86 @@
         "repository": "https://github.com/benjistokman/FastRGB.git",
         "dependencies": [
             "arxsmartptr"
+        ]
+    },
+    {
+        "name": "Arduino_Modulino",
+        "version": "0.6.0",
+        "versions": "0.6.0",
+        "author": "Arduino",
+        "maintainer": "Arduino <info@arduino.cc>",
+        "website": "https://github.com/arduino-libraries/Modulino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Arduino",
+        "repository": "https://github.com/arduino-libraries/Arduino_Modulino.git",
+        "dependencies": [
+            "STM32duino VL53L4CD",
+            "STM32duino VL53L4ED",
+            "Arduino_LSM6DSOX",
+            "Arduino_LPS22HB",
+            "Arduino_HS300x",
+            "ArduinoGraphics"
+        ]
+    },
+    {
+        "name": "Arduino_CapacitiveTouch",
+        "version": "1.4.0",
+        "versions": "1.4.0",
+        "author": "Arduino",
+        "maintainer": "Arduino <info@arduino.cc>",
+        "website": "https://github.com/arduino-libraries/Arduino_CapacitiveTouch",
+        "category": "Signal Input/Output",
+        "architectures": "renesas_uno",
+        "types": "Arduino",
+        "repository": "https://github.com/arduino-libraries/Arduino_CapacitiveTouch.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TLCBuffer",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/TLCBuffer",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/TLCBuffer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RLCBuffer",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/RLCBuffer",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/RLCBuffer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MentorBit-FC",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Digital Codesign",
+        "maintainer": "Digital Codesign",
+        "website": "https://github.com/DigitalCodesign/MentorBit-FinalCarrera/tree/main",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DigitalCodesign/MentorBit-FinalCarrera.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
