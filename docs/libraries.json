@@ -130170,5 +130170,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DWIN Unified",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Recep Senbas",
+        "maintainer": "Recep Senbas <recepsenbas@gmail.com>",
+        "website": "https://github.com/recepsenbas/DWIN-Unified",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/recepsenbas/DWIN-Unified.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
