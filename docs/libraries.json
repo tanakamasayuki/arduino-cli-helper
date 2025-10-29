@@ -121375,8 +121375,8 @@
     },
     {
         "name": "ScioSense_ENS190",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "ScioSense",
         "maintainer": "ScioSense",
         "website": "https://github.com/sciosense/ens190-arduino",
@@ -127668,8 +127668,8 @@
     },
     {
         "name": "SnapshotBus",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/littlemanbuilds/SnapshotBus",
@@ -130199,6 +130199,21 @@
         "repository": "https://github.com/chipnorm/VL53L0X.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "EnergyWSN",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Francisco Rosales <franciscorosaleshuey@gmail.com>, Omar Tox <toxdzulomar@gmail.com>",
+        "maintainer": "Francisco Rosales <franciscorosaleshuey@gmail.com>",
+        "website": "https://github.com/FranciscoRos/EnergyWSN",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/FranciscoRos/EnergyWSN.git",
+        "dependencies": [
+            "Low-Power"
         ]
     }
 ]
