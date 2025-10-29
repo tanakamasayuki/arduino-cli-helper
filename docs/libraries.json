@@ -130230,5 +130230,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "v202_protocol",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "rochat2",
+        "maintainer": "rochat2",
+        "website": "https://github.com/rochat2/v202_protocol",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rochat2/v202_protocol.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
