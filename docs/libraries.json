@@ -130215,5 +130215,20 @@
         "dependencies": [
             "Low-Power"
         ]
+    },
+    {
+        "name": "DAMM",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/DAMM",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/DAMM.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
