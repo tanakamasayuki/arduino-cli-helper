@@ -129972,8 +129972,8 @@
     },
     {
         "name": "Arduino_Modulino",
-        "version": "0.6.0",
-        "versions": "0.6.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Modulino",
@@ -130152,6 +130152,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/PTSolns/PTSolns_VEML7700.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OK Arduino Logging",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Dan Egnor",
+        "maintainer": "egnor@ofb.net",
+        "website": "https://github.com/egnor/ok_arduino_logging",
+        "category": "Communication",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/egnor/ok_arduino_logging.git",
         "dependencies": [
             ""
         ]
