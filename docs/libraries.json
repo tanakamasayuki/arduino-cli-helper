@@ -122576,8 +122576,8 @@
     },
     {
         "name": "ScioSense_UFM01",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "ScioSense",
         "maintainer": "ScioSense <info@sciosense.com>",
         "website": "https://github.com/sciosense/ufm01-arduino",
