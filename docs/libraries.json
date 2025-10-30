@@ -130245,5 +130245,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SoftWire_CH32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jobit Joseph",
+        "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "website": "https://github.com/jobitjoseph/SoftWire_CH32",
+        "category": "Communication",
+        "architectures": "ch32v",
+        "types": "Contributed",
+        "repository": "https://github.com/jobitjoseph/SoftWire_CH32.git",
+        "dependencies": [
+            "CH32X035_USBSerial"
+        ]
     }
 ]
