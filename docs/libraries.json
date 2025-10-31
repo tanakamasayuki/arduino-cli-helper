@@ -130306,5 +130306,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MCP23009E",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Sébastien NEDJAR (sebastien.nedjar@univ-amu.fr)",
+        "maintainer": "Sébastien NEDJAR (sebastien.nedjar@univ-amu.fr)",
+        "website": "https://github.com/steamicc/MCP23009E",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/steamicc/MCP23009E.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
