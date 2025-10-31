@@ -102110,8 +102110,8 @@
     },
     {
         "name": "EQSP32",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.2.0-beta, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.2.0-beta, 0.1.2, 0.1.1, 0.1.0",
         "author": "Erqos Technologies info@erqos.com",
         "maintainer": "Erqos Technologies",
         "website": "https://erqos.com/",
@@ -130053,8 +130053,8 @@
     },
     {
         "name": "RCSwitchRmt",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
         "author": "Efrain Ovalle (Upartech)",
         "maintainer": "Efrain Ovalle <contacto@upartech.com>",
         "website": "https://github.com/Upartech/RCSwitchRmt",
@@ -130273,6 +130273,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/pbudel/QuarkX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32SerialCtl",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/ESP32SerialCtl",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/ESP32SerialCtl.git",
         "dependencies": [
             ""
         ]
