@@ -108406,8 +108406,8 @@
     },
     {
         "name": "roo_control",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_control",
@@ -108423,8 +108423,8 @@
     },
     {
         "name": "roo_wifi",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_wifi",
@@ -108508,8 +108508,8 @@
     },
     {
         "name": "roo_onewire",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_onewire",
@@ -108520,8 +108520,8 @@
         "dependencies": [
             "roo_collections",
             "roo_logging",
-            "roo_quantity",
-            "roo_scheduler"
+            "roo_scheduler",
+            "roo_quantity"
         ]
     },
     {
@@ -128334,8 +128334,8 @@
     },
     {
         "name": "MycilaDimmer",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaDimmer",
@@ -130279,8 +130279,8 @@
     },
     {
         "name": "ESP32SerialCtl",
-        "version": "0.1.1",
-        "versions": "0.1.1",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32SerialCtl",
