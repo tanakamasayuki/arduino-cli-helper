@@ -96969,8 +96969,8 @@
     },
     {
         "name": "roo_collections",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_collections",
@@ -97014,8 +97014,8 @@
     },
     {
         "name": "roo_scheduler",
-        "version": "2.1.3",
-        "versions": "2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0",
+        "version": "2.1.4",
+        "versions": "2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_scheduler",
@@ -97879,8 +97879,8 @@
     },
     {
         "name": "roo_logging",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.2",
+        "versions": "1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_logging",
@@ -108390,8 +108390,8 @@
     },
     {
         "name": "roo_prefs",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_prefs",
@@ -108400,7 +108400,8 @@
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_prefs.git",
         "dependencies": [
-            "roo_backport"
+            "roo_backport",
+            "roo_logging"
         ]
     },
     {
@@ -114680,8 +114681,8 @@
     },
     {
         "name": "roo_io",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_io",
@@ -123286,8 +123287,8 @@
     },
     {
         "name": "roo_quantity",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_quantity",
@@ -128438,8 +128439,8 @@
     },
     {
         "name": "roo_blink",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_blink",
@@ -130259,6 +130260,21 @@
         "repository": "https://github.com/jobitjoseph/SoftWire_CH32.git",
         "dependencies": [
             "CH32X035_USBSerial"
+        ]
+    },
+    {
+        "name": "QuarkX",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Pierluigi Budel",
+        "maintainer": "Pierluigi Budel",
+        "website": "https://github.com/pbudel/QuarkX",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/pbudel/QuarkX.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
