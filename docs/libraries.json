@@ -130291,5 +130291,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ST7306_LCD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "FT-tele",
+        "maintainer": "FT-tele<ft_telecom@outlook.com>",
+        "website": "https://github.com/FT-tele/ST7306_8color.git",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/FT-tele/ST7306_8color_lvgl.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
