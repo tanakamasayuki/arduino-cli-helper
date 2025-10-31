@@ -129399,8 +129399,8 @@
     },
     {
         "name": "ProtoBot",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "website": "https://microbots.io/ProtoBot",
@@ -129489,8 +129489,8 @@
     },
     {
         "name": "roo_transport",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_transport",
@@ -129568,8 +129568,8 @@
     },
     {
         "name": "PlugAndPlay",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
         "author": "4Project",
         "maintainer": "4Project <info@4project.co.il>",
         "website": "https://github.com/4project-co-il/PlugAndPlay",
