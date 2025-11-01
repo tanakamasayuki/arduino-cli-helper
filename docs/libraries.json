@@ -98393,8 +98393,8 @@
     },
     {
         "name": "roo_icons",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.3",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.3",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_icons",
@@ -128334,8 +128334,8 @@
     },
     {
         "name": "MycilaDimmer",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaDimmer",
@@ -129553,8 +129553,8 @@
     },
     {
         "name": "roo_locale",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_locale",
@@ -130349,6 +130349,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/nicolito128/DHT_N128.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BULLM_ExtendModule",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "BULLM",
+        "maintainer": "YYZ <i@yyznm.cn>",
+        "website": "https://github.com/bull-m/BULLM_ExtendModule",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bull-m/BULLM_ExtendModule.git",
         "dependencies": [
             ""
         ]
