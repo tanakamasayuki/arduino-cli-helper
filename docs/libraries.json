@@ -130373,5 +130373,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MCP4151 Digital Potentiometer",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "atestb",
+        "maintainer": "atestb",
+        "website": "https://github.com/atestb/MCP4151",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/atestb/MCP4151-Digital-Potentiometer.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
