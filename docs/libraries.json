@@ -129837,8 +129837,8 @@
     },
     {
         "name": "SimpleMFP",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Duke Uku",
         "maintainer": "Duke Uku <DuHsNest@gmail.com>",
         "website": "https://github.com/ArduinoLibHub/SimpleMFP",
