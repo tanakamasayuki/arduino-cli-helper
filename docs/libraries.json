@@ -129957,8 +129957,8 @@
     },
     {
         "name": "FastRGB",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Ben Stokman",
         "maintainer": "Ben Stokman <ben.stokman@protonmail.com>",
         "website": "https://git.benstokman.me/benjistokman/FastRGB",
@@ -129968,7 +129968,7 @@
         "repository": "https://github.com/benjistokman/FastRGB.git",
         "dependencies": [
             "arxsmartptr",
-            "digitalwritefast"
+            "littlevector"
         ]
     },
     {
