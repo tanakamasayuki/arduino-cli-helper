@@ -90250,9 +90250,9 @@
     },
     {
         "name": "uNeurai",
-        "version": "0.0.1",
-        "versions": "0.0.1",
-        "author": "Stepan Snigirev",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
+        "author": "Asimov",
         "maintainer": "Asimov <web@neurai.org>",
         "website": "https://github.com/NeuraiProject/uNeurai",
         "category": "Data Processing",
