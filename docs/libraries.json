@@ -130418,5 +130418,20 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "CinCout",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bojan Jurca",
+        "maintainer": "Bojan Jurca <bojan@gmail.com>",
+        "website": "https://github.com/BojanJurca/cin-cout-for-Arduino",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/BojanJurca/cin-cout-for-Arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
