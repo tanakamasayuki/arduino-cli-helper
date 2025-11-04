@@ -111334,8 +111334,8 @@
     },
     {
         "name": "M5Utility",
-        "version": "0.0.7",
-        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.8",
+        "versions": "0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Utility.git",
@@ -129919,8 +129919,8 @@
     },
     {
         "name": "HandaDigitalSpeaker",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Davinder Handa",
         "maintainer": "Davinder Handa",
         "website": "https://github.com/davinderhanda/HandaDigitalSpeaker",
