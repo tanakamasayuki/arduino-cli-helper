@@ -54344,8 +54344,8 @@
     },
     {
         "name": "Sensirion Core",
-        "version": "0.7.1",
-        "versions": "0.7.1, 0.7.0, 0.6.0, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.0.1",
+        "version": "0.7.2",
+        "versions": "0.7.2, 0.7.1, 0.7.0, 0.6.0, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.0.1",
         "author": "Sensirion",
         "maintainer": "Sensirion",
         "website": "https://github.com/Sensirion/arduino-core/",
@@ -126490,8 +126490,8 @@
     },
     {
         "name": "Adafruit STHS34PF80",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_STHS34PF80",
@@ -130477,6 +130477,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ienai-SPACE/ADC128S_Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Shrike",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Vicharak",
+        "maintainer": "Vicharak <deepak.sharda@vicharak.in>",
+        "website": "https://github.com/vicharak-in/shrike_flash",
+        "category": "Communication",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/vicharak-in/shrike_arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DNMSI2C",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "senseBox, anniquu",
+        "maintainer": "senseBox Team",
+        "website": "https://github.com/sensebox/sensebox-dnms-arduino/tree/main/DNMSI2C",
+        "category": "Sensors",
+        "architectures": "samd, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/sensebox/DNMSI2C.git",
         "dependencies": [
             ""
         ]
