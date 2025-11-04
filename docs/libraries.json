@@ -130433,5 +130433,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Bonezegei_74HC595",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
+        "website": "https://github.com/bonezegei/Bonezegei_74HC595",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/Bonezegei_74HC595.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
