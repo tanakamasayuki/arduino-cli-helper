@@ -130468,8 +130468,8 @@
     },
     {
         "name": "IENAI ADC128S",
-        "version": "1.15.2",
-        "versions": "1.15.2",
+        "version": "1.16.0",
+        "versions": "1.16.0, 1.15.2",
         "author": "Alvaro Torijano",
         "maintainer": "Alvaro Torijano <alvaro.torijano@ienai.space>",
         "website": "https://github.com/ienai-SPACE/ADC128S_Arduino",
