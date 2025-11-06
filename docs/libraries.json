@@ -125464,8 +125464,8 @@
     },
     {
         "name": "espx",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.3, 1.0.2, 1.0.0",
         "author": "Simone Salerno <info@salernosimone.com>",
         "maintainer": "Simone Salerno <info@salernosimone.com>",
         "website": "https://github.com/salernosimone/arduino-espx",
