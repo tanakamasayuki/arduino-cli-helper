@@ -112502,8 +112502,8 @@
     },
     {
         "name": "uEspConfigLib",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Naguissa <naguissa@foroelectro.net>",
         "maintainer": "Naguissa <naguissa@foroelectro.net>",
         "website": "https://github.com/Naguissa/uEspConfigLib",
@@ -112512,7 +112512,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Naguissa/uEspConfigLib.git",
         "dependencies": [
-            "uEEPROMLib"
+            ""
         ]
     },
     {
