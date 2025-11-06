@@ -125931,8 +125931,8 @@
     },
     {
         "name": "Packet_Device",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Pallob K. Gain <pallobkgain@gmail.com>",
         "maintainer": "Pallob K. Gain <pallobkgain@gmail.com>",
         "website": "https://github.com/Pallob-Gain/packet_device",
@@ -130552,6 +130552,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tanakamasayuki/EmbedFS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bridgetek_EVE2",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bridgetek",
+        "maintainer": "Bridgetek <support.emea@brtchip.com>",
+        "website": "https://github.com/Bridgetek/EVE2-Arduino-Dev",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bridgetek/EVE2-Arduino-Dev.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bridgetek_EVE2_2",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bridgetek",
+        "maintainer": "Bridgetek <support.emea@brtchip.com>",
+        "website": "https://github.com/Bridgetek/EVE2_2-Arduino-Dev",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bridgetek/EVE2-2-Arduino-Dev.git",
         "dependencies": [
             ""
         ]
