@@ -181,13 +181,13 @@
     },
     {
         "name": "Servo",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Michael Margolis, Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://www.arduino.cc/reference/en/libraries/servo/",
         "category": "Device Control",
-        "architectures": "avr, megaavr, sam, samd, nrf52, stm32f4, mbed, mbed_nano, mbed_portenta, mbed_rp2040, renesas, renesas_portenta, renesas_uno",
+        "architectures": "avr, megaavr, sam, samd, nrf52, stm32f4, mbed, mbed_nano, mbed_portenta, mbed_rp2040, renesas, renesas_portenta, renesas_uno, zephyr",
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Servo.git",
         "dependencies": [
@@ -118331,8 +118331,8 @@
     },
     {
         "name": "ArduLite",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.1, 1.1.1, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.1, 1.1.1, 1.0.0",
         "author": "Ajang Rahmat <ajangrahmat@gmail.com>",
         "maintainer": "Ajang Rahmat <ajangrahmat@gmail.com>",
         "website": "https://github.com/ArduLite/ArduLite",
@@ -130582,6 +130582,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Bridgetek/EVE2-2-Arduino-Dev.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MIDI-NRPN",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Uli Schmidt <steinundfloete@online.de>",
+        "maintainer": "Uli Schmidt",
+        "website": "https://github.com/steinundfloete/MIDI-NRPN",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/steinundfloete/MIDI-NRPN.git",
         "dependencies": [
             ""
         ]
