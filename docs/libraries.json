@@ -97061,8 +97061,8 @@
     },
     {
         "name": "PsychicHttp",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Zach Hoeken <hoeken@gmail.com>",
         "maintainer": "Zach Hoeken <hoeken@gmail.com>",
         "website": "https://github.com/hoeken/PsychicHttp",
@@ -105886,8 +105886,8 @@
     },
     {
         "name": "yfrobot_tts",
-        "version": "0.0.4",
-        "versions": "0.0.4, 0.0.3, 0.0.2",
+        "version": "2.0.1",
+        "versions": "2.0.1, 0.0.4, 0.0.3, 0.0.2",
         "author": "YFROBOT",
         "maintainer": "YFROBOT-ZL,<yfrobot@qq.com>",
         "website": "https://github.com/YFROBOT-TM/Yfrobot-TTS-Library",
