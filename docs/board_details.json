@@ -113403,6 +113403,28 @@
     ],
     "package_url": "https://arduino.esp8266.com/stable/package_esp8266com_index.json"
 },
+  "lang-ship:native:generic": {
+    "name": "Native (Generic)",
+    "version": "0.1.11",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
   "m5stack:esp32:m5stack_atom": {
     "name": "M5Atom",
     "version": "3.2.4",
