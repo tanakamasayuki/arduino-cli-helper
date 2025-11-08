@@ -103518,7 +103518,7 @@
     {
         "name": "DMD_STM32",
         "version": "1.2.0",
-        "versions": "1.2.0, 1.1.5, 1.1.4, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 0.9.5, 0.9.2, 0.8.1",
+        "versions": "1.2.0, 1.1.8, 1.1.5, 1.1.4, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 0.9.5, 0.9.2, 0.8.1",
         "author": "Dmitry Dmitriev <bort707h@gmail.com>",
         "maintainer": "Dmitry Dmitriev <bort707h@gmail.com>",
         "website": "https://github.com/board707/DMD_STM32/",
