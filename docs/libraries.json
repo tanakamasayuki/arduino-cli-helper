@@ -115838,8 +115838,8 @@
     },
     {
         "name": "htcw_gfx",
-        "version": "2.2.7",
-        "versions": "2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
+        "version": "2.2.8",
+        "versions": "2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/gfx",
@@ -130674,6 +130674,23 @@
         "repository": "https://github.com/juano2310/SuperCAN.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "SensythingCore",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Protocentral Electronics <support@protocentral.com>",
+        "maintainer": "Protocentral Electronics <support@protocentral.com>",
+        "website": "https://github.com/Protocentral/sensything-es3",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Protocentral/SensythingCore.git",
+        "dependencies": [
+            "Protocentral_FDC1004",
+            "ProtoCentral AFE4490 PPG and SpO2 boards library",
+            "WebSockets"
         ]
     }
 ]
