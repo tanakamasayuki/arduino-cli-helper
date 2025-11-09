@@ -113405,7 +113405,7 @@
 },
   "lang-ship:native:SLD2_M5Dial": {
     "name": "Native (SLD2_M5Dial)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -113508,7 +113508,7 @@
 },
   "lang-ship:native:SLD2_M5Stack": {
     "name": "Native (SLD2_M5Stack)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -113611,7 +113611,7 @@
 },
   "lang-ship:native:SLD2_M5StackCore2": {
     "name": "Native (SLD2_M5StackCore2)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -113714,7 +113714,7 @@
 },
   "lang-ship:native:SLD2_M5StackCoreInk": {
     "name": "Native (SLD2_M5StackCoreInk)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -113817,7 +113817,7 @@
 },
   "lang-ship:native:SLD2_M5StackCoreS3": {
     "name": "Native (SLD2_M5StackCoreS3)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -113920,7 +113920,7 @@
 },
   "lang-ship:native:SLD2_M5StickCPlus": {
     "name": "Native (SLD2_M5StickCPlus)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -114023,7 +114023,7 @@
 },
   "lang-ship:native:SLD2_M5StickCPlus2": {
     "name": "Native (SLD2_M5StickCPlus2)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -114126,7 +114126,7 @@
 },
   "lang-ship:native:SLD2_M5Tab5": {
     "name": "Native (SLD2_M5Tab5)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
@@ -114229,7 +114229,7 @@
 },
   "lang-ship:native:generic": {
     "name": "Native (Generic)",
-    "version": "0.1.22",
+    "version": "1.0.0",
     "config_options": [
         {
             "option": "sdl2",
