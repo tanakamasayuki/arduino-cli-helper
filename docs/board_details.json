@@ -113403,9 +113403,833 @@
     ],
     "package_url": "https://arduino.esp8266.com/stable/package_esp8266com_index.json"
 },
+  "lang-ship:native:SLD2_M5Dial": {
+    "name": "Native (SLD2_M5Dial)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5Dial",
+                    "value_label": "board_M5Dial",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5Stack": {
+    "name": "Native (SLD2_M5Stack)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5Stack",
+                    "value_label": "board_M5Stack",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5StackCore2": {
+    "name": "Native (SLD2_M5StackCore2)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5StackCore2",
+                    "value_label": "board_M5StackCore2",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5StackCoreInk": {
+    "name": "Native (SLD2_M5StackCoreInk)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5StackCoreInk",
+                    "value_label": "board_M5StackCoreInk",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5StackCoreS3": {
+    "name": "Native (SLD2_M5StackCoreS3)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5StackCoreS3",
+                    "value_label": "board_M5StackCoreS3",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5StickCPlus": {
+    "name": "Native (SLD2_M5StickCPlus)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5StickCPlus",
+                    "value_label": "board_M5StickCPlus",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5StickCPlus2": {
+    "name": "Native (SLD2_M5StickCPlus2)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5StickCPlus2",
+                    "value_label": "board_M5StickCPlus2",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
+  "lang-ship:native:SLD2_M5Tab5": {
+    "name": "Native (SLD2_M5Tab5)",
+    "version": "0.1.22",
+    "config_options": [
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_board",
+            "option_label": "M5GFX_BOARD",
+            "values": [
+                {
+                    "value": "board_M5Tab5",
+                    "value_label": "board_M5Tab5",
+                    "selected": true
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_scale",
+            "option_label": "M5GFX_SCALE",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "x1",
+                    "value_label": "x1"
+                },
+                {
+                    "value": "x2",
+                    "value_label": "x2"
+                },
+                {
+                    "value": "x3",
+                    "value_label": "x3"
+                },
+                {
+                    "value": "x4",
+                    "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
+                }
+            ]
+        },
+        {
+            "option": "m5gfx_rotation",
+            "option_label": "M5GFX_ROTATION",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "r0",
+                    "value_label": "0"
+                },
+                {
+                    "value": "r1",
+                    "value_label": "1"
+                },
+                {
+                    "value": "r2",
+                    "value_label": "2"
+                },
+                {
+                    "value": "r3",
+                    "value_label": "3"
+                },
+                {
+                    "value": "r4",
+                    "value_label": "4"
+                },
+                {
+                    "value": "r5",
+                    "value_label": "5"
+                },
+                {
+                    "value": "r6",
+                    "value_label": "6"
+                },
+                {
+                    "value": "r7",
+                    "value_label": "7"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+},
   "lang-ship:native:generic": {
     "name": "Native (Generic)",
-    "version": "0.1.18",
+    "version": "0.1.22",
     "config_options": [
         {
             "option": "sdl2",
@@ -113475,8 +114299,8 @@
                     "selected": true
                 },
                 {
-                    "value": "x0_5",
-                    "value_label": "x0.5"
+                    "value": "x1",
+                    "value_label": "x1"
                 },
                 {
                     "value": "x2",
@@ -113489,6 +114313,10 @@
                 {
                     "value": "x4",
                     "value_label": "x4"
+                },
+                {
+                    "value": "x8",
+                    "value_label": "x8"
                 }
             ]
         },
