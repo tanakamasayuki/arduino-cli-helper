@@ -115822,8 +115822,8 @@
     },
     {
         "name": "htcw_ml",
-        "version": "0.2.7",
-        "versions": "0.2.7, 0.2.6, 0.2.4",
+        "version": "0.2.8",
+        "versions": "0.2.8, 0.2.7, 0.2.6, 0.2.4",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/htcw_io",
@@ -115838,8 +115838,8 @@
     },
     {
         "name": "htcw_gfx",
-        "version": "2.2.8",
-        "versions": "2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
+        "version": "2.2.9",
+        "versions": "2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/gfx",
@@ -130663,8 +130663,8 @@
     },
     {
         "name": "Super CAN",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Juan Pablo Risso <juano23@gmail.com>",
         "maintainer": "Juan Pablo Risso <juano23@gmail.com>",
         "website": "https://github.com/juano2310/SuperCAN",
@@ -130691,6 +130691,21 @@
             "ProtoCentral FDC1004 Capacitive Sensor Library",
             "ProtoCentral AFE4490 PPG and SpO2 boards library",
             "WebSockets"
+        ]
+    },
+    {
+        "name": "ANSI_Output",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "sintrb <sintrb@email.com>",
+        "maintainer": "sintrb <sintrb@email.com>",
+        "website": "https://github.com/sintrb/ANSI_Output",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sintrb/ANSI_Output.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
