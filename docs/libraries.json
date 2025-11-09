@@ -130648,8 +130648,8 @@
     },
     {
         "name": "HttpRequests",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "Dominik Werner",
         "maintainer": "Dominik Werner <dominik.werner@live.com>",
         "website": "https://github.com/dowerner/Arduino-Http-Requests",
