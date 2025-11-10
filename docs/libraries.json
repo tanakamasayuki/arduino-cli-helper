@@ -125932,8 +125932,8 @@
     },
     {
         "name": "Packet_Device",
-        "version": "1.0.10",
-        "versions": "1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.11",
+        "versions": "1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Pallob K. Gain <pallobkgain@gmail.com>",
         "maintainer": "Pallob K. Gain <pallobkgain@gmail.com>",
         "website": "https://github.com/Pallob-Gain/packet_device",
