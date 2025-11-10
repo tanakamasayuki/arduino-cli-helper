@@ -125646,8 +125646,8 @@
     },
     {
         "name": "Tinker C6",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "ArtronShop Co.,Ltd.",
         "maintainer": "Sonthaya.NT <sonthaya.nt@artronshop.co.th>",
         "website": "https://github.com/ArtronShop/TinkerC6_Library",
