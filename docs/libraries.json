@@ -124075,8 +124075,8 @@
     },
     {
         "name": "WebGUI",
-        "version": "1.8.5",
-        "versions": "1.8.5, 1.8.0, 1.7.5, 1.7.0, 1.5.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.9.2",
+        "versions": "1.9.2, 1.9.1, 1.9.0, 1.8.5, 1.8.0, 1.7.5, 1.7.0, 1.5.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Nick Puckett",
         "maintainer": "WebGUI Library Contributors",
         "website": "https://github.com/npuckett/WebGUI",
@@ -127639,8 +127639,8 @@
     },
     {
         "name": "DUELink",
-        "version": "0.0.6",
-        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.3",
+        "version": "0.0.7",
+        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3",
         "author": "GHI Electronics",
         "maintainer": "support@ghielectronics.com",
         "website": "https://github.com/ghi-electronics/duelink-libraries-arduino",
@@ -130736,6 +130736,21 @@
         "repository": "https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "mcpesp",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Eric N",
+        "maintainer": "Eric N",
+        "website": "https://github.com/ertgtct/mcpesp",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ertgtct/mcpesp.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
