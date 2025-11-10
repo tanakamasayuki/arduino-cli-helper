@@ -47000,8 +47000,8 @@
     },
     {
         "name": "EMailSender",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
         "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "website": "https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/",
@@ -130719,6 +130719,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/mlaass/wamr-esp32-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "YFPS2UARTLib",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "YFROBOT",
+        "maintainer": "YFROBOT-ZL,<yfrobot@qq.com>",
+        "website": "https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library",
+        "category": "Communication",
+        "architectures": "arduino",
+        "types": "Contributed",
+        "repository": "https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library.git",
         "dependencies": [
             ""
         ]
