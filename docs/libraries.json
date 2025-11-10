@@ -130663,8 +130663,8 @@
     },
     {
         "name": "Super CAN",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Juan Pablo Risso <juano23@gmail.com>",
         "maintainer": "Juan Pablo Risso <juano23@gmail.com>",
         "website": "https://github.com/juano2310/SuperCAN",
