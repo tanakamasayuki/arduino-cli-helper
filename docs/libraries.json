@@ -99814,8 +99814,8 @@
     },
     {
         "name": "MycilaMQTT",
-        "version": "6.1.1",
-        "versions": "6.1.1, 6.1.0, 6.0.7, 6.0.6, 6.0.5, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.0, 3.0.2, 3.0.1, 2.1.0, 2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "6.1.2",
+        "versions": "6.1.2, 6.1.1, 6.1.0, 6.0.7, 6.0.6, 6.0.5, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.0, 3.0.2, 3.0.1, 2.1.0, 2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaMQTT",
@@ -130751,6 +130751,21 @@
         "repository": "https://github.com/ertgtct/mcpesp.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "BLE Serial - NUS",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Urs Utzinger",
+        "maintainer": "Urs Utzinger",
+        "website": "https://github.com/uutzinger/Arduino_BLESerial",
+        "category": "Uncategorized",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/uutzinger/Arduino_BLESerial.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
