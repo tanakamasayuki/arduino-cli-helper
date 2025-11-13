@@ -130816,8 +130816,8 @@
     },
     {
         "name": "AssocTree",
-        "version": "0.1.2",
-        "versions": "0.1.2",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.2",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/AssocTree",
