@@ -130798,5 +130798,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SuperCANBus",
+        "version": "1.0.5",
+        "versions": "1.0.5",
+        "author": "Juan Pablo Risso <juano23@gmail.com>",
+        "maintainer": "Juan Pablo Risso <juano23@gmail.com>",
+        "website": "https://github.com/juano2310/SuperCANBus",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/juano2310/SuperCANBus.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
