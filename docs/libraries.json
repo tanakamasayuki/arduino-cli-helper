@@ -129460,8 +129460,8 @@
     },
     {
         "name": "QuectelEC200U",
-        "version": "1.5.1",
-        "versions": "1.5.1",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.1",
         "author": "misternegative21",
         "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
         "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
@@ -130810,6 +130810,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/juano2310/SuperCANBus.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AssocTree",
+        "version": "0.1.2",
+        "versions": "0.1.2",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/AssocTree",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/AssocTree.git",
         "dependencies": [
             ""
         ]
