@@ -129460,8 +129460,8 @@
     },
     {
         "name": "QuectelEC200U",
-        "version": "1.6.0",
-        "versions": "1.6.0, 1.5.1",
+        "version": "1.7.0",
+        "versions": "1.7.0, 1.6.0, 1.5.1",
         "author": "misternegative21",
         "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
         "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
@@ -129470,7 +129470,7 @@
         "types": "Contributed",
         "repository": "https://github.com/MISTERNEGATIVE21/QuectelEC200U.git",
         "dependencies": [
-            ""
+            "ArduinoJson"
         ]
     },
     {
