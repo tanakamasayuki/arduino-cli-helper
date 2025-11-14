@@ -127006,8 +127006,8 @@
     },
     {
         "name": "FlyskyIBUS",
-        "version": "0.6.1",
-        "versions": "0.6.1, 0.6.0, 0.5.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.1, 0.6.0, 0.5.0",
         "author": "derdoktor667",
         "maintainer": "derdoktor667",
         "website": "https://github.com/derdoktor667/FlyskyIBUS",
@@ -130825,6 +130825,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tanakamasayuki/AssocTree.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "JadeRobotics_Spiderbot",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Jade Robotics <jaderoboticscontent@gmail.com>",
+        "maintainer": "Jade Robotics <jaderoboticscontent@gmail.com>",
+        "website": "https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot.git",
         "dependencies": [
             ""
         ]
