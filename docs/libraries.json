@@ -129174,8 +129174,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.4.2",
-        "versions": "1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.3",
+        "versions": "1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/SegMap595",
@@ -130855,6 +130855,21 @@
         "architectures": "stm32",
         "types": "Contributed",
         "repository": "https://github.com/stm32duino/X-NUCLEO-IHM04A1.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HDW Utils",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Enzo Versiani",
+        "maintainer": "versianienzo@gmail.com",
+        "website": "https://github.com/versianih/hdw-utils",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/versianih/hdw-utils.git",
         "dependencies": [
             ""
         ]
