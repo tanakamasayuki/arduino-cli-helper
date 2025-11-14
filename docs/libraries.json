@@ -115486,8 +115486,8 @@
     },
     {
         "name": "FastEPD",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/FastEPD",
@@ -130840,6 +130840,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "STM32duino X-NUCLEO-IHM04A1",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "STMicroelectronics",
+        "maintainer": "stm32duino",
+        "website": "https://github.com/stm32duino/X-NUCLEO-IHM04A1",
+        "category": "Device Control",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/stm32duino/X-NUCLEO-IHM04A1.git",
         "dependencies": [
             ""
         ]
