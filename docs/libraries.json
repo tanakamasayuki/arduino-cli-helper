@@ -75642,8 +75642,8 @@
     },
     {
         "name": "ellipse",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ellipse",
@@ -116772,8 +116772,8 @@
     },
     {
         "name": "LCD-HD44780",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1",
         "author": "Stefan Staub",
         "maintainer": "Stefan Staub <email@domain.com>",
         "website": "https://github.com/sstaub/LCD-HD44780",
@@ -116787,8 +116787,8 @@
     },
     {
         "name": "LCD-I2C-HD44780",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1",
         "author": "Stefan Staub",
         "maintainer": "Stefan Staub <email@domain.com>",
         "website": "https://github.com/sstaub/LCD-I2C-HD44780",
