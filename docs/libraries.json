@@ -99108,8 +99108,8 @@
     },
     {
         "name": "ADC08XS",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ADC08XS",
@@ -130786,8 +130786,8 @@
     },
     {
         "name": "MechaNest",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Saeed ALAJAM",
         "maintainer": "saeed.sham99@gmail.com",
         "website": "https://github.com/1998Saeed/MechaNest",
@@ -130870,6 +130870,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/versianih/hdw-utils.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MTD2A",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "Joeergen Bo Madsen",
+        "maintainer": "Jorgen Bo Madsen <MTD2A@jorgen-madsen.dk>",
+        "website": "https://github.com/MTD2A/MTD2A",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MTD2A/MTD2A.git",
         "dependencies": [
             ""
         ]
