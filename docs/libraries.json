@@ -130903,5 +130903,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "LightweightSTL",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "Bojan Jurca",
+        "maintainer": "Bojan Jurca <bojan@gmail.com>",
+        "website": "https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
