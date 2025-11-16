@@ -117382,8 +117382,8 @@
     },
     {
         "name": "EventBasedFramework",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.0",
         "author": "4Project",
         "maintainer": "4Project <info@4project.co.il>",
         "website": "https://github.com/4project-co-il/EBF",
@@ -129569,8 +129569,8 @@
     },
     {
         "name": "PlugAndPlay",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "4Project",
         "maintainer": "4Project <info@4project.co.il>",
         "website": "https://github.com/4project-co-il/PlugAndPlay",
