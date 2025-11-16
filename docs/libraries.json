@@ -98791,13 +98791,13 @@
     },
     {
         "name": "ArduProf",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Team Professional",
         "maintainer": "Team Professional <teamprof.net@gmail.com>",
         "website": "https://github.com/teamprof/arduprof",
         "category": "Other",
-        "architectures": "esp32, mbed_rp2040",
+        "architectures": "esp32, mbed_rp2040, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/teamprof/arduprof.git",
         "dependencies": [
@@ -129174,8 +129174,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.5.1",
+        "versions": "1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/SegMap595",
@@ -130861,8 +130861,8 @@
     },
     {
         "name": "HDW Utils",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
         "author": "Enzo Versiani",
         "maintainer": "versianienzo@gmail.com",
         "website": "https://github.com/versianih/hdw-utils",
