@@ -106222,8 +106222,8 @@
     },
     {
         "name": "ICM45686",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45686",
@@ -106237,8 +106237,8 @@
     },
     {
         "name": "ICM45605",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45605",
@@ -129067,8 +129067,8 @@
     },
     {
         "name": "ICM45689",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45689",
@@ -129082,8 +129082,8 @@
     },
     {
         "name": "ICM45608",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45608",
