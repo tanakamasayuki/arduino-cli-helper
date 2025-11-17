@@ -130918,5 +130918,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DFRobot_LoRaWAN_ESP32S3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Martin <Martin@dfrobot.com>",
+        "maintainer": "Martin <Martin@dfrobot.com>",
+        "website": "https://github.com/DFRobot/DFRobot_LoRaWAN_ESP32S3",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DFRobot/DFRobot_LoRaWAN_ESP32S3.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DMFLib",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Marco Ratto <marcoratto@gmail.com>",
+        "maintainer": "Marco Ratto <marcoratto@gmail.com>",
+        "website": "https://github.com/marcoratto/DMFLib-Arduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/marcoratto/DMFLib-Arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
