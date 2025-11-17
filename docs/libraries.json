@@ -34338,8 +34338,8 @@
     },
     {
         "name": "AceTime",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.0, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.3, 2.2.2, 2.2.1, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.11.7, 1.11.6, 1.11.5, 1.11.4, 1.11.3, 1.11.2, 1.11.1, 1.11.0, 1.10.0, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0, 0.8.1, 0.8.0, 0.7.2, 0.7.1, 0.7.0, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.1, 0.3.0, 0.1.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.0, 3.0.0, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.3, 2.2.2, 2.2.1, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.11.7, 1.11.6, 1.11.5, 1.11.4, 1.11.3, 1.11.2, 1.11.1, 1.11.0, 1.10.0, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0, 0.8.1, 0.8.0, 0.7.2, 0.7.1, 0.7.0, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.1, 0.3.0, 0.1.0",
         "author": "Brian T. Park <brian@xparks.net>",
         "maintainer": "Brian T. Park <brian@xparks.net>",
         "website": "https://github.com/bxparks/AceTime",
@@ -130947,6 +130947,36 @@
         "repository": "https://github.com/marcoratto/DMFLib-Arduino.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "AlashIRControl",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7",
+        "author": "Айтен Бексултан",
+        "maintainer": "Alash Education",
+        "website": "https://github.com/Alash-electronics/AlashIRControl",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashIRControl.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashUltrasonic",
+        "version": "1.0.7",
+        "versions": "1.0.7",
+        "author": "Aiten Bexultan <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashUltrasonic",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashUltrasonic.git",
+        "dependencies": [
+            "Wire"
         ]
     }
 ]
