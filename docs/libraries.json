@@ -130981,8 +130981,8 @@
     },
     {
         "name": "ESP32_Thermistor",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.4",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.0.6, 1.0.4",
         "author": "Nedesico",
         "maintainer": "Nedesico",
         "website": "https://github.com/nedesico/ESP32_Thermistor",
