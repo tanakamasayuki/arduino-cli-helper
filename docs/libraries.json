@@ -130978,5 +130978,20 @@
         "dependencies": [
             "Wire"
         ]
+    },
+    {
+        "name": "ESP32_Thermistor",
+        "version": "1.0.4",
+        "versions": "1.0.4",
+        "author": "Nedesico",
+        "maintainer": "Nedesico",
+        "website": "https://github.com/nedesico/ESP32_Thermistor",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nedesico/ESP32_Thermistor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
