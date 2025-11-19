@@ -38620,8 +38620,8 @@
     },
     {
         "name": "Adafruit LIS3MDL",
-        "version": "1.2.4",
-        "versions": "1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.5",
+        "versions": "1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit <info@adafruit.com>",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_LIS3MDL",
@@ -55574,8 +55574,8 @@
     },
     {
         "name": "ProtoCentral ADS1293 ECG Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Protocentral Electronics <support@protocentral.com>",
         "maintainer": "Protocentral Electronics <protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral-ads1293-arduino",
@@ -84611,8 +84611,8 @@
     },
     {
         "name": "STM32duino X-NUCLEO-53L7A1",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/X-NUCLEO-53L7A1",
@@ -99492,8 +99492,8 @@
     },
     {
         "name": "MycilaConfig",
-        "version": "11.0.1",
-        "versions": "11.0.1, 10.0.0, 9.0.3, 9.0.2, 9.0.0, 8.0.2, 8.0.1, 8.0.0, 7.3.1, 7.3.0, 7.2.0, 7.1.0, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.1.0, 2.0.0, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "11.1.0",
+        "versions": "11.1.0, 11.0.1, 10.0.0, 9.0.3, 9.0.2, 9.0.0, 8.0.2, 8.0.1, 8.0.0, 7.3.1, 7.3.0, 7.2.0, 7.1.0, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.1.0, 2.0.0, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaConfig",
@@ -111025,21 +111025,6 @@
         ]
     },
     {
-        "name": "WindQX",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.1",
-        "author": "Carlos Orts <mcorts69@gmail.com>",
-        "maintainer": "Carlos Orts <mcorts69@gmail.com>",
-        "website": "https://github.com/McOrts/WindQX_Library",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/McOrts/WindQX_Library.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "tgx",
         "version": "1.0.7",
         "versions": "1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0",
@@ -118554,7 +118539,7 @@
         "category": "Other",
         "architectures": "mbed_giga",
         "types": "Contributed",
-        "repository": "https://github.com/vladysor/SensEdu-Library.git",
+        "repository": "https://github.com/fanfare-ff/SensEdu-Library.git",
         "dependencies": [
             ""
         ]
@@ -122319,8 +122304,8 @@
     },
     {
         "name": "SBK_BarDrive",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Samuel Barabé <smartbuildskits@gmail.com>",
         "maintainer": "Samuel Barabé <smartbuildskits@gmail.com>",
         "website": "https://github.com/sbarabe/SBK_BarDrive",
@@ -129718,21 +129703,6 @@
         ]
     },
     {
-        "name": "CAN_Message_Arduino",
-        "version": "0.9.0",
-        "versions": "0.9.0",
-        "author": "Tamsin Rose",
-        "maintainer": "Tamsin Rose",
-        "website": "https://github.com/TamsinRose/CAN_Message_Arduino",
-        "category": "Other",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/TamsinRose/CAN_Message_Arduino.git",
-        "dependencies": [
-            "Seeed_Arduino_SSCMA"
-        ]
-    },
-    {
         "name": "NeopixelCommander",
         "version": "0.0.2",
         "versions": "0.0.2, 0.0.1, 0.0.0",
@@ -130146,21 +130116,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/PTSolns/PTSolns_VEML7700.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "OK Arduino Logging",
-        "version": "0.1.0",
-        "versions": "0.1.0",
-        "author": "Dan Egnor",
-        "maintainer": "egnor@ofb.net",
-        "website": "https://github.com/egnor/ok_arduino_logging",
-        "category": "Communication",
-        "architectures": "",
-        "types": "Contributed",
-        "repository": "https://github.com/egnor/ok_arduino_logging.git",
         "dependencies": [
             ""
         ]
@@ -131080,6 +131035,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/hii-nice-2-meet-u/LUMINOUS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "M5Unit-Fingerprint2",
+        "version": "1.3.0",
+        "versions": "1.3.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Unit-Fingerprint2",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Unit-Fingerprint2.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CANMessage",
+        "version": "0.9.6",
+        "versions": "0.9.6",
+        "author": "Tamsin Rose",
+        "maintainer": "Tamsin Rose",
+        "website": "https://github.com/TamsinRose/CANMessage",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TamsinRose/CANMessage.git",
+        "dependencies": [
+            "Seeed_Arduino_CAN"
+        ]
+    },
+    {
+        "name": "OK Logging",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "Dan Egnor",
+        "maintainer": "egnor@ofb.net",
+        "website": "https://github.com/egnor/ok_arduino_logging",
+        "category": "Communication",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/egnor/ok_arduino_logging.git",
         "dependencies": [
             ""
         ]
