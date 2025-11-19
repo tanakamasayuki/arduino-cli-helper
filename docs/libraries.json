@@ -102110,8 +102110,8 @@
     },
     {
         "name": "EQSP32",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.2.0-beta, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.2.0-beta, 0.1.2, 0.1.1, 0.1.0",
         "author": "Erqos Technologies info@erqos.com",
         "maintainer": "Erqos Technologies",
         "website": "https://erqos.com/",
@@ -131035,6 +131035,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/pdoebler/HS300x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "tiny",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
+        "maintainer": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
+        "website": "https://github.com/hii-nice-2-meet-u/TINY",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/hii-nice-2-meet-u/TINY.git",
         "dependencies": [
             ""
         ]
