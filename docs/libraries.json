@@ -131053,5 +131053,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "M5Chain",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Chain",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Chain.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
