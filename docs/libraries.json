@@ -75198,8 +75198,8 @@
     },
     {
         "name": "SparseMatrix",
-        "version": "0.1.6",
-        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SparseMatrix",
@@ -95771,8 +95771,8 @@
     },
     {
         "name": "ArduinoMDNS",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Georg Kaindl <info@gkaindl.com>",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/ArduinoMDNS",
