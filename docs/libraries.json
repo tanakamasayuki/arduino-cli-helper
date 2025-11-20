@@ -99213,8 +99213,8 @@
     },
     {
         "name": "Arduino_PortentaMachineControl",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_PortentaMachineControl",
@@ -108941,8 +108941,8 @@
     },
     {
         "name": "R4A_ESP32",
-        "version": "0.6.7",
-        "versions": "0.6.7, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.7, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Lee Leahy <lpleahyjr@gmail.com>",
         "maintainer": "Lee Leahy <lpleahyjr@gmail.com>",
         "website": "https://github.com/LeeLeahy2/R4A_ESP32",
@@ -109410,8 +109410,8 @@
     },
     {
         "name": "R4A_I2C",
-        "version": "0.4.7",
-        "versions": "0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Lee Leahy <lpleahyjr@gmail.com>",
         "maintainer": "Lee Leahy <lpleahyjr@gmail.com>",
         "website": "https://github.com/LeeLeahy2/R4A_I2C",
@@ -109426,8 +109426,8 @@
     },
     {
         "name": "R4A_Robot",
-        "version": "0.3.7",
-        "versions": "0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
         "author": "Lee Leahy <lpleahyjr@gmail.com>",
         "maintainer": "Lee Leahy <lpleahyjr@gmail.com>",
         "website": "https://github.com/LeeLeahy2/R4A_Robot",
@@ -128580,8 +128580,8 @@
     },
     {
         "name": "Alteriom PainlessMesh",
-        "version": "1.8.12",
-        "versions": "1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
+        "version": "1.8.13",
+        "versions": "1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
         "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
         "maintainer": "Alteriom",
         "website": "https://github.com/Alteriom/painlessMesh",
@@ -131194,6 +131194,21 @@
         "architectures": "",
         "types": "Contributed",
         "repository": "https://github.com/sfera-labs/iono-rp-d16-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32_WiFi_Connect",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "EasyESP",
+        "maintainer": "EasyESP",
+        "website": "https://github.com/nedesico/ESP32_WiFi_Connect",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nedesico/ESP32_WiFi_Connect.git",
         "dependencies": [
             ""
         ]
