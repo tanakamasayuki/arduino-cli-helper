@@ -131212,5 +131212,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "KK-Poti",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Kay Kasper",
+        "maintainer": "Kay Kasper",
+        "website": "https://github.com/kay-bs/KK-Poti",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kay-bs/KK-Poti.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "vid6608",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Petr Golovachev",
+        "maintainer": "Petr Golovachev <petro@petro.ws>",
+        "website": "https://github.com/petrows/arduino-vid6608",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/petrows/arduino-vid6608.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
