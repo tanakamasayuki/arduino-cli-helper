@@ -131200,8 +131200,8 @@
     },
     {
         "name": "ESP32_WiFi_Connect",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.0.2, 1.0.1",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.1.1, 1.0.2, 1.0.1",
         "author": "EasyESP",
         "maintainer": "EasyESP",
         "website": "https://github.com/nedesico/ESP32_WiFi_Connect",
@@ -131239,6 +131239,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/petrows/arduino-vid6608.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HLK-LD245X",
+        "version": "0.8.0",
+        "versions": "0.8.0",
+        "author": "Miłosz Linkiewicz <milosz.lin@gmail.com>",
+        "maintainer": "Miłosz Linkiewicz <milosz.lin@gmail.com>",
+        "website": "https://github.com/Fiooodooor/HLK-LD245X",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Fiooodooor/HLK-LD245X.git",
         "dependencies": [
             ""
         ]
