@@ -100356,8 +100356,8 @@
     },
     {
         "name": "Sitron Labs WK2132 Arduino Library",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Sitron Labs",
         "maintainer": "Sitron Labs <support@sitronlabs.com>",
         "website": "https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library",
@@ -100366,7 +100366,7 @@
         "types": "Contributed",
         "repository": "https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library.git",
         "dependencies": [
-            ""
+            "Wire"
         ]
     },
     {
