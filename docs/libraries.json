@@ -47000,8 +47000,8 @@
     },
     {
         "name": "EMailSender",
-        "version": "4.1.0",
-        "versions": "4.1.0, 4.0.1, 4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
+        "version": "4.1.1",
+        "versions": "4.1.1, 4.1.0, 4.0.1, 4.0.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.9, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.1, 2.0.1, 2.0.0",
         "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "website": "https://www.mischianti.org/category/my-libraries/emailsender-send-email-with-attachments/",
@@ -47742,8 +47742,8 @@
     },
     {
         "name": "bitHelpers",
-        "version": "0.1.12",
-        "versions": "0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/bitHelpers",
@@ -124759,8 +124759,8 @@
     },
     {
         "name": "val_flash_spi",
-        "version": "2.4.1",
-        "versions": "2.4.1, 1.4.0",
+        "version": "2.4.4",
+        "versions": "2.4.4, 2.4.1, 1.4.0",
         "author": "Valdemir do DSW",
         "maintainer": "Valdemir Junior",
         "website": "https://github.com/Valdemir-DSW/val_flash_spi",
