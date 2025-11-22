@@ -129144,8 +129144,8 @@
     },
     {
         "name": "AutoPlex7",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "website": "https://github.com/TechTronicsEngineering/AutoPlex7",
