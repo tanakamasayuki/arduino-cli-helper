@@ -130846,8 +130846,8 @@
     },
     {
         "name": "esp_cron",
-        "version": "0.0.5",
-        "versions": "0.0.5",
+        "version": "0.0.6",
+        "versions": "0.0.6, 0.0.5",
         "author": "Asim Zulfiqar",
         "maintainer": "Asim Zulfiqar <emmiasim67@gmail.com>",
         "website": "https://github.com/asimzulfiqar/esp_cron",
@@ -131170,8 +131170,8 @@
     },
     {
         "name": "SerialTCPClient",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.1",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.1",
         "author": "mobizt",
         "maintainer": "mobizt <suwatchai@outlook.com>",
         "website": "https://github.com/mobizt/SerialTCPClient",
@@ -131269,6 +131269,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/alkonosst/SIM7600Module.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DCMotorController",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "author": "Mauricio Caballero <maucaballeroz@gmail.com>",
+        "maintainer": "Mauricio Caballero <maucaballeroz@gmail.com>",
+        "website": "https://github.com/mwlgt/DCMotorController",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mwlgt/DCMotorController.git",
         "dependencies": [
             ""
         ]
