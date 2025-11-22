@@ -99889,8 +99889,8 @@
     },
     {
         "name": "MAX471_RT",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MAX471_RT",
@@ -115273,8 +115273,8 @@
     },
     {
         "name": "CHT832X",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/CHT832X",
@@ -131245,8 +131245,8 @@
     },
     {
         "name": "HLK-LD245X",
-        "version": "0.8.0",
-        "versions": "0.8.0",
+        "version": "0.9.1",
+        "versions": "0.9.1, 0.9.0, 0.8.0",
         "author": "Miłosz Linkiewicz <milosz.lin@gmail.com>",
         "maintainer": "Miłosz Linkiewicz <milosz.lin@gmail.com>",
         "website": "https://github.com/Fiooodooor/HLK-LD245X",
