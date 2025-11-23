@@ -45146,8 +45146,8 @@
     },
     {
         "name": "PCA9685_RT",
-        "version": "0.7.2",
-        "versions": "0.7.2, 0.7.1, 0.7.0, 0.6.0, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.7.3",
+        "versions": "0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.0, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9685_RT",
@@ -131233,8 +131233,8 @@
     },
     {
         "name": "vid6608",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Petr Golovachev",
         "maintainer": "Petr Golovachev <petro@petro.ws>",
         "website": "https://github.com/petrows/arduino-vid6608",
