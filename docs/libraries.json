@@ -131260,8 +131260,8 @@
     },
     {
         "name": "SIM7600Module",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/SIM7600Module",
@@ -131284,6 +131284,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mwlgt/DCMotorController.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SerialNetworkBridge",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "mobizt",
+        "maintainer": "mobizt <suwatchai@outlook.com>",
+        "website": "https://github.com/mobizt/SerialNetworkBridge",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mobizt/SerialNetworkBridge.git",
         "dependencies": [
             ""
         ]
