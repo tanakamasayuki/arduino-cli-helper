@@ -89874,8 +89874,8 @@
     },
     {
         "name": "ESP8266SAM_ES",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3",
         "author": "Juan Pablo Marquez <pablo.marquez.dsc@gmail.com>",
         "maintainer": "Juan Pablo Marquez <pablo.marquez.dsc@gmail.com>",
         "website": "https://github.com/pablomarquez76/ESP8266SAM_ES",
@@ -100522,8 +100522,8 @@
     },
     {
         "name": "SparkFun Extensible Message Parser",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_Extensible_Message_Parser",
@@ -124514,8 +124514,8 @@
     },
     {
         "name": "DFRobot_SFA40",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "DFRobot",
         "maintainer": "fary<feng.yang@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_SFA40",
