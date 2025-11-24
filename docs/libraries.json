@@ -131293,8 +131293,8 @@
     },
     {
         "name": "SerialNetworkBridge",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "mobizt",
         "maintainer": "mobizt <suwatchai@outlook.com>",
         "website": "https://github.com/mobizt/SerialNetworkBridge",
@@ -131334,6 +131334,21 @@
         "repository": "https://github.com/liviobellini/KaitMenu.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ZigbeePilotWireControl",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pascal JEAN aka epsilonrt <epsilonrt@gmail.com>",
+        "maintainer": "Pascal JEAN aka epsilonrt <epsilonrt@gmail.com>",
+        "website": "https://github.com/epsilonrt/ZigbeePilotWireControl",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/epsilonrt/ZigbeePilotWireControl.git",
+        "dependencies": [
+            "Zigbee"
         ]
     }
 ]
