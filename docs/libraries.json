@@ -112061,8 +112061,8 @@
     },
     {
         "name": "QuickESPNow",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.1.0, 2.0.0",
         "author": "George Papamichail",
         "maintainer": "George Papamichail georgepapamichail11@gmail.com",
         "website": "https://github.com/Hyperion-Robotics/QuickESPNow",
@@ -114365,8 +114365,8 @@
     },
     {
         "name": "ADS1115",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/ADS1115",
