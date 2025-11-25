@@ -54494,8 +54494,8 @@
     },
     {
         "name": "Harvard_TinyMLx",
-        "version": "1.2.3-Alpha",
-        "versions": "1.2.3-Alpha, 1.2.2-Alpha, 1.2.1-Alpha, 1.1.0-Alpha, 1.0.1-Alpha, 1.0.0-Alpha, 0.0.1-Alpha",
+        "version": "1.2.4-Alpha",
+        "versions": "1.2.4-Alpha, 1.2.3-Alpha, 1.2.2-Alpha, 1.2.1-Alpha, 1.1.0-Alpha, 1.0.1-Alpha, 1.0.0-Alpha, 0.0.1-Alpha",
         "author": "TinyMLx Authors",
         "maintainer": "Brian Plancher <brian.plancher@gmail.com>",
         "website": "http://www.tinymledu.org",
@@ -99341,8 +99341,8 @@
     },
     {
         "name": "Alfredo-NoU3",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alfredo Systems",
         "maintainer": "Jacob Williams (jrw4561@gmail.com)",
         "website": "https://github.com/AlfredoSystems/Alfredo_NoU3",
@@ -131340,8 +131340,8 @@
     },
     {
         "name": "ZigbeePilotWireControl",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Pascal JEAN aka epsilonrt <epsilonrt@gmail.com>",
         "maintainer": "Pascal JEAN aka epsilonrt <epsilonrt@gmail.com>",
         "website": "https://github.com/epsilonrt/ZigbeePilotWireControl",
@@ -131350,7 +131350,7 @@
         "types": "Contributed",
         "repository": "https://github.com/epsilonrt/ZigbeePilotWireControl.git",
         "dependencies": [
-            "Zigbee"
+            ""
         ]
     },
     {
