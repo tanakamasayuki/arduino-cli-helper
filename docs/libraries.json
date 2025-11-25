@@ -131416,5 +131416,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SimpleCounter",
+        "version": "0.4.1",
+        "versions": "0.4.1",
+        "author": "Tamsin Rose",
+        "maintainer": "Tamsin Rose",
+        "website": "https://github.com/TamsinRose/SimpleCounter",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TamsinRose/SimpleCounter.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
