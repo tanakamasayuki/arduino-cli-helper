@@ -131401,5 +131401,20 @@
             "M5Utility",
             "M5HAL"
         ]
+    },
+    {
+        "name": "DZ_HTTP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Faizyee",
+        "maintainer": "Faizyee <faizyee@disroot.org>",
+        "website": "https://github.com/faizyee/DZ_HTTP",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Faizyee/DZ_HTTP.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
