@@ -128005,13 +128005,13 @@
     },
     {
         "name": "AIP1640_LED_Matrix",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Harmony Lab <teamproximal@gmail.com>",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Harmony Lab",
         "maintainer": "Harmony Lab",
         "website": "https://github.com/Harmony-Maker-Club/AIP1640_LED_Matrix",
         "category": "Display",
-        "architectures": "",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Harmony-Maker-Club/AIP1640_LED_Matrix.git",
         "dependencies": [
@@ -131295,8 +131295,8 @@
     },
     {
         "name": "SerialNetworkBridge",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "mobizt",
         "maintainer": "mobizt <suwatchai@outlook.com>",
         "website": "https://github.com/mobizt/SerialNetworkBridge",
@@ -131366,6 +131366,40 @@
         "repository": "https://github.com/laxusgooee/LXG_DC_Motor_driver.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "M5Unit-FINGER",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Unit-FINGER",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Unit-FINGER.git",
+        "dependencies": [
+            "M5UnitUnified",
+            "M5Utility",
+            "M5HAL"
+        ]
+    },
+    {
+        "name": "M5Unit-RF433",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Unit-RF433",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Unit-RF433.git",
+        "dependencies": [
+            "M5UnitUnified",
+            "M5Utility",
+            "M5HAL"
         ]
     }
 ]
