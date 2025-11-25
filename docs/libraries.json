@@ -131074,8 +131074,8 @@
     },
     {
         "name": "OK Logging",
-        "version": "0.2.0",
-        "versions": "0.2.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0",
         "author": "Dan Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_arduino_logging",
