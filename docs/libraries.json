@@ -63827,8 +63827,8 @@
     },
     {
         "name": "DFRobot_MGC3130",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "DFRobot",
         "maintainer": "Fary DFRobot <feng.yang@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_MGC3130",
@@ -130821,8 +130821,8 @@
     },
     {
         "name": "HDW Utils",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Enzo Versiani",
         "maintainer": "versianienzo@gmail.com",
         "website": "https://github.com/versianih/hdw-utils",
@@ -131445,6 +131445,23 @@
         "repository": "https://github.com/snappyxo/microblue-arduino.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "OK Micro Dock",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Dan Egnor",
+        "maintainer": "egnor@ofb.net",
+        "website": "https://github.com/egnor/ok_micro_dock",
+        "category": "Communication",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/egnor/ok_micro_dock.git",
+        "dependencies": [
+            "OK Little Layout",
+            "OK Logging",
+            "U8g2"
         ]
     }
 ]
