@@ -130412,8 +130412,8 @@
     },
     {
         "name": "OK Little Layout",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Daniel Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_arduino_little_layout",
