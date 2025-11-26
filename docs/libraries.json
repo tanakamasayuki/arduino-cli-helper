@@ -121864,8 +121864,8 @@
     },
     {
         "name": "Sensirion UPT Display",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Maximilian Paulsen, Quentin Fisch",
         "maintainer": "Sensirion AG <sensirion.com>",
         "website": "https://github.com/Sensirion/arduino-upt-display",
@@ -129390,8 +129390,8 @@
     },
     {
         "name": "ProtoBot",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "website": "https://microbots.io/ProtoBot",
