@@ -98731,8 +98731,8 @@
     },
     {
         "name": "IOSignal",
-        "version": "3.3.0",
-        "versions": "3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
+        "version": "3.4.0",
+        "versions": "3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/iosignal-arduino",
@@ -122322,8 +122322,8 @@
     },
     {
         "name": "SBK_MAX72xx",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.0, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.0, 1.0.0",
         "author": "Samuel Barabé",
         "maintainer": "smartbuildskits@gmail.com",
         "website": "https://github.com/sbarabe/SBK_MAX72xx",
