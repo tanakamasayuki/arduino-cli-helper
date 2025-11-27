@@ -18671,8 +18671,8 @@
     },
     {
         "name": "MCP9800",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.1.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.1.0",
         "author": "Jack Christensen <jack.christensen@outlook.com>",
         "maintainer": "Jack Christensen <jack.christensen@outlook.com>",
         "website": "https://github.com/JChristensen/MCP9800",
@@ -128322,8 +128322,8 @@
     },
     {
         "name": "MycilaDimmer",
-        "version": "2.2.7",
-        "versions": "2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaDimmer",
@@ -131492,6 +131492,128 @@
         "repository": "https://github.com/mabrobotics/Candleduino.git",
         "dependencies": [
             "mcp_canbus"
+        ]
+    },
+    {
+        "name": "Sitron Labs MAX31855 Arduino Library",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library.git",
+        "dependencies": [
+            "SPI"
+        ]
+    },
+    {
+        "name": "Sitron Labs PI3USB9281C Arduino Library",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "Sitron Labs EEPROM Arduino Library",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "Sitron Labs FSUSB43 Arduino Library",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Sitron Labs FUSB302 Arduino Library",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "Sitron Labs LIS2DH12 Arduino Library",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "Sitron Labs SSD1306 Arduino Library",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "SPI",
+            "Wire"
+        ]
+    },
+    {
+        "name": "Sitron Labs DACXX11 Arduino Library",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
