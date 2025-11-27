@@ -131463,5 +131463,20 @@
             "OK Logging",
             "U8g2"
         ]
+    },
+    {
+        "name": "BMduino_BW16",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "BEST MODULES CORP.",
+        "maintainer": "BEST MODULES CORP. <service@bestmodulescorp.com>",
+        "website": "https://github.com/BestModules-Libraries/BMduino_BW16",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/BestModules-Libraries/BMduino_BW16.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
