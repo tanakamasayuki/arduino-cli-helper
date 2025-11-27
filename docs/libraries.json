@@ -27923,8 +27923,8 @@
     },
     {
         "name": "esp32FOTA",
-        "version": "0.2.9",
-        "versions": "0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.1.6, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.1.6, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Chris Joyce",
         "maintainer": "Chris Joyce <chris@joyce.id.au>",
         "website": "https://github.com/chrisjoyce911/esp32FOTA",
@@ -129450,8 +129450,8 @@
     },
     {
         "name": "QuectelEC200U",
-        "version": "1.9.0",
-        "versions": "1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
         "author": "misternegative21",
         "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
         "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
