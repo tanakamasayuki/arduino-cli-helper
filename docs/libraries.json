@@ -89876,8 +89876,8 @@
     },
     {
         "name": "ESP8266SAM_ES",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3",
         "author": "Juan Pablo Marquez <pablo.marquez.dsc@gmail.com>",
         "maintainer": "Juan Pablo Marquez <pablo.marquez.dsc@gmail.com>",
         "website": "https://github.com/pablomarquez76/ESP8266SAM_ES",
@@ -126416,8 +126416,8 @@
     },
     {
         "name": "DShotRMT",
-        "version": "0.9.0",
-        "versions": "0.9.0, 0.8.9, 0.8.8, 0.8.7, 0.8.6, 0.8.3, 0.8.0, 0.7.6, 0.7.5, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.3, 0.6.0",
+        "version": "0.9.1",
+        "versions": "0.9.1, 0.9.0, 0.8.9, 0.8.8, 0.8.7, 0.8.6, 0.8.3, 0.8.0, 0.7.6, 0.7.5, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.3, 0.6.0",
         "author": "Wastl Kraus <wir-sind-die-matrix.de>",
         "maintainer": "Wastl Kraus <wir-sind-die-matrix.de>",
         "website": "https://github.com/derdoktor667/DShotRMT",
@@ -131325,8 +131325,8 @@
     },
     {
         "name": "KaitMenu",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/KaitMenu",
@@ -131419,8 +131419,8 @@
     },
     {
         "name": "SimpleCounter",
-        "version": "0.4.1",
-        "versions": "0.4.1",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1",
         "author": "Tamsin Rose",
         "maintainer": "Tamsin Rose",
         "website": "https://github.com/TamsinRose/SimpleCounter",
