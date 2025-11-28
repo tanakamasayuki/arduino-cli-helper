@@ -129314,8 +129314,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleBattery",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.2.0, 0.1.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoBleBattery",
