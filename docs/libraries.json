@@ -55469,13 +55469,13 @@
     },
     {
         "name": "ezBuzzer",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "ArduinoGetStarted.com",
         "maintainer": "ArduinoGetStarted.com (ArduinoGetStarted@gmail.com)",
         "website": "https://arduinogetstarted.com/tutorials/arduino-buzzer-library",
         "category": "Signal Input/Output",
-        "architectures": "avr",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ArduinoGetStarted/buzzer.git",
         "dependencies": [
@@ -129450,8 +129450,8 @@
     },
     {
         "name": "QuectelEC200U",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
         "author": "misternegative21",
         "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
         "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
@@ -131612,6 +131612,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FDC2x1x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "dac1e",
+        "maintainer": "dac1e <1692-586@onlinehome.de>",
+        "website": "https://github.com/dac1e/FDC2x1x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dac1e/FDC2x1x.git",
         "dependencies": [
             ""
         ]
