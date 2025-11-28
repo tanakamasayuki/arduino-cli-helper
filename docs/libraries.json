@@ -107832,8 +107832,8 @@
     },
     {
         "name": "STM32duino VL53L8CH",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/VL53L8CH",
