@@ -102435,8 +102435,8 @@
     },
     {
         "name": "vovagorodok_ArduinoPin",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoPin",
@@ -130776,8 +130776,8 @@
     },
     {
         "name": "AssocTree",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.2",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.1.2",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/AssocTree",
