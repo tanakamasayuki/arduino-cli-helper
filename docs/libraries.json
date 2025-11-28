@@ -131630,5 +131630,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "CR95HF",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "B4E SRL - David Baldwin",
+        "maintainer": "B4E SRL <dbn@b4e.be>",
+        "website": "https://github.com/dbn-b4e/cr95hf",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dbn-b4e/cr95hf.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Spiderbot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jade Lab <jaderb.rnd@gmail.com>",
+        "maintainer": "Jade Lab <jaderb.rnd@gmail.com>",
+        "website": "https://github.com/JadeRB-RND/Spiderbot",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/JadeRB-RND/Spiderbot.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RYUW122",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "website": "https://mischianti.org/category/my-libraries/ryuw122-uwb/",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/xreef/RYUW122.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
