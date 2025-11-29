@@ -131325,8 +131325,8 @@
     },
     {
         "name": "KaitMenu",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/KaitMenu",
@@ -131687,6 +131687,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sciosense/ufm02-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AmiraEncoder",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Livio Bellini",
+        "maintainer": "Livio Bellini",
+        "website": "https://github.com/liviobellini/AmiraEncoder",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/liviobellini/AmiraEncoder.git",
         "dependencies": [
             ""
         ]
