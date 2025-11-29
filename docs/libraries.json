@@ -89033,8 +89033,8 @@
     },
     {
         "name": "LibLCC",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Robert Middleton",
         "maintainer": "Robert Middleton",
         "website": "https://github.com/rm5248/liblcc-arduino",
@@ -131325,8 +131325,8 @@
     },
     {
         "name": "KaitMenu",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/KaitMenu",
