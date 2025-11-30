@@ -107452,8 +107452,8 @@
     },
     {
         "name": "MyLD2410",
-        "version": "1.2.5",
-        "versions": "1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.6",
+        "versions": "1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Iavor Veltchev",
         "maintainer": "Iavor Veltchev",
         "website": "https://github.com/iavorvel/MyLD2410",
@@ -128582,8 +128582,8 @@
     },
     {
         "name": "Alteriom PainlessMesh",
-        "version": "1.8.15",
-        "versions": "1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
+        "version": "1.9.0",
+        "versions": "1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
         "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
         "maintainer": "Alteriom",
         "website": "https://github.com/Alteriom/painlessMesh",
@@ -131449,8 +131449,8 @@
     },
     {
         "name": "OK Micro Dock",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Dan Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_micro_dock",
