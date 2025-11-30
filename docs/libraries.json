@@ -131735,5 +131735,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Basicmicro",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "Basicmicro",
+        "maintainer": "Basicmicro <support@basicmicro.com>",
+        "website": "https://github.com/basicmicro/Basicmicro_arduino",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/basicmicro/basicmicro_arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
