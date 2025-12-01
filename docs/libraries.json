@@ -78773,8 +78773,8 @@
     },
     {
         "name": "EmbeddedMqttBroker",
-        "version": "1.0.7-qos0",
-        "versions": "1.0.7-qos0, 1.0.6-qos0, 1.0.5-qos0, 1.0.4-qos0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.8-qos0",
+        "versions": "1.0.8-qos0, 1.0.7-qos0, 1.0.6-qos0, 1.0.5-qos0, 1.0.4-qos0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Alex Cajas <alexcajas505@gmail.com>",
         "maintainer": "Alex Cajas <alexcajas505@gmail.com>",
         "website": "https://github.com/alexCajas/EmbeddedMqttBroker.git",
@@ -131823,6 +131823,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/maxrangner/GawiButtons.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "goBILDA Pinpoint",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "goBILDA <tech@gobilda.com>",
+        "maintainer": "goBILDA <tech@gobilda.com>",
+        "website": "https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library.git",
         "dependencies": [
             ""
         ]
