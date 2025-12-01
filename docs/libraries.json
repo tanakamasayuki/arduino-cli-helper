@@ -71021,8 +71021,8 @@
     },
     {
         "name": "DFRobot_OxygenSensor",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "DFRobot",
         "maintainer": "ZhixinLiu <zhixin.liu@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_OxygenSensor",
@@ -129344,8 +129344,8 @@
     },
     {
         "name": "ESP32CertBundle",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.4, 0.1.3",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.1.4, 0.1.3",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32CertBundle",
