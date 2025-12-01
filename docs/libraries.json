@@ -57805,8 +57805,8 @@
     },
     {
         "name": "EncButton",
-        "version": "3.7.3",
-        "versions": "3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.11, 3.5.10, 3.5.9, 3.5.8, 3.5.7, 3.5.6, 3.5.5, 3.5.4, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.1, 3.0.0, 2.0.0, 1.23.0, 1.22.0, 1.21.0, 1.20.0, 1.19.4, 1.19.3, 1.19.2, 1.19.1, 1.19.0, 1.18.2, 1.18.1, 1.18.0, 1.17.0, 1.16.0, 1.15.0, 1.14.0, 1.13.0, 1.12.0, 1.11.1, 1.11.0, 1.10.0, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.0",
+        "version": "3.7.4",
+        "versions": "3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.11, 3.5.10, 3.5.9, 3.5.8, 3.5.7, 3.5.6, 3.5.5, 3.5.4, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.1, 3.0.0, 2.0.0, 1.23.0, 1.22.0, 1.21.0, 1.20.0, 1.19.4, 1.19.3, 1.19.2, 1.19.1, 1.19.0, 1.18.2, 1.18.1, 1.18.0, 1.17.0, 1.16.0, 1.15.0, 1.14.0, 1.13.0, 1.12.0, 1.11.1, 1.11.0, 1.10.0, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/EncButton",
@@ -130579,8 +130579,8 @@
     },
     {
         "name": "Xeno Language",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "VL_PLAY Games",
         "maintainer": "VL_PLAY Games",
         "website": "https://github.com/VLPLAY-Games/Xeno-Language",
@@ -131795,6 +131795,36 @@
         "dependencies": [
             "ESP8266WiFi",
             "lwip"
+        ]
+    },
+    {
+        "name": "TS_lib",
+        "version": "1.8.4",
+        "versions": "1.8.4",
+        "author": "Filippo Raciti",
+        "maintainer": "Filippo Raciti",
+        "website": "https://github.com/filipporaciti/TS_lib.git",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/filipporaciti/TS_lib.git",
+        "dependencies": [
+            "CRC32"
+        ]
+    },
+    {
+        "name": "GawiButtons",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Max Rangner",
+        "maintainer": "Max Rangner",
+        "website": "https://github.com/maxrangner/GawiButtons/",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/maxrangner/GawiButtons.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
