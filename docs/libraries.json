@@ -58000,8 +58000,8 @@
     },
     {
         "name": "GyverMotor",
-        "version": "4.2.1",
-        "versions": "4.2.1, 4.2.0, 4.1.3, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.2.1, 3.2.0, 3.1.0",
+        "version": "4.2.2",
+        "versions": "4.2.2, 4.2.1, 4.2.0, 4.1.3, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.2.1, 3.2.0, 3.1.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverMotor",
@@ -105616,8 +105616,8 @@
     },
     {
         "name": "GTL",
-        "version": "1.3.5",
-        "versions": "1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.1, 1.0.0",
+        "version": "1.3.6",
+        "versions": "1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GTL",
@@ -131779,6 +131779,22 @@
         "repository": "https://github.com/DFRobot/DFRobot_RTK_4G.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESP8266 NAPT Extender",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oscar Gonzalez",
+        "maintainer": "Oscar Gonzalez <oigonzalezp2024@gmail.com>",
+        "website": "https://github.com/oigonzalezp2024/ESP8266NAPTExtender",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/oigonzalezp2024/ESP8266NAPTExtender.git",
+        "dependencies": [
+            "ESP8266WiFi",
+            "lwip"
         ]
     }
 ]
