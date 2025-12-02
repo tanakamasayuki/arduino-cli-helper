@@ -131841,5 +131841,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "AT24CxEeprom",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "dac1e",
+        "maintainer": "dac1e <1692-586@onlinehome.de>",
+        "website": "https://github.com/dac1e/AT24CxEeprom",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dac1e/AT24CxEeprom.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
