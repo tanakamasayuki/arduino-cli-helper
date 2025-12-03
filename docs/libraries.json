@@ -131786,8 +131786,8 @@
     },
     {
         "name": "ESP8266 NAPT Extender",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.5, 1.0.0",
         "author": "Oscar Gonzalez",
         "maintainer": "Oscar Gonzalez <oigonzalezp2024@gmail.com>",
         "website": "https://github.com/oigonzalezp2024/ESP8266NAPTExtender",
