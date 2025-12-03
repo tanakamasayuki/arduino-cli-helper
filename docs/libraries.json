@@ -74358,8 +74358,8 @@
     },
     {
         "name": "Deneyap 9-Eksen Ataletsel Olcum Birimi",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Turkish Technnology Team Foundation (T3) <destek@deneyapkart.org>",
         "maintainer": "Turkish Technnology Team Foundation (T3) <destek@deneyapkart.org>",
         "website": "https://github.com/deneyapkart/deneyap-9-eksen-ataletsel-olcum-birimi-arduino-library",
