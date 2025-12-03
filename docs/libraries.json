@@ -97066,8 +97066,8 @@
     },
     {
         "name": "PsychicHttp",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Zach Hoeken <hoeken@gmail.com>",
         "maintainer": "Zach Hoeken <hoeken@gmail.com>",
         "website": "https://github.com/hoeken/PsychicHttp",
@@ -99344,8 +99344,8 @@
     },
     {
         "name": "Alfredo-NoU3",
-        "version": "1.0.11",
-        "versions": "1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.12",
+        "versions": "1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alfredo Systems",
         "maintainer": "Jacob Williams (jrw4561@gmail.com)",
         "website": "https://github.com/AlfredoSystems/Alfredo_NoU3",
@@ -131298,8 +131298,8 @@
     },
     {
         "name": "SerialNetworkBridge",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "mobizt",
         "maintainer": "mobizt <suwatchai@outlook.com>",
         "website": "https://github.com/mobizt/SerialNetworkBridge",
@@ -131308,7 +131308,8 @@
         "types": "Contributed",
         "repository": "https://github.com/mobizt/SerialNetworkBridge.git",
         "dependencies": [
-            ""
+            "ArduinoMqttClient",
+            "WebSockets"
         ]
     },
     {
