@@ -107955,8 +107955,8 @@
     },
     {
         "name": "MycilaDS18",
-        "version": "5.1.1",
-        "versions": "5.1.1, 5.1.0, 5.0.1, 5.0.0, 4.1.4, 4.1.3, 4.1.2, 4.1.1, 4.1.0, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.1, 2.0.0, 1.0.0",
+        "version": "5.2.1",
+        "versions": "5.2.1, 5.1.1, 5.1.0, 5.0.1, 5.0.0, 4.1.4, 4.1.3, 4.1.2, 4.1.1, 4.1.0, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.1, 2.0.0, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaDS18",
@@ -128585,8 +128585,8 @@
     },
     {
         "name": "Alteriom PainlessMesh",
-        "version": "1.9.3",
-        "versions": "1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
+        "version": "1.9.4",
+        "versions": "1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
         "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
         "maintainer": "Alteriom",
         "website": "https://github.com/Alteriom/painlessMesh",
@@ -131871,6 +131871,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/vovagorodok/ArduinoBuzzer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GestureAirDrawPro",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Herobrine Pixel",
+        "maintainer": "Herobrine Pixel <ashasah77@gmail.com>",
+        "website": "https://github.com/Herobrine-pixel/GestureAirDrawPro",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Herobrine-pixel/GestureAirDrawPro.git",
         "dependencies": [
             ""
         ]
