@@ -58647,8 +58647,8 @@
     },
     {
         "name": "wolfssl",
-        "version": "5.8.2",
-        "versions": "5.8.2, 5.8.0, 5.7.6, 5.7.4, 5.7.2, 5.7.0, 5.6.6-Arduino.2, 5.6.6-Arduino.1",
+        "version": "5.8.4",
+        "versions": "5.8.4, 5.8.2, 5.8.0, 5.7.6, 5.7.4, 5.7.2, 5.7.0, 5.6.6-Arduino.2, 5.6.6-Arduino.1",
         "author": "wolfSSL Inc.",
         "maintainer": "wolfSSL inc <support@wolfssl.com>",
         "website": "https://www.wolfssl.com/",
