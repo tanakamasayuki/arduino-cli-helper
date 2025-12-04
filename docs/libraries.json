@@ -100482,8 +100482,8 @@
     },
     {
         "name": "LualtekRAKRUI",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.13, 0.3.12, 0.3.11, 0.3.10, 0.3.9, 0.3.8, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.2.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.13, 0.3.12, 0.3.11, 0.3.10, 0.3.9, 0.3.8, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.2.0",
         "author": "Lualtek",
         "maintainer": "Lualtek <dev@lualtek.io>",
         "website": "https://github.com/lualtek/lualtek-rakrui",
@@ -129378,8 +129378,8 @@
     },
     {
         "name": "sparkey_gyro",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0",
         "author": "Armin",
         "maintainer": "real.armin.ghajari2005@gmail.com",
         "website": "https://github.com/Rmin-code2005/sparkey_gyro",
@@ -131330,8 +131330,8 @@
     },
     {
         "name": "KaitMenu",
-        "version": "1.0.9",
-        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/KaitMenu",
@@ -131917,6 +131917,21 @@
         "architectures": "",
         "types": "Contributed",
         "repository": "https://github.com/bhadreshmewada/UniversalDebugLib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TAD2144",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.TAD214x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git",
         "dependencies": [
             ""
         ]
