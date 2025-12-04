@@ -40164,8 +40164,8 @@
     },
     {
         "name": "slight_DebugMenu",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.0.0",
         "author": "Stefan Krüger (s-light) <git@s-light.eu>",
         "maintainer": "Stefan Krüger <git@s-light.eu>",
         "website": "https://github.com/s-light/slight_DebugMenu",
