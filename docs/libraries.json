@@ -40798,8 +40798,8 @@
     },
     {
         "name": "Electronic Cats PN7150",
-        "version": "3.1.0",
-        "versions": "3.1.0, 2.1.0, 2.0.1, 2.0.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.0",
+        "version": "3.1.1",
+        "versions": "3.1.1, 3.1.0, 2.1.0, 2.0.1, 2.0.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.0",
         "author": "Electronic Cats and Salvador Mendoza",
         "maintainer": "Electronic Cats <www.electroniccats.com>",
         "website": "https://github.com/ElectronicCats/ElectronicCats-PN7150",
@@ -115476,8 +115476,8 @@
     },
     {
         "name": "FastEPD",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/FastEPD",
