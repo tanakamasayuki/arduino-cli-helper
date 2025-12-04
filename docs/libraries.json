@@ -131935,5 +131935,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SparkFun FPC2534 Arduino Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SparkFun Electronics <techsupport@sparkfun.com>",
+        "maintainer": "SparkFun Electronics <sparkfun.com>",
+        "website": "https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library",
+        "category": "Uncategorized",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/sparkfun/SparkFun_FPC2534_Arduino_Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
