@@ -129378,11 +129378,11 @@
     },
     {
         "name": "sparkey_gyro",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0",
         "author": "Armin",
         "maintainer": "real.armin.ghajari2005@gmail.com",
-        "website": "https://github.com/Rmin-code2005/sparkey_gyro_i2c",
+        "website": "https://github.com/Rmin-code2005/sparkey_gyro",
         "category": "Sensors",
         "architectures": "avr",
         "types": "Contributed",
@@ -131904,6 +131904,21 @@
         "repository": "https://github.com/JorgeGBeltre/MQTTOTA.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "Universal Debug Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bhadresh <bhadresh@post.com>",
+        "maintainer": "Bhadresh <bhadresh@post.com>",
+        "website": "https://github.com/bhadreshmewada/UniversalDebugLib",
+        "category": "Communication",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/bhadreshmewada/UniversalDebugLib.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
