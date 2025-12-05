@@ -129167,8 +129167,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.5.5",
-        "versions": "1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/SegMap595",
@@ -131949,6 +131949,21 @@
         "repository": "https://github.com/sparkfun/SparkFun_FPC2534_Arduino_Library.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESteme",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "steme",
+        "maintainer": "steme_team <info@steme.vn>",
+        "website": "https://www.steme.vn/en/ESteme/ESteme",
+        "category": "Communication",
+        "architectures": "megaavr, samd, mbed_nano, mbed_portenta, mbed_opta",
+        "types": "Contributed",
+        "repository": "https://github.com/elevoi/ESteme.git",
+        "dependencies": [
+            "SoftwareSerial"
         ]
     }
 ]
