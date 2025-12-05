@@ -125261,8 +125261,8 @@
     },
     {
         "name": "Neza74HC165",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "website": "https://github.com/Nezaemmy/Neza74HC165",
@@ -131968,8 +131968,8 @@
     },
     {
         "name": "Drv7Seg2x595",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7Seg2x595",
@@ -131977,6 +131977,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ErlingSigurdson/Drv7Seg2x595.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP8266AIGemini",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "author": "Oscar Gonzalez",
+        "maintainer": "Oscar Gonzalez <oigonzalezp2024@gmail.com>",
+        "website": "https://github.com/oigonzalezp2024/ESP8266AIGemini",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/oigonzalezp2024/ESP8266AIGemini.git",
         "dependencies": [
             ""
         ]
