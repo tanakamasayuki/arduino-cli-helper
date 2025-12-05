@@ -126996,8 +126996,8 @@
     },
     {
         "name": "FlyskyIBUS",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.1, 0.6.0, 0.5.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.0",
         "author": "derdoktor667",
         "maintainer": "derdoktor667",
         "website": "https://github.com/derdoktor667/FlyskyIBUS",
