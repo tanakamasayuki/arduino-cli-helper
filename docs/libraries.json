@@ -78774,8 +78774,8 @@
     },
     {
         "name": "EmbeddedMqttBroker",
-        "version": "2.0.11-qos0",
-        "versions": "2.0.11-qos0, 2.0.10-qos0, 2.0.9-qos0, 2.0.8-qos0, 1.0.8-qos0, 1.0.7-qos0, 1.0.6-qos0, 1.0.5-qos0, 1.0.4-qos0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "2.0.12-qos0",
+        "versions": "2.0.12-qos0, 2.0.11-qos0, 2.0.10-qos0, 2.0.9-qos0, 2.0.8-qos0, 1.0.8-qos0, 1.0.7-qos0, 1.0.6-qos0, 1.0.5-qos0, 1.0.4-qos0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Alex Cajas <alexcajas505@gmail.com>",
         "maintainer": "Alex Cajas <alexcajas505@gmail.com>",
         "website": "https://github.com/alexCajas/EmbeddedMqttBroker.git",
