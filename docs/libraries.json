@@ -131998,8 +131998,8 @@
     },
     {
         "name": "ESP32AutoTask",
-        "version": "0.0.3",
-        "versions": "0.0.3",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.0.3",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32AutoTask",
