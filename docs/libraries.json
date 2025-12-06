@@ -80879,8 +80879,8 @@
     },
     {
         "name": "Boho",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/boho-arduino",
@@ -132022,6 +132022,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/sava-74/SavaLED_ESP32.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BluetoothTonePlayer",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Herobrine Pixel",
+        "maintainer": "Herobrine Pixel <ashasah77@gmail.com>",
+        "website": "https://github.com/Herobrine-pixel/BluetoothTonePlayer",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Herobrine-pixel/BluetoothTonePlayer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GestureAirDraw",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Herobrine Pixel",
+        "maintainer": "Herobrine Pixel <ashasah77@gmail.com>",
+        "website": "https://github.com/Herobrine-pixel/GestureAirDraw",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Herobrine-pixel/GestureAirDraw.git",
         "dependencies": [
             ""
         ]
