@@ -125396,8 +125396,8 @@
     },
     {
         "name": "VFDDisplay",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
         "author": "HarutoHiroki",
         "maintainer": "HarutoHiroki",
         "website": "\"https://github.com/HarutoHiroki/VFDDisplay\"",
@@ -132052,6 +132052,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Herobrine-pixel/GestureAirDraw.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NuSock",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Suwatchai K.",
+        "maintainer": "Suwatchai K. <suwatchai@outlook.com>",
+        "website": "https://github.com/mobizt/NuSock",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mobizt/NuSock.git",
         "dependencies": [
             ""
         ]
