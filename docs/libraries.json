@@ -132010,5 +132010,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SavaLED_ESP32",
+        "version": "2.1.0",
+        "versions": "2.1.0",
+        "author": "SavaLab",
+        "maintainer": "SavaLab <sava-74@inbox.ru>",
+        "website": "https://github.com/sava-74/SavaLED_ESP32.git",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/sava-74/SavaLED_ESP32.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
