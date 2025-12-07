@@ -47923,8 +47923,8 @@
     },
     {
         "name": "LC_baseTools",
-        "version": "1.9.0",
-        "versions": "1.9.0, 1.8.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.4, 1.2.3, 1.2.0, 1.1.2, 1.1.1, 1.0.0",
+        "version": "1.10.0",
+        "versions": "1.10.0, 1.9.0, 1.8.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.4, 1.2.3, 1.2.0, 1.1.2, 1.1.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "baseTools@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_baseTools",
@@ -48916,8 +48916,8 @@
     },
     {
         "name": "LC_lilParser",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.0",
         "author": "jim lee",
         "maintainer": "lilParser@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_lilParser",
@@ -56331,8 +56331,8 @@
     },
     {
         "name": "LC_neoPixel",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.0.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "neoPixel@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_neoPixel",
@@ -85155,8 +85155,8 @@
     },
     {
         "name": "LC_slowServo",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "jim lee",
         "maintainer": "slowServo@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_slowServo",
@@ -113056,12 +113056,12 @@
     },
     {
         "name": "LC_cardIndex",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "jim lee",
         "maintainer": "cardIndex@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_cardIndex",
-        "category": "Uncategorized",
+        "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/leftCoast/LC_cardIndex.git",
@@ -120557,8 +120557,8 @@
     },
     {
         "name": "ieee-802_15_4-network-shared",
-        "version": "0.6.3",
-        "versions": "0.6.3, 0.6.2, 0.6.1, 0.6.0",
+        "version": "0.6.5",
+        "versions": "0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-shared",
@@ -132058,8 +132058,8 @@
     },
     {
         "name": "NuSock",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Suwatchai K.",
         "maintainer": "Suwatchai K. <suwatchai@outlook.com>",
         "website": "https://github.com/mobizt/NuSock",
@@ -132097,6 +132097,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/fiaos-org/FiaPhy.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SavaButton",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SavaLab <sava-74@inbox.ru>",
+        "maintainer": "SavaLab <sava-74@inbox.ru>",
+        "website": "https://github.com/sava-74/SavaButton.git",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sava-74/SavaButton.git",
         "dependencies": [
             ""
         ]
