@@ -132070,5 +132070,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SavaTime",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "SavaLab <sava-74@inbox.ru>",
+        "maintainer": "SavaLab <sava-74@inbox.ru>",
+        "website": "https://github.com/sava-74/SavaTime.git",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sava-74/SavaTime.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
