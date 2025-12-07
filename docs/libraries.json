@@ -102130,8 +102130,8 @@
     },
     {
         "name": "MT6701-arduino",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "I_AM_ENGINEER <sdwad6@gmail.com>",
         "maintainer": "I_AM_ENGINEER <sdwad6@gmail.com>",
         "website": "https://github.com/I-AM-ENGINEER/MT6701-arduino",
@@ -130720,8 +130720,8 @@
     },
     {
         "name": "BLE Serial - NUS",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_BLESerial",
@@ -132157,6 +132157,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sava-74/SavaTrig.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PandaCam",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Paul Watts",
+        "maintainer": "Paul Watts",
+        "website": "https://github.com/PaulNTU/PandaCam",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PaulNTU/PandaCam.git",
         "dependencies": [
             ""
         ]
