@@ -113193,8 +113193,8 @@
     },
     {
         "name": "RcSwitchReceiver",
-        "version": "0.6.6",
-        "versions": "0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.0, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.0, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "website": "https://github.com/dac1e/RcSwitchReceiver",
@@ -120557,8 +120557,8 @@
     },
     {
         "name": "ieee-802_15_4-network-shared",
-        "version": "0.6.5",
-        "versions": "0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0",
+        "version": "0.6.6",
+        "versions": "0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-shared",
@@ -131968,8 +131968,8 @@
     },
     {
         "name": "Drv7Seg2x595",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7Seg2x595",
@@ -132088,8 +132088,8 @@
     },
     {
         "name": "FiaPhy",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "Neksha V. DeSilva <nekshavs@gmail.com>",
         "maintainer": "FiaOS Research <research@fiaos.org>",
         "website": "https://github.com/fiaos-org/FiaPhy",
@@ -132127,6 +132127,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Manjunathan1998/DYSVAUDIO5W.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DigitalButton",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "hidori",
+        "maintainer": "hidori",
+        "website": "https://github.com/hidori/DigitalButton",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/hidori/DigitalButton.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SavaTrig",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SavaLab <sava-74@inbox.ru>",
+        "maintainer": "SavaLab <sava-74@inbox.ru>",
+        "website": "https://github.com/sava-74/SavaTrig.git",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sava-74/SavaTrig.git",
         "dependencies": [
             ""
         ]
