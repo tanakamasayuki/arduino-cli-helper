@@ -132013,8 +132013,8 @@
     },
     {
         "name": "SavaLED_ESP32",
-        "version": "2.1.0",
-        "versions": "2.1.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0",
         "author": "SavaLab",
         "maintainer": "SavaLab <sava-74@inbox.ru>",
         "website": "https://github.com/sava-74/SavaLED_ESP32.git",
@@ -132073,9 +132073,9 @@
     },
     {
         "name": "SavaTime",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
-        "author": "SavaLab <sava-74@inbox.ru>",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "author": "SavaLab",
         "maintainer": "SavaLab <sava-74@inbox.ru>",
         "website": "https://github.com/sava-74/SavaTime.git",
         "category": "Timing",
@@ -132103,9 +132103,9 @@
     },
     {
         "name": "SavaButton",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "SavaLab <sava-74@inbox.ru>",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "SavaLab",
         "maintainer": "SavaLab <sava-74@inbox.ru>",
         "website": "https://github.com/sava-74/SavaButton.git",
         "category": "Signal Input/Output",
@@ -132172,6 +132172,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/PaulNTU/PandaCam.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MS4525DO_RT",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/MS4525DO_RT",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/MS4525DO_RT.git",
         "dependencies": [
             ""
         ]
