@@ -132314,8 +132314,8 @@
     },
     {
         "name": "LC_Adafruit_1431",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "Adafruit_1431@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_Adafruit_1431",
@@ -132325,7 +132325,10 @@
         "repository": "https://github.com/leftCoast/LC_Adafruit_1431.git",
         "dependencies": [
             "LC_baseTools",
-            "LC_GUITools"
+            "LC_SPI",
+            "LC_GUITools",
+            "Adafruit_GFX",
+            "Adafruit_SSD1351"
         ]
     },
     {
