@@ -101434,8 +101434,8 @@
     },
     {
         "name": "Ardwloop",
-        "version": "0.3.6",
-        "versions": "0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.1, 0.2.0, 0.1.8, 0.1.7, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.8",
+        "version": "0.3.7",
+        "versions": "0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.1, 0.2.0, 0.1.8, 0.1.7, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.8",
         "author": "Laurent Schall <llschall@gmx.com>",
         "maintainer": "Laurent Schall <llschall@gmx.com>",
         "website": "https://github.com/llschall/ardwloop-ino",
@@ -131818,8 +131818,8 @@
     },
     {
         "name": "GawiButtons",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "Max Rangner",
         "maintainer": "Max Rangner",
         "website": "https://github.com/maxrangner/GawiButtons/",
@@ -131893,8 +131893,8 @@
     },
     {
         "name": "MQTTOTA",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Jorge Gaspar Beltre Rivera",
         "maintainer": "Jorge Gaspar Beltre Rivera",
         "website": "https://github.com/JorgeGBeltre/MQTTOTA",
@@ -132613,6 +132613,96 @@
         "repository": "https://github.com/joy-it/JoyIT_LSM6DS3TR-C.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "LCP_sTerm",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "sTerm@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_sTerm",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_sTerm.git",
+        "dependencies": [
+            "LC_lilOS"
+        ]
+    },
+    {
+        "name": "LCP_sett",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "sett@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_sett",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_sett.git",
+        "dependencies": [
+            "LC_lilOS"
+        ]
+    },
+    {
+        "name": "LCP_rpnCalc",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "rpnCalc@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_rpnCalc",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_rpnCalc.git",
+        "dependencies": [
+            "LC_lilOS"
+        ]
+    },
+    {
+        "name": "LCP_iconEdit",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "iconEdit@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_iconEdit",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_iconEdit.git",
+        "dependencies": [
+            "LC_lilOS"
+        ]
+    },
+    {
+        "name": "LCP_grenade",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "grenade@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_grenade",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_grenade.git",
+        "dependencies": [
+            "LC_lilOS"
+        ]
+    },
+    {
+        "name": "LCP_breakout",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "breakout@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_breakout",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_breakout.git",
+        "dependencies": [
+            "LC_lilOS"
         ]
     }
 ]
