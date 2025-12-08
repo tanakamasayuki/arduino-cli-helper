@@ -132581,5 +132581,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "OpenLogManager",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alby312 <alberto.mugavero@gmail.com>",
+        "maintainer": "Alby312 <alberto.mugavero@gmail.com>",
+        "website": "https://github.com/Alby312/OpenLogManager",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alby312/OpenLogManager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "JoyIT_LSM6DS3TR-C",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Joy-IT <support@joy-it.de>",
+        "maintainer": "Joy-IT <support@joy-it.de>",
+        "website": "https://github.com/joy-it/JoyIT_LSM6DS3TR-C",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/joy-it/JoyIT_LSM6DS3TR-C.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
