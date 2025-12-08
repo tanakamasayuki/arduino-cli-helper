@@ -97628,8 +97628,8 @@
     },
     {
         "name": "MySQL Query Client",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "maintainer": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "website": "https://github.com/cotestatnt/Arduino-MySQL",
@@ -132219,6 +132219,352 @@
         "repository": "https://github.com/hidori/ProgMemFS.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESP32TaskKit",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.1",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/ESP32TaskKit",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/ESP32TaskKit.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LC_piezoTunes",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "piezoTunes@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_piezoTunes",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_piezoTunes.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LC_RPNCalculator",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "RPNCalculator@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_RPNCalculator",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_RPNCalculator.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LC_Adafruit_VS1053",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "Adafruit_VS1053@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_Adafruit_VS1053",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_Adafruit_VS1053.git",
+        "dependencies": [
+            "LC_baseTools"
+        ]
+    },
+    {
+        "name": "LC_GUITools",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "GUITools@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_GUITools",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_GUITools.git",
+        "dependencies": [
+            "LC_baseTools"
+        ]
+    },
+    {
+        "name": "LC_Adafruit_684",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "adafruit_684@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_Adafruit_684",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_Adafruit_684.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools"
+        ]
+    },
+    {
+        "name": "LC_Adafruit_1431",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "Adafruit_1431@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_Adafruit_1431",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_Adafruit_1431.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools"
+        ]
+    },
+    {
+        "name": "LC_Adafruit_1947",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "jim lee",
+        "maintainer": "Adafruit_1947@leftcoast.biz",
+        "website": "https://github.com/leftCoast/Arduino",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_Adafruit_1947.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools"
+        ]
+    },
+    {
+        "name": "LC_DFRobot_0995",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "DFRobot_0995@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_DFRobot_0995",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_DFRobot_0995.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_SPI",
+            "LC_GUITools",
+            "Adafruit_ST7789",
+            "Adafruit_GFX"
+        ]
+    },
+    {
+        "name": "LC_bmpObj",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "bmpObj@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_bmpObj",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_bmpTools.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools",
+            "LC_SDTools",
+            "LC_docTools"
+        ]
+    },
+    {
+        "name": "LC_Adafruit_2050",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "Adafruit_2050@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_Adafruit_2050",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_Adafruit_2050.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools",
+            "LC_SPI",
+            "Adafruit_GFX",
+            "Adafruit_HX8357"
+        ]
+    },
+    {
+        "name": "LC_keyboard",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "keyboard@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_keyboard",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_keyboard.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools"
+        ]
+    },
+    {
+        "name": "LC_blockfile",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "blockfile@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_blockfile",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_blockFile.git",
+        "dependencies": [
+            "LC_baseTools"
+        ]
+    },
+    {
+        "name": "LC_SDTools",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "SDTools@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_SDTools",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_SDTools.git",
+        "dependencies": [
+            "LC_baseTools"
+        ]
+    },
+    {
+        "name": "LC_docTools",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "docTools@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_docTools",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_docTools.git",
+        "dependencies": [
+            "LC_baseTools",
+            "SDTools",
+            "LC_GUITools",
+            "lilOS",
+            "modalAlerts"
+        ]
+    },
+    {
+        "name": "LC_lilOS",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "jim lee",
+        "maintainer": "lilOS@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_lilOS",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_lilOS.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools",
+            "LC_docTools",
+            "LC_bmpTools",
+            "LC_modalAlerts"
+        ]
+    },
+    {
+        "name": "LC_modalAlerts",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "jim lee",
+        "maintainer": "modalAlerts@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_modalAlerts",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_modalAlerts.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools",
+            "LC_SPI",
+            "LC_bmpTools",
+            "LC_lilOS",
+            "LC_keyboard"
+        ]
+    },
+    {
+        "name": "LC_navTools",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "navTools@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_navTools",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_navTools.git",
+        "dependencies": [
+            "LC_baseTools"
+        ]
+    },
+    {
+        "name": "LC_numStream",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "jim lee",
+        "maintainer": "numStream@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_numStream/",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_numStream.git",
+        "dependencies": [
+            "LC_baseTools",
+            "SD"
+        ]
+    },
+    {
+        "name": "LC_Adafruit_GPS",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "Adafruit_GPS@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_Adafruit_GPS",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_Adafruit_GPS.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_numStream"
+        ]
+    },
+    {
+        "name": "LC_SAE_J1939",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "SAE_J1939@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_SAE_J1939",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_J1939.git",
+        "dependencies": [
+            "LC_baseTools",
+            "CAN"
         ]
     }
 ]
