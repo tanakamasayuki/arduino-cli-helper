@@ -132178,8 +132178,8 @@
     },
     {
         "name": "MS4525DO_RT",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MS4525DO_RT",
@@ -132565,6 +132565,21 @@
         "dependencies": [
             "LC_baseTools",
             "CAN"
+        ]
+    },
+    {
+        "name": "EspNowBus",
+        "version": "0.0.2",
+        "versions": "0.0.2",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/EspNowBus",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/EspNowBus.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
