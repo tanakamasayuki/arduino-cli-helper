@@ -98194,8 +98194,8 @@
     },
     {
         "name": "LilyGo-AMOLED-Series",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
         "author": "LilyGo",
         "maintainer": "LewisHe <lewishe@outlook.com>",
         "website": "https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series",
@@ -132703,6 +132703,36 @@
         "repository": "https://github.com/leftCoast/LCP_breakout.git",
         "dependencies": [
             "LC_lilOS"
+        ]
+    },
+    {
+        "name": "Steam Binh Long",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Kay Chip",
+        "maintainer": "Kay Chip <dangkhoanguyen@steamforvietnam.org>",
+        "website": "https://github.com/steambinhlong/SBLC",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/steambinhlong/SBLC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "myDHT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Toni Matutinović",
+        "maintainer": "Toni Matutinović <tonimatutta@gmail.com>",
+        "website": "https://github.com/tonimatutinovic/MyDHT",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tonimatutinovic/myDHT.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
