@@ -101535,8 +101535,8 @@
     },
     {
         "name": "PowerFeather-SDK",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.9.9, 0.9.8, 0.9.7, 0.9.6, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1, 0.9.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.9.9, 0.9.8, 0.9.7, 0.9.6, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1, 0.9.0",
         "author": "PowerFeather",
         "maintainer": "PowerFeather",
         "website": "https://github.com/PowerFeather/powerfeather-sdk",
@@ -125321,8 +125321,8 @@
     },
     {
         "name": "uButton",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/uButton",
@@ -132733,6 +132733,22 @@
         "repository": "https://github.com/tonimatutinovic/myDHT.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "uEncoder",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/uEncoder",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/uEncoder.git",
+        "dependencies": [
+            "GyverIO",
+            "uButton"
         ]
     }
 ]
