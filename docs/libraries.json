@@ -112493,8 +112493,8 @@
     },
     {
         "name": "uEspConfigLib",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Naguissa <naguissa@foroelectro.net>",
         "maintainer": "Naguissa <naguissa@foroelectro.net>",
         "website": "https://github.com/Naguissa/uEspConfigLib",
@@ -124519,8 +124519,8 @@
     },
     {
         "name": "DFRobot_SFA40",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "DFRobot",
         "maintainer": "fary<feng.yang@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_SFA40",
@@ -131968,8 +131968,8 @@
     },
     {
         "name": "Drv7Seg2x595",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7Seg2x595",
@@ -132470,8 +132470,8 @@
     },
     {
         "name": "LC_lilOS",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.1",
         "author": "jim lee",
         "maintainer": "lilOS@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_lilOS",
