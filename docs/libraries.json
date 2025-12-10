@@ -132765,5 +132765,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "esp32-rmt-pwm-reader",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Romoloman",
+        "maintainer": "romoloman",
+        "website": "https://github.com/romoloman/esp32-rmt-pwm-reader/",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/romoloman/esp32-rmt-pwm-reader.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
