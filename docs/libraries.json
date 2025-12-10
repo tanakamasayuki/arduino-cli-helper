@@ -118521,8 +118521,8 @@
     },
     {
         "name": "TMC51X0",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.1, 2.0.0, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.1, 2.0.0, 1.0.0",
         "author": "Peter Polidoro <peter@polidoro.io>",
         "maintainer": "Peter Polidoro <peter@polidoro.io>",
         "website": "https://github.com/janelia-arduino/TMC51X0",
@@ -129167,8 +129167,8 @@
     },
     {
         "name": "SegMap595",
-        "version": "1.6.1",
-        "versions": "1.6.1, 1.6.0, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.6.2",
+        "versions": "1.6.2, 1.6.1, 1.6.0, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/SegMap595",
@@ -131971,8 +131971,8 @@
     },
     {
         "name": "Drv7Seg2x595",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7Seg2x595",
@@ -132829,6 +132829,36 @@
         "dependencies": [
             "WiFi",
             "Update"
+        ]
+    },
+    {
+        "name": "rtc",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Pandiyarajk",
+        "maintainer": "Pandiyaraj Karuppasamy <pandiyarajk@live.com>",
+        "website": "https://github.com/Pandiyarajk/rtc",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Pandiyarajk/rtc.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "omniMath",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
+        "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
+        "website": "https://github.com/Glinek/omniMath",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Glinek/omniMath.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
