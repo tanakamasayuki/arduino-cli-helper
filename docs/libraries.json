@@ -132801,8 +132801,8 @@
     },
     {
         "name": "PICO_OTA",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Samuel Fong",
         "maintainer": "Samuel Fong",
         "website": "https://github.com/wedsamuel1230/PICO_OTA",
@@ -132812,8 +132812,7 @@
         "repository": "https://github.com/wedsamuel1230/Pico_OTA.git",
         "dependencies": [
             "ArduinoOTA",
-            "WiFi",
-            "LittleFS"
+            "WiFi"
         ]
     },
     {
