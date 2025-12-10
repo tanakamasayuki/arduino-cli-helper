@@ -108272,8 +108272,8 @@
     },
     {
         "name": "uHexLib",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.0, 2.0.0, 1.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.0.0",
         "author": "Naguissa <naguissa@foroelectro.net>",
         "maintainer": "Naguissa <naguissa@foroelectro.net>",
         "website": "https://github.com/Naguissa/uHexLib",
@@ -132814,6 +132814,22 @@
             "ArduinoOTA",
             "WiFi",
             "LittleFS"
+        ]
+    },
+    {
+        "name": "MvsOTA_ESP32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Vishal Jain",
+        "maintainer": "Vishal Jain",
+        "website": "https://gitlab.com/Vishal1695/mvsota_esp32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://gitlab.com/Vishal1695/mvsota_esp32.git",
+        "dependencies": [
+            "WiFi",
+            "Update"
         ]
     }
 ]
