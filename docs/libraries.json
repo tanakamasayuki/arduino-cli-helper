@@ -132783,5 +132783,37 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SHT40",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MR01Right",
+        "maintainer": "MR01Right",
+        "website": "https://github.com/MR01Right/SHT40",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MR01Right/SHT40.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PICO_OTA",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Samuel Fong",
+        "maintainer": "Samuel Fong",
+        "website": "https://github.com/wedsamuel1230/PICO_OTA",
+        "category": "Uncategorized",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/wedsamuel1230/Pico_OTA.git",
+        "dependencies": [
+            "ArduinoOTA",
+            "WiFi",
+            "LittleFS"
+        ]
     }
 ]
