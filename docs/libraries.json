@@ -100859,8 +100859,8 @@
     },
     {
         "name": "SimpleVector",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.4-BETA, 1.0.3, 1.0.3-BETA, 1.0.2, 1.0.1-BETA, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.4-BETA, 1.0.3, 1.0.3-BETA, 1.0.2, 1.0.1-BETA, 1.0.0",
         "author": "Brayden Anderson",
         "maintainer": "Brayden Anderson <braydenanderson2014@gmail.com>",
         "website": "https://github.com/braydenanderson2014/C-Arduino-Libraries/tree/main/lib/SimpleVector",
