@@ -96554,8 +96554,8 @@
     },
     {
         "name": "AsyncEspFsWebserver",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "maintainer": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "website": "https://github.com/cotestatnt/async-esp-fs-webserver",
@@ -96565,9 +96565,9 @@
         "repository": "https://github.com/cotestatnt/async-esp-fs-webserver.git",
         "dependencies": [
             "ArduinoJson",
-            "ESPAsyncWebServer",
-            "AsyncTCP",
-            "ESPAsyncTCP"
+            "ESP Async WebServer",
+            "Async TCP",
+            "ESP Async TCP"
         ]
     },
     {
@@ -132061,8 +132061,8 @@
     },
     {
         "name": "NuSock",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Suwatchai K.",
         "maintainer": "Suwatchai K. <suwatchai@outlook.com>",
         "website": "https://github.com/mobizt/NuSock",
