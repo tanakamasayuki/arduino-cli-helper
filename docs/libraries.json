@@ -72573,10 +72573,10 @@
     },
     {
         "name": "TomServo",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Trent M. Wyatt",
-        "maintainer": "Trent M. Wyatt <ripred@users.github.com>",
+        "maintainer": "Trent M. Wyatt <robotics@trentwyatt.com>",
         "website": "https://github.com/ripred/TomServo",
         "category": "Device Control",
         "architectures": "*",
@@ -80879,8 +80879,8 @@
     },
     {
         "name": "Boho",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/boho-arduino",
@@ -98134,8 +98134,8 @@
     },
     {
         "name": "NuS-NimBLE-Serial",
-        "version": "4.2.0",
-        "versions": "4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "4.2.1",
+        "versions": "4.2.1, 4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "afpineda",
         "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
         "website": "https://github.com/afpineda/Nus-NimBLE-Serial",
@@ -98734,8 +98734,8 @@
     },
     {
         "name": "IOSignal",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
+        "version": "5.0.0",
+        "versions": "5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/iosignal-arduino",
@@ -98745,7 +98745,6 @@
         "repository": "https://github.com/remocons/iosignal-arduino.git",
         "dependencies": [
             "Crypto",
-            "Boho",
             "Bounce2"
         ]
     },
@@ -129854,8 +129853,8 @@
     },
     {
         "name": "NextionControl",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.0, 1.3.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "website": "https://github.com/k3ldar/NextionControl",
@@ -132817,8 +132816,8 @@
     },
     {
         "name": "MvsOTA_ESP32",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Vishal Jain",
         "maintainer": "Vishal Jain",
         "website": "https://gitlab.com/Vishal1695/mvsota_esp32",
@@ -132827,8 +132826,7 @@
         "types": "Contributed",
         "repository": "https://gitlab.com/Vishal1695/mvsota_esp32.git",
         "dependencies": [
-            "WiFi",
-            "Update"
+            "WiFi"
         ]
     },
     {
