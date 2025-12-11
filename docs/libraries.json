@@ -43326,8 +43326,8 @@
     },
     {
         "name": "SevenSegmentTM1637",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Bram Harmsen <bramharmsen@gmail.com>",
         "maintainer": "Bram Harmsen <bramharmsen@gmail.com>",
         "website": "https://github.com/bremme/arduino-tm1637",
@@ -98134,8 +98134,8 @@
     },
     {
         "name": "NuS-NimBLE-Serial",
-        "version": "4.1.2",
-        "versions": "4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "4.2.0",
+        "versions": "4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "afpineda",
         "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
         "website": "https://github.com/afpineda/Nus-NimBLE-Serial",
@@ -128538,8 +128538,8 @@
     },
     {
         "name": "Sensirion UPT BLE Server",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Bjoern Muntwyler, Jonas Stolle",
         "maintainer": "Sensirion AG <sensirion.com>",
         "website": "https://github.com/Sensirion/arduino-upt-ble-server",
@@ -132919,6 +132919,21 @@
         "repository": "https://github.com/GyverLibs/BLESerial_ESP32.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit STCC4",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_STCC4",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_STCC4.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
