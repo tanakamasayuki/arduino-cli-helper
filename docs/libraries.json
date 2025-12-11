@@ -96554,8 +96554,8 @@
     },
     {
         "name": "AsyncEspFsWebserver",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "maintainer": "Tolentino Cotesta <cotestatnt@yahoo.com>",
         "website": "https://github.com/cotestatnt/async-esp-fs-webserver",
@@ -131851,8 +131851,8 @@
     },
     {
         "name": "AT24CxEeprom",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "website": "https://github.com/dac1e/AT24CxEeprom",
@@ -132902,6 +132902,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/phirippa-source/RiaPushbuttonLite.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BLESerial_ESP32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/BLESerial_ESP32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/BLESerial_ESP32.git",
         "dependencies": [
             ""
         ]
