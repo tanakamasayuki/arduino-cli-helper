@@ -53249,8 +53249,8 @@
     },
     {
         "name": "Embedded Template Library ETL",
-        "version": "20.44.1",
-        "versions": "20.44.1, 20.43.4, 20.43.3, 20.43.2, 20.43.1, 20.40.0, 20.39.4, 20.38.17, 20.38.11, 20.22.0, 20.11.5, 20.11.4, 20.2.2, 19.3.9, 19.3.8, 19.3.6",
+        "version": "20.44.2",
+        "versions": "20.44.2, 20.44.1, 20.43.4, 20.43.3, 20.43.2, 20.43.1, 20.40.0, 20.39.4, 20.38.17, 20.38.11, 20.22.0, 20.11.5, 20.11.4, 20.2.2, 19.3.9, 19.3.8, 19.3.6",
         "author": "John Wellbelove <john.wellbelove@etlcpp.com>",
         "maintainer": "John Wellbelove <john.wellbelove@etlcpp.com>",
         "website": "https://www.etlcpp.com/",
@@ -120158,8 +120158,8 @@
     },
     {
         "name": "MiniIot",
-        "version": "2.3.3",
-        "versions": "2.3.3, 2.3.2, 2.3.1, 2.2.1, 2.1.0, 2.0.2, 2.0.1, 1.1.0, 1.0.5, 1.0.4",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.2.1, 2.1.0, 2.0.2, 2.0.1, 1.1.0, 1.0.5, 1.0.4",
         "author": "天才小坑Bee",
         "maintainer": "admin@dgwht.com",
         "website": "https://github.com/miniiot/miniiot-arduino.git",
@@ -132891,9 +132891,9 @@
     },
     {
         "name": "RiaPushbuttonLite",
-        "version": "0.1.0",
-        "versions": "0.1.0",
-        "author": "Seongpil Kim",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
+        "author": "Seongpil Kim <phirippa@naver.com>",
         "maintainer": "Seongpil Kim <phirippa@naver.com>",
         "website": "https://github.com/phirippa-source/RiaPushbuttonLite",
         "category": "Signal Input/Output",
@@ -132936,8 +132936,8 @@
     },
     {
         "name": "SmoothAxis",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Jonatan Vider",
         "maintainer": "Jonatan Vider <viderspace@gmail.com>",
         "website": "https://github.com/Viderspace/Smooth-Axis-Arduino",
@@ -132945,6 +132945,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Viderspace/Smooth-Axis-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Quecduino",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "nikola.bulatovic@quectel.com",
+        "maintainer": "nikola.bulatovic@quectel.com",
+        "website": "https://github.com/nbulatovi/quecduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nbulatovi/Quecduino.git",
         "dependencies": [
             ""
         ]
