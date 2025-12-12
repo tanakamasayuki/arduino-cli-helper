@@ -99496,8 +99496,8 @@
     },
     {
         "name": "MycilaConfig",
-        "version": "11.3.2",
-        "versions": "11.3.2, 11.3.1, 11.3.0, 11.2.0, 11.1.0, 11.0.1, 10.0.0, 9.0.3, 9.0.2, 9.0.0, 8.0.2, 8.0.1, 8.0.0, 7.3.1, 7.3.0, 7.2.0, 7.1.0, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.1.0, 2.0.0, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "11.3.3",
+        "versions": "11.3.3, 11.3.2, 11.3.1, 11.3.0, 11.2.0, 11.1.0, 11.0.1, 10.0.0, 9.0.3, 9.0.2, 9.0.0, 8.0.2, 8.0.1, 8.0.0, 7.3.1, 7.3.0, 7.2.0, 7.1.0, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.1.0, 2.0.0, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaConfig",
@@ -130869,8 +130869,8 @@
     },
     {
         "name": "LightweightSTL",
-        "version": "1.0.2",
-        "versions": "1.0.2",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.2",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino",
@@ -132800,8 +132800,8 @@
     },
     {
         "name": "PICO_OTA",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1",
         "author": "Samuel Fong",
         "maintainer": "Samuel Fong",
         "website": "https://github.com/wedsamuel1230/PICO_OTA",
@@ -132962,6 +132962,21 @@
         "repository": "https://github.com/nbulatovi/Quecduino.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit SGP41",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_SGP41",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_SGP41.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
