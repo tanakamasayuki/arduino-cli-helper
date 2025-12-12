@@ -130385,8 +130385,8 @@
     },
     {
         "name": "CinCout",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.1, 1.0.0",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/cin-cout-for-Arduino",
@@ -132977,6 +132977,21 @@
         "repository": "https://github.com/adafruit/Adafruit_SGP41.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "AdvancedPID",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alby312 <alberto.mugavero@gmail.com>",
+        "maintainer": "Alby312 <alberto.mugavero@gmail.com>",
+        "website": "https://github.com/Alby312//AdvancedPID",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alby312/AdvancedPID.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
