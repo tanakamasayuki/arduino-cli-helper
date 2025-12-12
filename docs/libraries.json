@@ -132993,5 +132993,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "RAIOT_MQTT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "RAIOTech radhe@raiotech.one",
+        "maintainer": "RAIOTech raiotech.one",
+        "website": "https://github.com/your-username/RAIOT_MQTT",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/raiotech-iot/RAIOT_MQTT.git",
+        "dependencies": [
+            "PubSubClient"
+        ]
     }
 ]
