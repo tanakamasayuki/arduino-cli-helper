@@ -111230,8 +111230,8 @@
     },
     {
         "name": "PenguinBotLib",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.1, 1.0.0",
         "author": "Giulio Pons",
         "maintainer": "Giulio Pons <giulio@barattalo.it>",
         "website": "https://github.com/giuliopons/PenguinBotLib",
