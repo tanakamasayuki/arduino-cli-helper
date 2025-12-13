@@ -19193,10 +19193,10 @@
     },
     {
         "name": "Switch",
-        "version": "1.2.8",
-        "versions": "1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.1, 1.2.0, 1.2.0-rc, 1.1.0, 1.0.5, 1.0.4, 1.0.3",
+        "version": "1.2.9",
+        "versions": "1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.1, 1.2.0, 1.2.0-rc, 1.1.0, 1.0.5, 1.0.4, 1.0.3",
         "author": "Albert van Dalen <http://www.avdweb.nl>",
-        "maintainer": "Abhijit Bose (aka. Boseji) <boseji.com>",
+        "maintainer": "Abhijit Bose (aka. Boseji) and Albert van Dalen <http://www.avdweb.nl>",
         "website": "https://github.com/avdwebLibraries/avdweb_Switch",
         "category": "Signal Input/Output",
         "architectures": "*",
