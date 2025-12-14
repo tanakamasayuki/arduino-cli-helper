@@ -133067,5 +133067,20 @@
         "dependencies": [
             "LC_baseTools"
         ]
+    },
+    {
+        "name": "sol",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Parvat Raj Singh",
+        "maintainer": "Parvat Raj Singh <parvat.raj2@gmail.com>",
+        "website": "https://github.com/torrey-xyz/solduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/torrey-xyz/solduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
