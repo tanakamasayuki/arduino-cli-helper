@@ -117520,8 +117520,8 @@
     },
     {
         "name": "PubSubClient3",
-        "version": "3.2.1",
-        "versions": "3.2.1, 3.2.0, 3.1.0, 3.0.2, 3.0.1, 3.0.0",
+        "version": "3.3.0",
+        "versions": "3.3.0, 3.2.1, 3.2.0, 3.1.0, 3.0.2, 3.0.1, 3.0.0",
         "author": "Nick O'Leary <nick.oleary@gmail.com>",
         "maintainer": "Holger Mueller <github@euhm.de>",
         "website": "https://github.com/hmueller01/pubsubclient3.git",
