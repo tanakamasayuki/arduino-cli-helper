@@ -91962,8 +91962,8 @@
     },
     {
         "name": "QUAD7SHIFT",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alex Rosito",
         "maintainer": "Alex Rosito",
         "website": "https://github.com/AlexRosito67/QUAD7SHIFT",
@@ -91972,8 +91972,7 @@
         "types": "Contributed",
         "repository": "https://github.com/AlexRosito67/QUAD7SHIFT.git",
         "dependencies": [
-            "SPI",
-            "tinySPI"
+            "SPI"
         ]
     },
     {
@@ -128584,8 +128583,8 @@
     },
     {
         "name": "Alteriom PainlessMesh",
-        "version": "1.9.7",
-        "versions": "1.9.7, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
+        "version": "1.9.8",
+        "versions": "1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
         "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
         "maintainer": "Alteriom",
         "website": "https://github.com/Alteriom/painlessMesh",
@@ -132370,8 +132369,8 @@
     },
     {
         "name": "LC_bmpObj",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "bmpObj@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_bmpObj",
@@ -132453,8 +132452,8 @@
     },
     {
         "name": "LC_docTools",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "docTools@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_docTools",
@@ -132464,10 +132463,10 @@
         "repository": "https://github.com/leftCoast/LC_docTools.git",
         "dependencies": [
             "LC_baseTools",
-            "SDTools",
+            "LC_SDTools",
             "LC_GUITools",
-            "lilOS",
-            "modalAlerts"
+            "LC_lilOS",
+            "LC_modalAlerts"
         ]
     },
     {
@@ -133022,6 +133021,21 @@
         "repository": "https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network.git",
         "dependencies": [
             "LightweightSTL"
+        ]
+    },
+    {
+        "name": "InstantIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "JeanLoick DT",
+        "maintainer": "JeanLoick DT",
+        "website": "https://github.com/jeanloickdt/InstantIoT",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/jeanloickdt/InstantIoT.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
