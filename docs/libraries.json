@@ -132471,8 +132471,8 @@
     },
     {
         "name": "LC_lilOS",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.1",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.4, 1.0.1",
         "author": "jim lee",
         "maintainer": "lilOS@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_lilOS",
@@ -132618,8 +132618,8 @@
     },
     {
         "name": "LCP_sTerm",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "jim lee",
         "maintainer": "sTerm@leftcoast.biz",
         "website": "https://github.com/leftCoast/LCP_sTerm",
@@ -132648,8 +132648,8 @@
     },
     {
         "name": "LCP_rpnCalc",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "rpnCalc@leftcoast.biz",
         "website": "https://github.com/leftCoast/LCP_rpnCalc",
@@ -133036,6 +133036,36 @@
         "repository": "https://github.com/jeanloickdt/InstantIoT.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Inventronix",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jake Saunders <jake@inventronix.club>",
+        "maintainer": "Jake Saunders <jake@inventronix.club>",
+        "website": "https://github.com/JakeWritesCode/inventronix-esp32-http",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/JakeWritesCode/inventronix-esp32-http.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "LC_SPI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "SPI@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_SPI",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_SPI.git",
+        "dependencies": [
+            "LC_baseTools"
         ]
     }
 ]
