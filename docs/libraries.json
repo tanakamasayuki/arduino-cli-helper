@@ -97518,8 +97518,8 @@
     },
     {
         "name": "PU2REO Si5351ArduinoLite",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "PU2REO - QRA Edson, based on work of NT7S - QRA Jason Milldrum (Etherkit).",
         "maintainer": "PU2REO - QRA Edson <pu2reo.edson@gmail.com>",
         "website": "https://github.com/PU2REO/Si5351ArduinoLite",
