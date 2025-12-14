@@ -128938,8 +128938,8 @@
     },
     {
         "name": "SerialCommandManager",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.0, 2.0.0, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.5.0, 2.4.0, 2.0.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "website": "https://github.com/k3ldar/SerialCommandManager",
