@@ -132799,8 +132799,8 @@
     },
     {
         "name": "PICO_OTA",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.4.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1",
         "author": "Samuel Fong",
         "maintainer": "Samuel Fong",
         "website": "https://github.com/wedsamuel1230/PICO_OTA",
