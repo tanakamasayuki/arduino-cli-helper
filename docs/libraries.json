@@ -89261,8 +89261,8 @@
     },
     {
         "name": "PostNeoSWSerial",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Hexaedron",
         "maintainer": "Hexaedron",
         "website": "https://github.com/hexaedron/PostNeoSWSerial",
@@ -133140,6 +133140,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/TUDA-MUST/Resense-HEX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TTP229 Keypad Driver",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "David Mor-Yossef",
+        "maintainer": "David Mor-Yossef <dudmoryo@proton.me>",
+        "website": "https://github.com/dudmoryo-cyber/TTP229_Keypad",
+        "category": "Device Control",
+        "architectures": "esp32, esp8266, avr, megaavr, stm32, mbed, nrf52, samd, arc32, mbed_nano, mbed_rp2040, renesas",
+        "types": "Contributed",
+        "repository": "https://github.com/dudmoryo-cyber/TTP229_keypad.git",
         "dependencies": [
             ""
         ]
