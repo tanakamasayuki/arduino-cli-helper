@@ -133097,5 +133097,51 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "STM32duino X-NUCLEO-NFC12A1",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "STMicroelectronics",
+        "maintainer": "stm32duino",
+        "website": "https://github.com/stm32duino/X-NUCLEO-NFC12A1",
+        "category": "Communication",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/stm32duino/X-NUCLEO-NFC12A1.git",
+        "dependencies": [
+            "STM32duino NFC-RFAL",
+            "STM32duino ST25R500"
+        ]
+    },
+    {
+        "name": "STM32duino ST25R500",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "STMicroelectronics",
+        "maintainer": "stm32duino",
+        "website": "https://github.com/stm32duino/ST25R500",
+        "category": "Communication",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/stm32duino/ST25R500.git",
+        "dependencies": [
+            "STM32duino NFC-RFAL"
+        ]
+    },
+    {
+        "name": "Resense HEX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
+        "maintainer": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
+        "website": "https://github.com/TUDA-MUST/Resense-HEX/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TUDA-MUST/Resense-HEX.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
