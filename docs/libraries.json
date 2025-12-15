@@ -33261,8 +33261,8 @@
     },
     {
         "name": "UARDECS Library",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.1",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.0, 1.2.1",
         "author": "H.kurosaki,K.yasuba",
         "maintainer": "uecs.org <kurosaki@affrc.go.jp>",
         "website": "http://uecs.org/arduino/uardecs.html",
@@ -33548,8 +33548,8 @@
     },
     {
         "name": "UARDECS_MEGA Library",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.2.1",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.2.1",
         "author": "H.kurosaki,K.yasuba",
         "maintainer": "uecs.org <kurosaki@affrc.go.jp>",
         "website": "http://uecs.org/arduino/uardecs.html",
@@ -125078,8 +125078,8 @@
     },
     {
         "name": "ESP32_AI_Connect",
-        "version": "0.5.1",
-        "versions": "0.5.1",
+        "version": "0.5.16",
+        "versions": "0.5.16, 0.5.1",
         "author": "AvantMaker <admin@avantmaker.com> (and AI Assistant)",
         "maintainer": "AvantMaker <admin@avantmaker.com>",
         "website": "https://github.com/AvantMaker/ESP32_AI_Connect",
@@ -129376,8 +129376,8 @@
     },
     {
         "name": "sparkey_gyro",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.2.1, 1.2.0, 1.1.0",
         "author": "Armin",
         "maintainer": "real.armin.ghajari2005@gmail.com",
         "website": "https://github.com/Rmin-code2005/sparkey_gyro",
