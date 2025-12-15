@@ -133082,5 +133082,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "WFAN920",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "crane-elec",
+        "maintainer": "crane-elec <github@crane-elec.co.jp>",
+        "website": "https://github.com/crane-elec/WFAN920",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/crane-elec/WFAN920.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
