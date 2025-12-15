@@ -119122,11 +119122,11 @@
     },
     {
         "name": "iButtonTag",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "SA van der Wulp",
         "maintainer": "SA van der Wulp",
-        "website": "https://github.com/vdwulp/iButtonTag",
+        "website": "https://vdwulp.github.io/iButtonTag/",
         "category": "Other",
         "architectures": "*",
         "types": "Contributed",
@@ -133157,6 +133157,21 @@
         "repository": "https://github.com/dudmoryo-cyber/TTP229_keypad.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESP32-OTA-Client",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "LEKPCSTEAM",
+        "maintainer": "LEKPCSTEAM",
+        "website": "https://github.com/LEKPCSTEAM/ESP32-OTA-Client",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/LEKPCSTEAM/ESP32-OTA-Client.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
