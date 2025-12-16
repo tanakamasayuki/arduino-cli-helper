@@ -114900,8 +114900,8 @@
     },
     {
         "name": "EIS_INTERBOT",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Sopon Kamubon <dbs.roboticsth@gmail.com>",
         "maintainer": "Sopon Kamubon <dbs.roboticsth@gmail.com>",
         "website": "https://github.com/eis-interbot/EIS_INTERBOT",
@@ -124517,8 +124517,8 @@
     },
     {
         "name": "DFRobot_SFA40",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "DFRobot",
         "maintainer": "fary<feng.yang@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_SFA40",
