@@ -73758,8 +73758,8 @@
     },
     {
         "name": "LogToQueue",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.2",
+        "versions": "1.4.2, 1.4.1, 1.4.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Max Sanchez <msanchez@hardmax.com.pe>",
         "maintainer": "Max Sanchez <msanchez@hardmax.com.pe>",
         "website": "https://github.com/hardmax/LogToQueue",
@@ -132815,8 +132815,8 @@
     },
     {
         "name": "omniMath",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "website": "https://github.com/Glinek/omniMath",
