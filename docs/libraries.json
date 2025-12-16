@@ -129345,8 +129345,8 @@
     },
     {
         "name": "ESP32CertBundle",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.1.4, 0.1.3",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.4, 0.1.3",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32CertBundle",
@@ -130234,8 +130234,8 @@
     },
     {
         "name": "ESP32SerialCtl",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.2, 0.1.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0, 0.1.2, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32SerialCtl",
@@ -130506,12 +130506,12 @@
     },
     {
         "name": "EmbedFS",
-        "version": "0.1.1",
-        "versions": "0.1.1",
+        "version": "1.0.1",
+        "versions": "1.0.1, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EmbedFS",
-        "category": "Uncategorized",
+        "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tanakamasayuki/EmbedFS.git",
@@ -130733,8 +130733,8 @@
     },
     {
         "name": "EspHelper",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.1.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspHelper",
@@ -130778,8 +130778,8 @@
     },
     {
         "name": "AssocTree",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.2",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1, 1.0.0, 0.1.2",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/AssocTree",
@@ -130958,8 +130958,8 @@
     },
     {
         "name": "EspHttpServer",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0, 0.0.2",
+        "version": "1.0.1",
+        "versions": "1.0.1, 0.1.1, 0.1.0, 0.0.2",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspHttpServer",
@@ -131999,8 +131999,8 @@
     },
     {
         "name": "ESP32AutoTask",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.0.3",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1, 1.0.0, 0.0.3",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32AutoTask",
@@ -132224,8 +132224,8 @@
     },
     {
         "name": "ESP32TaskKit",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.1",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.0.0, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32TaskKit",
@@ -132573,8 +132573,8 @@
     },
     {
         "name": "EspNowBus",
-        "version": "0.0.2",
-        "versions": "0.0.2",
+        "version": "1.0.1",
+        "versions": "1.0.1, 0.0.2",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspNowBus",
@@ -133215,6 +133215,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/seeimadeit/AES128ESP32.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MLX90641",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "David Dubins",
+        "maintainer": "d.dubins@utoronto.ca",
+        "website": "https://github.com/dndubins/MLX90641",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dndubins/MLX90641.git",
         "dependencies": [
             ""
         ]
