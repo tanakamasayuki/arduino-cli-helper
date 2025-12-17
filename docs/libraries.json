@@ -133236,8 +133236,8 @@
     },
     {
         "name": "STM32RomWebFlasher",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1",
         "author": "David S. Alexander <davidsobhysabet@gmail.com>",
         "maintainer": "David S. Alexander <davidsobhysabet@gmail.com>",
         "website": "https://github.com/DavidSAlexander/STM32RomWebFlasher",
@@ -133246,9 +133246,7 @@
         "types": "Contributed",
         "repository": "https://github.com/DavidSAlexander/STM32RomWebFlasher.git",
         "dependencies": [
-            "ESP8266WebServer",
-            "ESP8266WiFi",
-            "LittleFS"
+            ""
         ]
     }
 ]
