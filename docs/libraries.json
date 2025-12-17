@@ -131789,11 +131789,11 @@
     },
     {
         "name": "GawiButtons",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Max Rangner",
         "maintainer": "Max Rangner",
-        "website": "https://github.com/maxrangner/GawiButtons/",
+        "website": "https://github.com/maxrangner/gawi-buttons/",
         "category": "Signal Input/Output",
         "architectures": "*",
         "types": "Contributed",
@@ -133245,6 +133245,21 @@
         "architectures": "esp8266",
         "types": "Contributed",
         "repository": "https://github.com/DavidSAlexander/STM32RomWebFlasher.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Seesaw",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Stefan Staub",
+        "maintainer": "https://github.com/sstaub/",
+        "website": "https://github.com/sstaub/Seesaw",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sstaub/Seesaw.git",
         "dependencies": [
             ""
         ]
