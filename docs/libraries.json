@@ -125002,8 +125002,8 @@
     },
     {
         "name": "BLE-Gamepad-Client",
-        "version": "0.10.0",
-        "versions": "0.10.0, 0.9.0, 0.8.1, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.3, 0.3.2, 0.3.1",
+        "version": "0.11.0",
+        "versions": "0.11.0, 0.10.0, 0.9.0, 0.8.1, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.3, 0.3.2, 0.3.1",
         "author": "Tomasz Bekas",
         "maintainer": "Tomasz Bekas",
         "website": "https://github.com/tbekas/BLE-Gamepad-Client",
@@ -125198,8 +125198,8 @@
     },
     {
         "name": "SparkFun Apple Accessory Arduino Library",
-        "version": "3.0.9",
-        "versions": "3.0.9, 3.0.8, 1.0.1, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.9, 3.0.8, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_Apple_Accessory_Arduino_Library",
