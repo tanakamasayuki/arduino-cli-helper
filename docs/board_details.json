@@ -148,7 +148,7 @@
 },
   "STMicroelectronics:stm32:3dprinter": {
     "name": "3D printer boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -403,7 +403,7 @@
 },
   "STMicroelectronics:stm32:Blues": {
     "name": "Blues boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -618,7 +618,7 @@
 },
   "STMicroelectronics:stm32:Disco": {
     "name": "Discovery",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -640,6 +640,10 @@
                 {
                     "value": "B_L4S5I_IOT01A",
                     "value_label": "B-L4S5I-IOT01A"
+                },
+                {
+                    "value": "STDES_MB2095",
+                    "value_label": "STDES-MB2095"
                 },
                 {
                     "value": "B_U585I_IOT02A",
@@ -674,8 +678,16 @@
                     "value_label": "STM32F407G-DISC1"
                 },
                 {
+                    "value": "DISCO_F411VE",
+                    "value_label": "STM32F411E-DISCO"
+                },
+                {
                     "value": "DISCO_F413ZH",
                     "value_label": "STM32F413H-DISCO"
+                },
+                {
+                    "value": "DISCO_F429ZI",
+                    "value_label": "STM32F429ZI-DISCO"
                 },
                 {
                     "value": "DISCO_F746NG",
@@ -905,7 +917,7 @@
 },
   "STMicroelectronics:stm32:ELV_Modular_System": {
     "name": "ELV Modular System boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1058,7 +1070,7 @@
 },
   "STMicroelectronics:stm32:ESC_board": {
     "name": "Electronic speed controllers",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1269,7 +1281,7 @@
 },
   "STMicroelectronics:stm32:Elecgator": {
     "name": "Elecgator boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1476,7 +1488,7 @@
 },
   "STMicroelectronics:stm32:Eval": {
     "name": "Eval",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1687,7 +1699,7 @@
 },
   "STMicroelectronics:stm32:Garatronic": {
     "name": "Garatronic-McHobby",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1867,7 +1879,7 @@
 },
   "STMicroelectronics:stm32:GenC0": {
     "name": "Generic STM32C0 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1927,6 +1939,22 @@
                     "value_label": "Generic C031F6Px"
                 },
                 {
+                    "value": "GENERIC_C051C6TX",
+                    "value_label": "Generic C051C6Tx"
+                },
+                {
+                    "value": "GENERIC_C051C6UX",
+                    "value_label": "Generic C051C6Ux"
+                },
+                {
+                    "value": "GENERIC_C051C8TX",
+                    "value_label": "Generic C051C8Tx"
+                },
+                {
+                    "value": "GENERIC_C051C8UX",
+                    "value_label": "Generic C051C8Ux"
+                },
+                {
                     "value": "GENERIC_C071G8UX",
                     "value_label": "Generic C071G8Ux"
                 },
@@ -1945,6 +1973,18 @@
                 {
                     "value": "GENERIC_C092CBTX",
                     "value_label": "Generic C092CBTx"
+                },
+                {
+                    "value": "GENERIC_C092CBUX",
+                    "value_label": "Generic C092CBUx"
+                },
+                {
+                    "value": "GENERIC_C092CCTX",
+                    "value_label": "Generic C092CCTx"
+                },
+                {
+                    "value": "GENERIC_C092CCUX",
+                    "value_label": "Generic C092CCUx"
                 },
                 {
                     "value": "GENERIC_C092RBTX",
@@ -2127,7 +2167,7 @@
 },
   "STMicroelectronics:stm32:GenF0": {
     "name": "Generic STM32F0 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -2711,7 +2751,7 @@
 },
   "STMicroelectronics:stm32:GenF1": {
     "name": "Generic STM32F1 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -2737,6 +2777,10 @@
                 {
                     "value": "BLACKPILL_F103CB",
                     "value_label": "BlackPill F103CB (or C8 with 128k)"
+                },
+                {
+                    "value": "DATABOARD",
+                    "value_label": "Databoard"
                 },
                 {
                     "value": "VCCGND_F103ZET6_MINI",
@@ -3274,7 +3318,7 @@
 },
   "STMicroelectronics:stm32:GenF2": {
     "name": "Generic STM32F2 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -3669,7 +3713,7 @@
 },
   "STMicroelectronics:stm32:GenF3": {
     "name": "Generic STM32F3 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -4060,7 +4104,7 @@
 },
   "STMicroelectronics:stm32:GenF4": {
     "name": "Generic STM32F4 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -4290,6 +4334,14 @@
                 {
                     "value": "GENERIC_F411RETX",
                     "value_label": "Generic F411RETx"
+                },
+                {
+                    "value": "GENERIC_F411VCTX",
+                    "value_label": "Generic F411VCTx"
+                },
+                {
+                    "value": "GENERIC_F411VETX",
+                    "value_label": "Generic F411VETx"
                 },
                 {
                     "value": "GENERIC_F412CEUX",
@@ -4719,7 +4771,7 @@
 },
   "STMicroelectronics:stm32:GenF7": {
     "name": "Generic STM32F7 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -5146,7 +5198,7 @@
 },
   "STMicroelectronics:stm32:GenFlight": {
     "name": "Generic Flight Controllers",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -5377,7 +5429,7 @@
 },
   "STMicroelectronics:stm32:GenG0": {
     "name": "Generic STM32G0 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -6177,7 +6229,7 @@
 },
   "STMicroelectronics:stm32:GenG4": {
     "name": "Generic STM32G4 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -6936,7 +6988,7 @@
 },
   "STMicroelectronics:stm32:GenH5": {
     "name": "Generic STM32H5 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -7195,7 +7247,7 @@
 },
   "STMicroelectronics:stm32:GenH7": {
     "name": "Generic STM32H7 Series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -7223,12 +7275,32 @@
                     "value_label": "DevEBox H750VBTX"
                 },
                 {
+                    "value": "WeActMiniH723VGTX",
+                    "value_label": "WeAct MiniSTM32H723VGTX"
+                },
+                {
                     "value": "WeActMiniH743VITX",
                     "value_label": "WeAct MiniSTM32H743VITX"
                 },
                 {
                     "value": "WeActMiniH750VBTX",
                     "value_label": "WeAct MiniSTM32H750VBTX"
+                },
+                {
+                    "value": "GENERIC_H723VEHX",
+                    "value_label": "Generic H723VEHx"
+                },
+                {
+                    "value": "GENERIC_H723VETX",
+                    "value_label": "Generic H723VETx"
+                },
+                {
+                    "value": "GENERIC_H723VGHX",
+                    "value_label": "Generic H723VGHx"
+                },
+                {
+                    "value": "GENERIC_H723VGTX",
+                    "value_label": "Generic H723VGTx"
                 },
                 {
                     "value": "GENERIC_H723ZETX",
@@ -7239,8 +7311,24 @@
                     "value_label": "Generic H723ZGTx"
                 },
                 {
+                    "value": "GENERIC_H730VBHX",
+                    "value_label": "Generic H730VBHx"
+                },
+                {
+                    "value": "GENERIC_H730VBTX",
+                    "value_label": "Generic H730VBTx"
+                },
+                {
                     "value": "GENERIC_H730ZBTX",
                     "value_label": "Generic H730ZBTx"
+                },
+                {
+                    "value": "GENERIC_H733VGHX",
+                    "value_label": "Generic H733VGHx"
+                },
+                {
+                    "value": "GENERIC_H733VGTX",
+                    "value_label": "Generic H733VGTx"
                 },
                 {
                     "value": "GENERIC_H733ZGTX",
@@ -7351,6 +7439,14 @@
                     "value_label": "Generic H745XIHx"
                 },
                 {
+                    "value": "GENERIC_H745ZGTX",
+                    "value_label": "Generic H745ZGTx"
+                },
+                {
+                    "value": "GENERIC_H745ZITX",
+                    "value_label": "Generic H745ZITx"
+                },
+                {
                     "value": "GENERIC_H747AGIX",
                     "value_label": "Generic H747AGIx"
                 },
@@ -7421,6 +7517,10 @@
                 {
                     "value": "GENERIC_H755XIHX",
                     "value_label": "Generic H755XIHx"
+                },
+                {
+                    "value": "GENERIC_H755ZITX",
+                    "value_label": "Generic H755ZITx"
                 },
                 {
                     "value": "GENERIC_H757AIIX",
@@ -7674,7 +7774,7 @@
 },
   "STMicroelectronics:stm32:GenL0": {
     "name": "Generic STM32L0 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -8414,7 +8514,7 @@
 },
   "STMicroelectronics:stm32:GenL1": {
     "name": "Generic STM32L1 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -8730,7 +8830,7 @@
 },
   "STMicroelectronics:stm32:GenL4": {
     "name": "Generic STM32L4 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -9285,7 +9385,7 @@
 },
   "STMicroelectronics:stm32:GenL5": {
     "name": "Generic STM32L5 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -9516,7 +9616,7 @@
 },
   "STMicroelectronics:stm32:GenU0": {
     "name": "Generic STM32U0 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -9756,7 +9856,7 @@
 },
   "STMicroelectronics:stm32:GenU3": {
     "name": "Generic STM32U3 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -9972,7 +10072,7 @@
 },
   "STMicroelectronics:stm32:GenU5": {
     "name": "Generic STM32U5 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10243,7 +10343,7 @@
 },
   "STMicroelectronics:stm32:GenWB": {
     "name": "Generic STM32WB series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10510,7 +10610,7 @@
 },
   "STMicroelectronics:stm32:GenWB0": {
     "name": "Generic STM32WB0 series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10667,14 +10767,6 @@
                 {
                     "value": "serialMethod",
                     "value_label": "STM32CubeProgrammer (Serial)"
-                },
-                {
-                    "value": "OpenOCDSTLink",
-                    "value_label": "OpenOCD STLink (SWD)"
-                },
-                {
-                    "value": "OpenOCDDapLink",
-                    "value_label": "OpenOCD DapLink (SWD)"
                 }
             ]
         }
@@ -10683,7 +10775,7 @@
 },
   "STMicroelectronics:stm32:GenWBA": {
     "name": "Generic STM32WBA series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10848,7 +10940,7 @@
 },
   "STMicroelectronics:stm32:GenWL": {
     "name": "Generic STM32WL series",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11075,9 +11167,182 @@
     ],
     "package_url": "https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json"
 },
+  "STMicroelectronics:stm32:GenWL3": {
+    "name": "Generic STM32WL3 series",
+    "version": "2.12.0",
+    "config_options": [
+        {
+            "option": "pnum",
+            "option_label": "Board part number",
+            "values": [
+                {
+                    "value": "GENERIC_WL33C8VX",
+                    "value_label": "Generic WL33C8Vx",
+                    "selected": true
+                },
+                {
+                    "value": "GENERIC_WL33C8VXX",
+                    "value_label": "Generic WL33C8VxX"
+                },
+                {
+                    "value": "GENERIC_WL33CBVX",
+                    "value_label": "Generic WL33CBVx"
+                },
+                {
+                    "value": "GENERIC_WL33CBVXX",
+                    "value_label": "Generic WL33CBVxX"
+                },
+                {
+                    "value": "GENERIC_WL33CCVX",
+                    "value_label": "Generic WL33CCVx"
+                },
+                {
+                    "value": "GENERIC_WL33CCVXX",
+                    "value_label": "Generic WL33CCVxX"
+                }
+            ]
+        },
+        {
+            "option": "xserial",
+            "option_label": "U(S)ART support",
+            "values": [
+                {
+                    "value": "generic",
+                    "value_label": "Enabled (generic 'Serial')",
+                    "selected": true
+                },
+                {
+                    "value": "none",
+                    "value_label": "Enabled (no generic 'Serial')"
+                },
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled (no Serial support)"
+                }
+            ]
+        },
+        {
+            "option": "opt",
+            "option_label": "Optimize",
+            "values": [
+                {
+                    "value": "osstd",
+                    "value_label": "Smallest (-Os default)",
+                    "selected": true
+                },
+                {
+                    "value": "oslto",
+                    "value_label": "Smallest (-Os) with LTO"
+                },
+                {
+                    "value": "o1std",
+                    "value_label": "Fast (-O1)"
+                },
+                {
+                    "value": "o1lto",
+                    "value_label": "Fast (-O1) with LTO"
+                },
+                {
+                    "value": "o2std",
+                    "value_label": "Faster (-O2)"
+                },
+                {
+                    "value": "o2lto",
+                    "value_label": "Faster (-O2) with LTO"
+                },
+                {
+                    "value": "o3std",
+                    "value_label": "Fastest (-O3)"
+                },
+                {
+                    "value": "o3lto",
+                    "value_label": "Fastest (-O3) with LTO"
+                },
+                {
+                    "value": "ogstd",
+                    "value_label": "Debug (-Og)"
+                },
+                {
+                    "value": "o0std",
+                    "value_label": "No Optimization (-O0)"
+                }
+            ]
+        },
+        {
+            "option": "dbg",
+            "option_label": "Debug symbols and core logs",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "enable_sym",
+                    "value_label": "Symbols Enabled (-g)"
+                },
+                {
+                    "value": "enable_log",
+                    "value_label": "Core logs Enabled"
+                },
+                {
+                    "value": "enable_all",
+                    "value_label": "Core Logs and Symbols Enabled (-g)"
+                }
+            ]
+        },
+        {
+            "option": "rtlib",
+            "option_label": "C Runtime Library",
+            "values": [
+                {
+                    "value": "nano",
+                    "value_label": "Newlib Nano (default)",
+                    "selected": true
+                },
+                {
+                    "value": "nanofp",
+                    "value_label": "Newlib Nano + Float Printf"
+                },
+                {
+                    "value": "nanofs",
+                    "value_label": "Newlib Nano + Float Scanf"
+                },
+                {
+                    "value": "nanofps",
+                    "value_label": "Newlib Nano + Float Printf/Scanf"
+                },
+                {
+                    "value": "full",
+                    "value_label": "Newlib Standard"
+                }
+            ]
+        },
+        {
+            "option": "upload_method",
+            "option_label": "Upload method",
+            "values": [
+                {
+                    "value": "swdMethod",
+                    "value_label": "STM32CubeProgrammer (SWD)",
+                    "selected": true
+                },
+                {
+                    "value": "jlinkMethod",
+                    "value_label": "STM32CubeProgrammer (J-Link)"
+                },
+                {
+                    "value": "serialMethod",
+                    "value_label": "STM32CubeProgrammer (Serial)"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json"
+},
   "STMicroelectronics:stm32:IotContinuum": {
     "name": "IoT continuum boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11246,7 +11511,7 @@
 },
   "STMicroelectronics:stm32:LoRa": {
     "name": "LoRa boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11459,7 +11724,7 @@
 },
   "STMicroelectronics:stm32:Midatronics": {
     "name": "Midatronics boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11674,7 +11939,7 @@
 },
   "STMicroelectronics:stm32:Nucleo_144": {
     "name": "Nucleo-144",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11736,6 +12001,10 @@
                 {
                     "value": "NUCLEO_H743ZI2",
                     "value_label": "Nucleo H743ZI2"
+                },
+                {
+                    "value": "NUCLEO_H745ZI_Q",
+                    "value_label": "Nucleo H745ZI-Q"
                 },
                 {
                     "value": "NUCLEO_H753ZI",
@@ -11977,7 +12246,7 @@
 },
   "STMicroelectronics:stm32:Nucleo_32": {
     "name": "Nucleo-32",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12220,7 +12489,7 @@
 },
   "STMicroelectronics:stm32:Nucleo_64": {
     "name": "Nucleo-64",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12266,6 +12535,10 @@
                 {
                     "value": "NUCLEO_F303RE",
                     "value_label": "Nucleo F303RE"
+                },
+                {
+                    "value": "NUCLEO_F334R8",
+                    "value_label": "Nucleo F334R8"
                 },
                 {
                     "value": "NUCLEO_F401RE",
@@ -12370,6 +12643,14 @@
                 {
                     "value": "NUCLEO_WBA55CG",
                     "value_label": "Nucleo WBA55CG"
+                },
+                {
+                    "value": "NUCLEO_WL33CC1",
+                    "value_label": "Nucleo WL33CC1"
+                },
+                {
+                    "value": "NUCLEO_WL33CC2",
+                    "value_label": "Nucleo WL33CC2"
                 },
                 {
                     "value": "NUCLEO_WL55JC1",
@@ -12579,7 +12860,7 @@
 },
   "STMicroelectronics:stm32:STM32MP1": {
     "name": "STM32MP1 series coprocessor",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12747,7 +13028,7 @@
 },
   "STMicroelectronics:stm32:STeaMi": {
     "name": "STeaMi Board",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12900,7 +13181,7 @@
 },
   "STMicroelectronics:stm32:SparkFun": {
     "name": "SparkFun Boards",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "config_options": [
         {
             "option": "pnum",
