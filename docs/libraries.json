@@ -78557,8 +78557,8 @@
     },
     {
         "name": "Arduino_BMI270_BMM150",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_BMI270_BMM150",
@@ -133010,8 +133010,8 @@
     },
     {
         "name": "Inventronix",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Jake Saunders <jake@inventronix.club>",
         "maintainer": "Jake Saunders <jake@inventronix.club>",
         "website": "https://github.com/JakeWritesCode/inventronix-esp32-http",
