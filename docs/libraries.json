@@ -133281,5 +133281,20 @@
             "AccelStepper",
             "NeoPixelConnect"
         ]
+    },
+    {
+        "name": "Single_WS2812_Bitbang_Write",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Lutz Lisseck (Hackerspace FFM e.V.)",
+        "maintainer": "Lutz Lisseck <tutgit@ikmail.com>",
+        "website": "https://github.com/hackffm/Single_WS2812_Bitbang_Write",
+        "category": "Display",
+        "architectures": "espressif8266, espressif32",
+        "types": "Contributed",
+        "repository": "https://github.com/hackffm/Single_WS2812_Bitbang_Write.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
