@@ -47923,8 +47923,8 @@
     },
     {
         "name": "LC_baseTools",
-        "version": "1.10.0",
-        "versions": "1.10.0, 1.9.0, 1.8.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.4, 1.2.3, 1.2.0, 1.1.2, 1.1.1, 1.0.0",
+        "version": "1.11.0",
+        "versions": "1.11.0, 1.10.0, 1.9.0, 1.8.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.4, 1.2.3, 1.2.0, 1.1.2, 1.1.1, 1.0.0",
         "author": "jim lee",
         "maintainer": "baseTools@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_baseTools",
@@ -132209,8 +132209,8 @@
     },
     {
         "name": "LC_piezoTunes",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "jim lee",
         "maintainer": "piezoTunes@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_piezoTunes",
@@ -132219,7 +132219,9 @@
         "types": "Contributed",
         "repository": "https://github.com/leftCoast/LC_piezoTunes.git",
         "dependencies": [
-            ""
+            "LC_baseTools",
+            "LC_SDTools",
+            "LC_strTools"
         ]
     },
     {
@@ -132254,8 +132256,8 @@
     },
     {
         "name": "LC_GUITools",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "jim lee",
         "maintainer": "GUITools@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_GUITools",
@@ -132407,8 +132409,8 @@
     },
     {
         "name": "LC_SDTools",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "jim lee",
         "maintainer": "SDTools@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_SDTools",
@@ -132460,8 +132462,8 @@
     },
     {
         "name": "LC_modalAlerts",
-        "version": "1.0.2",
-        "versions": "1.0.2",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.2",
         "author": "jim lee",
         "maintainer": "modalAlerts@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_modalAlerts",
@@ -132663,8 +132665,8 @@
     },
     {
         "name": "LCP_breakout",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "jim lee",
         "maintainer": "breakout@leftcoast.biz",
         "website": "https://github.com/leftCoast/LCP_breakout",
