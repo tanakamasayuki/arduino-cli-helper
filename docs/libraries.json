@@ -75833,8 +75833,8 @@
     },
     {
         "name": "BlenderServoAnimation",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Tim Hendriks",
         "maintainer": "Tim Hendriks <admin@tim-hendriks.com>",
         "website": "https://github.com/timhendriks93/blender-servo-animation-arduino",
@@ -133253,8 +133253,8 @@
     },
     {
         "name": "Seesaw",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Stefan Staub",
         "maintainer": "https://github.com/sstaub/",
         "website": "https://github.com/sstaub/Seesaw",
@@ -133373,6 +133373,36 @@
         "repository": "https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "WitAITTS",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jobit Joseph <jobitjoseph@gmail.com>",
+        "maintainer": "Circuit Digest <support@circuitdigest.com>",
+        "website": "https://github.com/jobitjoseph/WitAITTS",
+        "category": "Communication",
+        "architectures": "esp32, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/jobitjoseph/WitAITTS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UGOKU-Pad",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "UGOKU Lab",
+        "maintainer": "UGOKU Lab<ugokulab2023@gmail.com>",
+        "website": "https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino.git",
+        "dependencies": [
+            "ESP32Servo"
         ]
     }
 ]
