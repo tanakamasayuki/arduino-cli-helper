@@ -122717,8 +122717,8 @@
     },
     {
         "name": "SimpleOLED",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Jobit Joseph",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/jobitjoseph/SimpleOLED",
@@ -122727,7 +122727,7 @@
         "types": "Contributed",
         "repository": "https://github.com/jobitjoseph/SimpleOLED.git",
         "dependencies": [
-            "Wire"
+            ""
         ]
     },
     {
