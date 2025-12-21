@@ -133404,5 +133404,20 @@
         "dependencies": [
             "ESP32Servo"
         ]
+    },
+    {
+        "name": "BioLogic",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mauricio Molina Valdez",
+        "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
+        "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
+        "category": "Device Control",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/maumolinavaldez-pixel/BioLogic.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
