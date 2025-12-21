@@ -97504,8 +97504,8 @@
     },
     {
         "name": "PU2REO Si5351ArduinoLite",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "PU2REO - QRA Edson, based on work of NT7S - QRA Jason Milldrum (Etherkit).",
         "maintainer": "PU2REO - QRA Edson <pu2reo.edson@gmail.com>",
         "website": "https://github.com/PU2REO/Si5351ArduinoLite",
@@ -131820,8 +131820,8 @@
     },
     {
         "name": "AT24CxEeprom",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "website": "https://github.com/dac1e/AT24CxEeprom",
