@@ -133465,5 +133465,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ServoM",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "KITTEN2008",
+        "maintainer": "KITTEN2008",
+        "website": "https://github.com/KITTEN2008/ServoM",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/KITTEN2008/ServoM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Drv7SegQ595",
+        "version": "1.2.4",
+        "versions": "1.2.4",
+        "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
+        "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
+        "website": "https://github.com/ErlingSigurdson/Drv7SegQ595",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ErlingSigurdson/Drv7SegQ595.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
