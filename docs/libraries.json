@@ -14020,8 +14020,8 @@
     },
     {
         "name": "DS3231",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.2, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.2, 1.0.0",
         "author": "Andrew Wickert <awickert@umn.edu>, Eric Ayars, Jean-Claude Wippler, Northern Widget LLC <info@northernwidget.com>",
         "maintainer": "Andrew Wickert <awickert@umn.edu>",
         "website": "https://github.com/NorthernWidget/DS3231",
