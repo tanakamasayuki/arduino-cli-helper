@@ -132818,8 +132818,8 @@
     },
     {
         "name": "omniMath",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "website": "https://github.com/Glinek/omniMath",
@@ -133317,8 +133317,8 @@
     },
     {
         "name": "Updatable",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Francois Nouaille-Degorce",
         "maintainer": "Francois Nouaille-Degorce",
         "website": "https://github.com/Fran6nd/Updatable",
