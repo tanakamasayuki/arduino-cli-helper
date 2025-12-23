@@ -133495,5 +133495,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SerialConsole",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Kaden Burgart (actuvon)",
+        "maintainer": "Kaden Burgart <kaden.burgart@gmail.com>",
+        "website": "https://github.com/actuvon/SerialConsole",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/actuvon/SerialConsole.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
