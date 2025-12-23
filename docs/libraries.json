@@ -53013,12 +53013,12 @@
     },
     {
         "name": "GFX Library for Arduino",
-        "version": "1.6.3",
-        "versions": "1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
+        "version": "1.6.4",
+        "versions": "1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
         "author": "Moon On Our Nation <moononournation@gmail.com>",
         "maintainer": "Moon On Our Nation <moononournation@gmail.com>",
         "website": "https://github.com/moononournation/Arduino_GFX",
-        "category": "Uncategorized",
+        "category": "Display",
         "architectures": "",
         "types": "Contributed",
         "repository": "https://github.com/moononournation/Arduino_GFX.git",
@@ -133522,6 +133522,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/McOrts/WindQX_SolidState_Anemometer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Magellan_SIM7020E CORPORATE",
+        "version": "1.5.2",
+        "versions": "1.5.2",
+        "author": "AIS IoT Alliance Program",
+        "maintainer": "AIS IoT Alliance Program <aiap@ais.co.th>",
+        "website": "https://github.com/AIS-DeviceInnovation/Magellan_SIM7020E",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AIS-DeviceIntegration/Magellan_SIM7020E_CORPORATE.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Magellan_BC95 CORPORATE",
+        "version": "2.1.2",
+        "versions": "2.1.2",
+        "author": "AIS IoT Alliance Program",
+        "maintainer": "AIS IoT Alliance Program <aiap@ais.co.th>",
+        "website": "https://github.com/AIS-DeviceInnovation/Magellan_BC95",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AIS-DeviceIntegration/Magellan_BC95_CORPORATE.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Magellan_BC95_lite CORPORATE",
+        "version": "2.0.1",
+        "versions": "2.0.1",
+        "author": "AIS IoT Alliance Program",
+        "maintainer": "AIS IoT Alliance Program <aiap@ais.co.th>",
+        "website": "https://github.com/AIS-DeviceInnovation/Magellan_BC95_lite",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AIS-DeviceIntegration/Magellan_BC95_lite_CORPORATE.git",
         "dependencies": [
             ""
         ]
