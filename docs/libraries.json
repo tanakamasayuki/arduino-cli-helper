@@ -83727,8 +83727,8 @@
     },
     {
         "name": "LualtekTTN",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
         "author": "Lualtek",
         "maintainer": "Alessio Occhipinti <alessio.occhipinti@lualtek.io>",
         "website": "https://github.com/lualtek/ttn-device-lib",
