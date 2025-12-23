@@ -111384,8 +111384,8 @@
     },
     {
         "name": "bb_epaper",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_epaper",
@@ -133507,6 +133507,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/actuvon/SerialConsole.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "WindQX_SolidState_Anemometer",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Carlos Orts <mcorts69@gmail.com>",
+        "maintainer": "Carlos Orts <mcorts69@gmail.com>",
+        "website": "https://github.com/McOrts/WindQX_SolidState_Anemometer",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/McOrts/WindQX_SolidState_Anemometer.git",
         "dependencies": [
             ""
         ]
