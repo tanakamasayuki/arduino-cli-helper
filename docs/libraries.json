@@ -133570,5 +133570,21 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "PostgrestClient",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Peter Bendel <bodobolero @ gmail.com>",
+        "maintainer": "Peter Bendel <bodobolero @ gmail.com>",
+        "website": "https://github.com/Bodobolero/PostgrestClient",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bodobolero/PostgrestClient.git",
+        "dependencies": [
+            "ArduinoJson",
+            "base64"
+        ]
     }
 ]
