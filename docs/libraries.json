@@ -129301,8 +129301,8 @@
     },
     {
         "name": "probot",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.2",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4, 0.1.2",
         "author": "Tuna Gül",
         "maintainer": "Tuna Gül <tunagul54@gmail.com>",
         "website": "https://github.com/nfrproducts/probot-lib",
@@ -133599,6 +133599,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ronibandini/DFR1173-Voice-Prompter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AsyncWiFiManagerSimple",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Marin Popa",
+        "maintainer": "marin Popa <popica1965@yahoo.com>",
+        "website": "https://github.com/marinpopa/AsyncWiFiManagerSimple",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/marinpopa/AsyncWiFiManagerSimple.git",
         "dependencies": [
             ""
         ]
