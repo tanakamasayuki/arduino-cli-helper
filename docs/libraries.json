@@ -90316,8 +90316,8 @@
     },
     {
         "name": "ODriveArduino",
-        "version": "0.10.6",
-        "versions": "0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.1, 0.10.0, 0.9.1, 0.9.0",
+        "version": "0.10.8",
+        "versions": "0.10.8, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.1, 0.10.0, 0.9.1, 0.9.0",
         "author": "ODrive Robotics Inc. <info@odriverobotics.com>",
         "maintainer": "ODrive Robotics Inc. <info@odriverobotics.com>",
         "website": "https://github.com/odriverobotics/ODriveArduino",
