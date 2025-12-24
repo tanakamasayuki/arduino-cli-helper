@@ -133393,8 +133393,8 @@
     },
     {
         "name": "UGOKU-Pad",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "UGOKU Lab",
         "maintainer": "UGOKU Lab<ugokulab2023@gmail.com>",
         "website": "https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino",
