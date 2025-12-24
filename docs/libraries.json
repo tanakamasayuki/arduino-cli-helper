@@ -133013,8 +133013,8 @@
     },
     {
         "name": "Inventronix",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Jake Saunders <jake@inventronix.club>",
         "maintainer": "Jake Saunders <jake@inventronix.club>",
         "website": "https://github.com/JakeWritesCode/inventronix-esp32-http",
