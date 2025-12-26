@@ -133485,8 +133485,8 @@
     },
     {
         "name": "Drv7SegQ595",
-        "version": "1.2.5",
-        "versions": "1.2.5, 1.2.4",
+        "version": "1.2.6",
+        "versions": "1.2.6, 1.2.5, 1.2.4",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7SegQ595",
@@ -133630,6 +133630,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/kennedy-kitoko/TerraSoil.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "STM32RS485DMA",
+        "version": "0.5.0",
+        "versions": "0.5.0",
+        "author": "NitrofMtl",
+        "maintainer": "NitrofMtl",
+        "website": "https://github.com/nitrofmtl/STM32RS485DMA",
+        "category": "Communication",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/NitrofMtl/STM32RS485DMA.git",
         "dependencies": [
             ""
         ]
