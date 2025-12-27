@@ -133663,5 +133663,35 @@
         "dependencies": [
             "arduinoFFT"
         ]
+    },
+    {
+        "name": "Mini_Button",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Štěpán Škrob",
+        "maintainer": "Štěpán Škrob <solamy@seznam.cz>",
+        "website": "https://github.com/solamyl/Mini_Button",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/solamyl/Mini_Button.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32Synth",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Danilo",
+        "maintainer": "Danilo",
+        "website": "https://github.com/danilogcrf2-oss/ESP32Synth",
+        "category": "Uncategorized",
+        "architectures": "esp32s3, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/danilogcrf2-oss/ESP32Synth.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
