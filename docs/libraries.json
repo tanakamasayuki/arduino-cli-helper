@@ -133666,9 +133666,9 @@
     },
     {
         "name": "Mini_Button",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Štěpán Škrob",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Štěpán Škrob, Jack Christensen",
         "maintainer": "Štěpán Škrob <solamy@seznam.cz>",
         "website": "https://github.com/solamyl/Mini_Button",
         "category": "Signal Input/Output",
@@ -133723,6 +133723,36 @@
         "dependencies": [
             "Wire",
             "SPI"
+        ]
+    },
+    {
+        "name": "MTS4X",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Miro Sieber",
+        "maintainer": "Miro Sieber <your.email@example.com>",
+        "website": "https://github.com/mirosieber/MTS4X",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mirosieber/MTS4X.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SCurveMotion",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Miro Sieber",
+        "maintainer": "Miro Sieber <your.email@example.com>",
+        "website": "https://github.com/mirosieber/SCurveMotion",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mirosieber/SCurveMotion.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
