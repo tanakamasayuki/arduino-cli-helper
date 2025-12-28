@@ -63905,8 +63905,8 @@
     },
     {
         "name": "TM16xx LEDs and Buttons",
-        "version": "0.7.2503",
-        "versions": "0.7.2503, 0.7.2501, 0.6.2404, 0.5.2110",
+        "version": "0.7.2512",
+        "versions": "0.7.2512, 0.7.2503, 0.7.2501, 0.6.2404, 0.5.2110",
         "author": "Maxint",
         "maintainer": "Maxint R&D <mm_rd@maxint.nl>",
         "website": "https://github.com/maxint-rd/TM16xx",
