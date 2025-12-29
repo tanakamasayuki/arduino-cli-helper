@@ -126861,8 +126861,8 @@
     },
     {
         "name": "picoEEPROM",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "website": "https://github.com/Glinek/picoEEPROM",
@@ -132819,8 +132819,8 @@
     },
     {
         "name": "omniMath",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "maintainer": "Szymon Glinka <szymonglinka2006@gmail.com>",
         "website": "https://github.com/Glinek/omniMath",
