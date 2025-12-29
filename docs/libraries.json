@@ -133875,5 +133875,20 @@
             "ESP Async WebServer",
             "ArduinoOTA"
         ]
+    },
+    {
+        "name": "MT-dh-serial-kinematics",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Joseph Morgridge",
+        "maintainer": "Joseph Morgridge",
+        "website": "https://github.com/jo3-tech/MT-dh-serial-kinematics",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jo3-tech/MT-dh-serial-kinematics.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
