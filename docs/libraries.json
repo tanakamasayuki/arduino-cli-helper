@@ -133757,8 +133757,8 @@
     },
     {
         "name": "BitNeural32",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "Aizhee",
         "maintainer": "Aizhee",
         "website": "https://github.com/Aizhee/arduino-bitneural32",
@@ -133798,6 +133798,21 @@
         "repository": "https://github.com/t4st3r/simpleLIB.git",
         "dependencies": [
             "EEPROM_SPI_WE"
+        ]
+    },
+    {
+        "name": "petanikoding",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "M. Afdal Zikri",
+        "maintainer": "M. Afdal Zikri <https://github.com/petani-koding>",
+        "website": "https://github.com/petani-koding",
+        "category": "Sensors",
+        "architectures": "arduino",
+        "types": "Contributed",
+        "repository": "https://github.com/petani-koding/PetaniKodingTDS.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
