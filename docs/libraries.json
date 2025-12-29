@@ -120099,12 +120099,12 @@
     },
     {
         "name": "CheezsEMG",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Cheez",
         "maintainer": "vecang",
         "website": "https://github.com/CheezCheez/CheezsEMG",
-        "category": "Uncategorized",
+        "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/CheezCheez/CheezsEMG.git",
@@ -125788,8 +125788,8 @@
     },
     {
         "name": "BLE OTA Update",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.0",
         "author": "RaghavG1999",
         "maintainer": "RaghavG1999",
         "website": "https://github.com/Raghav117/bluetooth_ota_firmware_update",
@@ -127284,8 +127284,8 @@
     },
     {
         "name": "7Semi_HX711",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "7semi <info@7semi.com>",
         "maintainer": "Manoj <manoj@7semi.com>",
         "website": "https://github.com/7semi-solutions/7Semi-HX711-Arduino-Library",
@@ -129637,8 +129637,8 @@
     },
     {
         "name": "JMBase",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
         "author": "Juanjo Martín",
         "maintainer": "Juanjo Martín",
         "website": "https://github.com/juanjomartinf/JMBase",
@@ -133696,8 +133696,8 @@
     },
     {
         "name": "INA238",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/INA238",
@@ -133826,6 +133826,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/Aatiqur/EZConnect.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi ICM20948",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_ICM20948_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_ICM20948_Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi_SHT4x_analog_Arduino-Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_SHT4x_Analog_Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_SHT4x_Analog_Arduino-Library.git",
         "dependencies": [
             ""
         ]
