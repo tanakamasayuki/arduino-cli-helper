@@ -125773,8 +125773,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.0.14",
-        "versions": "1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.0.15",
+        "versions": "1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -133811,6 +133811,21 @@
         "architectures": "arduino",
         "types": "Contributed",
         "repository": "https://github.com/petani-koding/PetaniKodingTDS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EZConnect",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Atiqur Rahman",
+        "maintainer": "Atiqur Rahman <aatiqurrahman111@gmail.com>",
+        "website": "https://github.com/Aatiqur/EZConnect",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Aatiqur/EZConnect.git",
         "dependencies": [
             ""
         ]
