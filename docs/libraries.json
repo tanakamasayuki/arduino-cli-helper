@@ -133711,8 +133711,8 @@
     },
     {
         "name": "LF_Alpha",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "EARTKEY",
         "maintainer": "EARTKEY <eartkey@gmail.com>",
         "website": "https://github.com/EARTKEY/LF_Alpha",
@@ -133721,8 +133721,7 @@
         "types": "Contributed",
         "repository": "https://github.com/EARTKEY/LF_Alpha.git",
         "dependencies": [
-            "Wire",
-            "SPI"
+            ""
         ]
     },
     {
@@ -133887,6 +133886,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/jo3-tech/MT-dh-serial-kinematics.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "StepperShiftRegister74HC595",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mussa Charles (myssa.io)",
+        "maintainer": "Mussa Charles (myssa.io)",
+        "website": "https://github.com/mussacharles60/StepperShiftRegister74HC595",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mussacharles60/StepperShiftRegister74HC595.git",
         "dependencies": [
             ""
         ]
