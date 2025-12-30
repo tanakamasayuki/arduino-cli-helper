@@ -133786,8 +133786,8 @@
     },
     {
         "name": "simpleLIB",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Krystof Foltyn <krystov290@seznam.cz>",
         "maintainer": "Krystof Foltyn <krystov290@seznam.cz>",
         "website": "https://github.com/t4st3r/simpleLIB",
