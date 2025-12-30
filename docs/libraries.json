@@ -133892,8 +133892,8 @@
     },
     {
         "name": "StepperShiftRegister74HC595",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Mussa Charles (myssa.io)",
         "maintainer": "Mussa Charles (myssa.io)",
         "website": "https://github.com/mussacharles60/StepperShiftRegister74HC595",
