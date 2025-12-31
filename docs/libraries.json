@@ -54331,8 +54331,8 @@
     },
     {
         "name": "Vcc",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.0.0, 1.1.1, 1.0.3, 1.0.1",
+        "version": "2.3.1",
+        "versions": "2.3.1, 2.2.0, 2.0.0, 1.1.1, 1.0.3, 1.0.1",
         "author": "Bernhard Nebel",
         "maintainer": "Bernhard Nebel",
         "website": "https://github.com/felias-fogg/Vcc",
@@ -72102,8 +72102,8 @@
     },
     {
         "name": "Sim Racing Library",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "David Madison",
         "maintainer": "David Madison",
         "website": "https://github.com/dmadison/Sim-Racing-Arduino",
@@ -113178,8 +113178,8 @@
     },
     {
         "name": "RcSwitchReceiver",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.7.0, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.0, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
+        "version": "0.8.1",
+        "versions": "0.8.1, 0.8.0, 0.7.0, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.0, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "website": "https://github.com/dac1e/RcSwitchReceiver",
@@ -115263,8 +115263,8 @@
     },
     {
         "name": "CHT832X",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/CHT832X",
@@ -128219,8 +128219,8 @@
     },
     {
         "name": "RcSwitchTransmitter",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "website": "https://github.com/dac1e/RcSwitchTransmitter",
@@ -133918,6 +133918,22 @@
         "repository": "https://github.com/embedded-kiddie/CallbackTimerR4.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "DFPongController",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Digital Futures OCAD U",
+        "maintainer": "Digital Futures OCAD U",
+        "website": "https://github.com/DigitalFuturesOCADU/df-pong-controller",
+        "category": "Communication",
+        "architectures": "samd, nrf52, renesas_uno, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DigitalFuturesOCADU/df-pong-controller.git",
+        "dependencies": [
+            "ArduinoBLE",
+            "NimBLE-Arduino"
         ]
     }
 ]
