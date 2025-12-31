@@ -133935,5 +133935,20 @@
             "ArduinoBLE",
             "NimBLE-Arduino"
         ]
+    },
+    {
+        "name": "CamS3Library",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "Ginés",
+        "maintainer": "Ginés",
+        "website": "https://github.com/yourusername/CamS3Library",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ginixsan/CamS3Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
