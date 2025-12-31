@@ -53296,8 +53296,8 @@
     },
     {
         "name": "Yfrobot Motor Driver Library",
-        "version": "0.0.9",
-        "versions": "0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "YFROBOT",
         "maintainer": "YFROBOT-ZL,<yfrobot@qq.com>",
         "website": "https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library",
@@ -116317,17 +116317,17 @@
     },
     {
         "name": "AViShaESPCam",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Ajang Rahmat",
         "maintainer": "Ajang Rahmat <ajangrahmat@gmail.com>",
         "website": "https://github.com/avisha95/AViShaESPCam",
         "category": "Data Processing",
-        "architectures": "*",
+        "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/avisha95/AViShaESPCam.git",
         "dependencies": [
-            ""
+            "SD"
         ]
     },
     {
