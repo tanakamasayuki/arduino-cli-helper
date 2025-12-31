@@ -133666,8 +133666,8 @@
     },
     {
         "name": "Mini_Button",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Štěpán Škrob, Jack Christensen",
         "maintainer": "Štěpán Škrob <solamy@seznam.cz>",
         "website": "https://github.com/solamyl/Mini_Button",
