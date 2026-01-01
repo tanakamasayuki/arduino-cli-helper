@@ -102452,8 +102452,8 @@
     },
     {
         "name": "vovagorodok_ArrayUtils",
-        "version": "1.3.7",
-        "versions": "1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.8",
+        "versions": "1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArrayUtils",
@@ -133410,8 +133410,8 @@
     },
     {
         "name": "BioLogic",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.0",
         "author": "Mauricio Molina Valdez",
         "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
