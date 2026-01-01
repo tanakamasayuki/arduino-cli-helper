@@ -133950,5 +133950,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ACS712-driver",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Ransky3000",
+        "maintainer": "Ransky3000",
+        "website": "https://github.com/Ransky3000/ACS712-driver",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ransky3000/ACS712-driver.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
