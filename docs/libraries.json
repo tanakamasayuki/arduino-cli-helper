@@ -71664,8 +71664,8 @@
     },
     {
         "name": "GyverNTP",
-        "version": "2.2.2",
-        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.2.3",
+        "versions": "2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverNTP",
@@ -134009,6 +134009,36 @@
         "repository": "https://github.com/Embedded-Petal/IoTCloud.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "FED4",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Lex Kravitz, Matt Gaidica",
+        "maintainer": "Lex Kravitz <alexxai@wustl.edu>",
+        "website": "https://github.com/KravitzLabDevices/FED4",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/KravitzLabDevices/FED4.git",
+        "dependencies": [
+            "Adafruit_MCP23017_Arduino_Library",
+            "Adafruit_MAX1704X",
+            "Stepper",
+            "Adafruit_NeoPixel",
+            "Adafruit_GFX_Library",
+            "Adafruit_SharpMem_Display",
+            "RTClib",
+            "SdFat",
+            "Adafruit_AHTX0",
+            "ArduinoJson",
+            "Preferences",
+            "Adafruit_LIS3DH",
+            "Adafruit_Sensor",
+            "Adafruit_MLX90393",
+            "SparkFun_STHS34PF80_Arduino_Library",
+            "Adafruit_VL6180X"
         ]
     }
 ]
