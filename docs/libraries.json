@@ -134040,5 +134040,20 @@
             "SparkFun_STHS34PF80_Arduino_Library",
             "Adafruit_VL6180X"
         ]
+    },
+    {
+        "name": "Pico4Drive",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Paulo Costa, Paulo Marques",
+        "maintainer": "Paulo Costa, Paulo Marques",
+        "website": "https://github.com/P33a/Pico4DriveLib",
+        "category": "Device Control",
+        "architectures": "rp2040, rp2350",
+        "types": "Contributed",
+        "repository": "https://github.com/P33a/Pico4DriveLib.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
