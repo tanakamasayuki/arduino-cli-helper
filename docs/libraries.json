@@ -134085,5 +134085,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SimpleWiFiManager",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Esslangamer20",
+        "maintainer": "Esslangamer20",
+        "website": "https://github.com/Esslangamer20/SimpleWiFiManager",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Esslangamer20/SimpleWiFiManager.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
