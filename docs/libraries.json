@@ -129378,8 +129378,8 @@
     },
     {
         "name": "EasyENC",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.1.0, 2.0.0, 1.0.1, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.1, 1.0.0",
         "author": "Solder&Code",
         "maintainer": "Solder&Code",
         "website": "https://github.com/MAKE-arduino/-EasyENC",
