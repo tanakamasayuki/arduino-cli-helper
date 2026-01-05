@@ -73389,10 +73389,10 @@
     },
     {
         "name": "PneumaticStepper",
-        "version": "1.0.15",
-        "versions": "1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.1, 1.0.0",
-        "author": "Vincent Groenhuis <groenhuis@gmail.com>",
-        "maintainer": "Vincent Groenhuis <groenhuis@gmail.com>",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.1, 1.0.0",
+        "author": "Vincent Groenhuis <v.groenhuis@utwente.nl>",
+        "maintainer": "Vincent Groenhuis <v.groenhuis@utwente.nl>",
         "website": "https://www.thingiverse.com/thing:3655215",
         "category": "Device Control",
         "architectures": "*",
@@ -100511,8 +100511,8 @@
     },
     {
         "name": "SparkFun Extensible Message Parser",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_Extensible_Message_Parser",
@@ -134175,6 +134175,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/WuaLeds/Wualeds_AW20216S.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "InertialIO",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Witty Wizard",
+        "maintainer": "Witty Wizard <contact@wittywizard.in>",
+        "website": "https://docs.wittywizard.in/projects/InertialIO",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Witty-Wizard/InertialIO.git",
         "dependencies": [
             ""
         ]
