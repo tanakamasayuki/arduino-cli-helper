@@ -134115,5 +134115,23 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "Marc Merlin",
+        "maintainer": "Marc MERLIN <marc_soft@merlins.org>",
+        "website": "https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX.git",
+        "dependencies": [
+            "Framebuffer_GFX",
+            "ESP32-HUB75-MatrixPanel-DMA",
+            "FastLED",
+            "Adafruit-GFX-Library"
+        ]
     }
 ]
