@@ -134088,8 +134088,8 @@
     },
     {
         "name": "SimpleWiFiManager",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Esslangamer20",
         "maintainer": "Esslangamer20",
         "website": "https://github.com/Esslangamer20/SimpleWiFiManager",
@@ -134097,6 +134097,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/Esslangamer20/SimpleWiFiManager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SorbaMqttWifi",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "author": "Reyan Valdes <reyanvaldes@yahoo.com>",
+        "maintainer": "Reyan Valdes <reyanvaldes@yahoo.com>",
+        "website": "https://github.com/reyanvaldes/SorbaMQTT-Wifi",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/reyanvaldes/SorbaMQTT-Wifi.git",
         "dependencies": [
             ""
         ]
