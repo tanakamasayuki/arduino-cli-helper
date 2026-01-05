@@ -134148,5 +134148,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "InfiniteFunctionButton",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Andeos <andeos@highspeedelectronics.com>",
+        "maintainer": "Andeos <andeos@highspeedelectronics.com>",
+        "website": "https://github.com/MrAndeos/InfiniteFunctionButton",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MrAndeos/InfiniteFunctionButton.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "WuaLeds_AW20216S",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "Matias Cazanave (https://matiascazanave.my.canva.site/)",
+        "maintainer": "Matias Cazanave <matias@wualeds.com>",
+        "website": "https://github.com/WuaLeds/Wualeds_AW20216S",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/WuaLeds/Wualeds_AW20216S.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
