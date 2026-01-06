@@ -96884,8 +96884,8 @@
     },
     {
         "name": "roo_time",
-        "version": "1.3.3",
-        "versions": "1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_time",
@@ -96959,8 +96959,8 @@
     },
     {
         "name": "roo_collections",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_collections",
@@ -97854,8 +97854,8 @@
     },
     {
         "name": "roo_flags",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_flags",
@@ -97869,8 +97869,8 @@
     },
     {
         "name": "roo_logging",
-        "version": "1.4.3",
-        "versions": "1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_logging",
@@ -97879,6 +97879,7 @@
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_logging.git",
         "dependencies": [
+            "roo_backport",
             "roo_flags",
             "roo_time",
             "roo_threads"
@@ -116257,8 +116258,8 @@
     },
     {
         "name": "roo_backport",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_backport",
@@ -123280,8 +123281,8 @@
     },
     {
         "name": "roo_threads",
-        "version": "1.1.6",
-        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_threads",
@@ -133636,8 +133637,8 @@
     },
     {
         "name": "STM32RS485DMA",
-        "version": "0.5.0",
-        "versions": "0.5.0",
+        "version": "0.5.1",
+        "versions": "0.5.1, 0.5.0",
         "author": "NitrofMtl",
         "maintainer": "NitrofMtl",
         "website": "https://github.com/nitrofmtl/STM32RS485DMA",
