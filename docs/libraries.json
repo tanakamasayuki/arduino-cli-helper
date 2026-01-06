@@ -90422,8 +90422,8 @@
     },
     {
         "name": "PCA9553",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9553",
@@ -90587,8 +90587,8 @@
     },
     {
         "name": "PCA9551",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9551",
@@ -90602,8 +90602,8 @@
     },
     {
         "name": "PCA9552",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9552",
@@ -126649,8 +126649,8 @@
     },
     {
         "name": "UOS",
-        "version": "1.5.5",
-        "versions": "1.5.5, 1.5.4, 1.5.3, 1.5.2",
+        "version": "1.5.6",
+        "versions": "1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2",
         "author": "Charmin Junior <charmin4241@gmail.com>",
         "maintainer": "Charmin Junior <charmin4241@gmail.com>",
         "website": "https://github.com/CharminJunior/ArduinoUOS",
