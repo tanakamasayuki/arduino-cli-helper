@@ -97869,8 +97869,8 @@
     },
     {
         "name": "roo_logging",
-        "version": "1.5.1",
-        "versions": "1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.5.2",
+        "versions": "1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_logging",
@@ -114657,8 +114657,8 @@
     },
     {
         "name": "roo_io",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_io",
@@ -123264,8 +123264,8 @@
     },
     {
         "name": "roo_quantity",
-        "version": "1.1.5",
-        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.6",
+        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_quantity",
@@ -134191,6 +134191,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/Witty-Wizard/InertialIO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESPToon",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.0",
+        "author": "Chinmay Nagar <chinmay@chipnexa.in>",
+        "maintainer": "Chinmay Nagar <chinmay@chipnexa.in>",
+        "website": "https://github.com/nagarChinmay/ESPToon",
+        "category": "Data Storage",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/NagarChinmay/ESPToon.git",
         "dependencies": [
             ""
         ]
