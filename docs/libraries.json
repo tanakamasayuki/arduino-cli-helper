@@ -43582,8 +43582,8 @@
     },
     {
         "name": "PrintString",
-        "version": "0.2.5",
-        "versions": "0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1",
+        "version": "0.2.6",
+        "versions": "0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/Arduino/tree/master/libraries",
@@ -43644,8 +43644,8 @@
     },
     {
         "name": "PrintCharArray",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PrintCharArray.git",
@@ -78429,8 +78429,8 @@
     },
     {
         "name": "ClusterDuck Protocol",
-        "version": "4.4.0",
-        "versions": "4.4.0, 4.3.0, 4.2.0, 4.0.0, 3.1.5, 2.11.0, 2.10.3, 2.9.10, 2.9.6, 2.0.4",
+        "version": "5.0.0",
+        "versions": "5.0.0, 4.4.0, 4.3.0, 4.2.0, 4.0.0, 3.1.5, 2.11.0, 2.10.3, 2.9.10, 2.9.6, 2.0.4",
         "author": "OWL Integrations <info@owlintegrations.com>",
         "maintainer": "OWL Integrations <info@owlintegrations.com>",
         "website": "https://github.com/ClusterDuck-Protocol/ClusterDuck-Protocol",
@@ -78444,11 +78444,11 @@
             "ArduinoJson",
             "CRC32",
             "RadioLib",
-            "Crypto",
             "Async TCP",
             "ESP Async WebServer",
             "PubSubClient",
-            "TinyGPSPlus"
+            "TinyGPSPlus",
+            "FastLED"
         ]
     },
     {
@@ -93860,8 +93860,8 @@
     },
     {
         "name": "SparkFun Qwiic OLED Arduino Library",
-        "version": "1.0.14",
-        "versions": "1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.6, 1.0.5",
+        "version": "1.0.15",
+        "versions": "1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.6, 1.0.5",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library",
@@ -102667,8 +102667,8 @@
     },
     {
         "name": "TLC5917",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TLC5917",
@@ -108398,8 +108398,8 @@
     },
     {
         "name": "roo_control",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_control",
@@ -108415,8 +108415,8 @@
     },
     {
         "name": "roo_wifi",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_wifi",
