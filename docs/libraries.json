@@ -75894,8 +75894,8 @@
     },
     {
         "name": "AD5245",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AD5245",
@@ -98165,8 +98165,8 @@
     },
     {
         "name": "AD5248",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AD5248",
@@ -132698,11 +132698,11 @@
     },
     {
         "name": "myDHT",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 1.0.0",
         "author": "Toni Matutinović",
         "maintainer": "Toni Matutinović <tonimatutta@gmail.com>",
-        "website": "https://github.com/tonimatutinovic/MyDHT",
+        "website": "https://github.com/tonimatutinovic/myDHT",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
@@ -134236,6 +134236,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/BL0942_SPI.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ProsecCoAP",
+        "version": "0.9.0",
+        "versions": "0.9.0",
+        "author": "Pasquale Lafiosca <decadenza@protonmail.com>",
+        "maintainer": "Pasquale Lafiosca <decadenza@protonmail.com>",
+        "website": "https://github.com/decadenza/ProsecCoAP",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/decadenza/ProsecCoAP.git",
         "dependencies": [
             ""
         ]
