@@ -134209,5 +134209,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "BQ25672",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Piotr Malek",
+        "maintainer": "Piotr Malek <git@malek.pm>",
+        "website": "https://github.com/piotrmalek/BQ25672",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/piotrmalek/BQ25672.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
