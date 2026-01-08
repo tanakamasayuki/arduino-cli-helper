@@ -80769,8 +80769,8 @@
     },
     {
         "name": "MAGELLAN",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
         "author": "AIS IoT Alliance Program",
         "maintainer": "MAGELLAN POC devices team <aisiot2020@gmail.com>",
         "website": "https://github.com/AIS-DeviceInnovation/Magellan",
@@ -90241,8 +90241,8 @@
     },
     {
         "name": "uNeurai",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.2, 0.0.1",
         "author": "Asimov",
         "maintainer": "Asimov <web@neurai.org>",
         "website": "https://github.com/NeuraiProject/uNeurai",
@@ -96731,8 +96731,8 @@
     },
     {
         "name": "GuL_NovaFitness",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.0.0",
         "author": "Guido Lehne",
         "maintainer": "Guido Lehne",
         "website": "https://github.com/boeserfrosch/GuL_NovaFitness",
