@@ -113552,8 +113552,8 @@
     },
     {
         "name": "SD2405",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.2, 0.1.1",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.2, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SD2405",
@@ -115309,8 +115309,8 @@
     },
     {
         "name": "rotaryDecoder8",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/rotaryDecoder8",
@@ -115387,8 +115387,8 @@
     },
     {
         "name": "PCA9698_RT",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9698_RT",
@@ -115597,8 +115597,8 @@
     },
     {
         "name": "rotaryDecoderSwitch5",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/rotaryDecoderSwitch5",
