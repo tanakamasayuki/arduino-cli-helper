@@ -134254,5 +134254,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "OpenWeatherMap",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "coloz <coloz999@gmail.com>",
+        "maintainer": "coloz <coloz999@gmail.com>",
+        "website": "https://github.com/coloz/OpenWeatherMap-library",
+        "category": "Communication",
+        "architectures": "esp32, renesas_uno",
+        "types": "Contributed",
+        "repository": "https://github.com/coloz/OpenWeatherMap-library.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "ESP_NowAdhoc",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "author": "C.HAIBARA(Cloud Power Electric Industries)",
+        "maintainer": "hinyhiny(hinyhiny@mac.com)",
+        "website": "https://github.com/hinyhiny/ESP_NowAdhoc",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/hinyhiny/ESP_NowAdhoc.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
