@@ -134317,8 +134317,8 @@
     },
     {
         "name": "GPIOUtils",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/GPIOUtils",
