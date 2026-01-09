@@ -65213,8 +65213,8 @@
     },
     {
         "name": "Porcupine_EN",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -65288,8 +65288,8 @@
     },
     {
         "name": "Porcupine_DE",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -65303,8 +65303,8 @@
     },
     {
         "name": "Porcupine_FR",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -65318,8 +65318,8 @@
     },
     {
         "name": "Porcupine_ES",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -133167,8 +133167,8 @@
     },
     {
         "name": "ThreadSafePing",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan.jurca@gmail.com>",
         "website": "https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32",
@@ -134373,6 +134373,141 @@
         "repository": "https://github.com/HimanshuChauragade/SimpleMorse.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Rhino_DE",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-de.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_EN",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-en.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_ES",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-es.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_FR",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-fr.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_IT",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-it.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_JA",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-ja.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_KO",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-ko.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_PT",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-pt.git",
+        "dependencies": [
+            "LibPrintf"
+        ]
+    },
+    {
+        "name": "Rhino_ZH",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/rhino-arduino-zh.git",
+        "dependencies": [
+            "LibPrintf"
         ]
     }
 ]
