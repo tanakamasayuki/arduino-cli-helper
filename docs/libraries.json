@@ -37500,8 +37500,8 @@
     },
     {
         "name": "ESP8266 and ESP32 OLED driver for SSD1306 displays",
-        "version": "4.6.1",
-        "versions": "4.6.1, 4.6.0, 4.5.0, 4.4.1, 4.4.0, 4.3.0, 4.2.1, 4.2.0, 4.1.0",
+        "version": "4.6.2",
+        "versions": "4.6.2, 4.6.1, 4.6.0, 4.5.0, 4.4.1, 4.4.0, 4.3.0, 4.2.1, 4.2.0, 4.1.0",
         "author": "ThingPulse, Fabrice Weinberg",
         "maintainer": "ThingPulse <info@thingpulse.com>",
         "website": "https://github.com/ThingPulse/esp8266-oled-ssd1306",
@@ -134317,11 +134317,11 @@
     },
     {
         "name": "GPIOUtils",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.0, 1.1.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.2.0, 1.1.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
-        "website": "https://github.com/yourusername/GPIOUtils",
+        "website": "https://github.com/topquark22/GPIOUtils",
         "category": "Signal Input/Output",
         "architectures": "*",
         "types": "Contributed",
@@ -134332,8 +134332,8 @@
     },
     {
         "name": "ServoDAC",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.6",
+        "versions": "2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/ServoDAC",
@@ -134343,6 +134343,21 @@
         "repository": "https://github.com/topquark22/ServoDAC.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "multiMotor",
+        "version": "1.1.2",
+        "versions": "1.1.2",
+        "author": "Mark Sheng <marksheng2020@gmail.com>",
+        "maintainer": "Mark Sheng <marksheng2020@gmail.com>",
+        "website": "https://github.com/someone225/multiMotor",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/someone225/multiMotor.git",
+        "dependencies": [
+            "ArduinoHttpClient"
         ]
     }
 ]
