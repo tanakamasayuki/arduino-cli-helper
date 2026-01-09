@@ -72196,11 +72196,11 @@
     },
     {
         "name": "btnapi",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "WolodiaM <w.melnyk07@gmail.com>",
         "maintainer": "WolodiaM <w.melnyk07@gmail.com>",
-        "website": "https://github.com/Wolodia-M/btnapi-library",
+        "website": "https://github.com/WolodiaM/btnapi-library",
         "category": "Signal Input/Output",
         "architectures": "*",
         "types": "Contributed",
@@ -72211,11 +72211,11 @@
     },
     {
         "name": "flagsapi",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "WolodiaM <w.melnyk07@gmail.com>",
         "maintainer": "WolodiaM <w.melnyk07@gmail.com>",
-        "website": "https://github.com/Wolodia-M/flagsapi-library",
+        "website": "https://github.com/WolodiaM/flagsapi-library",
         "category": "Data Storage",
         "architectures": "*",
         "types": "Contributed",
@@ -73164,11 +73164,11 @@
     },
     {
         "name": "timersapi",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "WolodiaM <w.melnyk07@gmail.com>",
         "maintainer": "WolodiaM <w.melnyk07@gmail.com>",
-        "website": "https://github.com/Wolodia-M/timersapi-library",
+        "website": "https://github.com/WolodiaM/timersapi-library",
         "category": "Timing",
         "architectures": "*",
         "types": "Contributed",
@@ -115815,8 +115815,8 @@
     },
     {
         "name": "htcw_gfx",
-        "version": "2.2.13",
-        "versions": "2.2.13, 2.2.12, 2.2.11, 2.2.10, 2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
+        "version": "2.2.14",
+        "versions": "2.2.14, 2.2.13, 2.2.12, 2.2.11, 2.2.10, 2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/gfx",
@@ -134317,8 +134317,8 @@
     },
     {
         "name": "GPIOUtils",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.2.0, 1.1.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/GPIOUtils",
@@ -134358,6 +134358,21 @@
         "repository": "https://github.com/someone225/multiMotor.git",
         "dependencies": [
             "ArduinoHttpClient"
+        ]
+    },
+    {
+        "name": "SimpleMorse",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Himanshu Chauragade <himanshu.chauragade@gmail.com>",
+        "maintainer": "Himanshu Chauragade <himanshu.chauragade@gmail.com>",
+        "website": "https://github.com/HimanshuChauragade/SimpleMorse",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/HimanshuChauragade/SimpleMorse.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
