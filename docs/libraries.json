@@ -134314,5 +134314,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "GPIOUtils",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.0, 1.1.0",
+        "author": "Geoffrey Trueman Falk",
+        "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
+        "website": "https://github.com/yourusername/GPIOUtils",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/topquark22/GPIOUtils.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ServoDAC",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "author": "Geoffrey Trueman Falk",
+        "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
+        "website": "https://github.com/topquark22/ServoDAC",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/topquark22/ServoDAC.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
