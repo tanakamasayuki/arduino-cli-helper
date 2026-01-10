@@ -132077,8 +132077,8 @@
     },
     {
         "name": "SavaButton",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "SavaLab",
         "maintainer": "SavaLab <sava-74@inbox.ru>",
         "website": "https://github.com/sava-74/SavaButton.git",
@@ -134527,8 +134527,8 @@
     },
     {
         "name": "Plexorino",
-        "version": "5.0.1",
-        "versions": "5.0.1, 4.0.0, 3.1.0, 3.0.0",
+        "version": "5.0.2",
+        "versions": "5.0.2, 5.0.1, 4.0.0, 3.1.0, 3.0.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/Plexorino",
