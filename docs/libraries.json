@@ -47714,8 +47714,8 @@
     },
     {
         "name": "Kelvin2RGB",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/Kelvin2RGB",
@@ -53629,8 +53629,8 @@
     },
     {
         "name": "SerialWombat",
-        "version": "2.2.20",
-        "versions": "2.2.20, 2.2.12, 2.2.11, 2.2.10, 2.2.0, 2.1.10, 2.1.9, 2.1.8, 2.1.7, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.2, 2.0.1, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.2.21",
+        "versions": "2.2.21, 2.2.20, 2.2.12, 2.2.11, 2.2.10, 2.2.0, 2.1.10, 2.1.9, 2.1.8, 2.1.7, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.2, 2.0.1, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Broadwell Consulting Inc <help@serialwombat.com>",
         "maintainer": "Broadwell Consulting Inc <help@serialwombat.com>",
         "website": "https://broadwellconsultinginc.github.io/SerialWombatArdLib/",
