@@ -134089,8 +134089,8 @@
     },
     {
         "name": "SimpleWiFiManager",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Esslangamer20",
         "maintainer": "Esslangamer20",
         "website": "https://github.com/Esslangamer20/SimpleWiFiManager",
