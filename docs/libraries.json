@@ -134554,5 +134554,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "TickerTape7SegmentDisplay",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Taras Zhylenko (taras.zhilenko@gmail.com)",
+        "maintainer": "Taras Zhylenko (taras.zhilenko@gmail.com)",
+        "website": "https://github.com/taraszhylenko/TickerTape7SegmentDisplay",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/taraszhylenko/TickerTape7SegmentDisplay.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
