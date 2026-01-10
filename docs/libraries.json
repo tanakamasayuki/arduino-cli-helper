@@ -80511,8 +80511,8 @@
     },
     {
         "name": "statusled",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Alexandre Maurer, alexmaurer@madis.ch",
         "maintainer": "Alexandre Maurer, alexmaurer@madis.ch",
         "website": "https://github.com/alexmaurer-madis/statusled.git",
@@ -134332,8 +134332,8 @@
     },
     {
         "name": "ServoDAC",
-        "version": "2.1.6",
-        "versions": "2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.7",
+        "versions": "2.1.7, 2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/ServoDAC",
@@ -134508,6 +134508,21 @@
         "repository": "https://github.com/Picovoice/rhino-arduino-zh.git",
         "dependencies": [
             "LibPrintf"
+        ]
+    },
+    {
+        "name": "LOPORO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "American Steam Labs",
+        "maintainer": "American Steam Labs",
+        "website": "https://github.com/americansteamlab/LOPORO-Arduino-Libraries.git",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/americansteamlab/LOPORO-Arduino-Libraries.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
