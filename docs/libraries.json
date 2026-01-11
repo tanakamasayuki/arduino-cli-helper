@@ -133426,8 +133426,8 @@
     },
     {
         "name": "LC7822",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/LC7822",
@@ -134332,8 +134332,8 @@
     },
     {
         "name": "ServoDAC",
-        "version": "2.1.11",
-        "versions": "2.1.11, 2.1.10, 2.1.9, 2.1.7, 2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.12",
+        "versions": "2.1.12, 2.1.11, 2.1.10, 2.1.9, 2.1.7, 2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/ServoDAC",
