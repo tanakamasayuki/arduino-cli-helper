@@ -134527,8 +134527,8 @@
     },
     {
         "name": "Plexorino",
-        "version": "5.0.2",
-        "versions": "5.0.2, 5.0.1, 4.0.0, 3.1.0, 3.0.0",
+        "version": "5.0.4",
+        "versions": "5.0.4, 5.0.3, 5.0.2, 5.0.1, 4.0.0, 3.1.0, 3.0.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/Plexorino",
@@ -134566,6 +134566,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/taraszhylenko/TickerTape7SegmentDisplay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DimuthuRobotLib",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dimuthu Wijesingha",
+        "maintainer": "Dimuthu Wijesinha <dimuthuwije@gmail.com>",
+        "website": "https://github.com/dimuthurangana/DimuthuRobotLib",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dimuthurangana/DimuthuRobotLib.git",
         "dependencies": [
             ""
         ]
