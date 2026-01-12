@@ -134659,5 +134659,20 @@
         "dependencies": [
             "LC_lilOS"
         ]
+    },
+    {
+        "name": "SimpleSmooth",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Daniel Neve",
+        "maintainer": "Daniel Neve",
+        "website": "https://github.com/DanForever/SimpleSmooth",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DanForever/SimpleSmooth.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
