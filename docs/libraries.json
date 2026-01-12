@@ -41057,8 +41057,8 @@
     },
     {
         "name": "ssd1306xled",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.1",
         "author": "Neven Boyanov, Tejashwi Kalp Taru, David Johnson-Davies",
         "maintainer": "Tejashwi Kalp Taru",
         "website": "https://github.com/tejashwikalptaru/ssd1306xled",
