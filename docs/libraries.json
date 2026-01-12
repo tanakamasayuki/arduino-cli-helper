@@ -11604,8 +11604,8 @@
     },
     {
         "name": "uRTCLib",
-        "version": "6.9.6",
-        "versions": "6.9.6, 6.9.5, 6.9.4, 6.9.3, 6.9.2, 6.9.1, 6.9.0, 6.8.0, 6.7.0, 6.6.1, 6.6.0, 6.5.0, 6.4.0, 6.3.0, 6.2.10, 6.2.9, 6.2.8, 6.2.7, 6.2.6, 6.2.5, 6.2.4, 6.2.3, 6.2.2, 6.2.1, 6.2.0, 6.1.0, 6.0.1, 6.0.0, 5.0.0, 4.3.1, 4.3.0, 4.2.1, 4.2.0, 4.1.0, 4.0.2, 4.0.1, 3.1.0, 3.0.2, 3.0.0",
+        "version": "6.9.7",
+        "versions": "6.9.7, 6.9.6, 6.9.5, 6.9.4, 6.9.3, 6.9.2, 6.9.1, 6.9.0, 6.8.0, 6.7.0, 6.6.1, 6.6.0, 6.5.0, 6.4.0, 6.3.0, 6.2.10, 6.2.9, 6.2.8, 6.2.7, 6.2.6, 6.2.5, 6.2.4, 6.2.3, 6.2.2, 6.2.1, 6.2.0, 6.1.0, 6.0.1, 6.0.0, 5.0.0, 4.3.1, 4.3.0, 4.2.1, 4.2.0, 4.1.0, 4.0.2, 4.0.1, 3.1.0, 3.0.2, 3.0.0",
         "author": "Naguissa <naguissa@foroelectro.net>",
         "maintainer": "Naguissa <naguissa@foroelectro.net>",
         "website": "https://github.com/Naguissa/uRTCLib",
@@ -134581,6 +134581,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/dimuthurangana/DimuthuRobotLib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SunFounder_IMU",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SunFounder",
+        "maintainer": "SunFounder",
+        "website": "https://github.com/sunfounder/sunfounder-imu-arduino",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sunfounder/sunfounder-imu-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ArduCMSIS-DSP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Team Professional",
+        "maintainer": "Team Professional <teamprof.net@gmail.com>",
+        "website": "https://github.com/ARM-software/CMSIS-DSP",
+        "category": "Uncategorized",
+        "architectures": "mbed_rp2040, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/teamprof/ArduCMSIS-DSP.git",
         "dependencies": [
             ""
         ]
