@@ -115128,8 +115128,8 @@
     },
     {
         "name": "MCP23008-I2C",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Frank Häfele <mail@frankhaefele.de>",
         "maintainer": "Frank Häfele <mail@frankhaefele.de>",
         "website": "https://github.com/hasenradball/MCP23008-I2C",
@@ -121338,8 +121338,8 @@
     },
     {
         "name": "JsonTalkie",
-        "version": "3.1.0",
-        "versions": "3.1.0, 3.0.0, 2.0.0, 1.2.0, 1.1.1, 1.0.1, 1.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.1.0, 3.0.0, 2.0.0, 1.2.0, 1.1.1, 1.0.1, 1.0.0",
         "author": "ruiseixasm, Rui Seixas Monteiro",
         "maintainer": "Rui Seixas Monteiro",
         "website": "https://github.com/ruiseixasm/JsonTalkie",
@@ -121348,7 +121348,7 @@
         "types": "Contributed",
         "repository": "https://github.com/ruiseixasm/JsonTalkie.git",
         "dependencies": [
-            "ArduinoJson"
+            ""
         ]
     },
     {
@@ -134613,6 +134613,21 @@
         "repository": "https://github.com/teamprof/ArduCMSIS-DSP.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Soldered OpenAI Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-OpenAI-Library.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
