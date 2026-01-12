@@ -107701,8 +107701,8 @@
     },
     {
         "name": "Terminal",
-        "version": "1.0.10",
-        "versions": "1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.12",
+        "versions": "1.0.12, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "John J. Gavel <john.gavel@gmail.com>",
         "maintainer": "John J. Gavel <john.gavel@gmail.com>",
         "website": "https://github.com/johngavel/Terminal",
@@ -115988,8 +115988,8 @@
     },
     {
         "name": "SCButton",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.3",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.3",
         "author": "Michael Margold <softcollection@gmail.com>",
         "maintainer": "Michael Margold <softcollection@gmail.com>",
         "website": "https://github.com/Soft-Collection/SCButton",
@@ -134104,8 +134104,8 @@
     },
     {
         "name": "SorbaMqttWifi",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Reyan Valdes <reyanvaldes@yahoo.com>",
         "maintainer": "Reyan Valdes <reyanvaldes@yahoo.com>",
         "website": "https://github.com/reyanvaldes/SorbaMQTT-Wifi",
@@ -134643,6 +134643,21 @@
         "repository": "https://github.com/wagenadl/RobustQuadrature.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "LCP_shopList",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "jim lee",
+        "maintainer": "shopList@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_shopList",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_shopList.git",
+        "dependencies": [
+            "LC_lilOS"
         ]
     }
 ]
