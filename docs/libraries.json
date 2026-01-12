@@ -134104,8 +134104,8 @@
     },
     {
         "name": "SorbaMqttWifi",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Reyan Valdes <reyanvaldes@yahoo.com>",
         "maintainer": "Reyan Valdes <reyanvaldes@yahoo.com>",
         "website": "https://github.com/reyanvaldes/SorbaMQTT-Wifi",
