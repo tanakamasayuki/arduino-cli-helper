@@ -92819,8 +92819,8 @@
     },
     {
         "name": "WaterMix",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.6",
+        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/WaterMix",
@@ -117176,8 +117176,8 @@
     },
     {
         "name": "PCT2075",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCT2075.git",
@@ -117494,7 +117494,7 @@
     {
         "name": "PCF85263",
         "version": "0.2.1",
-        "versions": "0.2.1",
+        "versions": "0.2.1, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCF85263",
@@ -118522,8 +118522,8 @@
     },
     {
         "name": "SensEdu",
-        "version": "0.6.1",
-        "versions": "0.6.1, 0.5.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.1, 0.5.0",
         "author": "Vladyslav Sorokin, Azra Talić",
         "maintainer": "Vladyslav Sorokin <Vladyslav.Sorokin@infineon.com>",
         "website": "https://github.com/ShiegeChan/SensEdu",
