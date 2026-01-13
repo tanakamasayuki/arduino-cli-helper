@@ -72226,8 +72226,8 @@
     },
     {
         "name": "TapatioElectronics",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.0.1, 1.0.0",
         "author": "Miguel Angel Delgado Lopez",
         "maintainer": "Miguel Delgado <Miguel.delgadolop@gmail.com>",
         "website": "https://github.com/MdelgadoL83/TapatioElectronics",
@@ -125699,8 +125699,8 @@
     },
     {
         "name": "LD2412",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Trent Tobias",
         "maintainer": "Trent Tobias",
         "website": "https://github.com/tobiastl/LD2412",
@@ -134707,8 +134707,8 @@
     },
     {
         "name": "CAN_MREx",
-        "version": "1.12.0",
-        "versions": "1.12.0",
+        "version": "1.12.1",
+        "versions": "1.12.1, 1.12.0",
         "author": "Chiara Gillam",
         "maintainer": "Chiara Gillam <chiaragillam@gmail.com>",
         "website": "https://github.com/Monash-Railway-Express/CAN_MREx",
