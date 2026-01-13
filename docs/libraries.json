@@ -134674,5 +134674,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "wireguard-pico-w",
+        "version": "0.1.7",
+        "versions": "0.1.7",
+        "author": "Kenta Ida (original); Daniel Hope (upstream); Marcin Kielesiński (RP2040/Pico W port)",
+        "maintainer": "Marcin Kielesiński",
+        "website": "https://github.com/jaszczurtd/arduino-wireguard-pico-w",
+        "category": "Communication",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/jaszczurtd/arduino-wireguard-pico-w.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HANUMAN_32",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
+        "maintainer": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
+        "website": "https://github.com/hii-nice-2-meet-u/HANUMAN_32",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/hii-nice-2-meet-u/HANUMAN_32.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CAN_MREx",
+        "version": "1.12.0",
+        "versions": "1.12.0",
+        "author": "Chiara Gillam",
+        "maintainer": "Chiara Gillam <chiaragillam@gmail.com>",
+        "website": "https://github.com/Monash-Railway-Express/CAN_MREx",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Monash-Railway-Express/CAN_MREx.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
