@@ -56844,8 +56844,8 @@
     },
     {
         "name": "TM1637_RT",
-        "version": "0.4.2",
-        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1",
+        "version": "0.4.3",
+        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TM1637_RT",
@@ -129683,8 +129683,8 @@
     },
     {
         "name": "NeopixelCommander",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1, 0.0.0",
+        "version": "0.0.6",
+        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/thomasgeissl/NeopixelCommander",
@@ -134715,6 +134715,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Monash-Railway-Express/CAN_MREx.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "M5IOE1",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5IOE1",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5IOE1.git",
         "dependencies": [
             ""
         ]
