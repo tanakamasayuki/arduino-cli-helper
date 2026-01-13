@@ -134793,5 +134793,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "XENSIV BGT60TR13C Radar Sensor",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Infineon Technologies",
+        "maintainer": "Infineon Technologies <www.infineon.com>",
+        "website": "https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13.git",
+        "dependencies": [
+            "arduinoFFT"
+        ]
     }
 ]
