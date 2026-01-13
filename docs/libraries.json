@@ -108887,8 +108887,8 @@
     },
     {
         "name": "CodeCell",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "website": "https://microbots.io/CodeCell",
@@ -111977,8 +111977,8 @@
     },
     {
         "name": "ACD3100",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ACD3100",
@@ -134732,6 +134732,36 @@
         "repository": "https://github.com/m5stack/M5IOE1.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Petal IoT Cloud",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "M.Karthickraja",
+        "maintainer": "Petal Embedded Team <karthickraja.thepetal@gmail.com>",
+        "website": "https://github.com/Embedded-Petal/Petal_IoT_Cloud",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Embedded-Petal/Petal_IoT_Cloud.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OpenMioty",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Contributors,Fraunhofer IIS",
+        "maintainer": "OpenMioty Contributors <report issues on GitHub>",
+        "website": "https://github.com/phaseshifted-iot/open-mioty-arduino",
+        "category": "Communication",
+        "architectures": "esp32, rp2040, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/phaseshifted-iot/open-mioty-arduino.git",
+        "dependencies": [
+            "RadioLib"
         ]
     }
 ]
