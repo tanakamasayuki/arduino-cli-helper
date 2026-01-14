@@ -115128,8 +115128,8 @@
     },
     {
         "name": "MCP23008-I2C",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Frank Häfele <mail@frankhaefele.de>",
         "maintainer": "Frank Häfele <mail@frankhaefele.de>",
         "website": "https://github.com/hasenradball/MCP23008-I2C",
@@ -117207,8 +117207,8 @@
     },
     {
         "name": "DAC53001",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DAC53001.git",
@@ -134736,10 +134736,10 @@
     },
     {
         "name": "Petal IoT Cloud",
-        "version": "1.1.1",
-        "versions": "1.1.1",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1",
         "author": "M.Karthickraja",
-        "maintainer": "Petal Embedded Team <karthickraja.thepetal@gmail.com>",
+        "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Petal_IoT_Cloud",
         "category": "Communication",
         "architectures": "esp32, esp8266",
@@ -134751,13 +134751,13 @@
     },
     {
         "name": "OpenMioty",
-        "version": "0.1.0",
-        "versions": "0.1.0",
-        "author": "Contributors,Fraunhofer IIS",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Phaseshifted",
         "maintainer": "OpenMioty Contributors <report issues on GitHub>",
         "website": "https://github.com/phaseshifted-iot/open-mioty-arduino",
         "category": "Communication",
-        "architectures": "esp32, rp2040, avr",
+        "architectures": "esp32, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/phaseshifted-iot/open-mioty-arduino.git",
         "dependencies": [
@@ -134822,6 +134822,21 @@
         "repository": "https://github.com/Picovoice/cobra-arduino.git",
         "dependencies": [
             "LibPrintf"
+        ]
+    },
+    {
+        "name": "FthnLabsDisplay",
+        "version": "0.0.2-alpha",
+        "versions": "0.0.2-alpha, 0.0.1-alpha",
+        "author": "Ahmad Fathan <ahmadfathan1021@gmail.com>",
+        "maintainer": "Ahmad Fathan <ahmadfathan1021@gmail.com>",
+        "website": "https://github.com/ahmadfathan/fthnlabs_display/",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ahmadfathan/fthnlabs_display.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
