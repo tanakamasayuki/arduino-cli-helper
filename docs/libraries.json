@@ -134883,5 +134883,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ESP32-RGB-LEDStrip",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "afpineda",
+        "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
+        "website": "https://github.com/afpineda/ESP32-RGB-LEDStrip",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/afpineda/ESP32-RGB-LEDStrip.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
