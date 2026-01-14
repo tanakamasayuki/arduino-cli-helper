@@ -116348,8 +116348,8 @@
     },
     {
         "name": "AD7367",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AD7367",
@@ -117005,8 +117005,8 @@
     },
     {
         "name": "ERCFS",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ERCFS.git",
@@ -117020,8 +117020,8 @@
     },
     {
         "name": "AD7367_SPI",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AD7367_SPI",
@@ -134835,6 +134835,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/ahmadfathan/fthnlabs_display.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "rLink",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Hobby Components <support@hobbycomponents.com>",
+        "maintainer": "Andrew Davies <support@hobbycomponents.com>",
+        "website": "https://github.com/HobbyComponents/rLink",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/HobbyComponents/rLink.git",
         "dependencies": [
             ""
         ]
