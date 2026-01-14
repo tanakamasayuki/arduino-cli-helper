@@ -117947,8 +117947,8 @@
     },
     {
         "name": "AD5370",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AD5370",
@@ -131942,8 +131942,8 @@
     },
     {
         "name": "Drv7Seg2x595",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7Seg2x595",
@@ -133485,8 +133485,8 @@
     },
     {
         "name": "Drv7SegQ595",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4",
         "author": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "maintainer": "Dmitriy Efimov aka Erling Sigurdson <efimov-d-v@yandex.ru>",
         "website": "https://github.com/ErlingSigurdson/Drv7SegQ595",
@@ -134850,6 +134850,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/HobbyComponents/rLink.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MCM_GitHub_OTA",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "mcmchris",
+        "maintainer": "mcmchris <mcmchris@hotmail.com>",
+        "website": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
         "dependencies": [
             ""
         ]
