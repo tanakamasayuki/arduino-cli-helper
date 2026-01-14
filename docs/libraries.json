@@ -130991,8 +130991,8 @@
     },
     {
         "name": "M5Chain",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Chain",
@@ -133681,8 +133681,8 @@
     },
     {
         "name": "ESP32Synth",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 1.2.0, 1.0.0",
         "author": "Danilo",
         "maintainer": "Danilo",
         "website": "https://github.com/danilogcrf2-oss/ESP32Synth",
@@ -134807,6 +134807,21 @@
         "repository": "https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13.git",
         "dependencies": [
             "arduinoFFT"
+        ]
+    },
+    {
+        "name": "Cobra",
+        "version": "3.0.0",
+        "versions": "3.0.0",
+        "author": "Picovoice Inc.",
+        "maintainer": "Picovoice Inc. hello@picovoice.ai",
+        "website": "https://www.picovoice.ai",
+        "category": "Data Processing",
+        "architectures": "mbed_nano, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Picovoice/cobra-arduino.git",
+        "dependencies": [
+            "LibPrintf"
         ]
     }
 ]
