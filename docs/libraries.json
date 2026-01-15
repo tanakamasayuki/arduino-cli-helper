@@ -131699,8 +131699,8 @@
     },
     {
         "name": "SerialWeb",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.3, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.0.5, 1.0.3, 1.0.0",
         "author": "00kenno <irongolem0100@gmail.com>",
         "maintainer": "TORICA_Electronics",
         "website": "https://github.com/TORICA-Org/SerialWeb",
@@ -131711,8 +131711,8 @@
         "dependencies": [
             "ESP Async WebServer",
             "Async TCP",
-            "ESP Async TCP",
-            "RPAsyncTCP"
+            "RPAsyncTCP",
+            "AsyncUDP_RP2040W"
         ]
     },
     {
@@ -134316,8 +134316,8 @@
     },
     {
         "name": "GPIOUtils",
-        "version": "2.2.2",
-        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/GPIOUtils",
