@@ -43082,8 +43082,8 @@
     },
     {
         "name": "DistanceTable",
-        "version": "0.3.4",
-        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DistanceTable",
@@ -100617,8 +100617,8 @@
     },
     {
         "name": "JJYReceiver",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.0, 0.8.7, 0.8.6, 0.8.5, 0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.6.2, 0.6.0, 0.5.1, 0.5.0, 0.3.0, 0.2.0, 0.1.2",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.0, 0.8.7, 0.8.6, 0.8.5, 0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.6.2, 0.6.0, 0.5.1, 0.5.0, 0.3.0, 0.2.0, 0.1.2",
         "author": "BlueCrescent",
         "maintainer": "BlueCrescent <ick40195+github@gmail.com>",
         "website": "https://github.com/Blue-Crescent/JJYReceiver.git",
@@ -131457,8 +131457,8 @@
     },
     {
         "name": "Candleduino",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "MAB Robotics",
         "maintainer": "support.arduino@mabrobotics.pl",
         "website": "https://github.com/mabrobotics/Candleduino",
@@ -134895,6 +134895,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/afpineda/ESP32-RGB-LEDStrip.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Cloudeck",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bhushan Todkar",
+        "maintainer": "Bhushan Todkar <todkarbhushan4@gmail.com>",
+        "website": "https://github.com/Bhushan8673/Cloudeck",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bhushan8673/Cloudeck.git",
         "dependencies": [
             ""
         ]
