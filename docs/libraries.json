@@ -130339,8 +130339,8 @@
     },
     {
         "name": "CinCout",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/cin-cout-for-Arduino",
@@ -130823,8 +130823,8 @@
     },
     {
         "name": "LightweightSTL",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.2",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.2",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino",
