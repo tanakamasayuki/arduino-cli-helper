@@ -99167,8 +99167,8 @@
     },
     {
         "name": "ConfigPortal8266",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
         "author": "yhur",
         "maintainer": "yhur",
         "website": "https://github.com/yhur/ConfigPortal8266",
@@ -99177,7 +99177,8 @@
         "types": "Contributed",
         "repository": "https://github.com/yhur/ConfigPortal8266.git",
         "dependencies": [
-            "ArduinoJson"
+            "ArduinoJson",
+            "PubSubClient"
         ]
     },
     {
@@ -134730,8 +134731,8 @@
     },
     {
         "name": "M5IOE1",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5IOE1",
