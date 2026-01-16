@@ -2588,8 +2588,8 @@
     },
     {
         "name": "Adafruit SleepyDog Library",
-        "version": "1.6.6",
-        "versions": "1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.6.7",
+        "versions": "1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_SleepyDog",
@@ -11597,7 +11597,7 @@
         "category": "Display",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/DeanIsMe/SevSeg.git",
+        "repository": "https://github.com/untr0py/SevSeg.git",
         "dependencies": [
             ""
         ]
@@ -43690,8 +43690,8 @@
     },
     {
         "name": "ANSI",
-        "version": "0.3.4",
-        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ANSI",
@@ -63844,22 +63844,6 @@
         ]
     },
     {
-        "name": "FastLED NeoPixel",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
-        "author": "David Madison",
-        "maintainer": "David Madison",
-        "website": "https://github.com/dmadison/FastLED_NeoPixel",
-        "category": "Display",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/dmadison/FastLED_NeoPixel.git",
-        "dependencies": [
-            "FastLED",
-            "Adafruit NeoPixel"
-        ]
-    },
-    {
         "name": "MsgPackRosInterfaces",
         "version": "0.1.0",
         "versions": "0.1.0",
@@ -72208,7 +72192,7 @@
         "category": "Signal Input/Output",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/Wolodia-M/btnapi-library.git",
+        "repository": "https://github.com/WolodiaM/btnapi-library.git",
         "dependencies": [
             ""
         ]
@@ -72223,7 +72207,7 @@
         "category": "Data Storage",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/Wolodia-M/flagsapi-library.git",
+        "repository": "https://github.com/WolodiaM/flagsapi-library.git",
         "dependencies": [
             ""
         ]
@@ -73176,7 +73160,7 @@
         "category": "Timing",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/Wolodia-M/timersapi-library.git",
+        "repository": "https://github.com/WolodiaM/timersapi-library.git",
         "dependencies": [
             ""
         ]
@@ -76926,8 +76910,8 @@
     },
     {
         "name": "I2C_SCANNER",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/I2C_SCANNER",
@@ -97512,21 +97496,6 @@
         ]
     },
     {
-        "name": "PU2REO Si5351ArduinoLite",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
-        "author": "PU2REO - QRA Edson, based on work of NT7S - QRA Jason Milldrum (Etherkit).",
-        "maintainer": "PU2REO - QRA Edson <pu2reo.edson@gmail.com>",
-        "website": "https://github.com/PU2REO/Si5351ArduinoLite",
-        "category": "Device Control",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/PU2REO/Si5351ArduinoLite.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "CRSF",
         "version": "0.1.0",
         "versions": "0.1.0, 0.0.1",
@@ -103116,7 +103085,7 @@
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/ig-66/openAFEComm.git",
+        "repository": "https://github.com/moduhub/openafe-comm.git",
         "dependencies": [
             ""
         ]
@@ -110279,7 +110248,7 @@
         "category": "Uncategorized",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/thomasgeissl/ESP-NOW-MIDI.git",
+        "repository": "https://github.com/grantler-instruments/ESP-NOW-MIDI.git",
         "dependencies": [
             "Adafruit TinyUSB Library"
         ]
@@ -124136,7 +124105,7 @@
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git",
+        "repository": "https://github.com/HarborScale/harbor-sdk-c-plus-plus.git",
         "dependencies": [
             "ArduinoJson"
         ]
@@ -132355,24 +132324,6 @@
         ]
     },
     {
-        "name": "LC_bmpObj",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
-        "author": "jim lee",
-        "maintainer": "bmpObj@leftcoast.biz",
-        "website": "https://github.com/leftCoast/LC_bmpObj",
-        "category": "Uncategorized",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/leftCoast/LC_bmpTools.git",
-        "dependencies": [
-            "LC_baseTools",
-            "LC_GUITools",
-            "LC_SDTools",
-            "LC_docTools"
-        ]
-    },
-    {
         "name": "LC_Adafruit_2050",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -133118,21 +133069,6 @@
         ]
     },
     {
-        "name": "Resense HEX",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
-        "maintainer": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
-        "website": "https://github.com/TUDA-MUST/Resense-HEX/",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/TUDA-MUST/Resense-HEX.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "TTP229 Keypad Driver",
         "version": "2.0.0",
         "versions": "2.0.0",
@@ -133179,8 +133115,8 @@
     },
     {
         "name": "ThreadSafePing",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan.jurca@gmail.com>",
         "website": "https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32",
@@ -135013,6 +134949,69 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/NoNamedCat/CH32X035_USBComposite.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PU2REO_Si5351Lite",
+        "version": "1.3.0",
+        "versions": "1.3.0",
+        "author": "PU2REO - QRA Edson, based on work of NT7S - QRA Jason Milldrum (Etherkit).",
+        "maintainer": "PU2REO - QRA Edson <pu2reo.edson@gmail.com>",
+        "website": "https://github.com/PU2REO/PU2REO_Si5351Lite",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PU2REO/PU2REO_Si5351Lite.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LC_bmpTools",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.0, 1.0.2",
+        "author": "jim lee",
+        "maintainer": "bmpTools@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_bmpTools",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_bmpTools.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_GUITools",
+            "LC_SDTools",
+            "LC_docTools"
+        ]
+    },
+    {
+        "name": "ResenseHEX",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
+        "maintainer": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
+        "website": "https://github.com/TUDA-MUST/Resense-HEX/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TUDA-MUST/ResenseHEX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Joystick-KY023",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pavel Jiranek",
+        "maintainer": "Pavel Jiranek <pavel.jiranek@email.com>",
+        "website": "https://github.com/pavel-jiranek/Joystick-KY023",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/pavel-jiranek/Joystick-KY023.git",
         "dependencies": [
             ""
         ]
