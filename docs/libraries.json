@@ -132409,8 +132409,8 @@
     },
     {
         "name": "LC_lilOS",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.4, 1.0.1",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.4, 1.0.1",
         "author": "jim lee",
         "maintainer": "lilOS@leftcoast.biz",
         "website": "https://github.com/leftCoast/LC_lilOS",
