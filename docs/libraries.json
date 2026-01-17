@@ -134925,8 +134925,8 @@
     },
     {
         "name": "ESP32FtpServer",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.3",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3",
         "author": "Amauri Bueno (Annabel369)",
         "maintainer": "Amauri Bueno (Annabel369)",
         "website": "https://github.com/Annabel369/ESP32FTPServer",
@@ -134935,7 +134935,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Annabel369/ESP32FTPServer.git",
         "dependencies": [
-            ""
+            "SD"
         ]
     },
     {
