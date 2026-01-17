@@ -47379,8 +47379,8 @@
     },
     {
         "name": "PCF8575",
-        "version": "0.2.4",
-        "versions": "0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.2, 0.0.1",
+        "version": "0.2.5",
+        "versions": "0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.2, 0.0.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCF8575.git",
@@ -133961,8 +133961,8 @@
     },
     {
         "name": "FED4",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Lex Kravitz, Matt Gaidica",
         "maintainer": "Lex Kravitz <alexxai@wustl.edu>",
         "website": "https://github.com/KravitzLabDevices/FED4",
@@ -133978,15 +133978,15 @@
             "Adafruit_GFX_Library",
             "Adafruit_SharpMem_Display",
             "RTClib",
-            "SdFat",
-            "Adafruit_AHTX0",
+            "Adafruit BME680 Library",
             "ArduinoJson",
             "Preferences",
             "Adafruit_LIS3DH",
             "Adafruit_Sensor",
             "Adafruit_MLX90393",
-            "SparkFun_STHS34PF80_Arduino_Library",
-            "Adafruit_VL6180X"
+            "Adafruit STHS34PF80",
+            "SparkFun_VL53L1X_Arduino_Library",
+            "Adafruit_VEML7700"
         ]
     },
     {
@@ -134924,8 +134924,8 @@
     },
     {
         "name": "ESP32FtpServer",
-        "version": "1.0.9",
-        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3",
         "author": "Amauri Bueno (Annabel369)",
         "maintainer": "Amauri Bueno (Annabel369)",
         "website": "https://github.com/Annabel369/ESP32FTPServer",
