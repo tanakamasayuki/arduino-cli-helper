@@ -5653,8 +5653,8 @@
     },
     {
         "name": "TaskScheduler",
-        "version": "4.0.3",
-        "versions": "4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
+        "version": "4.0.4",
+        "versions": "4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "website": "https://github.com/arkhipenko/TaskScheduler.git",
@@ -134925,10 +134925,10 @@
     },
     {
         "name": "ESP32FtpServer",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.3",
-        "author": "Annabel369",
-        "maintainer": "Annabel369 <amauri00007@gmail.com>",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.3",
+        "author": "Amauri Bueno (Annabel369)",
+        "maintainer": "Amauri Bueno (Annabel369)",
         "website": "https://github.com/Annabel369/ESP32FTPServer",
         "category": "Communication",
         "architectures": "esp32",
@@ -135012,6 +135012,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/pavel-jiranek/Joystick-KY023.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "xv7211_spi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sensing System Support, sensingsystem_support@ea.epson.com",
+        "maintainer": "Sensing System Support, sensingsystem_support@ea.epson.com",
+        "website": "https://www.epsondevice.com/crystal/en/products/sensor/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/cubicleguy/xv7211_arduino_spi.git",
         "dependencies": [
             ""
         ]
