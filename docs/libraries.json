@@ -53554,8 +53554,8 @@
     },
     {
         "name": "AS5047P",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0",
+        "version": "3.0.1",
+        "versions": "3.0.1, 3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.0",
         "author": "Jonas Merkle [JJM] <jonas@jjm.one>",
         "maintainer": "Jonas Merkle [JJM] <jonas@jjm.one>",
         "website": "https://github.com/jonas-merkle/AS5047P",
@@ -100883,8 +100883,8 @@
     },
     {
         "name": "madflight",
-        "version": "2.2.1",
-        "versions": "2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.3, 1.0.2",
+        "version": "2.2.2",
+        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.3, 1.0.2",
         "author": "qqqlab",
         "maintainer": "qqqlab <madflight@qqqlab.com>",
         "website": "https://madflight.com/arduino",
@@ -135047,8 +135047,8 @@
     },
     {
         "name": "McuBleTerminal",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.1",
         "author": "Dominik Ewers Solutions",
         "maintainer": "Dominik Ewers Solutions",
         "website": "https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal",
