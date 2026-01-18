@@ -135059,5 +135059,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "RD03Radar",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mohamed Eid (gomgom-40)",
+        "maintainer": "Mohamed Eid <gomgom40@example.com>",
+        "website": "https://github.com/gomgom-40/RD03Radar",
+        "category": "Sensors",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/gomgom-40/RD03Radar.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
