@@ -133023,8 +133023,8 @@
     },
     {
         "name": "WFAN920",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
         "author": "crane-elec",
         "maintainer": "crane-elec <github@crane-elec.co.jp>",
         "website": "https://github.com/crane-elec/WFAN920",
@@ -135041,6 +135041,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/hasenradball/PCF8574-I2C.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "McuBleTerminal",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Dominik Ewers Solutions",
+        "maintainer": "Dominik Ewers Solutions",
+        "website": "https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal.git",
         "dependencies": [
             ""
         ]
