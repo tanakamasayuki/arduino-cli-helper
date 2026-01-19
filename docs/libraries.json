@@ -135032,8 +135032,8 @@
     },
     {
         "name": "PCF8574-I2C",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Frank Häfele <mail@frankhaefele.de>",
         "maintainer": "Frank Häfele <mail@frankhaefele.de>",
         "website": "https://github.com/hasenradball/PCF8574-I2C",
