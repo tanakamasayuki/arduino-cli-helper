@@ -1003,8 +1003,8 @@
     },
     {
         "name": "Adafruit ADS1X15",
-        "version": "2.6.1",
-        "versions": "2.6.1, 2.6.0, 2.5.0, 2.4.2, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.6.2",
+        "versions": "2.6.2, 2.6.1, 2.6.0, 2.5.0, 2.4.2, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_ADS1X15",
@@ -127145,8 +127145,8 @@
     },
     {
         "name": "AS7331",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AS7331",
@@ -135111,8 +135111,8 @@
     },
     {
         "name": "EasyESPConnect",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
         "author": "Anvesh Padamata",
         "maintainer": "Anvesh Padamata <anvesh.p4damata@gmail.com>",
         "website": "https://github.com/4nvesh/EasyESPConnect",
@@ -135122,6 +135122,51 @@
         "repository": "https://github.com/4nvesh/EasyESPConnect.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "bozontlabsMAX7219",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tamas Jozsi",
+        "maintainer": "Tamas Jozsi",
+        "website": "https://github.com/bozont/bozontlabsMAX7219",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bozont/bozontlabsMAX7219.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "bozontlabsUptime",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tamas Jozsi",
+        "maintainer": "Tamas Jozsi",
+        "website": "https://github.com/bozont/bozontlabsUptime",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bozont/bozontlabsUptime.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EPMC_I2C_Client",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Samuel Obiagba <samuel.c.agba@gmail.com>",
+        "maintainer": "Samuel Obiagba <samuel.c.agba@gmail.com>",
+        "website": "https://github.com/robocre8/EPMC_I2C_Client",
+        "category": "Device Control",
+        "architectures": "esp8266, esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/robocre8/EPMC_I2C_Client.git",
+        "dependencies": [
+            "Wire"
         ]
     }
 ]
