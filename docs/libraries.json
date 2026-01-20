@@ -69516,8 +69516,8 @@
     },
     {
         "name": "STM32duino ISM330DHCX",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/ISM330DHCX",
@@ -99659,8 +99659,8 @@
     },
     {
         "name": "esp-iot-core",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.2.1, 0.2.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.2.1, 0.2.0",
         "author": "Simon Lehmann <simon.lmn@gmail.com>",
         "maintainer": "Simon Lehmann <simon.lmn@gmail.com>",
         "website": "https://github.com/simonlmn/esp-iot-core",
@@ -125182,8 +125182,8 @@
     },
     {
         "name": "SparkFun Apple Accessory Arduino Library",
-        "version": "3.1.0",
-        "versions": "3.1.0, 3.0.9, 3.0.8, 1.0.1, 1.0.0",
+        "version": "3.1.1",
+        "versions": "3.1.1, 3.1.0, 3.0.9, 3.0.8, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_Apple_Accessory_Arduino_Library",
