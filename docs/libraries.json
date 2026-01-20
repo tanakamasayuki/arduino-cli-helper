@@ -90565,8 +90565,8 @@
     },
     {
         "name": "SHT31_SWW",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>, Gunter Haug",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SHT31_SWW",
@@ -111367,8 +111367,8 @@
     },
     {
         "name": "bb_epaper",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_epaper",
@@ -132932,13 +132932,13 @@
     },
     {
         "name": "RAIOT_MQTT",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "RAIOTech radhe@raiotech.one",
-        "maintainer": "RAIOTech raiotech.one",
-        "website": "https://github.com/your-username/RAIOT_MQTT",
+        "version": "2.1.1",
+        "versions": "2.1.1, 1.0.0",
+        "author": "Radhe Nath Baidya radhe@raiotech.one",
+        "maintainer": "RAIOTerm.cc",
+        "website": "https://github.com/raiotech-iot/RAIOT_MQTT",
         "category": "Communication",
-        "architectures": "*",
+        "architectures": "esp32, esp8266, rp2040, rp2350",
         "types": "Contributed",
         "repository": "https://github.com/raiotech-iot/RAIOT_MQTT.git",
         "dependencies": [
@@ -134804,12 +134804,12 @@
     },
     {
         "name": "MCM_GitHub_OTA",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.1",
         "author": "mcmchris",
         "maintainer": "mcmchris <mcmchris@hotmail.com>",
         "website": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
-        "category": "Uncategorized",
+        "category": "Other",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
@@ -135167,6 +135167,21 @@
         "repository": "https://github.com/robocre8/EPMC_I2C_Client.git",
         "dependencies": [
             "Wire"
+        ]
+    },
+    {
+        "name": "EIMU_I2C_Client",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Samuel Obiagba <samuel.c.agba@gmail.com>",
+        "maintainer": "Samuel Obiagba <samuel.c.agba@gmail.com>",
+        "website": "https://github.com/robocre8/EIMU_I2C_Client",
+        "category": "Device Control",
+        "architectures": "esp8266, esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/robocre8/EIMU_I2C_Client.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
