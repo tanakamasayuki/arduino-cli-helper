@@ -133584,8 +133584,8 @@
     },
     {
         "name": "STM32RS485DMA",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.1, 0.5.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.1, 0.5.0",
         "author": "NitrofMtl",
         "maintainer": "NitrofMtl",
         "website": "https://github.com/nitrofmtl/STM32RS485DMA",
@@ -135195,6 +135195,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/PT2257.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AskGemini",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "William E. Webb",
+        "maintainer": "William E. Webb",
+        "website": "https://github.com/bill-orange/AskGemini",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/bill-orange/AskGemini.git",
         "dependencies": [
             ""
         ]
