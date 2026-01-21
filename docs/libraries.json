@@ -135243,5 +135243,20 @@
         "dependencies": [
             "SPI"
         ]
+    },
+    {
+        "name": "makegame",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Savushkin Alexander <avsavushkiny@live.ru>",
+        "maintainer": "Savushkin Alexander <avsavushkiny@live.ru>",
+        "website": "https://github.com/avsavushkiny/makegame",
+        "category": "Other",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/avsavushkiny/makegame.git",
+        "dependencies": [
+            "U8g2"
+        ]
     }
 ]
