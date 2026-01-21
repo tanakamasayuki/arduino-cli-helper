@@ -125755,8 +125755,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.0.19",
-        "versions": "1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.0.20",
+        "versions": "1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -135227,6 +135227,21 @@
         "repository": "https://github.com/NitrofMtl/STM32Modbus.git",
         "dependencies": [
             "STM32RS485DMA"
+        ]
+    },
+    {
+        "name": "ADS1X58",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
+        "maintainer": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
+        "website": "https://github.com/TUDA-MUST/ADS1X58",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TUDA-MUST/ADS1X58.git",
+        "dependencies": [
+            "SPI"
         ]
     }
 ]
