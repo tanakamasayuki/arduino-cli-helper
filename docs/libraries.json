@@ -135213,5 +135213,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "STM32Modbus",
+        "version": "0.8.1",
+        "versions": "0.8.1",
+        "author": "Arduino, NitrofMtl",
+        "maintainer": "NitrofMtl",
+        "website": "https://github.com/NitrofMtl/STM32Modbus",
+        "category": "Communication",
+        "architectures": "mbed_portenta, mbed_opta",
+        "types": "Contributed",
+        "repository": "https://github.com/NitrofMtl/STM32Modbus.git",
+        "dependencies": [
+            "STM32RS485DMA"
+        ]
     }
 ]
