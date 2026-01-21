@@ -128756,18 +128756,18 @@
     },
     {
         "name": "POTA",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "Francesco Alessandro Colucci",
         "maintainer": "pleasedontcode <info@pleasedontcode.com>",
-        "website": "https://github.com/pleasedontcode/POTA",
+        "website": "https://www.pleasedontcode.com/please-over-the-air/",
         "category": "Communication",
         "architectures": "esp32, esp8266, mbed_opta",
         "types": "Contributed",
         "repository": "https://github.com/pleasedontcode/POTA.git",
         "dependencies": [
             "ArduinoJson",
-            "Arduino_Portenta_OTA"
+            "WebSockets"
         ]
     },
     {
