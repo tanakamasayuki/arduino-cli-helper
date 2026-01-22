@@ -115593,8 +115593,8 @@
     },
     {
         "name": "PDLS_Common",
-        "version": "10.0.1",
-        "versions": "10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.0.9, 9.0.8, 9.0.7, 9.0.6, 9.0.4, 9.0.3",
+        "version": "10.0.2",
+        "versions": "10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.0.9, 9.0.8, 9.0.7, 9.0.6, 9.0.4, 9.0.3",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -115608,8 +115608,8 @@
     },
     {
         "name": "PDLS_Basic",
-        "version": "10.0.1",
-        "versions": "10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
+        "version": "10.0.2",
+        "versions": "10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -135186,8 +135186,8 @@
     },
     {
         "name": "PT2257",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PT2257",
@@ -135231,8 +135231,8 @@
     },
     {
         "name": "ADS1X58",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
         "maintainer": "Mark Suppelt <mark.suppelt@tu-darmstadt.de>",
         "website": "https://github.com/TUDA-MUST/ADS1X58",
@@ -135241,7 +135241,7 @@
         "types": "Contributed",
         "repository": "https://github.com/TUDA-MUST/ADS1X58.git",
         "dependencies": [
-            "SPI"
+            ""
         ]
     },
     {
