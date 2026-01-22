@@ -135261,8 +135261,8 @@
     },
     {
         "name": "SCT013-100",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Ransky3000",
         "maintainer": "Ransky3000",
         "website": "https://github.com/Ransky3000/SCT013-100",
@@ -135276,8 +135276,8 @@
     },
     {
         "name": "StateMachineFramework",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "website": "https://github.com/arkhipenko/StateMachine.git",
