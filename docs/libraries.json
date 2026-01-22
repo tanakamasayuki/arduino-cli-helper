@@ -135258,5 +135258,20 @@
         "dependencies": [
             "U8g2"
         ]
+    },
+    {
+        "name": "SCT013-100",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ransky3000",
+        "maintainer": "Ransky3000",
+        "website": "https://github.com/Ransky3000/SCT013-100",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ransky3000/SCT013-100.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
