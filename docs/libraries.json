@@ -135273,5 +135273,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "StateMachineFramework",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
+        "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
+        "website": "https://github.com/arkhipenko/StateMachine.git",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/arkhipenko/StateMachine.git",
+        "dependencies": [
+            "TaskScheduler"
+        ]
     }
 ]
