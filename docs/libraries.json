@@ -99166,8 +99166,8 @@
     },
     {
         "name": "serial-transport",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Simon Lehmann <simon.lmn@gmail.com>",
         "maintainer": "Simon Lehmann <simon.lmn@gmail.com>",
         "website": "https://github.com/simonlmn/serial-transport",
@@ -135300,6 +135300,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/m5stack/M5PM1.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RoboFlow",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Souhardo Das",
+        "maintainer": "Souhardo Das <souhardodasdps1@gmail.com>",
+        "website": "https://github.com/souhardodas/RoboFlow",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/souhardodasdps1-commits/RoboFlow.git",
         "dependencies": [
             ""
         ]
