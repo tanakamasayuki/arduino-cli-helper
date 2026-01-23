@@ -27032,8 +27032,8 @@
     },
     {
         "name": "GxEPD2",
-        "version": "1.6.5",
-        "versions": "1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0",
+        "version": "1.6.6",
+        "versions": "1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0",
         "author": "Jean-Marc Zingg",
         "maintainer": "Jean-Marc Zingg",
         "website": "https://github.com/ZinggJM/GxEPD2",
@@ -129806,8 +129806,8 @@
     },
     {
         "name": "NextionControl",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.0, 1.3.0, 1.0.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "website": "https://github.com/k3ldar/NextionControl",
@@ -133629,13 +133629,13 @@
     },
     {
         "name": "ESP32Synth",
-        "version": "2.0.5",
-        "versions": "2.0.5, 1.2.0, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.0.5, 1.2.0, 1.0.0",
         "author": "Danilo",
         "maintainer": "Danilo",
         "website": "https://github.com/danilogcrf2-oss/ESP32Synth",
         "category": "Signal Input/Output",
-        "architectures": "esp32s3, esp32",
+        "architectures": "esp32, esp32s3",
         "types": "Contributed",
         "repository": "https://github.com/danilogcrf2-oss/ESP32Synth.git",
         "dependencies": [
@@ -135306,8 +135306,8 @@
     },
     {
         "name": "RoboFlow",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Souhardo Das",
         "maintainer": "Souhardo Das <souhardodasdps1@gmail.com>",
         "website": "https://github.com/souhardodas/RoboFlow",
@@ -135345,6 +135345,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/VijayGES/ESP32WiFiProvisioner.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ExpInt",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/ExpInt",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/ExpInt.git",
         "dependencies": [
             ""
         ]
