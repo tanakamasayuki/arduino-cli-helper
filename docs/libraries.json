@@ -45381,8 +45381,8 @@
     },
     {
         "name": "PCA9635",
-        "version": "0.6.1",
-        "versions": "0.6.1, 0.6.0, 0.5.0, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.6.2",
+        "versions": "0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9635",
@@ -66999,8 +66999,8 @@
     },
     {
         "name": "PCA9634",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9634",
@@ -135315,6 +135315,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/souhardodasdps1-commits/RoboFlow.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FastLed_Neopixel_Nanit",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Serhii Kireiev",
+        "maintainer": "Serhii Kireiev <kireevsergiy7@gmail.com>",
+        "website": "https://github.com/kireev7/FastLed_Neopixel_Nanit",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/kireev7/FastLed_Neopixel_Nanit.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32WiFiProvisioner",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Vijayanand R",
+        "maintainer": "Vijayanand R",
+        "website": "https://github.com/VijayGES/ESP32WiFiProvisioner",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/VijayGES/ESP32WiFiProvisioner.git",
         "dependencies": [
             ""
         ]
