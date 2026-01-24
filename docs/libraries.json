@@ -135366,8 +135366,8 @@
     },
     {
         "name": "PID_t",
-        "version": "2.3.3",
-        "versions": "2.3.3",
+        "version": "2.3.5",
+        "versions": "2.3.5, 2.3.3",
         "author": "Icaro Razera",
         "maintainer": "Icaro Razera",
         "website": "https://github.com/MasterArgo/PIDController",
