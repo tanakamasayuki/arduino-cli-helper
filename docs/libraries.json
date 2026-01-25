@@ -109645,8 +109645,8 @@
     },
     {
         "name": "deploii",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.0",
         "author": "Company of Things",
         "maintainer": "Company of Things <post@cot.as>",
         "website": "https://github.com/Company-of-Things/deploii-library",
