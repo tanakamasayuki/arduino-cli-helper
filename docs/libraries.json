@@ -135393,5 +135393,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "YNV_Driver_v5_Gen3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ynvisible <sales@ynvisible.com>",
+        "maintainer": "Ynvisible <ynvisible.com>",
+        "website": "https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
