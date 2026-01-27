@@ -135200,8 +135200,8 @@
     },
     {
         "name": "AskGemini",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "William E. Webb",
         "maintainer": "William E. Webb",
         "website": "https://github.com/bill-orange/AskGemini",
