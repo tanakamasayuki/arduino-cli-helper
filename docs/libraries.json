@@ -63815,8 +63815,8 @@
     },
     {
         "name": "STM32duino ST25R3916",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/ST25R3916",
@@ -125227,8 +125227,8 @@
     },
     {
         "name": "Neza74HC165",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "website": "https://github.com/Nezaemmy/Neza74HC165",
@@ -125754,8 +125754,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.0.21",
-        "versions": "1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -134158,8 +134158,8 @@
     },
     {
         "name": "BQ25672",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Piotr Malek",
         "maintainer": "Piotr Malek <git@malek.pm>",
         "website": "https://github.com/piotrmalek/BQ25672",
@@ -134173,9 +134173,9 @@
     },
     {
         "name": "BL0942_SPI",
-        "version": "0.1.0",
-        "versions": "0.1.0",
-        "author": "Rob Tillaart <rob.tillaart@gmail.com>, Andreas Breitschopp",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>, Andreas Breitschopp <a.breitschopp@ab-smarthouse.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/BL0942_SPI",
         "category": "Sensors",
@@ -135481,6 +135481,21 @@
         "repository": "https://github.com/raiotech-iot/RaioGroupMatrix.git",
         "dependencies": [
             "PubSubClient"
+        ]
+    },
+    {
+        "name": "M5Stack WiFi Uploader",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.1.0",
+        "author": "tomorrow56",
+        "maintainer": "tomorrow56 <tomorrow56@gmail.com>",
+        "website": "https://github.com/m5stack/M5StackWiFiUploader",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tomorrow56/M5StackWiFiUploader.git",
+        "dependencies": [
+            "M5Unified"
         ]
     }
 ]
