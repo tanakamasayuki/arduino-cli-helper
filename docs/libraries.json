@@ -134668,8 +134668,8 @@
     },
     {
         "name": "M5IOE1",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5IOE1",
@@ -135290,8 +135290,8 @@
     },
     {
         "name": "M5PM1",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5PM1",
