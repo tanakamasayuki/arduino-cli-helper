@@ -84947,8 +84947,8 @@
     },
     {
         "name": "AlPlc_Opta",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.4, 1.0.3",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.6, 1.0.4, 1.0.3",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://docs.arduino.cc/software/plc-ide",
@@ -125844,8 +125844,8 @@
     },
     {
         "name": "display16_LTSM",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/display16_LTSM",
@@ -135380,8 +135380,8 @@
     },
     {
         "name": "HoltzLib",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
         "author": "Kyle Holtz",
         "maintainer": "Kyle Holtz",
         "website": "https://github.com/KE-Holtz/holtzlib",
@@ -135496,6 +135496,21 @@
         "repository": "https://github.com/tomorrow56/M5StackWiFiUploader.git",
         "dependencies": [
             "M5Unified"
+        ]
+    },
+    {
+        "name": "EventStateMachine",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Corrado Casoni",
+        "maintainer": "Corrado Casoni <corrado.casoni@gmail.com>",
+        "website": "https://github.com/FantasyFactory/EventStateMachine",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/FantasyFactory/EventStateMachine.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
