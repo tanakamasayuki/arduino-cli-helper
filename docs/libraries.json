@@ -133358,8 +133358,8 @@
     },
     {
         "name": "BioLogic",
-        "version": "1.0.14",
-        "versions": "1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
+        "version": "1.0.15",
+        "versions": "1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
@@ -134834,8 +134834,8 @@
     },
     {
         "name": "ESP32-RGB-LEDStrip",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "afpineda",
         "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
         "website": "https://github.com/afpineda/ESP32-RGB-LEDStrip",
