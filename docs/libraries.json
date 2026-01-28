@@ -135512,5 +135512,51 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "OrbiSyncNode",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "OrbiSync Engineers",
+        "maintainer": "OrbiSync Engineers <support@orbisync.io>",
+        "website": "https://github.com/orbisync/OrbiSyncNode",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jihun-kang/orbisync-node.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
+        ]
+    },
+    {
+        "name": "OptaButton",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "panchocoquito",
+        "maintainer": "panchocoquito",
+        "website": "https://github.com/panchocoquito/OptaButton",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/panchocoquito/OptaButton.git",
+        "dependencies": [
+            "DefLab_Common"
+        ]
+    },
+    {
+        "name": "DefLab_Common",
+        "version": "0.6.0",
+        "versions": "0.6.0",
+        "author": "panchocoquito",
+        "maintainer": "panchocoquito",
+        "website": "https://github.com/panchocoquito/DefLab_Common",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/panchocoquito/DefLab_Common.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
