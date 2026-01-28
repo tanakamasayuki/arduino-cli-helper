@@ -135002,8 +135002,8 @@
     },
     {
         "name": "Joystick-KY023",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Pavel Jiranek",
         "maintainer": "Pavel Jiranek <pavel.jiranek@email.com>",
         "website": "https://github.com/pavel-jiranek/Joystick-KY023",
@@ -135532,8 +135532,8 @@
     },
     {
         "name": "OptaButton",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "panchocoquito",
         "maintainer": "panchocoquito",
         "website": "https://github.com/panchocoquito/OptaButton",
@@ -135586,6 +135586,21 @@
         "architectures": "avr, esp8266, esp32, mbed_rp2040, renesas_uno",
         "types": "Contributed",
         "repository": "https://github.com/TEXHOUM/TEXHOUM_PAC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "uStepper 8b",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "uStepper ApS",
+        "maintainer": "Thomas Olsen (thomas@ustepper.com)",
+        "website": "https://github.com/uStepper/uStepper-8b/tree/main",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/uStepper/uStepper-8b.git",
         "dependencies": [
             ""
         ]
