@@ -124305,8 +124305,8 @@
     },
     {
         "name": "OBD2 K-Line",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Muki01",
         "maintainer": "Muki01 <muksin.muksin04@gmail.com>",
         "website": "https://github.com/muki01/OBD2_KLine_Library",
