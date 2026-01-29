@@ -114503,8 +114503,8 @@
     },
     {
         "name": "BSON",
-        "version": "2.2.8",
-        "versions": "2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BSON",
@@ -127160,13 +127160,13 @@
     },
     {
         "name": "Universal_Button",
-        "version": "1.6.1",
-        "versions": "1.6.1, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.6.2",
+        "versions": "1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/LittleManBuilds/Universal_Button",
         "category": "Signal Input/Output",
-        "architectures": "*",
+        "architectures": "avr, megaavr, sam, samd, esp32, esp8266, stm32, teensy, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/littlemanbuilds/Universal_Button.git",
         "dependencies": [
