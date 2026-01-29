@@ -62188,8 +62188,8 @@
     },
     {
         "name": "AT42QT",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.7.1",
+        "versions": "0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Peter Polidoro <peter@polidoro.io>",
         "maintainer": "Peter Polidoro <peter@polidoro.io>",
         "website": "https://github.com/janelia-arduino/AT42QT.git",
@@ -68856,8 +68856,8 @@
     },
     {
         "name": "Telemetrix4Esp32",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.1.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.1.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alan Yorinks",
         "maintainer": "https://github.com/MrYsLab/",
         "website": "https://github.com/MrYsLab/Telemetrix4Esp32",
@@ -114503,8 +114503,8 @@
     },
     {
         "name": "BSON",
-        "version": "2.2.7",
-        "versions": "2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.2.8",
+        "versions": "2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BSON",
@@ -125845,8 +125845,8 @@
     },
     {
         "name": "display16_LTSM",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/display16_LTSM",
@@ -135616,6 +135616,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/hayasita/InputTerminal.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "radiation",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/radiation",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/radiation.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BrgOfTheCyber_RTC",
+        "version": "1.1.2",
+        "versions": "1.1.2",
+        "author": "BrgOfTheCyber",
+        "maintainer": "BrgOfTheCyber <brgcraft@ya.ru>",
+        "website": "https://github.com/BOTCLibs/BrgOfTheCyber_RTC",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/BOTCLibs/BrgOfTheCyber_RTC.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "puara-module",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Edu_Meneses",
+        "maintainer": "Edu <emeneses@sat.qc.ca>, SAT <innovation@sat.qc.ca>",
+        "website": "https://github.com/Puara/puara-module",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Puara/puara-arduino.git",
         "dependencies": [
             ""
         ]
