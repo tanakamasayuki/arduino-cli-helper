@@ -135517,7 +135517,7 @@
     {
         "name": "OrbiSyncNode",
         "version": "1.0.0",
-        "versions": "1.0.0",
+        "versions": "1.0.0, 0.1.2, 0.1.0",
         "author": "OrbiSync Engineers",
         "maintainer": "OrbiSync Engineers <support@orbisync.io>",
         "website": "https://github.com/orbisync/OrbiSyncNode",
