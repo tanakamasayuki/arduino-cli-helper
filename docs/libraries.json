@@ -76670,8 +76670,8 @@
     },
     {
         "name": "MicroOsc",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.9, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.9, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "Thomas O Fredericks",
         "maintainer": "Thomas O Fredericks",
         "website": "https://github.com/thomasfredericks/MicroOsc",
@@ -99918,8 +99918,8 @@
     },
     {
         "name": "toolbox",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Simon Lehmann <simon.lmn@gmail.com>",
         "maintainer": "Simon Lehmann <simon.lmn@gmail.com>",
         "website": "https://github.com/simonlmn/toolbox",
@@ -111428,8 +111428,8 @@
     },
     {
         "name": "Menu-UI",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.3, 1.1.2, 1.0.0",
+        "version": "1.8.0",
+        "versions": "1.8.0, 1.2.0, 1.1.3, 1.1.2, 1.0.0",
         "author": "Gerard Forcada",
         "maintainer": "Garfius <garfius@gmail.com>",
         "website": "https://github.com/Garfius/cliSerialMenu",
@@ -114503,8 +114503,8 @@
     },
     {
         "name": "BSON",
-        "version": "2.2.6",
-        "versions": "2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.2.7",
+        "versions": "2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BSON",
@@ -129806,8 +129806,8 @@
     },
     {
         "name": "NextionControl",
-        "version": "1.6.0",
-        "versions": "1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.0.0",
+        "version": "1.7.0",
+        "versions": "1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "website": "https://github.com/k3ldar/NextionControl",
@@ -135601,6 +135601,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/uStepper/uStepper-8b.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "InputTerminal",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "hayasita",
+        "maintainer": "hayasita",
+        "website": "https://github.com/hayasita/InputTerminal",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/hayasita/InputTerminal.git",
         "dependencies": [
             ""
         ]
