@@ -134669,8 +134669,8 @@
     },
     {
         "name": "M5IOE1",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5IOE1",
@@ -134834,8 +134834,8 @@
     },
     {
         "name": "ESP32-RGB-LEDStrip",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.0.0",
         "author": "afpineda",
         "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
         "website": "https://github.com/afpineda/ESP32-RGB-LEDStrip",
@@ -135291,8 +135291,8 @@
     },
     {
         "name": "M5PM1",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5PM1",
