@@ -135486,8 +135486,8 @@
     },
     {
         "name": "M5Stack WiFi Uploader",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.0, 1.2.0, 1.1.1, 1.1.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.0, 1.4.0, 1.2.0, 1.1.1, 1.1.0",
         "author": "tomorrow56",
         "maintainer": "tomorrow56 <tomorrow56@gmail.com>",
         "website": "https://github.com/tomorrow56/M5StackWiFiUploader",
@@ -135683,8 +135683,8 @@
     },
     {
         "name": "Facebits",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Marcos Rubiano <markusianito@proton.me>",
         "maintainer": "Marcos Rubiano <markusianito@proton.me>",
         "website": "https://github.com/markusianito/Facebits",
