@@ -134639,8 +134639,8 @@
     },
     {
         "name": "HANUMAN_32",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
         "maintainer": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
         "website": "https://github.com/hii-nice-2-meet-u/HANUMAN_32",
@@ -135726,6 +135726,21 @@
             "ArduinoJson",
             "ESPAsyncWebServer",
             "AsyncTCP"
+        ]
+    },
+    {
+        "name": "ESP32ProvisionToolkit",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Federico Manzella",
+        "maintainer": "Federico Manzella <ferdiu.manzella@gmail.com>",
+        "website": "https://github.com/ferdiu/ESP32ProvisionToolkit",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ferdiu/ESP32ProvisionToolkit.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
