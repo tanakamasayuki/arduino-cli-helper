@@ -135742,5 +135742,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "pyrpc",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "lu-maca",
+        "maintainer": "lu-maca",
+        "website": "https://github.com/lu-maca/pyrpc",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/lu-maca/pyrpc.git",
+        "dependencies": [
+            "MsgPack"
+        ]
     }
 ]
