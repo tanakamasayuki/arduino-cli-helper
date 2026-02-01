@@ -115736,8 +115736,8 @@
     },
     {
         "name": "htcw_bits",
-        "version": "1.0.16",
-        "versions": "1.0.16",
+        "version": "1.0.17",
+        "versions": "1.0.17, 1.0.16",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/htcw_bits",
@@ -115751,8 +115751,8 @@
     },
     {
         "name": "htcw_data",
-        "version": "1.4.4",
-        "versions": "1.4.4, 1.4.3",
+        "version": "1.4.5",
+        "versions": "1.4.5, 1.4.4, 1.4.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/htcw_data",
@@ -133343,8 +133343,8 @@
     },
     {
         "name": "UGOKU-Pad",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "UGOKU Lab",
         "maintainer": "UGOKU Lab<ugokulab2023@gmail.com>",
         "website": "https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino",
