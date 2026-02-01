@@ -63400,8 +63400,8 @@
     },
     {
         "name": "SHT2x",
-        "version": "0.5.4",
-        "versions": "0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.5.5",
+        "versions": "0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SHT2x",
@@ -133358,8 +133358,8 @@
     },
     {
         "name": "BioLogic",
-        "version": "1.0.15",
-        "versions": "1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
@@ -135760,8 +135760,8 @@
     },
     {
         "name": "Mecanum-Drive-Arduino",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Akif Bera Öçal",
         "maintainer": "Akif Bera Öçal <ocalakif1@gmail.com>",
         "website": "https://github.com/SortaHappyDoge/Mecanum-Drive-Arduino",
@@ -135769,6 +135769,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/SortaHappyDoge/Mecanum-Drive-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RunningMinMax",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/RunningMinMax",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/RunningMinMax.git",
         "dependencies": [
             ""
         ]
