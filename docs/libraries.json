@@ -135802,5 +135802,36 @@
         "dependencies": [
             "display16_LTSM"
         ]
+    },
+    {
+        "name": "PqOSC",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Thomas O Fredericks & Sofian Audry",
+        "maintainer": "Thomas O Fredericks",
+        "website": "https://github.com/SofaPirate/PqOSC",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SofaPirate/PqOsc.git",
+        "dependencies": [
+            "Plaquette",
+            "MicroOsc"
+        ]
+    },
+    {
+        "name": "BioLogic_STM32",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Mau Molina Valdez",
+        "maintainer": "@teoriademau",
+        "website": "https://github.com/maumolinavaldez-pixel/BioLogic_STM32",
+        "category": "Device Control",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/maumolinavaldez-pixel/BioLogic_STM32.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
