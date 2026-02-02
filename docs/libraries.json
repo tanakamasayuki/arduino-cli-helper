@@ -116669,8 +116669,8 @@
     },
     {
         "name": "TinyFilmFestival",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "DIGF-2002",
         "maintainer": "Nick Puckett <info@puckettrand.com>",
         "website": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival",
@@ -125695,8 +125695,8 @@
     },
     {
         "name": "FormatLog",
-        "version": "0.5.2",
-        "versions": "0.5.2, 0.5.1, 0.5.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.2, 0.5.1, 0.5.0",
         "author": "Riley Cornelius",
         "maintainer": "Riley Cornelius",
         "website": "https://github.com/RileyCornelius/FormatLog",
@@ -135745,8 +135745,8 @@
     },
     {
         "name": "pyrpc",
-        "version": "0.1.1",
-        "versions": "0.1.1",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.1",
         "author": "lu-maca",
         "maintainer": "lu-maca",
         "website": "https://github.com/lu-maca/pyrpc",
