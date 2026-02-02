@@ -93433,8 +93433,8 @@
     },
     {
         "name": "yatest",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Simon Lehmann <simon.lmn@gmail.com>",
         "maintainer": "Simon Lehmann <simon.lmn@gmail.com>",
         "website": "https://github.com/simonlmn/yatest",
@@ -135652,8 +135652,8 @@
     },
     {
         "name": "puara-module",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Edu_Meneses",
         "maintainer": "Edu <emeneses@sat.qc.ca>, SAT <innovation@sat.qc.ca>",
         "website": "https://github.com/Puara/puara-module",
