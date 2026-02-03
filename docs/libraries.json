@@ -36895,8 +36895,8 @@
     },
     {
         "name": "Adafruit MPU6050",
-        "version": "2.2.7",
-        "versions": "2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.2.8",
+        "versions": "2.2.8, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_MPU6050",
@@ -116668,8 +116668,8 @@
     },
     {
         "name": "TinyFilmFestival",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "DIGF-2002",
         "maintainer": "Nick Puckett <info@puckettrand.com>",
         "website": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival",
@@ -116678,7 +116678,8 @@
         "types": "Contributed",
         "repository": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival.git",
         "dependencies": [
-            "ArduinoGraphics"
+            "ArduinoGraphics",
+            "EasyUltrasonic"
         ]
     },
     {
@@ -135789,8 +135790,8 @@
     },
     {
         "name": "GC9D01_LTSM",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/GC9D01_LTSM",
@@ -135804,11 +135805,11 @@
     },
     {
         "name": "PqOSC",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Thomas O Fredericks & Sofian Audry",
         "maintainer": "Thomas O Fredericks",
-        "website": "https://github.com/SofaPirate/PqOSC",
+        "website": "https://github.com/SofaPirate/PqOsc",
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
@@ -135876,6 +135877,21 @@
         "repository": "https://github.com/ayatec-europe/sensoraya-esp32s3.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit APDS9999",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_APDS9999",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_APDS9999.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
