@@ -71833,8 +71833,8 @@
     },
     {
         "name": "MultivariateNormal",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "PowerBroker2 <gitstuff2@gmail.com>",
         "maintainer": "PowerBroker2 <gitstuff2@gmail.com>",
         "website": "https://github.com/PowerBroker2/MultivariateNormal",
