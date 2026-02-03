@@ -45178,8 +45178,8 @@
     },
     {
         "name": "SHEX",
-        "version": "0.3.4",
-        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SHEX",
@@ -46255,8 +46255,8 @@
     },
     {
         "name": "DEVRANDOM",
-        "version": "0.2.3",
-        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.4",
+        "versions": "0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DEVRANDOM",
@@ -46390,8 +46390,8 @@
     },
     {
         "name": "DEVNULL",
-        "version": "0.1.7",
-        "versions": "0.1.7, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.8",
+        "versions": "0.1.8, 0.1.7, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DEVNULL",
@@ -70251,8 +70251,8 @@
     },
     {
         "name": "DEVFULL",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DEVFULL",
@@ -83882,8 +83882,8 @@
     },
     {
         "name": "TeslaCloud",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.2, 0.1.1",
+        "version": "0.1.7",
+        "versions": "0.1.7, 0.1.5, 0.1.4, 0.1.2, 0.1.1",
         "author": "TeslaSCADA <teslascada@teslascada.com>",
         "maintainer": "TeslaSCADA <teslascada@teslascada.com>",
         "website": "https://teslascada.com",
@@ -83898,8 +83898,7 @@
             "TimerMs",
             "GyverNTP",
             "UnixTime",
-            "GyverPortal",
-            "MQTT"
+            "GyverPortal"
         ]
     },
     {
