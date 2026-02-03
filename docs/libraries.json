@@ -121364,8 +121364,8 @@
     },
     {
         "name": "RCduino",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "RCduino Development Team",
         "maintainer": "RCduino Development Team",
         "website": "https://github.com/RCduino/RCduino",
@@ -121374,7 +121374,7 @@
         "types": "Contributed",
         "repository": "https://github.com/RCduino/RCduino.git",
         "dependencies": [
-            ""
+            "Wire"
         ]
     },
     {
