@@ -119612,8 +119612,8 @@
     },
     {
         "name": "LGFX-ScreenShot",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.99.1",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.99.1",
         "author": "Cellie",
         "maintainer": "Cellie <CelliesProjects@users.noreply.github.com>",
         "website": "https://github.com/CelliesProjects/LGFX-ScreenShot",
