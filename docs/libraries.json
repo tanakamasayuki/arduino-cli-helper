@@ -135745,8 +135745,8 @@
     },
     {
         "name": "pyrpc",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.1",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.2.1, 0.2.0, 0.1.1",
         "author": "lu-maca",
         "maintainer": "lu-maca",
         "website": "https://github.com/lu-maca/pyrpc",
