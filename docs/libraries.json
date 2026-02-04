@@ -112633,8 +112633,8 @@
     },
     {
         "name": "SparkFun LG290P Quadband RTK GNSS Arduino Library",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library",
@@ -125755,8 +125755,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.1.5",
-        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.1.6",
+        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -133629,8 +133629,8 @@
     },
     {
         "name": "ESP32Synth",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.0.5, 1.2.0, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.0, 2.0.5, 1.2.0, 1.0.0",
         "author": "Danilo",
         "maintainer": "Danilo",
         "website": "https://github.com/danilogcrf2-oss/ESP32Synth",
@@ -135892,6 +135892,36 @@
         "repository": "https://github.com/adafruit/Adafruit_APDS9999.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "RoboServo",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "dunknowcoding",
+        "maintainer": "dunknowcoding",
+        "website": "https://github.com/roboservo/RoboServo",
+        "category": "Device Control",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/RoboServo.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BL0940_SPI",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/BL0940_SPI",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/BL0940_SPI.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
