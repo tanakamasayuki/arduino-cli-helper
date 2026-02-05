@@ -93950,8 +93950,8 @@
     },
     {
         "name": "RocciBoard-Library",
-        "version": "1.4.4",
-        "versions": "1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.5",
+        "versions": "1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Robotics Competence Center Illertal e. V. <rocci.net>",
         "maintainer": "Jonas Biener <jonas.biener@rocci.net>, Alexander Ulbrich <alexander.ulbrich@rocci.net>",
         "website": "https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library",
@@ -116668,8 +116668,8 @@
     },
     {
         "name": "TinyFilmFestival",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.4.2",
+        "versions": "2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "DIGF-2002",
         "maintainer": "Nick Puckett <info@puckettrand.com>",
         "website": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival",
@@ -135381,8 +135381,8 @@
     },
     {
         "name": "HoltzLib",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Kyle Holtz",
         "maintainer": "Kyle Holtz",
         "website": "https://github.com/KE-Holtz/holtzlib",
@@ -135821,8 +135821,8 @@
     },
     {
         "name": "BioLogic_STM32",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "@teoriademau",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic_STM32",
@@ -135950,6 +135950,36 @@
         "architectures": "avr, esp32",
         "types": "Contributed",
         "repository": "https://github.com/KovalRM/KRM_libraries_Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OpenPager",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ashen Chathuranga",
+        "maintainer": "Ashen Chathuranga <ktauchathuranga@gmail.com>",
+        "website": "https://github.com/ktauchathuranga/openpager",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/ktauchathuranga/openpager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DuinoMemory",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pierre DEBAS",
+        "maintainer": "Pierre DEBAS <dpierre394@gmail.com>",
+        "website": "https://github.com/Pierrolefou881/DuinoMemory",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Pierrolefou881/DuinoMemory.git",
         "dependencies": [
             ""
         ]
