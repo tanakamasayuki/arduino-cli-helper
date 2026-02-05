@@ -112633,8 +112633,8 @@
     },
     {
         "name": "SparkFun LG290P Quadband RTK GNSS Arduino Library",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library",
