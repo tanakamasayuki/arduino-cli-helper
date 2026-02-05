@@ -109798,8 +109798,8 @@
     },
     {
         "name": "Iridium9704LaunchPad",
-        "version": "1.0.10",
-        "versions": "1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9704_launch_pad/documentation/",
@@ -116668,8 +116668,8 @@
     },
     {
         "name": "TinyFilmFestival",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.4.1",
+        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "DIGF-2002",
         "maintainer": "Nick Puckett <info@puckettrand.com>",
         "website": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival",
