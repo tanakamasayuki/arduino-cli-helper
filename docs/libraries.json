@@ -112633,8 +112633,8 @@
     },
     {
         "name": "SparkFun LG290P Quadband RTK GNSS Arduino Library",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library",
@@ -135935,6 +135935,21 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/CostelloTechnical/DN24F08.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "KRM",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "KovalRM",
+        "maintainer": "Roman Koval <roman12121993@gmail.com>",
+        "website": "https://github.com/KovalRM/KRM_libraries_Arduino",
+        "category": "Device Control",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/KovalRM/KRM_libraries_Arduino.git",
         "dependencies": [
             ""
         ]
