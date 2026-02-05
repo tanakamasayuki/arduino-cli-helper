@@ -134534,8 +134534,8 @@
     },
     {
         "name": "SunFounder_IMU",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "SunFounder",
         "maintainer": "SunFounder",
         "website": "https://github.com/sunfounder/sunfounder-imu-arduino",
