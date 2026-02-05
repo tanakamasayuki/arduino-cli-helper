@@ -83234,8 +83234,8 @@
     },
     {
         "name": "ParseCommands",
-        "version": "1.6.1",
-        "versions": "1.6.1, 1.6.0, 1.5.0, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.7.0",
+        "versions": "1.7.0, 1.6.1, 1.6.0, 1.5.0, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Gfy63 <mrgoofy@gmx.net>",
         "maintainer": "Gfy63 <mrgoofy@gmx.net>",
         "website": "https://github.com/Gfy63/ParseCommands",
@@ -128400,8 +128400,8 @@
     },
     {
         "name": "HanumanMini",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Chanatip112",
         "maintainer": "Chanatip112 <nackchanatip112@gmail.com>",
         "website": "https://github.com/Chanatip112/HanumanMini",
