@@ -54331,8 +54331,8 @@
     },
     {
         "name": "Vcc",
-        "version": "2.3.1",
-        "versions": "2.3.1, 2.2.0, 2.0.0, 1.1.1, 1.0.3, 1.0.1",
+        "version": "2.3.2",
+        "versions": "2.3.2, 2.3.1, 2.2.0, 2.0.0, 1.1.1, 1.0.3, 1.0.1",
         "author": "Bernhard Nebel",
         "maintainer": "Bernhard Nebel",
         "website": "https://github.com/felias-fogg/Vcc",
@@ -101472,8 +101472,8 @@
     },
     {
         "name": "Sensirion UPT I2C Auto Detection",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.0.0, 1.0.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "3.0.2",
+        "versions": "3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Jonas Stolle, Maximilian Paulsen",
         "maintainer": "Sensirion AG <sensirion.com>",
         "website": "https://github.com/Sensirion/arduino-upt-i2c-auto-detection",
@@ -136013,6 +136013,21 @@
         "dependencies": [
             "ArduinoJson",
             "WebSockets"
+        ]
+    },
+    {
+        "name": "DHT22_Clone_ESP32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "IlliaZenitsu",
+        "maintainer": "IlliaZenitsu <huaweilemosh@gmail.com>",
+        "website": "https://github.com/IlliaZenitsu/DHT22_Clone_ESP32",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/IlliaZenistu/DHT22_Clone_ESP32.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
