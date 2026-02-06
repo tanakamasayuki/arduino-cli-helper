@@ -130642,8 +130642,8 @@
     },
     {
         "name": "YFPS2UARTLib",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "YFROBOT",
         "maintainer": "YFROBOT-ZL,<yfrobot@qq.com>",
         "website": "https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library",
@@ -135821,8 +135821,8 @@
     },
     {
         "name": "BioLogic_STM32",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "@teoriademau",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic_STM32",
