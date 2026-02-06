@@ -135983,5 +135983,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "FansElectronics License",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fans Electronics, Irfan Indra Kurniawan, S.T",
+        "maintainer": "Irfan Indra Kurniawan, S.T <info@fanselectronics.com>",
+        "website": "https://github.com/Vean/FansElectronics_License",
+        "category": "Other",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Vean/FansElectronics_License.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
