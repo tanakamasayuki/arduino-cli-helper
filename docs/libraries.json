@@ -136044,5 +136044,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SIM800LPlus HTTP Connector",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Original: Olivier Staquet, Modified by: Samuel Wainaina",
+        "maintainer": "Samuel Wainaina",
+        "website": "https://github.com/MesutEmpire/SIM800LPlus",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MesutEmpire/SIM800LPlus.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
