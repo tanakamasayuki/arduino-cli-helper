@@ -129284,8 +129284,8 @@
     },
     {
         "name": "probot",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.5, 0.1.4, 0.1.2",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.0, 0.1.5, 0.1.4, 0.1.2",
         "author": "Tuna Gül",
         "maintainer": "Tuna Gül <tunagul54@gmail.com>",
         "website": "https://github.com/nfrproducts/probot-lib",
