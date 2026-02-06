@@ -134669,8 +134669,8 @@
     },
     {
         "name": "M5IOE1",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5IOE1",
@@ -135956,13 +135956,13 @@
     },
     {
         "name": "OpenPager",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Ashen Chathuranga",
         "maintainer": "Ashen Chathuranga <ktauchathuranga@gmail.com>",
         "website": "https://github.com/ktauchathuranga/openpager",
         "category": "Communication",
-        "architectures": "esp8266",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ktauchathuranga/openpager.git",
         "dependencies": [
@@ -135997,6 +135997,22 @@
         "repository": "https://github.com/Vean/FansElectronics_License.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "nikki.esp32",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Dev Nikki",
+        "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
+        "website": "https://github.com/nikki-build/nikki.esp32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nikki-build/nikki.esp32.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
         ]
     }
 ]
