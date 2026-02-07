@@ -128521,8 +128521,8 @@
     },
     {
         "name": "VLCB",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.1.0, 1.0.0",
         "author": "Sven Rosvall <sven@rosvall.ie>",
         "maintainer": "Sven Rosvall <sven@rosvall.ie>",
         "website": "https://github.com/SvenRosvall/VLCB-Arduino",
@@ -128568,8 +128568,8 @@
     },
     {
         "name": "Frugal-IoT",
-        "version": "0.0.13",
-        "versions": "0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.8, 0.0.5, 0.0.4, 0.0.3, 0.0.2",
+        "version": "0.0.14",
+        "versions": "0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.8, 0.0.5, 0.0.4, 0.0.3, 0.0.2",
         "author": "Mitra Ardron",
         "maintainer": "Mitra Ardron <mitra@mitra.biz>",
         "website": "https://github.com/mitra42/frugal-iot",
