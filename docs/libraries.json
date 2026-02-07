@@ -129284,8 +129284,8 @@
     },
     {
         "name": "probot",
-        "version": "0.2.4",
-        "versions": "0.2.4, 0.2.2, 0.2.0, 0.1.5, 0.1.4, 0.1.2",
+        "version": "0.2.6",
+        "versions": "0.2.6, 0.2.5, 0.2.4, 0.2.2, 0.2.0, 0.1.5, 0.1.4, 0.1.2",
         "author": "Tuna Gül",
         "maintainer": "Tuna Gül <tunagul54@gmail.com>",
         "website": "https://github.com/nfrproducts/probot-lib",
@@ -136056,6 +136056,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/MesutEmpire/SIM800LPlus.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "P760",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
+        "author": "Louis Chuang (V7 Idea Technology Ltd.)",
+        "maintainer": "Louis Chuang (V7 Idea Technology Ltd.)",
+        "website": "https://github.com/louischuang/curiejet-p760-arduino-lib.git",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/louischuang/curiejet-p760-arduino-lib.git",
         "dependencies": [
             ""
         ]
