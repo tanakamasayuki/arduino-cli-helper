@@ -126873,8 +126873,8 @@
     },
     {
         "name": "MG811SpaceData",
-        "version": "5.5.3",
-        "versions": "5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0",
+        "version": "5.5.4",
+        "versions": "5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/MG811DataScience",
@@ -127205,8 +127205,8 @@
     },
     {
         "name": "SP3S-AQ2SpaceData",
-        "version": "5.5.3",
-        "versions": "5.5.3, 5.5.2, 5.5.1, 5.1.0",
+        "version": "5.5.4",
+        "versions": "5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.1.0",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience",
@@ -136077,8 +136077,8 @@
     },
     {
         "name": "SemVerChecker",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "bkwoka",
         "maintainer": "bkwoka",
         "website": "https://github.com/bkwoka/SemVerChecker",
@@ -136131,6 +136131,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/o0zz/climate-uart.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Dmx_ESP32",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Little Art Bear",
+        "maintainer": "@devarishi7",
+        "website": "https://github.com/devarishi7/Dmx_ESP32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/devarishi7/Dmx_ESP32.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DAC8562",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/DAC8562",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/DAC8562.git",
         "dependencies": [
             ""
         ]
