@@ -136033,7 +136033,7 @@
     {
         "name": "Lua 5.1 for ESP32",
         "version": "5.1.5",
-        "versions": "5.1.5",
+        "versions": "5.1.5, 1.0.1",
         "author": "Lua.org",
         "maintainer": "SapteinKabeltann",
         "website": "https://github.com/sapteinkabeltann/lua511-esp32",
@@ -136161,6 +136161,37 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/DAC8562.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "V7RCServoDriver",
+        "version": "0.0.6",
+        "versions": "0.0.6, 0.0.5",
+        "author": "V7RC / V7 Idea Technology Ltd.",
+        "maintainer": "Louis Chuang <louis@v7idea.com.tw>",
+        "website": "https://github.com/v7rc/V7RCServoDriver",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/v7rc/V7RCServoDriver.git",
+        "dependencies": [
+            "ESP32Servo",
+            "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "waavis",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "waavis",
+        "maintainer": "waavis <support@waavis.com>",
+        "website": "https://api.waavis.com",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sebuahhobi/waavis_arduino.git",
         "dependencies": [
             ""
         ]
