@@ -135821,8 +135821,8 @@
     },
     {
         "name": "BioLogic_STM32",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "@teoriademau",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic_STM32",
@@ -136192,6 +136192,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sebuahhobi/waavis_arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Adafruit AS7343",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_AS7343",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_AS7343.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "DYP-R01CW",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "Matthias Prinke",
+        "maintainer": "Matthias Prinke",
+        "website": "https://github.com/matthias-bs/DYP-R01CW",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/matthias-bs/DYP-R01CW.git",
         "dependencies": [
             ""
         ]
