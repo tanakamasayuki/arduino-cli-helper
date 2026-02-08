@@ -91851,8 +91851,8 @@
     },
     {
         "name": "MQSpaceData",
-        "version": "5.5.3",
-        "versions": "5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.4.0, 5.3.0, 5.1.5, 5.1.0, 5.0.0, 4.5.1, 4.5.0, 4.2.5, 4.1.5, 4.0.5, 4.0.1, 4.0.0, 3.1.0, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.0, 2.9.0, 2.8.0, 2.1.5, 2.0.0, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1",
+        "version": "5.5.4",
+        "versions": "5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.4.0, 5.3.0, 5.1.5, 5.1.0, 5.0.0, 4.5.1, 4.5.0, 4.2.5, 4.1.5, 4.0.5, 4.0.1, 4.0.0, 3.1.0, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.0, 2.9.0, 2.8.0, 2.1.5, 2.0.0, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/MQDataScience",
@@ -125378,8 +125378,8 @@
     },
     {
         "name": "RadioactiveSpaceData",
-        "version": "5.5.3",
-        "versions": "5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0, 5.0.0",
+        "version": "5.5.4",
+        "versions": "5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0, 5.0.0",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/RadioactiveDataScience",
@@ -136116,6 +136116,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ivica3730k/MSF-Time-Lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "climate-uart",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "o0Zz",
+        "maintainer": "o0Zz",
+        "website": "https://github.com/o0zz/climate-uart",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/o0zz/climate-uart.git",
         "dependencies": [
             ""
         ]
