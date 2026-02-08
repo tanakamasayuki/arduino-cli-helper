@@ -136107,8 +136107,8 @@
     },
     {
         "name": "MSF-Time-Lib",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Ivica Matic",
         "maintainer": "Ivica Matic",
         "website": "https://github.com/ivica3730k/MSF-Time-Lib",
