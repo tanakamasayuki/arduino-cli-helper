@@ -135516,8 +135516,8 @@
     },
     {
         "name": "OrbiSyncNode",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.0.0, 0.1.2, 0.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.0.0, 0.1.2, 0.1.0",
         "author": "OrbiSync Engineers",
         "maintainer": "OrbiSync Engineers <makers.dev.ci@gmail.com>",
         "website": "https://github.com/jihun-kang/orbisync-node",
@@ -135911,8 +135911,8 @@
     },
     {
         "name": "BL0940_SPI",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/BL0940_SPI",
@@ -136222,6 +136222,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/matthias-bs/DYP-R01CW.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "IskakINO_LiquidCrystal_I2C",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Iskak Fatoni",
+        "maintainer": "Iskak Fatoni",
+        "website": "https://github.com/IskakINO/IskakINO_LiquidCrystal_I2C",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/iskakfatoni/IskakINO_LiquidCrystal_I2C.git",
         "dependencies": [
             ""
         ]
