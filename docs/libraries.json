@@ -134174,8 +134174,8 @@
     },
     {
         "name": "BL0942_SPI",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>, Andreas Breitschopp <a.breitschopp@ab-smarthouse.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/BL0942_SPI",
