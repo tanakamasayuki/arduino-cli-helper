@@ -130687,8 +130687,8 @@
     },
     {
         "name": "EspHelper",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0, 0.1.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspHelper",
