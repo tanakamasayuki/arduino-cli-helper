@@ -135956,8 +135956,8 @@
     },
     {
         "name": "OpenPager",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Ashen Chathuranga",
         "maintainer": "Ashen Chathuranga <ktauchathuranga@gmail.com>",
         "website": "https://github.com/ktauchathuranga/openpager",
@@ -136077,8 +136077,8 @@
     },
     {
         "name": "SemVerChecker",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "bkwoka",
         "maintainer": "bkwoka",
         "website": "https://github.com/bkwoka/SemVerChecker",
