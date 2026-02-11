@@ -1434,8 +1434,8 @@
     },
     {
         "name": "Adafruit ILI9341",
-        "version": "1.6.2",
-        "versions": "1.6.2, 1.6.1, 1.6.0, 1.5.14, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.6.3",
+        "versions": "1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.14, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_ILI9341",
@@ -1765,8 +1765,8 @@
     },
     {
         "name": "Adafruit NeoPixel",
-        "version": "1.15.3",
-        "versions": "1.15.3, 1.15.2, 1.15.1, 1.15.0, 1.14.0, 1.13.0, 1.12.5, 1.12.4, 1.12.3, 1.12.2, 1.12.1, 1.12.0, 1.11.0, 1.10.7, 1.10.6, 1.10.5, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.0, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.15.4",
+        "versions": "1.15.4, 1.15.3, 1.15.2, 1.15.1, 1.15.0, 1.14.0, 1.13.0, 1.12.5, 1.12.4, 1.12.3, 1.12.2, 1.12.1, 1.12.0, 1.11.0, 1.10.7, 1.10.6, 1.10.5, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.0, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_NeoPixel",
@@ -2449,8 +2449,8 @@
     },
     {
         "name": "Pro Trinket USB Keyboard Library",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Pro_Trinket_USB_Keyboard_Library",
@@ -2525,8 +2525,8 @@
     },
     {
         "name": "TinyRTCLib",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/TinyRTCLib",
@@ -2540,8 +2540,8 @@
     },
     {
         "name": "TinyWireM",
-        "version": "1.1.3",
-        "versions": "1.1.3, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.4",
+        "versions": "1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/TinyWireM",
@@ -27002,8 +27002,8 @@
     },
     {
         "name": "TinyLoRa",
-        "version": "1.4.2",
-        "versions": "1.4.2, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.3",
+        "versions": "1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit<info@adafruit.com>",
         "website": "https://github.com/adafruit/TinyLoRa/",
@@ -33502,8 +33502,8 @@
     },
     {
         "name": "Adafruit TinyUSB Library",
-        "version": "3.7.3",
-        "versions": "3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1",
+        "version": "3.7.4",
+        "versions": "3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_TinyUSB_Arduino",
@@ -36895,8 +36895,8 @@
     },
     {
         "name": "Adafruit MPU6050",
-        "version": "2.2.8",
-        "versions": "2.2.8, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.2.9",
+        "versions": "2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_MPU6050",
@@ -43402,8 +43402,8 @@
     },
     {
         "name": "LibSSH-ESP32",
-        "version": "5.7.0",
-        "versions": "5.7.0, 5.6.0, 5.5.1, 5.5.0, 5.4.0, 5.3.1, 4.2.0, 4.1.0, 3.1.0, 3.0.1, 3.0.0, 2.2.0, 2.1.0, 1.4.1, 1.4.0, 1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.2.0",
+        "version": "5.8.0",
+        "versions": "5.8.0, 5.7.0, 5.6.0, 5.5.1, 5.5.0, 5.4.0, 5.3.1, 4.2.0, 4.1.0, 3.1.0, 3.0.1, 3.0.0, 2.2.0, 2.1.0, 1.4.1, 1.4.0, 1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.2.0",
         "author": "Ewan Parker",
         "maintainer": "Ewan Parker",
         "website": "https://www.ewan.cc/node/157",
@@ -99505,8 +99505,8 @@
     },
     {
         "name": "MycilaESPConnect",
-        "version": "10.5.1",
-        "versions": "10.5.1, 10.5.0, 10.4.1, 10.4.0, 10.3.4, 10.3.3, 10.3.2, 10.3.1, 10.3.0, 10.2.4, 10.2.3, 10.2.2, 10.2.1, 10.2.0, 10.1.0, 10.0.1, 10.0.0, 9.0.1, 8.1.0, 8.0.0, 7.2.2, 7.2.1, 7.1.1, 7.1.0, 7.0.0, 6.1.1, 6.1.0, 6.0.3, 6.0.2, 6.0.1, 6.0.0, 5.0.3, 5.0.2, 5.0.1, 5.0.0, 4.6.0, 4.5.0, 4.4.0, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.2, 4.2.1, 4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.1, 3.1.0, 3.0.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0",
+        "version": "10.6.0",
+        "versions": "10.6.0, 10.5.1, 10.5.0, 10.4.1, 10.4.0, 10.3.4, 10.3.3, 10.3.2, 10.3.1, 10.3.0, 10.2.4, 10.2.3, 10.2.2, 10.2.1, 10.2.0, 10.1.0, 10.0.1, 10.0.0, 9.0.1, 8.1.0, 8.0.0, 7.2.2, 7.2.1, 7.1.1, 7.1.0, 7.0.0, 6.1.1, 6.1.0, 6.0.3, 6.0.2, 6.0.1, 6.0.0, 5.0.3, 5.0.2, 5.0.1, 5.0.0, 4.6.0, 4.5.0, 4.4.0, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.2, 4.2.1, 4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.1, 3.1.0, 3.0.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaESPConnect",
@@ -100490,8 +100490,8 @@
     },
     {
         "name": "SparkFun Extensible Message Parser",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_Extensible_Message_Parser",
@@ -112633,8 +112633,8 @@
     },
     {
         "name": "SparkFun LG290P Quadband RTK GNSS Arduino Library",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.1",
+        "versions": "3.0.1, 3.0.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library",
@@ -116668,8 +116668,8 @@
     },
     {
         "name": "TinyFilmFestival",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.5.1",
+        "versions": "2.5.1, 2.5.0, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "DIGF-2002",
         "maintainer": "Nick Puckett <info@puckettrand.com>",
         "website": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival",
@@ -127160,8 +127160,8 @@
     },
     {
         "name": "Universal_Button",
-        "version": "1.6.2",
-        "versions": "1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.6.3",
+        "versions": "1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/LittleManBuilds/Universal_Button",
@@ -127612,13 +127612,13 @@
     },
     {
         "name": "SnapshotBus",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/littlemanbuilds/SnapshotBus",
         "category": "Other",
-        "architectures": "*",
+        "architectures": "esp32, esp8266, rp2040, samd, teensy, stm32",
         "types": "Contributed",
         "repository": "https://github.com/littlemanbuilds/SnapshotBus.git",
         "dependencies": [
@@ -132902,8 +132902,8 @@
     },
     {
         "name": "Adafruit SGP41",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_SGP41",
@@ -132912,7 +132912,9 @@
         "types": "Recommended",
         "repository": "https://github.com/adafruit/Adafruit_SGP41.git",
         "dependencies": [
-            "Adafruit BusIO"
+            "Adafruit BusIO",
+            "Adafruit SHT4x Library",
+            "Sensirion Gas Index Algorithm"
         ]
     },
     {
@@ -134639,8 +134641,8 @@
     },
     {
         "name": "HANUMAN_32",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
         "maintainer": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
         "website": "https://github.com/hii-nice-2-meet-u/HANUMAN_32",
@@ -135881,8 +135883,8 @@
     },
     {
         "name": "Adafruit APDS9999",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_APDS9999",
@@ -136298,6 +136300,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RoboMaster-DLMU-CONE/rpl-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bridgetek_EVE3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bridgetek",
+        "maintainer": "Bridgetek <support.emea@brtchip.com>",
+        "website": "https://github.com/Bridgetek/EVE3-Arduino-Dev",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bridgetek/EVE3-Arduino-Dev.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bridgetek_EVE4",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bridgetek",
+        "maintainer": "Bridgetek <support.emea@brtchip.com>",
+        "website": "https://github.com/Bridgetek/EVE4-Arduino-Dev",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Bridgetek/EVE4-Arduino-Dev.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TGS2620",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/TGS2620",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/TGS2620.git",
         "dependencies": [
             ""
         ]
