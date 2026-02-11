@@ -135516,8 +135516,8 @@
     },
     {
         "name": "OrbiSyncNode",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.2, 1.0.0, 0.1.2, 0.1.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.2, 1.0.0, 0.1.2, 0.1.0",
         "author": "OrbiSync Engineers",
         "maintainer": "OrbiSync Engineers <makers.dev.ci@gmail.com>",
         "website": "https://github.com/jihun-kang/orbisync-node",
@@ -136283,6 +136283,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/gibz104/SafeGithubOTA.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RPL",
+        "version": "0.3.1",
+        "versions": "0.3.1",
+        "author": "RoboMaster-DLMU-CONE",
+        "maintainer": "MoonFeather <moonfeather120@outlook.com>",
+        "website": "https://github.com/RoboMaster-DLMU-CONE/rpl",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RoboMaster-DLMU-CONE/rpl-arduino.git",
         "dependencies": [
             ""
         ]
