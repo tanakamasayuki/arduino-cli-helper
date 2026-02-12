@@ -46668,8 +46668,8 @@
     },
     {
         "name": "LibLanc",
-        "version": "3.0.2",
-        "versions": "3.0.2, 3.0.1, 3.0.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "3.0.3",
+        "versions": "3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Simon Ensslen",
         "maintainer": "Simon Ensslen <sensslen@gmail.com>",
         "website": "https://github.com/sensslen/LibLanc",
@@ -136345,6 +136345,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/TGS2620.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "variants_collector",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/variants_collector",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/variants_collector.git",
         "dependencies": [
             ""
         ]
