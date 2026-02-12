@@ -136382,5 +136382,20 @@
             "Adafruit GFX Library",
             "Adafruit ST7735 and ST7789 Library"
         ]
+    },
+    {
+        "name": "Devatext",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Aryan Kumar",
+        "maintainer": "Aryan Kumar <aryan17550@gmail.com>",
+        "website": "https://github.com/Aryan-git-byte/Devatext",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Aryan-git-byte/Devatext.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
