@@ -136412,5 +136412,35 @@
         "dependencies": [
             "Servo"
         ]
+    },
+    {
+        "name": "ESP32IMDB",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Xorlent",
+        "maintainer": "Xorlent <https://github.com/Xorlent>",
+        "website": "https://github.com/Xorlent/ESP32IMDB",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/ESP32IMDB.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MoIRA",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dr Wish <ada-rhodesshort@UNOmaha.edu>",
+        "maintainer": "Dr Wish <ada-rhodesshort@UNOmaha.edu>",
+        "website": "http://ada-put-the-git-here.com/",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ada-Rhodes/MoIRA.git",
+        "dependencies": [
+            "RedBot"
+        ]
     }
 ]
