@@ -136370,8 +136370,8 @@
     },
     {
         "name": "ESP32IMDB",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/ESP32IMDB",
