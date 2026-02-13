@@ -10973,8 +10973,8 @@
     },
     {
         "name": "AutoAnalogAudio",
-        "version": "1.53.0",
-        "versions": "1.53.0, 1.52.0, 1.51.1, 1.51.0, 1.50.1, 1.50.0, 1.45.0, 1.44.0, 1.43.0, 1.42.0, 1.41.0, 1.40.0, 1.31.0, 1.5.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.54.0",
+        "versions": "1.54.0, 1.53.0, 1.52.0, 1.51.1, 1.51.0, 1.50.1, 1.50.0, 1.45.0, 1.44.0, 1.43.0, 1.42.0, 1.41.0, 1.40.0, 1.31.0, 1.5.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://github.com/TMRh20/AutoAnalogAudio",
@@ -115675,8 +115675,8 @@
     },
     {
         "name": "CC1101",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Mateusz Furga <matfurga@gmail.com>",
         "maintainer": "Mateusz Furga <matfurga@gmail.com>",
         "website": "https://github.com/mfurga/cc1101",
@@ -116668,8 +116668,8 @@
     },
     {
         "name": "TinyFilmFestival",
-        "version": "2.5.1",
-        "versions": "2.5.1, 2.5.0, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.5.2",
+        "versions": "2.5.2, 2.5.1, 2.5.0, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.5, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "DIGF-2002",
         "maintainer": "Nick Puckett <info@puckettrand.com>",
         "website": "https://github.com/DigitalFuturesOCADU/TinyFilmFestival",
@@ -124095,21 +124095,6 @@
         ]
     },
     {
-        "name": "TelemetryHarborSDK",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.0",
-        "author": "Telemetry Harbor <support@telemetryharbor.com>",
-        "maintainer": "Telemetry Harbor <support@telemetryharbor.com>",
-        "website": "https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/HarborScale/harbor-sdk-c-plus-plus.git",
-        "dependencies": [
-            "ArduinoJson"
-        ]
-    },
-    {
         "name": "QTRMuxes",
         "version": "1.0.3",
         "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
@@ -129292,7 +129277,7 @@
         "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
-        "repository": "https://github.com/nfrproducts/probot-lib.git",
+        "repository": "https://github.com/probot-studio/probot-core.git",
         "dependencies": [
             "Adafruit NeoPixel"
         ]
@@ -135870,21 +135855,6 @@
         ]
     },
     {
-        "name": "ayatec_sensoraya_2_demo",
-        "version": "0.0.2",
-        "versions": "0.0.2",
-        "author": "ayatec",
-        "maintainer": "ayatec europe <techsupport@ayatec.eu>",
-        "website": "https://github.com/ayatec-europe/sensoraya-esp32s3/tree/main",
-        "category": "Other",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/ayatec-europe/sensoraya-esp32s3.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "Adafruit APDS9999",
         "version": "1.0.1",
         "versions": "1.0.1, 1.0.0",
@@ -135985,21 +135955,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Pierrolefou881/DuinoMemory.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "FansElectronics License",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Fans Electronics, Irfan Indra Kurniawan, S.T",
-        "maintainer": "Irfan Indra Kurniawan, S.T <info@fanselectronics.com>",
-        "website": "https://github.com/Vean/FansElectronics_License",
-        "category": "Other",
-        "architectures": "esp32, esp8266",
-        "types": "Contributed",
-        "repository": "https://github.com/Vean/FansElectronics_License.git",
         "dependencies": [
             ""
         ]
@@ -136415,8 +136370,8 @@
     },
     {
         "name": "ESP32IMDB",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/ESP32IMDB",
@@ -136456,6 +136411,51 @@
         "repository": "https://github.com/Ryzobee/Ryzobee_arduino_esp32.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "HarborScaleSDK",
+        "version": "0.1.7",
+        "versions": "0.1.7, 0.1.6, 0.1.4",
+        "author": "Harbor Scale <support@harborscale.com>",
+        "maintainer": "Harbor Scale <support@harborscale.com>",
+        "website": "https://github.com/harborscale/harbor-sdk-c-plus-plus",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/HarborScale/harbor-sdk-c-plus-plus.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "AyatecSensoraya2.x",
+        "version": "0.0.4",
+        "versions": "0.0.4",
+        "author": "ayatec",
+        "maintainer": "ayatec europe <techsupport@ayatec.eu>",
+        "website": "https://github.com/ayatec-europe/AyatecSensoraya2.x",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ayatec-europe/AyatecSensoraya2.x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FansElectronics_License",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1",
+        "author": "Fans Electronics, Irfan Indra Kurniawan, S.T",
+        "maintainer": "Irfan Indra Kurniawan, S.T <info@fanselectronics.com>",
+        "website": "https://github.com/Vean/FansElectronics_License",
+        "category": "Other",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Vean/FansElectronics_License.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
