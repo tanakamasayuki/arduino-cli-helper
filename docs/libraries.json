@@ -112918,8 +112918,8 @@
     },
     {
         "name": "SparkFun I2C Expander Arduino Library",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_I2C_Expander_Arduino_Library",
@@ -135657,8 +135657,8 @@
     },
     {
         "name": "RGBRibbon",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Laurent Schall <llschall@gmx.com>",
         "maintainer": "Laurent Schall <llschall@gmx.com>",
         "website": "https://github.com/llschall/rgb-ribbon",
