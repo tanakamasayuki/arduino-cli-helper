@@ -117097,8 +117097,8 @@
     },
     {
         "name": "Rotary_encoder",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
         "author": "Csermendy Bendeguz",
         "maintainer": "Csermendy Bendeguz",
         "website": "https://github.com/Bendeguz-Cs/Rotary_encoder/tree/main",
@@ -136457,6 +136457,21 @@
         "repository": "https://github.com/Vean/FansElectronics_License.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "KY040-rotary",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Denis Machard",
+        "maintainer": "Denis Machard",
+        "website": "https://github.com/dmachard/KY040-rotary.git",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dmachard/KY040-rotary.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
