@@ -125680,8 +125680,8 @@
     },
     {
         "name": "FormatLog",
-        "version": "0.6.2",
-        "versions": "0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0",
         "author": "Riley Cornelius",
         "maintainer": "Riley Cornelius",
         "website": "https://github.com/RileyCornelius/FormatLog",
@@ -136470,6 +136470,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/dmachard/KY040-rotary.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EasyConnectevity",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Souhardo Das",
+        "maintainer": "souhardodasdps1@gmail.com",
+        "website": "https://github.com/SouhardoDas/EasyConnectevity",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/souhardodasdps1-commits/EasyConnectevity.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ArduLiteESP",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Ajang Rahmat",
+        "maintainer": "Ajang Rahmat <ajangrahmat@gmail.com>",
+        "website": "https://github.com/ArduLite/ArduLiteESP",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ArduLite/ArduLiteESP.git",
         "dependencies": [
             ""
         ]
