@@ -61977,8 +61977,8 @@
     },
     {
         "name": "MMC34160PJ",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Igor Levkov <levkov.igor@gmail.com>",
         "maintainer": "Igor Levkov <levkov.igor@gmail.com>",
         "website": "https://github.com/levkovigor/MMC34160PJ",
@@ -129604,8 +129604,8 @@
     },
     {
         "name": "JMBase",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
         "author": "Juanjo Martín",
         "maintainer": "Juanjo Martín",
         "website": "https://github.com/juanjomartinf/JMBase",
