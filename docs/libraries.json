@@ -136503,5 +136503,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DuinoCollections",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.0",
+        "author": "Pierre DEBAS",
+        "maintainer": "Pierre DEBAS <dpierre394@gmail.com>",
+        "website": "https://github.com/Pierrolefou881/DuinoCollections",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Pierrolefou881/DuinoCollections.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
