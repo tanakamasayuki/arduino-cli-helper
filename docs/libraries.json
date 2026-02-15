@@ -135116,8 +135116,8 @@
     },
     {
         "name": "bozontlabsMAX7219",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Tamas Jozsi",
         "maintainer": "Tamas Jozsi",
         "website": "https://github.com/bozont/bozontlabsMAX7219",
@@ -136506,8 +136506,8 @@
     },
     {
         "name": "DuinoCollections",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.1.0",
         "author": "Pierre DEBAS",
         "maintainer": "Pierre DEBAS <dpierre394@gmail.com>",
         "website": "https://github.com/Pierrolefou881/DuinoCollections",
