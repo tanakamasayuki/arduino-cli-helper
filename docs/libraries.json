@@ -133345,8 +133345,8 @@
     },
     {
         "name": "BioLogic",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
+        "version": "1.1.12",
+        "versions": "1.1.12, 1.1.1, 1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
@@ -136515,6 +136515,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Pierrolefou881/DuinoCollections.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "IskakINO_WifiPortal",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Iskak Fatoni",
+        "maintainer": "Iskak Fatoni",
+        "website": "https://github.com/iskakfatoni/IskakINO_WifiPortal",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/iskakfatoni/IskakINO_WifiPortal.git",
         "dependencies": [
             ""
         ]
