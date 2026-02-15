@@ -97665,8 +97665,8 @@
     },
     {
         "name": "AcaiaArduinoBLE",
-        "version": "3.2.0",
-        "versions": "3.2.0, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.3.0, 2.2.2, 2.2.1, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "3.3.0",
+        "versions": "3.3.0, 3.2.0, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.3.0, 2.2.2, 2.2.1, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Tate Mazer <mazertate@gmail.com>",
         "maintainer": "Tate Mazer <mazertate@gmail.com>",
         "website": "https://github.com/tatemazer/AcaiaArduinoBLE",
