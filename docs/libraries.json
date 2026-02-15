@@ -57233,8 +57233,8 @@
     },
     {
         "name": "ESP32-PSRamFS",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.3-beta, 1.0.2-beta, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.6, 1.0.5, 1.0.3-beta, 1.0.2-beta, 1.0.0",
         "author": "tobozo <tobozo@noreply.github.com>",
         "maintainer": "tobozo <tobozo@noreply.github.com>",
         "website": "https://github.com/tobozo/ESP32-PsRamFS",
@@ -136547,6 +136547,21 @@
         "repository": "https://github.com/bkwoka/UUIDv7.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESP32AI Voice Command",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Xorlent",
+        "maintainer": "Xorlent <https://github.com/Xorlent>",
+        "website": "https://github.com/Xorlent/ESP32AI",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/ESP32AI.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
