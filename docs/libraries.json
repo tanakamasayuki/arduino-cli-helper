@@ -136629,5 +136629,20 @@
         "dependencies": [
             "TFT_eSPI"
         ]
+    },
+    {
+        "name": "ESP32_WS2812B",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Xorlent",
+        "maintainer": "Xorlent <https://github.com/Xorlent>",
+        "website": "https://github.com/Xorlent/ESP32_WS2812B",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/ESP32_WS2812B.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
