@@ -136578,5 +136578,36 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "esp-iot-utils",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
+        "author": "Denis",
+        "maintainer": "Denis",
+        "website": "https://github.com/dmachard/arduino-iot-utils",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/dmachard/esp-iot-utils.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "IskakINO_FastNTP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "iskakfatoni",
+        "maintainer": "iskakfatoni",
+        "website": "https://github.com/iskakfatoni/IskakINO_FastNTP",
+        "category": "Timing",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/iskakfatoni/IskakINO_FastNTP.git",
+        "dependencies": [
+            "IskakINO_WifiPortal",
+            "IskakINO_ArduFast"
+        ]
     }
 ]
