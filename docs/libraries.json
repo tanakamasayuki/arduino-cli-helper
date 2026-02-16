@@ -86947,8 +86947,8 @@
     },
     {
         "name": "Soldered CAN Bus Breakout Arduino Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Soldered",
         "maintainer": "Soldered <soldered@soldered.com>",
         "website": "https://solde.red/333020",
