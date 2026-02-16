@@ -115443,8 +115443,8 @@
     },
     {
         "name": "FastEPD",
-        "version": "1.4.3",
-        "versions": "1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.5",
+        "versions": "1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/FastEPD",
@@ -132645,8 +132645,8 @@
     },
     {
         "name": "myDHT",
-        "version": "2.0.2",
-        "versions": "2.0.2, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 1.0.0",
         "author": "Toni Matutinović",
         "maintainer": "Toni Matutinović <tonimatutta@gmail.com>",
         "website": "https://github.com/tonimatutinovic/myDHT",
@@ -136613,6 +136613,21 @@
         "dependencies": [
             "IskakINO_WifiPortal",
             "IskakINO_ArduFast"
+        ]
+    },
+    {
+        "name": "OnScreenKeyboard",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "NOXUSTIC",
+        "maintainer": "NOXUSTIC",
+        "website": "https://github.com/noxustic/OnScreenKeyboard",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/NOXUSTIC/OnScreenKeyboard.git",
+        "dependencies": [
+            "TFT_eSPI"
         ]
     }
 ]
