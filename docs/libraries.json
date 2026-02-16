@@ -85339,8 +85339,8 @@
     },
     {
         "name": "DovesLapTimer",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.0, 0.0.5, 0.0.2, 0.0.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.0, 0.0.5, 0.0.2, 0.0.1",
         "author": "Michael Champagne (crimsondove)",
         "maintainer": "Michael Champagne",
         "website": "https://github.com/TheAngryRaven/DovesLapTimer",
@@ -136562,6 +136562,21 @@
         "repository": "https://github.com/Xorlent/ESP32AI.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "IskakINO_ArduFast",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Iskak Fatoni",
+        "maintainer": "Iskak Fatoni <iskakfatoni@gmail.com>",
+        "website": "https://github.com/iskakfatoni/IskakINO_ArduFast",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/iskakfatoni/IskakINO_ArduFast.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
