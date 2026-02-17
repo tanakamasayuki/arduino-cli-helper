@@ -81553,8 +81553,8 @@
     },
     {
         "name": "PIR",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.3, 0.1.2, 0.1.1",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PIR",
@@ -136641,6 +136641,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/Xorlent/ESP32_WS2812B.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MicroAsync",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Łukasz Kaniak",
+        "maintainer": "Łukasz Kaniak <lukaszkaniak@gmail.com>",
+        "website": "https://github.com/nativeme/MicroAsync.git",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nativeme/MicroAsync.git",
         "dependencies": [
             ""
         ]
