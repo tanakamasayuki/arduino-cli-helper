@@ -30328,11 +30328,11 @@
     },
     {
         "name": "eFLL",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.1.0",
-        "author": "AJ Alves <aj.alves@zerokol.com>, Dr. Ricardo Lira <ricardor_usp@yahoo.com.br>, Msc. Marvin Lemos <marvinlemos@gmail.com>, Douglas S. Kridi <douglaskridi@gmail.com>, Kannya Leal <kannyal@hotmail.com>",
-        "maintainer": "AJ Alves <aj.alves@zerokol.com>",
-        "website": "https://github.com/zerokol/eFLL",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.1.0",
+        "author": "AJ Alves <alvesoaj@icloud.com>, Dr. Ricardo Lira <ricardor_usp@yahoo.com.br>, Msc. Marvin Lemos <marvinlemos@gmail.com>, Douglas S. Kridi <douglaskridi@gmail.com>, Kannya Leal <kannyal@hotmail.com>",
+        "maintainer": "AJ Alves <alvesoaj@icloud.com>",
+        "website": "https://github.com/alvesoaj/eFLL",
         "category": "Other",
         "architectures": "*",
         "types": "Contributed",
@@ -82513,8 +82513,8 @@
     },
     {
         "name": "AtomicWeight",
-        "version": "0.3.3",
-        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.4",
+        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AtomicWeight",
@@ -136658,6 +136658,21 @@
         "repository": "https://github.com/nativeme/MicroAsync.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "EmbeddedTerminal",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Guido Lehne",
+        "maintainer": "Guido Lehne",
+        "website": "https://github.com/boeserfrosch/EmbeddedTerminal",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/boeserfrosch/EmbeddedTerminal.git",
+        "dependencies": [
+            "ArxContainer"
         ]
     }
 ]
