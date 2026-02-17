@@ -136662,8 +136662,8 @@
     },
     {
         "name": "EmbeddedTerminal",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "Guido Lehne",
         "maintainer": "Guido Lehne",
         "website": "https://github.com/boeserfrosch/EmbeddedTerminal",
