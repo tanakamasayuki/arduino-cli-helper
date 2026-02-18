@@ -136674,5 +136674,20 @@
         "dependencies": [
             "ArxContainer"
         ]
+    },
+    {
+        "name": "DTS6012M",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Martin Schörner",
+        "maintainer": "Martin Schörner <fan4tix@freenet.de>",
+        "website": "https://github.com/fan4tix/DTS6012M",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/fan4tix/DTS6012M.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
