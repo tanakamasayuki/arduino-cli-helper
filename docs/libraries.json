@@ -30328,8 +30328,8 @@
     },
     {
         "name": "eFLL",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.1.0",
+        "version": "1.5.1",
+        "versions": "1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.1.0",
         "author": "AJ Alves <alvesoaj@icloud.com>, Dr. Ricardo Lira <ricardor_usp@yahoo.com.br>, Msc. Marvin Lemos <marvinlemos@gmail.com>, Douglas S. Kridi <douglaskridi@gmail.com>, Kannya Leal <kannyal@hotmail.com>",
         "maintainer": "AJ Alves <alvesoaj@icloud.com>",
         "website": "https://github.com/alvesoaj/eFLL",
@@ -112274,8 +112274,8 @@
     },
     {
         "name": "solarfunctions",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Christian Menne <publicdevelopment@christianmenne.de>",
         "maintainer": "Christian Menne <publicdevelopment@christianmenne.de>",
         "website": "https://github.com/chrmenne/solarfunctions",
@@ -136688,6 +136688,92 @@
         "repository": "https://github.com/fan4tix/DTS6012M.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "UNI",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Fadeev Iliya <fadeev.iliya.2008@gmail.com>",
+        "maintainer": "UniBase Team <fadeev.iliya.2008@gmail.com>",
+        "website": "https://github.com/fadeev-iliya/UNI",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/fadeev-iliya/UNI.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SSD1306",
+            "Adafruit NeoPixel"
+        ]
+    },
+    {
+        "name": "Orbito",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Digital Codesign",
+        "maintainer": "Digital Codesign",
+        "website": "https://github.com/DigitalCodesign/Orbito",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DigitalCodesign/Orbito.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OrbitoBotonera",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Digital Codesign",
+        "maintainer": "Digital Codesign",
+        "website": "https://github.com/DigitalCodesign/OrbitoMochila-Botonera",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DigitalCodesign/OrbitoMochila-Botonera.git",
+        "dependencies": [
+            "Orbito",
+            "Wifi",
+            "Networking",
+            "ESPmDNS",
+            "ArduinoOTA",
+            "Update",
+            "Wire",
+            "SPI",
+            "Adafruit GFX Library",
+            "Adafruit BusIO",
+            "Adafruit_ST7735_and_ST7789_Library",
+            "BLE",
+            "Hash"
+        ]
+    },
+    {
+        "name": "OrbitoMochilaCalidadAire",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Digital Codesign",
+        "maintainer": "Digital Codesign",
+        "website": "https://github.com/DigitalCodesign/OrbitoMochila-CalidadAire",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DigitalCodesign/OrbitoMochila-CalidadAire.git",
+        "dependencies": [
+            "Orbito",
+            "Wifi",
+            "Networking",
+            "ESPmDNS",
+            "ArduinoOTA",
+            "Update",
+            "Wire",
+            "SPI",
+            "Adafruit GFX Library",
+            "Adafruit BusIO",
+            "Adafruit_ST7735_and_ST7789_Library",
+            "BLE",
+            "Hash"
         ]
     }
 ]
