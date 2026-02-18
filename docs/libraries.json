@@ -136839,5 +136839,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "NTPSharp",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Costin Bobes",
+        "maintainer": "Costin Bobes",
+        "website": "https://github.com/costinbobes/NTPSharp",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/costinbobes/NTPSharp.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
