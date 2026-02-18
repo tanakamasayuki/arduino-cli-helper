@@ -119931,8 +119931,8 @@
     },
     {
         "name": "MCP330X",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MCP330X",
@@ -136804,6 +136804,25 @@
         "repository": "https://github.com/sauloverissimo/gingoduino.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Tumbly",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mason Barrett, Lex Kravitz",
+        "maintainer": "Lex Kravitz <alexxai@wustl.edu   >",
+        "website": "https://github.com/KravitzLabDevices/Tumbly",
+        "category": "Device Control",
+        "architectures": "samd",
+        "types": "Contributed",
+        "repository": "https://github.com/KravitzLabDevices/Tumbly.git",
+        "dependencies": [
+            "ArduinoLowPower",
+            "RTClib",
+            "SdFat",
+            "Adafruit GFX Library",
+            "Adafruit SH110X"
         ]
     }
 ]
