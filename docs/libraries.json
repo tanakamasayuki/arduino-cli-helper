@@ -112199,8 +112199,8 @@
     },
     {
         "name": "CynoIOT",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "IoTbundle <iotbundlemail@gmail.com>",
         "maintainer": "IoTbundle <iotbundlemail@gmail.com>",
         "website": "https://github.com/canusorn/CynoIOT",
@@ -136853,6 +136853,21 @@
         "repository": "https://github.com/costinbobes/NTPSharp.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "AsyncTelnet",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Frank Bösing",
+        "maintainer": "Frank Bösing",
+        "website": "https://github.com/FrankBoesing/AsyncTelnet.git",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/FrankBoesing/AsyncTelnet.git",
+        "dependencies": [
+            "AsyncTCP"
         ]
     }
 ]
