@@ -134719,8 +134719,8 @@
     },
     {
         "name": "CH32X035_USBMIDI",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "NoNamedCat",
         "maintainer": "NoNamedCat",
         "website": "https://github.com/NoNamedCat/CH32X035_USBMIDI",
@@ -136793,8 +136793,8 @@
     },
     {
         "name": "Gingoduino",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.1.0",
         "author": "Saulo Verissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/gingoduino",
