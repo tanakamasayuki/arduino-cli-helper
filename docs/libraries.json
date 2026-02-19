@@ -125077,8 +125077,8 @@
     },
     {
         "name": "NezaButton",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "website": "https://github.com/Nezaemmy/NezaButton",
@@ -135961,8 +135961,8 @@
     },
     {
         "name": "nikki.esp32",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
         "author": "Dev Nikki",
         "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
         "website": "https://github.com/nikki-build/nikki.esp32",
