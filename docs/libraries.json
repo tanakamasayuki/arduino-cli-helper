@@ -136793,8 +136793,8 @@
     },
     {
         "name": "Gingoduino",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.1.0",
         "author": "Saulo Verissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/gingoduino",
