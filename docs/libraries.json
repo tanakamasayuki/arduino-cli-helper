@@ -125303,8 +125303,8 @@
     },
     {
         "name": "NezaIR",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "website": "https://github.com/Nezaemmy/NezaIR",
@@ -135961,8 +135961,8 @@
     },
     {
         "name": "nikki.esp32",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dev Nikki",
         "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
         "website": "https://github.com/nikki-build/nikki.esp32",
