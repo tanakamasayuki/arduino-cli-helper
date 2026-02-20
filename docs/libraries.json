@@ -136127,8 +136127,8 @@
     },
     {
         "name": "V7RCServoDriver",
-        "version": "0.0.7",
-        "versions": "0.0.7, 0.0.6, 0.0.5",
+        "version": "0.0.13",
+        "versions": "0.0.13, 0.0.7, 0.0.6, 0.0.5",
         "author": "V7RC / V7 Idea Technology Ltd.",
         "maintainer": "Louis Chuang <louis@v7idea.com.tw>",
         "website": "https://github.com/v7rc/V7RCServoDriver",
@@ -136138,7 +136138,8 @@
         "repository": "https://github.com/v7rc/V7RCServoDriver.git",
         "dependencies": [
             "ESP32Servo",
-            "NimBLE-Arduino"
+            "NimBLE-Arduino",
+            "Adafruit_NeoPixel"
         ]
     },
     {
@@ -136881,6 +136882,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/MAX30205.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "JWMatrixButtons",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "JW Control",
+        "maintainer": "JW Control <jw.control.peru@gmail.com>",
+        "website": "https://github.com/JW-Control/JWMatrixButtons",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/JW-Control/JWMatrixButtons.git",
         "dependencies": [
             ""
         ]
