@@ -51323,17 +51323,17 @@
     },
     {
         "name": "ProtoCentral ADS1262 32-bit precision ADC Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "ProtoCentral Electronics <support@protocentral.com>",
-        "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
+        "author": "Ashwin Whitchurch, Protocentral Electronics <support@protocentral.com>",
+        "maintainer": "Ashwin Whitchurch, Protocentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/ProtoCentral_ads1262",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Protocentral/ProtoCentral_ads1262.git",
         "dependencies": [
-            ""
+            "SPI"
         ]
     },
     {
@@ -89692,8 +89692,8 @@
     },
     {
         "name": "bb_scd41",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.1.2, 1.1.1, 1.1.0, 1.0.1",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.1.2, 1.1.1, 1.1.0, 1.0.1",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_scd41",
@@ -136897,6 +136897,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/JW-Control/JWMatrixButtons.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OrbitoMotores",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Digital Codesign",
+        "maintainer": "Digital Codesign",
+        "website": "https://github.com/DigitalCodesign/OrbitoModulo-Motores",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DigitalCodesign/OrbitoModulo-Motores.git",
         "dependencies": [
             ""
         ]
