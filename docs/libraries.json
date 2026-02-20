@@ -136828,8 +136828,8 @@
     },
     {
         "name": "mldsa",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Asimov <code@neurai.org>",
         "maintainer": "Asimov <code@neurai.org>",
         "website": "https://github.com/NeuraiProject/mldsa-esp32",
