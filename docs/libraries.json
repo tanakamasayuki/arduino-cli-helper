@@ -136779,13 +136779,13 @@
     },
     {
         "name": "ESPAI",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.1, 0.6.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.1, 0.6.0",
         "author": "enkei0x",
         "maintainer": "enkei0x",
         "website": "https://github.com/enkei0x/espai",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, esp32s2, esp32s3, esp32c3",
         "types": "Contributed",
         "repository": "https://github.com/enkei0x/espai.git",
         "dependencies": [
