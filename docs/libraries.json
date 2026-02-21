@@ -136991,5 +136991,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "kic_notation",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "author": "Tomarun029831",
+        "maintainer": "Tomarun029831",
+        "website": "https://github.com/Tomarun029831/kic_notation",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Tomarun029831/kic_notation.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
