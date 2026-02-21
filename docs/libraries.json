@@ -136961,5 +136961,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "cronDaemon",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bojan",
+        "maintainer": "Bojan Jurca <bojan@gmail.com>",
+        "website": "https://github.com/BojanJurca/Cron-Daemon-for-Arduino",
+        "category": "Timing",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/BojanJurca/Cron-Daemon-for-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MultiSensorFilter",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Upamanyu Ray <ray.upamanyu4pwork@gmail.com>",
+        "maintainer": "Upamanyu Ray <ray.upamanyu4pwork@gmail.com>",
+        "website": "https://github.com/tingerlingerr/MultiSensorFilter",
+        "category": "Uncategorized",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tingerlingerr/MultiSensorFilter.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
