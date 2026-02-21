@@ -137006,5 +137006,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Tides",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Florent Valdelievre <florentvaldelievre@gmail.com>",
+        "maintainer": "Florent Valdelievre <florentvaldelievre@gmail.com>",
+        "website": "https://github.com/perpective2410/tide-projectio",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/perpective2410/tide-projectio.git",
+        "dependencies": [
+            "Time"
+        ]
     }
 ]
