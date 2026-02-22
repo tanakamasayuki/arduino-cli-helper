@@ -121319,8 +121319,8 @@
     },
     {
         "name": "JsonTalkie",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.1.0, 3.0.0, 2.0.0, 1.2.0, 1.1.1, 1.0.1, 1.0.0",
+        "version": "6.0.0",
+        "versions": "6.0.0, 4.0.0, 3.1.0, 3.0.0, 2.0.0, 1.2.0, 1.1.1, 1.0.1, 1.0.0",
         "author": "ruiseixasm, Rui Seixas Monteiro",
         "maintainer": "Rui Seixas Monteiro",
         "website": "https://github.com/ruiseixasm/JsonTalkie",
@@ -137009,8 +137009,8 @@
     },
     {
         "name": "Tides",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.3, 0.0.1",
+        "version": "0.0.7",
+        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.3, 0.0.1",
         "author": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "maintainer": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "website": "https://github.com/perpective2410/tide-projectio",
@@ -137093,6 +137093,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/paveldn/HaierProtocol.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "IP_tm_stepmotor",
+        "version": "1.0.6",
+        "versions": "1.0.6",
+        "author": "Shantiya amiri",
+        "maintainer": "Shantiya amiri",
+        "website": "https://github.com/IP-tm/IP_tm_stepmotor",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/IP-tm/IP_tm_stepmotor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Oleoleg_ULN2003_Stepper",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oleoleg (Oleg Shiryaev)",
+        "maintainer": "Oleg Shiryaev e-mail:ole.shiryaev@gmail.com",
+        "website": "https://github.com/oleoleg/Oleoleg_ULN2003_Stepper",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/oleoleg/Oleoleg_ULN2003_Stepper.git",
         "dependencies": [
             ""
         ]
