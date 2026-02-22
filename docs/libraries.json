@@ -136918,8 +136918,8 @@
     },
     {
         "name": "AnimatedroboEye",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Shourov Paul",
         "maintainer": "Shourov Paul <shourovpal32@gmail.com>",
         "website": "https://github.com/Shourov-Paul/AnimatedroboEye",
@@ -137009,8 +137009,8 @@
     },
     {
         "name": "Tides",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.1",
+        "version": "0.0.5",
+        "versions": "0.0.5, 0.0.3, 0.0.1",
         "author": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "maintainer": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "website": "https://github.com/perpective2410/tide-projectio",
