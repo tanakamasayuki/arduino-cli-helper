@@ -137021,5 +137021,35 @@
         "dependencies": [
             "Time"
         ]
+    },
+    {
+        "name": "ESC3B04",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Costello Technical <youtube@costellotechnical.com>",
+        "maintainer": "Costello Technical <youtube@costellotechnical.com>",
+        "website": "https://github.com/CostelloTechnical/ESC3B04",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/CostelloTechnical/ESC3B04.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TLV320DAC3101",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Thomas Jentzsch",
+        "maintainer": "Thomas Jentzsch <yellobyte@bluewin.ch>",
+        "website": "https://github.com/yellobyte/TLV320DAC3101",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/yellobyte/TLV320DAC3101.git",
+        "dependencies": [
+            "Adafruit TLV320 I2S"
+        ]
     }
 ]
