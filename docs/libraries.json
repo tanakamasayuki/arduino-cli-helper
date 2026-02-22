@@ -137066,5 +137066,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Esp_Software_Serial",
+        "version": "8.3.1",
+        "versions": "8.3.1",
+        "author": "Dirk Kaar, Peter Lerup, Jimes Yang",
+        "maintainer": "Dirk Kaar <dok@dok-net.net>",
+        "website": "https://github.com/sndnvaps/espsoftwareserial/",
+        "category": "Signal Input/Output",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/sndnvaps/espsoftwareserial.git",
+        "dependencies": [
+            "ghostl"
+        ]
+    },
+    {
+        "name": "HaierProtocol",
+        "version": "0.9.32",
+        "versions": "0.9.32",
+        "author": "Pavlo Dudnytskyi <paveldudn@gmail.com>",
+        "maintainer": "Pavlo Dudnytskyi <paveldudn@gmail.com>",
+        "website": "https://github.com/paveldn/HaierProtocol",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/paveldn/HaierProtocol.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
