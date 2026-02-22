@@ -137009,8 +137009,8 @@
     },
     {
         "name": "Tides",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.1",
         "author": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "maintainer": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "website": "https://github.com/perpective2410/tide-projectio",
@@ -137050,6 +137050,21 @@
         "repository": "https://github.com/yellobyte/TLV320DAC3101.git",
         "dependencies": [
             "Adafruit TLV320 I2S"
+        ]
+    },
+    {
+        "name": "libsdi12",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
+        "author": "Phillip Weinstock",
+        "maintainer": "Phillip Weinstock",
+        "website": "https://github.com/phillipweinstock/libsdi12",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/phillipweinstock/libsdi12.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
