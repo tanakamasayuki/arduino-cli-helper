@@ -136452,8 +136452,8 @@
     },
     {
         "name": "FansElectronics_License",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.1.0, 1.0.2, 1.0.1",
         "author": "Fans Electronics, Irfan Indra Kurniawan, S.T",
         "maintainer": "Irfan Indra Kurniawan, S.T <info@fanselectronics.com>",
         "website": "https://github.com/Vean/FansElectronics_License",
