@@ -116941,8 +116941,8 @@
     },
     {
         "name": "ESP32_Host_MIDI",
-        "version": "3.1.0",
-        "versions": "3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "sauloverissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/ESP32_Host_MIDI",
@@ -136794,8 +136794,8 @@
     },
     {
         "name": "Gingoduino",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.2, 0.2.1, 0.1.0",
         "author": "Saulo Verissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/gingoduino",
@@ -136994,8 +136994,8 @@
     },
     {
         "name": "kic_notation",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Tomarun029831 <tomarun029831@gmail.com>",
         "maintainer": "Tomarun029831 <tomarun029831@gmail.com>",
         "website": "https://github.com/Tomarun029831/kic_notation",
