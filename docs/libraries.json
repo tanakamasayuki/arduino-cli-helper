@@ -137141,5 +137141,21 @@
         "dependencies": [
             "EEPROM"
         ]
+    },
+    {
+        "name": "NodeRemote",
+        "version": "0.5.14",
+        "versions": "0.5.14",
+        "author": "youjunjer",
+        "maintainer": "youjunjer",
+        "website": "https://github.com/youjunjer/NodeRemote",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/youjunjer/NodeRemote.git",
+        "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
+        ]
     }
 ]
