@@ -127282,8 +127282,8 @@
     },
     {
         "name": "Sensirion I2C SEN63C",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 0.1.0",
         "author": "Sensirion",
         "maintainer": "Sensirion",
         "website": "https://github.com/Sensirion/arduino-i2c-sen63c",
@@ -127297,8 +127297,8 @@
     },
     {
         "name": "Sensirion I2C SEN65",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 0.1.0",
         "author": "Sensirion",
         "maintainer": "Sensirion",
         "website": "https://github.com/Sensirion/arduino-i2c-sen65",
@@ -127312,8 +127312,8 @@
     },
     {
         "name": "Sensirion I2C SEN68",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 0.1.0",
         "author": "Sensirion",
         "maintainer": "Sensirion",
         "website": "https://github.com/Sensirion/arduino-i2c-sen68",
@@ -137125,6 +137125,21 @@
         "repository": "https://github.com/oleoleg/Oleoleg_ULN2003_Stepper.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "LightScheduler",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Goncalo Torres <https://github.com/IAMTorres>",
+        "maintainer": "Goncalo Torres <https://github.com/IAMTorres>",
+        "website": "https://github.com/IAMTorres/LightScheduler",
+        "category": "Timing",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/IAMTorres/LightScheduler.git",
+        "dependencies": [
+            "EEPROM"
         ]
     }
 ]
