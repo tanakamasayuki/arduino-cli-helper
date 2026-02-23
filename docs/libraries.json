@@ -132872,8 +132872,8 @@
     },
     {
         "name": "Quecduino",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.0.1",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.0.1",
         "author": "nikola.bulatovic@quectel.com",
         "maintainer": "nikola.bulatovic@quectel.com",
         "website": "https://github.com/nbulatovi/quecduino",
