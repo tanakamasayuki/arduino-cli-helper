@@ -99722,8 +99722,8 @@
     },
     {
         "name": "DS2438",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DS2438",
@@ -137156,6 +137156,36 @@
         "dependencies": [
             "PubSubClient",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "ATGENXlib",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.1.0",
+        "author": "ATGenX",
+        "maintainer": "Seif Emad <support@atgenx.com>",
+        "website": "https://github.com/ARDUTECH0/ATGENXlib-0.0.1",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ARDUTECH0/ATGENXlib-0.0.1.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TimezoneTranslator",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Costin Bobes",
+        "maintainer": "Costin Bobes",
+        "website": "https://github.com/costinbobes/TimezoneTranslator",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/costinbobes/TimezoneTranslator.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
