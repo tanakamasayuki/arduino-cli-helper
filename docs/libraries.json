@@ -137187,5 +137187,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Arduino_SpiNINA",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Arduino",
+        "maintainer": "Arduino <info@arduino.cc>",
+        "website": "http://www.arduino.cc/en/Reference/Arduino_SpiNINA",
+        "category": "Communication",
+        "architectures": "samd, mbed_rp2040, megaavr",
+        "types": "Arduino",
+        "repository": "https://github.com/arduino-libraries/Arduino_SpiNINA.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "microLCD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "l$ka",
+        "maintainer": "l$ka",
+        "website": "https://github.com/lska-dev/microLCD",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/lska-dev/microLCD.git",
+        "dependencies": [
+            "Wire"
+        ]
     }
 ]
