@@ -136779,8 +136779,8 @@
     },
     {
         "name": "ESPAI",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.7.0, 0.6.1, 0.6.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.6.0",
         "author": "enkei0x",
         "maintainer": "enkei0x",
         "website": "https://github.com/enkei0x/espai",
@@ -137216,6 +137216,36 @@
         "repository": "https://github.com/lska-dev/microLCD.git",
         "dependencies": [
             "Wire"
+        ]
+    },
+    {
+        "name": "ADS7128",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Your Name",
+        "maintainer": "Your Name <your.email@example.com>",
+        "website": "https://github.com/ArscottT/ADS7128-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ArscottT/ADS7128-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LuminOx",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Chiranjeev Veer Singh",
+        "maintainer": "Chiranjeev Veer Singh <chiranjeevs799@gmail.com>",
+        "website": "https://github.com/veersingh671/LuminOx",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/veersingh671/LuminOx.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
