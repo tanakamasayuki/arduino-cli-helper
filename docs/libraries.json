@@ -137262,5 +137262,20 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "WF100DPZ",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Codey Nacke",
+        "maintainer": "Codey Nacke <54290400+CodeyNacke@users.noreply.github.com>",
+        "website": "https://github.com/CodeyNacke/WF100DPZ",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/CodeyNacke/WF100DPZ.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
