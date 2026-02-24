@@ -32729,8 +32729,8 @@
     },
     {
         "name": "RemoteXY",
-        "version": "4.1.8",
-        "versions": "4.1.8, 4.1.7, 4.1.6, 4.1.5, 4.1.4, 4.1.3, 4.1.2, 3.1.14, 3.1.13, 3.1.12, 3.1.11, 3.1.10, 3.1.9, 3.1.7, 3.1.6, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.3.5",
+        "version": "4.1.9",
+        "versions": "4.1.9, 4.1.8, 4.1.7, 4.1.6, 4.1.5, 4.1.4, 4.1.3, 4.1.2, 3.1.14, 3.1.13, 3.1.12, 3.1.11, 3.1.10, 3.1.9, 3.1.7, 3.1.6, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.3.5",
         "author": "Evgenii Shemanuev, RemoteXY",
         "maintainer": "RemoteXY <info@remotexy.com>",
         "website": "http://remotexy.com/en/help/",
@@ -68058,8 +68058,8 @@
     },
     {
         "name": "uICAL",
-        "version": "0.0.4",
-        "versions": "0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.5",
+        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Source Simian <sourcesimian@users.noreply.github.com>",
         "maintainer": "Source Simian <sourcesimian@users.noreply.github.com>",
         "website": "https://github.com/sourcesimian/uICAL/blob/master/README.md",
@@ -128553,8 +128553,8 @@
     },
     {
         "name": "Frugal-IoT",
-        "version": "0.0.16",
-        "versions": "0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.8, 0.0.5, 0.0.4, 0.0.3, 0.0.2",
+        "version": "0.0.17",
+        "versions": "0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.8, 0.0.5, 0.0.4, 0.0.3, 0.0.2",
         "author": "Mitra Ardron",
         "maintainer": "Mitra Ardron <mitra@mitra.biz>",
         "website": "https://github.com/mitra42/frugal-iot",
