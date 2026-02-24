@@ -33202,8 +33202,8 @@
     },
     {
         "name": "NeuralNetwork",
-        "version": "4.1.8",
-        "versions": "4.1.8, 4.1.7, 4.1.0, 4.0.0, 3.1.7, 3.1.6, 3.0.0, 2.4.4, 2.4.1, 2.4.0, 2.3.7, 2.3.6, 2.3.3, 2.3.1, 2.3.0, 2.2.0, 2.1.7, 2.1.1, 2.0.0, 1.8.1, 1.7.9, 1.7.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "4.1.9",
+        "versions": "4.1.9, 4.1.8, 4.1.7, 4.1.0, 4.0.0, 3.1.7, 3.1.6, 3.0.0, 2.4.4, 2.4.1, 2.4.0, 2.3.7, 2.3.6, 2.3.3, 2.3.1, 2.3.0, 2.2.0, 2.1.7, 2.1.1, 2.0.0, 1.8.1, 1.7.9, 1.7.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "George Chousos",
         "maintainer": "gxousos@gmail.com",
         "website": "https://github.com/GiorgosXou/NeuralNetworks",
@@ -44725,8 +44725,8 @@
     },
     {
         "name": "MCP23017_WE",
-        "version": "1.6.10",
-        "versions": "1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.3, 1.1.0, 1.0.0",
+        "version": "1.6.11",
+        "versions": "1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.3, 1.1.0, 1.0.0",
         "author": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "maintainer": "Wolfgang Ewald <wolfgang.ewald@wolles-elektronikkiste.de>",
         "website": "https://github.com/wollewald/MCP23017_WE",
@@ -137205,8 +137205,8 @@
     },
     {
         "name": "microLCD",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "l$ka",
         "maintainer": "l$ka",
         "website": "https://github.com/lska-dev/microLCD",
@@ -137215,7 +137215,7 @@
         "types": "Contributed",
         "repository": "https://github.com/lska-dev/microLCD.git",
         "dependencies": [
-            "Wire"
+            ""
         ]
     },
     {
