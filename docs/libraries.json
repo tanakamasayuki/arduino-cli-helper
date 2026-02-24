@@ -137277,5 +137277,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ESP32-EasyWolfSSL",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Xorlent",
+        "maintainer": "https://github.com/Xorlent",
+        "website": "https://github.com/Xorlent/ESP32-EasyWolfSSL",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/ESP32-EasyWolfSSL.git",
+        "dependencies": [
+            "wolfssl"
+        ]
     }
 ]
