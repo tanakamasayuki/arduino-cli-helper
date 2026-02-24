@@ -2253,8 +2253,8 @@
     },
     {
         "name": "Adafruit VS1053 Library",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.4.4",
+        "versions": "1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.2, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_VS1053_Library",
@@ -104686,8 +104686,8 @@
     },
     {
         "name": "CTRL",
-        "version": "1.5.1",
-        "versions": "1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.10, 1.0.8, 1.0.7, 1.0.5",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.10, 1.0.8, 1.0.7, 1.0.5",
         "author": "Johannes Jan Prins",
         "maintainer": "Johannes Jan Prins <johannesprins@knalgeel.com>",
         "website": "https://github.com/bonkmachines/ctrl-arduino",
@@ -114322,8 +114322,8 @@
     },
     {
         "name": "WalterModem",
-        "version": "1.4.3",
-        "versions": "1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 0.1.3, 0.1.2, 0.1.1",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 0.1.3, 0.1.2, 0.1.1",
         "author": "Daan Pape",
         "maintainer": "Daan Pape <daan@dptechnics.com>",
         "website": "https://www.quickspot.io/",
@@ -115443,8 +115443,8 @@
     },
     {
         "name": "FastEPD",
-        "version": "1.4.5",
-        "versions": "1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.6",
+        "versions": "1.4.6, 1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/FastEPD",
@@ -115608,8 +115608,8 @@
     },
     {
         "name": "PDLS_Basic",
-        "version": "10.0.2",
-        "versions": "10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
+        "version": "10.0.3",
+        "versions": "10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -137291,6 +137291,21 @@
         "repository": "https://github.com/Xorlent/ESP32-EasyWolfSSL.git",
         "dependencies": [
             "wolfssl"
+        ]
+    },
+    {
+        "name": "CSE_ESPMutex",
+        "version": "0.0.6",
+        "versions": "0.0.6",
+        "author": "Vishnu Mohanan",
+        "maintainer": "Vishnu Mohanan",
+        "website": "https://github.com/CIRCUITSTATE/CSE_ESPMutex",
+        "category": "Other",
+        "architectures": "espressif32",
+        "types": "Contributed",
+        "repository": "https://github.com/CIRCUITSTATE/CSE_ESPMutex.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
