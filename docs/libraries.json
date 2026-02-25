@@ -137338,5 +137338,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "YFKeypadLib",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "YFROBOT",
+        "maintainer": "YFROBOT-ZL,<yfrobot@qq.com>",
+        "website": "https://github.com/YFROBOT-TM/Yfrobot-4x4MatrixKeypad-Library",
+        "category": "Communication",
+        "architectures": "arduino",
+        "types": "Contributed",
+        "repository": "https://github.com/YFROBOT-TM/Yfrobot-Keypad-Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
