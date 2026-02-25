@@ -113795,8 +113795,8 @@
     },
     {
         "name": "EEPROMHandler",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "baaaaan1",
         "maintainer": "baaaaan1 <ilhamrs019.all@gmail.com>",
         "website": "https://github.com/baaaaan1/EEPROMHandler",
@@ -134671,8 +134671,8 @@
     },
     {
         "name": "Petal IoT Cloud",
-        "version": "1.1.7",
-        "versions": "1.1.7, 1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1",
+        "version": "1.1.8",
+        "versions": "1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1",
         "author": "Karthickraja. M",
         "maintainer": "Karthickraja. M <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Petal_IoT_Cloud",
@@ -134683,8 +134683,9 @@
         "dependencies": [
             "ArduinoJson",
             "Adafruit GFX Library",
-            "TM16xx Library",
-            "FastLED"
+            "FastLED",
+            "Adafruit BusIO",
+            "Adafruit SSD1306"
         ]
     },
     {
@@ -137319,6 +137320,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/schaffmb/TouchToggle.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SAMD21_WS2812B",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Xorlent",
+        "maintainer": "Xorlent <https://github.com/Xorlent>",
+        "website": "https://github.com/Xorlent/SAMD21_WS2812B",
+        "category": "Device Control",
+        "architectures": "samd",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/SAMD21_WS2812B.git",
         "dependencies": [
             ""
         ]
