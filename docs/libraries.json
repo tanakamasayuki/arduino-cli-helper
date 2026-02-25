@@ -137307,5 +137307,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "TouchToggle",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Michael Schaff <schafmb@gmail.com>",
+        "maintainer": "Michael Schaff <schafmb@gmail.com>",
+        "website": "https://github.com/schaffmb/TouchToggle/",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/schaffmb/TouchToggle.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
