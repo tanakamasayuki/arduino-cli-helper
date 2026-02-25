@@ -64791,13 +64791,13 @@
     },
     {
         "name": "SoftwareSerialTX",
-        "version": "0.0.33",
-        "versions": "0.0.33, 0.0.32, 0.0.31, 0.0.3, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.33, 0.0.32, 0.0.31, 0.0.3, 0.0.1",
         "author": "Jueff",
         "maintainer": "Jürgen (MobaLedLib@gmx.at)",
         "website": "https://github.com/Jueff/SoftwareSerialTX",
         "category": "Signal Input/Output",
-        "architectures": "avr",
+        "architectures": "avr, esp32, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/Jueff/SoftwareSerialTX.git",
         "dependencies": [
