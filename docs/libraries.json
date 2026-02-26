@@ -129559,8 +129559,8 @@
     },
     {
         "name": "Bridgetek_EVE5",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.0",
         "author": "Bridgetek",
         "maintainer": "Bridgetek <support.emea@brtchip.com>",
         "website": "https://github.com/Bridgetek/EVE5-Arduino-Dev",
@@ -130445,8 +130445,8 @@
     },
     {
         "name": "Bridgetek_EVE2",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.0",
         "author": "Bridgetek",
         "maintainer": "Bridgetek <support.emea@brtchip.com>",
         "website": "https://github.com/Bridgetek/EVE2-Arduino-Dev",
@@ -130460,11 +130460,11 @@
     },
     {
         "name": "Bridgetek_EVE2_2",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.0",
         "author": "Bridgetek",
         "maintainer": "Bridgetek <support.emea@brtchip.com>",
-        "website": "https://github.com/Bridgetek/EVE2_2-Arduino-Dev",
+        "website": "https://github.com/Bridgetek/EVE2-2-Arduino-Dev",
         "category": "Display",
         "architectures": "*",
         "types": "Contributed",
@@ -136238,8 +136238,8 @@
     },
     {
         "name": "Bridgetek_EVE3",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.0",
         "author": "Bridgetek",
         "maintainer": "Bridgetek <support.emea@brtchip.com>",
         "website": "https://github.com/Bridgetek/EVE3-Arduino-Dev",
@@ -136253,8 +136253,8 @@
     },
     {
         "name": "Bridgetek_EVE4",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.0",
         "author": "Bridgetek",
         "maintainer": "Bridgetek <support.emea@brtchip.com>",
         "website": "https://github.com/Bridgetek/EVE4-Arduino-Dev",
@@ -137443,6 +137443,26 @@
         "repository": "https://github.com/Xorlent/SAMD_SafeFlashStorage.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Spell_Iot",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "M.Karthickraja",
+        "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
+        "website": "https://github.com/Embedded-Petal/Spell_Iot",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Embedded-Petal/Spell_IoT.git",
+        "dependencies": [
+            "ArduinoJson",
+            "Adafruit GFX Library",
+            "FastLED",
+            "Adafruit BusIO",
+            "Adafruit SSD1306",
+            "TM16xx LEDs and Buttons"
         ]
     }
 ]
