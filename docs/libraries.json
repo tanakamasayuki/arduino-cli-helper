@@ -39370,8 +39370,8 @@
     },
     {
         "name": "Adafruit DPS310",
-        "version": "1.1.5",
-        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.6",
+        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit <info@adafruit.com>",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_DPS310",
@@ -137428,6 +137428,21 @@
         "repository": "https://github.com/dejwk/roo_fonts_basic.git",
         "dependencies": [
             "roo_display"
+        ]
+    },
+    {
+        "name": "SAMD_SafeFlashStorage",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.1",
+        "author": "Xorlent",
+        "maintainer": "Xorlent",
+        "website": "https://github.com/Xorlent/SAMD_SafeFlashStorage",
+        "category": "Data Storage",
+        "architectures": "samd",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/SAMD_SafeFlashStorage.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
