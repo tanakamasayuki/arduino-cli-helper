@@ -31496,8 +31496,8 @@
     },
     {
         "name": "ServoEasing",
-        "version": "3.5.0",
-        "versions": "3.5.0, 3.4.0, 3.3.0, 3.2.1, 3.2.0, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.6.1, 1.6.0, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "3.6.0",
+        "versions": "3.6.0, 3.5.0, 3.4.0, 3.3.0, 3.2.1, 3.2.0, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.6.1, 1.6.0, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Armin Joachimsmeyer",
         "maintainer": "Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/ArminJo/ServoEasing",
@@ -97149,8 +97149,8 @@
     },
     {
         "name": "roo_display",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "3.0.1",
+        "versions": "3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_display",
@@ -123230,8 +123230,8 @@
     },
     {
         "name": "roo_quantity",
-        "version": "1.1.7",
-        "versions": "1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.8",
+        "versions": "1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_quantity",
@@ -126631,8 +126631,8 @@
     },
     {
         "name": "DUERS485DMA",
-        "version": "0.9.7",
-        "versions": "0.9.7, 0.9.6, 0.9.5, 0.9.4, 0.9.3, 0.9.1, 0.9.0",
+        "version": "0.9.8",
+        "versions": "0.9.8, 0.9.7, 0.9.6, 0.9.5, 0.9.4, 0.9.3, 0.9.1, 0.9.0",
         "author": "NitrofMtl",
         "maintainer": "NitrofMtl",
         "website": "https://github.com/NitrofMtl/DUERS485DMA",
@@ -129405,8 +129405,8 @@
     },
     {
         "name": "roo_transport",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_transport",
@@ -137413,6 +137413,21 @@
         "repository": "https://github.com/Exocet22/TinyMQTTClient.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "roo_fonts_basic",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Dejwk <dejwk.oss@gmail.com>",
+        "maintainer": "Dejwk <dejwk.oss@gmail.com>",
+        "website": "https://github.com/dejwk/roo_fonts_basic",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dejwk/roo_fonts_basic.git",
+        "dependencies": [
+            "roo_display"
         ]
     }
 ]
