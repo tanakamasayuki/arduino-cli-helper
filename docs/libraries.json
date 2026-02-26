@@ -108347,8 +108347,8 @@
     },
     {
         "name": "roo_prefs",
-        "version": "1.2.9",
-        "versions": "1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.2.10",
+        "versions": "1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_prefs",
@@ -112154,8 +112154,8 @@
     },
     {
         "name": "roo_time_ds3231",
-        "version": "1.1.5",
-        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.6",
+        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_time_ds3231",
@@ -128491,8 +128491,8 @@
     },
     {
         "name": "VLCB",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.1.0, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0, 1.1.0, 1.0.0",
         "author": "Sven Rosvall <sven@rosvall.ie>",
         "maintainer": "Sven Rosvall <sven@rosvall.ie>",
         "website": "https://github.com/SvenRosvall/VLCB-Arduino",
