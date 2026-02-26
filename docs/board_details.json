@@ -14326,6 +14326,175 @@
     ],
     "package_url": "https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json"
 },
+  "UIAP:ch32v:CH32V00x_EVT": {
+    "name": "Pro Micro CH32V003",
+    "version": "1.0.42",
+    "config_options": [
+        {
+            "option": "pnum",
+            "option_label": "Board Version Select",
+            "values": [
+                {
+                    "value": "CH32V003V1DOT4",
+                    "value_label": "V1.4",
+                    "selected": true
+                },
+                {
+                    "value": "CH32V003V1DOT3",
+                    "value_label": "V1.3"
+                }
+            ]
+        },
+        {
+            "option": "clock",
+            "option_label": "Clock Select",
+            "values": [
+                {
+                    "value": "48MHz_HSI",
+                    "value_label": "48MHz Internal",
+                    "selected": true
+                },
+                {
+                    "value": "24MHz_HSI",
+                    "value_label": "24MHz Internal"
+                },
+                {
+                    "value": "8MHz_HSI",
+                    "value_label": "8MHz Internal"
+                },
+                {
+                    "value": "48MHz_HSE",
+                    "value_label": "48MHz External"
+                },
+                {
+                    "value": "24MHz_HSE",
+                    "value_label": "24MHz External"
+                },
+                {
+                    "value": "8MHz_HSE",
+                    "value_label": "8MHz External"
+                }
+            ]
+        },
+        {
+            "option": "opt",
+            "option_label": "Optimize",
+            "values": [
+                {
+                    "value": "osstd",
+                    "value_label": "Smallest (-Os default)",
+                    "selected": true
+                },
+                {
+                    "value": "oslto",
+                    "value_label": "Smallest (-Os) with LTO"
+                },
+                {
+                    "value": "o1std",
+                    "value_label": "Fast (-O1)"
+                },
+                {
+                    "value": "o1lto",
+                    "value_label": "Fast (-O1) with LTO"
+                },
+                {
+                    "value": "o2std",
+                    "value_label": "Faster (-O2)"
+                },
+                {
+                    "value": "o2lto",
+                    "value_label": "Faster (-O2) with LTO"
+                },
+                {
+                    "value": "o3std",
+                    "value_label": "Fastest (-O3)"
+                },
+                {
+                    "value": "o3lto",
+                    "value_label": "Fastest (-O3) with LTO"
+                },
+                {
+                    "value": "ogstd",
+                    "value_label": "Debug (-Og)"
+                },
+                {
+                    "value": "o0std",
+                    "value_label": "No Optimization (-O0)"
+                }
+            ]
+        },
+        {
+            "option": "dbg",
+            "option_label": "Debug symbols and core logs",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "enable_sym",
+                    "value_label": "Symbols Enabled (-g)"
+                },
+                {
+                    "value": "enable_log",
+                    "value_label": "Core logs Enabled"
+                },
+                {
+                    "value": "enable_all",
+                    "value_label": "Core Logs and Symbols Enabled (-g)"
+                }
+            ]
+        },
+        {
+            "option": "rtlib",
+            "option_label": "C Runtime Library",
+            "values": [
+                {
+                    "value": "nano",
+                    "value_label": "Newlib Nano (default)",
+                    "selected": true
+                },
+                {
+                    "value": "nanofp",
+                    "value_label": "Newlib Nano + Float Printf"
+                },
+                {
+                    "value": "nanofs",
+                    "value_label": "Newlib Nano + Float Scanf"
+                },
+                {
+                    "value": "nanofps",
+                    "value_label": "Newlib Nano + Float Printf/Scanf"
+                },
+                {
+                    "value": "full",
+                    "value_label": "Newlib Standard"
+                }
+            ]
+        },
+        {
+            "option": "upload_method",
+            "option_label": "Upload method",
+            "values": [
+                {
+                    "value": "minichlink",
+                    "value_label": "minichlink",
+                    "selected": true
+                },
+                {
+                    "value": "swdMethod",
+                    "value_label": "WCH-SWD"
+                },
+                {
+                    "value": "ispMethod",
+                    "value_label": "WCH-ISP"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://github.com/YuukiUmeta-UIAP/board_manager_files/raw/main/package_uiap.jp_index.json"
+},
   "arduino:avr:LilyPadUSB": {
     "name": "LilyPad Arduino USB",
     "version": "1.8.6",
