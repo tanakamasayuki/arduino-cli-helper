@@ -127675,8 +127675,8 @@
     },
     {
         "name": "7Semi_MAX31865",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "7Semi <info@7semi.com>",
         "maintainer": "7Semi <info@7semi.com>",
         "website": "https://github.com/7semi-solutions/7Semi-MAX31865-Arduino-Library",
@@ -128654,8 +128654,8 @@
     },
     {
         "name": "7Semi-RS485-Temperature-Humidity-Probe-Arduino-Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "7Semi <info@7semi.com>",
         "maintainer": "7Semi <info@7semi.com>",
         "website": "https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library",
@@ -137494,6 +137494,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/toastmanAu/TelegramSerial.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi BNO08x",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BNO08x-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BNO08x-9-DOF-Orientation-IMU-Fusion.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi_AD569x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_AD569x_Arduino_Library",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_AD569x_Arduino_Library.git",
         "dependencies": [
             ""
         ]
