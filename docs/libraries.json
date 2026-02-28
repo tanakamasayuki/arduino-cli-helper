@@ -134629,8 +134629,8 @@
     },
     {
         "name": "M5IOE1",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5IOE1",
@@ -134739,8 +134739,8 @@
     },
     {
         "name": "FthnLabsDisplay",
-        "version": "0.0.2-alpha",
-        "versions": "0.0.2-alpha, 0.0.1-alpha",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.0.2-alpha, 0.0.1-alpha",
         "author": "Ahmad Fathan <ahmadfathan1021@gmail.com>",
         "maintainer": "Ahmad Fathan <ahmadfathan1021@gmail.com>",
         "website": "https://github.com/ahmadfathan/fthnlabs_display/",
