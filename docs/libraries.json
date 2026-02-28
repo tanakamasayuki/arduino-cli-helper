@@ -97149,8 +97149,8 @@
     },
     {
         "name": "roo_display",
-        "version": "3.0.2",
-        "versions": "3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "3.0.3",
+        "versions": "3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_display",
@@ -97286,8 +97286,8 @@
     },
     {
         "name": "DCCEXProtocol",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Peter Cole, Peter Akers <akersp62@gmail.com>",
         "maintainer": "Peter Cole, Peter Akers <akersp62@gmail.com>",
         "website": "https://dcc-ex.com/DCCEXProtocol/index.html",
@@ -111354,8 +111354,8 @@
     },
     {
         "name": "bb_epaper",
-        "version": "2.1.4",
-        "versions": "2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.7, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.6",
+        "versions": "2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.7, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_epaper",
@@ -133784,8 +133784,8 @@
     },
     {
         "name": "AsyncOTAManager",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Marin Popa",
         "maintainer": "Marin Popa <popica1965@yahoo.com>",
         "website": "https://github.com/marinpopa/AsyncOTAManager",
