@@ -133529,8 +133529,8 @@
     },
     {
         "name": "AsyncWiFiManagerSimple",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Marin Popa",
         "maintainer": "marin Popa <popica1965@yahoo.com>",
         "website": "https://github.com/marinpopa/AsyncWiFiManagerSimple",
@@ -137300,8 +137300,8 @@
     },
     {
         "name": "SAMD21_WS2812B",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/SAMD21_WS2812B",
@@ -137435,8 +137435,8 @@
     },
     {
         "name": "SAMD_SafeFlashStorage",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.1.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.1",
         "author": "Xorlent",
         "maintainer": "Xorlent",
         "website": "https://github.com/Xorlent/SAMD_SafeFlashStorage",
@@ -137545,8 +137545,8 @@
     },
     {
         "name": "MLX90642",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "David Dubins",
         "maintainer": "d.dubins@utoronto.ca",
         "website": "https://github.com/dndubins/MLX90642",
