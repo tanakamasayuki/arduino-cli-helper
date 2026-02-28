@@ -118565,8 +118565,8 @@
     },
     {
         "name": "APDS9960",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Saurav Sajeev",
         "maintainer": "Saurav Sajeev",
         "website": "https://github.com/styropyr0/APDS9960",
@@ -136608,8 +136608,8 @@
     },
     {
         "name": "ESP32_WS2812B",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/ESP32_WS2812B",
@@ -137300,8 +137300,8 @@
     },
     {
         "name": "SAMD21_WS2812B",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/SAMD21_WS2812B",
@@ -137545,8 +137545,8 @@
     },
     {
         "name": "MLX90642",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "David Dubins",
         "maintainer": "d.dubins@utoronto.ca",
         "website": "https://github.com/dndubins/MLX90642",
@@ -137584,6 +137584,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/7semi-solutions/7Semi_INA219_Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Plexus SDK",
+        "version": "0.5.5",
+        "versions": "0.5.5, 0.5.4, 0.5.0",
+        "author": "Plexus Team",
+        "maintainer": "Plexus Team <hello@plexus.dev>",
+        "website": "https://github.com/plexus-oss/c-sdk",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/plexus-oss/c-sdk.git",
         "dependencies": [
             ""
         ]
