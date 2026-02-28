@@ -116928,8 +116928,8 @@
     },
     {
         "name": "ESP32_Host_MIDI",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "5.1.0",
+        "versions": "5.1.0, 5.0.0, 4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "sauloverissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/ESP32_Host_MIDI",
@@ -129378,8 +129378,8 @@
     },
     {
         "name": "QuectelEC200U",
-        "version": "2.6.0",
-        "versions": "2.6.0, 2.5.0, 2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
+        "version": "2.7.0",
+        "versions": "2.7.0, 2.6.0, 2.5.0, 2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
         "author": "misternegative21",
         "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
         "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
@@ -134629,8 +134629,8 @@
     },
     {
         "name": "M5IOE1",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5IOE1",
@@ -135256,8 +135256,8 @@
     },
     {
         "name": "M5PM1",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5PM1",
@@ -137524,6 +137524,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/7semi-solutions/7Semi_AD569x_Arduino_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RoboCore - TCA9534",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "RoboCore Tecnologia (suporte@robocore.net)",
+        "maintainer": "RoboCore Tecnologia (suporte@robocore.net)",
+        "website": "https://github.com/RoboCore/RoboCore_TCA9534",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RoboCore/RoboCore_TCA9534.git",
         "dependencies": [
             ""
         ]
