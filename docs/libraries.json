@@ -51660,8 +51660,8 @@
     },
     {
         "name": "Adafruit TMP117",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_TMP117",
@@ -125366,8 +125366,8 @@
     },
     {
         "name": "Adafruit QMC5883P Library",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_QMC5883P",
@@ -136608,8 +136608,8 @@
     },
     {
         "name": "ESP32_WS2812B",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/ESP32_WS2812B",
@@ -137390,8 +137390,8 @@
     },
     {
         "name": "Grobot_Animations",
-        "version": "0.1.2",
-        "versions": "0.1.2",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2",
         "author": "Tanmay Wankar",
         "maintainer": "Tanmay Wankar <tanmaywankar4@gmail.com>",
         "website": "https://github.com/tanmaywankar/Grobot_Animations",
@@ -137539,6 +137539,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RoboCore/RoboCore_TCA9534.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MLX90642",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "David Dubins",
+        "maintainer": "d.dubins@utoronto.ca",
+        "website": "https://github.com/dndubins/MLX90642",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dndubins/MLX90642.git",
         "dependencies": [
             ""
         ]
