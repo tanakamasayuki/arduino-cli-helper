@@ -137602,5 +137602,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "dual2s",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1",
+        "author": "yesio",
+        "maintainer": "yesio <hhchen.sci@gms.ndhu.edu.tw>",
+        "website": "https://github.com/yesio/dual2s",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/yesio/dual2s.git",
+        "dependencies": [
+            "Adafruit NeoPixel"
+        ]
     }
 ]
