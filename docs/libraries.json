@@ -137617,5 +137617,20 @@
         "dependencies": [
             "Adafruit NeoPixel"
         ]
+    },
+    {
+        "name": "ModbusRTU-pico",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jimes Yang",
+        "maintainer": "Jimes Yang <admin@sndnvaps>",
+        "website": "https://github.com/sndnvaps/ModbusRTU-pico/",
+        "category": "Signal Input/Output",
+        "architectures": "rp2040, rp2350",
+        "types": "Contributed",
+        "repository": "https://github.com/sndnvaps/modbus-pico.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
