@@ -137404,8 +137404,8 @@
     },
     {
         "name": "TinyMQTTClient",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Yvan Régeard <yvan.regeard@gmail.com>",
         "maintainer": "Yvan Régeard <yvan.regeard@gmail.com>",
         "website": "https://github.com/exocet22/TinyMQTTClient",
