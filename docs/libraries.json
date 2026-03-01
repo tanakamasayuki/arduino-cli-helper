@@ -137631,5 +137631,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "microDecoder",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Tim Tierney",
+        "maintainer": "tmrh20 <tmrh20@gmail.com>",
+        "website": "https://github.com/TMRh20/microDecoder",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TMRh20/microDecoder.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
