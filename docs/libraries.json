@@ -4039,8 +4039,8 @@
     },
     {
         "name": "ArduinoJson",
-        "version": "7.4.2",
-        "versions": "7.4.2, 7.4.1, 7.4.0, 7.3.1, 7.3.0, 7.2.1, 7.2.0, 7.1.0, 7.0.4, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.21.5, 6.21.4, 6.21.3, 6.21.2, 6.21.1, 6.21.0, 6.20.1, 6.20.0, 6.19.4, 6.19.3, 6.19.2, 6.19.1, 6.19.0, 6.18.5, 6.18.4, 6.18.3, 6.18.2, 6.18.1, 6.18.0, 6.17.3, 6.17.2, 6.17.1, 6.17.0, 6.16.1, 6.16.0, 6.15.2, 6.15.1, 6.15.0, 6.14.1, 6.14.0, 6.13.0, 6.12.0, 6.11.5, 6.11.4, 6.11.3, 6.11.2, 6.11.1, 6.11.0, 6.10.1, 6.10.0, 6.9.1, 6.9.0, 6.8.0-beta, 6.7.0-beta, 6.6.0-beta, 6.5.0-beta, 6.4.0-beta, 6.3.0-beta, 6.2.3-beta, 6.2.2-beta, 6.2.1-beta, 6.2.0-beta, 6.1.0-beta, 6.0.1-beta, 6.0.0-beta, 5.13.5, 5.13.4, 5.13.3, 5.13.2, 5.13.1, 5.13.0, 5.12.0, 5.11.2, 5.11.1, 5.11.0, 5.10.1, 5.10.0, 5.9.0, 5.8.4, 5.8.3, 5.8.2, 5.8.1, 5.8.0, 5.7.3, 5.7.2, 5.7.1, 5.7.0, 5.6.7, 5.6.6, 5.6.5, 5.6.4, 5.6.3, 5.6.2, 5.6.1, 5.6.0, 5.5.1, 5.5.0, 5.4.0, 5.3.0, 5.2.0, 5.1.1, 5.1.0, 5.1.0-beta.2, 5.1.0-beta.1, 5.0.8, 5.0.7, 5.0.6, 5.0.5, 5.0.4, 5.0.3, 5.0.2, 5.0.1, 5.0.0, 4.0.0",
+        "version": "7.4.3",
+        "versions": "7.4.3, 7.4.2, 7.4.1, 7.4.0, 7.3.1, 7.3.0, 7.2.1, 7.2.0, 7.1.0, 7.0.4, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.21.6, 6.21.5, 6.21.4, 6.21.3, 6.21.2, 6.21.1, 6.21.0, 6.20.1, 6.20.0, 6.19.4, 6.19.3, 6.19.2, 6.19.1, 6.19.0, 6.18.5, 6.18.4, 6.18.3, 6.18.2, 6.18.1, 6.18.0, 6.17.3, 6.17.2, 6.17.1, 6.17.0, 6.16.1, 6.16.0, 6.15.2, 6.15.1, 6.15.0, 6.14.1, 6.14.0, 6.13.0, 6.12.0, 6.11.5, 6.11.4, 6.11.3, 6.11.2, 6.11.1, 6.11.0, 6.10.1, 6.10.0, 6.9.1, 6.9.0, 6.8.0-beta, 6.7.0-beta, 6.6.0-beta, 6.5.0-beta, 6.4.0-beta, 6.3.0-beta, 6.2.3-beta, 6.2.2-beta, 6.2.1-beta, 6.2.0-beta, 6.1.0-beta, 6.0.1-beta, 6.0.0-beta, 5.13.6, 5.13.5, 5.13.4, 5.13.3, 5.13.2, 5.13.1, 5.13.0, 5.12.0, 5.11.2, 5.11.1, 5.11.0, 5.10.1, 5.10.0, 5.9.0, 5.8.4, 5.8.3, 5.8.2, 5.8.1, 5.8.0, 5.7.3, 5.7.2, 5.7.1, 5.7.0, 5.6.7, 5.6.6, 5.6.5, 5.6.4, 5.6.3, 5.6.2, 5.6.1, 5.6.0, 5.5.1, 5.5.0, 5.4.0, 5.3.0, 5.2.0, 5.1.1, 5.1.0, 5.1.0-beta.2, 5.1.0-beta.1, 5.0.8, 5.0.7, 5.0.6, 5.0.5, 5.0.4, 5.0.3, 5.0.2, 5.0.1, 5.0.0, 4.0.0",
         "author": "Benoit Blanchon <blog.benoitblanchon.fr>",
         "maintainer": "Benoit Blanchon <blog.benoitblanchon.fr>",
         "website": "https://arduinojson.org/?utm_source=meta&utm_medium=library.properties",
@@ -136783,8 +136783,8 @@
     },
     {
         "name": "Tumbly",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Mason Barrett, Lex Kravitz",
         "maintainer": "Lex Kravitz <alexxai@wustl.edu   >",
         "website": "https://github.com/KravitzLabDevices/Tumbly",
@@ -136793,7 +136793,7 @@
         "types": "Contributed",
         "repository": "https://github.com/KravitzLabDevices/Tumbly.git",
         "dependencies": [
-            "ArduinoLowPower",
+            "Arduino Low Power",
             "RTClib",
             "SdFat",
             "Adafruit GFX Library",
@@ -137705,6 +137705,21 @@
         "repository": "https://github.com/7semi-solutions/7Semi-OPT4048-Color-Sensor-Arduino-Library.git",
         "dependencies": [
             "Wire"
+        ]
+    },
+    {
+        "name": "Adafruit MAX44009",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_MAX44009",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_MAX44009.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
