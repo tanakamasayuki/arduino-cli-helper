@@ -106119,8 +106119,8 @@
     },
     {
         "name": "LCD_BacklightRGB",
-        "version": "1.6.3",
-        "versions": "1.6.3, 1.5.7, 1.5.5, 1.5.3, 1.3.0, 1.1.9, 1.1.8, 1.1.7, 1.1.5, 1.1.3, 1.1.1, 1.0.5, 1.0.1",
+        "version": "1.7.1",
+        "versions": "1.7.1, 1.6.3, 1.5.7, 1.5.5, 1.5.3, 1.3.0, 1.1.9, 1.1.8, 1.1.7, 1.1.5, 1.1.3, 1.1.1, 1.0.5, 1.0.1",
         "author": "Felix Ochoa",
         "maintainer": "Felix Ochoa",
         "website": "https://github.com/felixthecat8a/LCD_BacklightRGB",
@@ -133783,8 +133783,8 @@
     },
     {
         "name": "AsyncOTAManager",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1",
         "author": "Marin Popa",
         "maintainer": "Marin Popa <popica1965@yahoo.com>",
         "website": "https://github.com/marinpopa/AsyncOTAManager",
