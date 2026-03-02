@@ -134643,8 +134643,8 @@
     },
     {
         "name": "Petal IoT Cloud",
-        "version": "1.1.10",
-        "versions": "1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1",
+        "version": "1.1.15",
+        "versions": "1.1.15, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1",
         "author": "Karthickraja. M",
         "maintainer": "Karthickraja. M <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Petal_IoT_Cloud",
@@ -137660,6 +137660,51 @@
         "repository": "https://github.com/chon-group/javino2arduino.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "7Semi_AD849x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_AD849x",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_AD849x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi LIS3DH",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-LIS3DH-3-axis-acceleromet-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-LIS3DH-3-axis-acceleromet-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi_OPT4048",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-OPT4048-Color-Sensor-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-OPT4048-Color-Sensor-Arduino-Library.git",
+        "dependencies": [
+            "Wire"
         ]
     }
 ]
