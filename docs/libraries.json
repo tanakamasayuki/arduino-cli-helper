@@ -135120,8 +135120,8 @@
     },
     {
         "name": "EPMC_I2C_Client",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Samuel Obiagba <samuel.c.agba@gmail.com>",
         "maintainer": "Samuel Obiagba <samuel.c.agba@gmail.com>",
         "website": "https://github.com/robocre8/EPMC_I2C_Client",
@@ -135130,13 +135130,13 @@
         "types": "Contributed",
         "repository": "https://github.com/robocre8/EPMC_I2C_Client.git",
         "dependencies": [
-            "Wire"
+            ""
         ]
     },
     {
         "name": "EIMU_I2C_Client",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Samuel Obiagba <samuel.c.agba@gmail.com>",
         "maintainer": "Samuel Obiagba <samuel.c.agba@gmail.com>",
         "website": "https://github.com/robocre8/EIMU_I2C_Client",
