@@ -137783,5 +137783,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "AM2302-Sensor-Pi-Pico",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Frank Häfele <mail@frankhaefele.de>",
+        "maintainer": "Frank Häfele <mail@frankhaefele.de>",
+        "website": "https://github.com/hasenradball/AM2302-Sensor-Pi-Pico.git",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/hasenradball/AM2302-Sensor-Pi-Pico.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
