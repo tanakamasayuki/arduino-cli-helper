@@ -80268,8 +80268,8 @@
     },
     {
         "name": "ATC_MiThermometer",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.2, 0.4.1, 0.3.1, 0.2.1, 0.1.0, 0.0.2, 0.0.1",
+        "version": "0.5.1",
+        "versions": "0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.3.1, 0.2.1, 0.1.0, 0.0.2, 0.0.1",
         "author": "Matthias Prinke <matthias-bs@web.de>",
         "maintainer": "Matthias Prinke <matthias-bs@web.de>",
         "website": "https://github.com/matthias-bs/ATC_MiThermometer",
@@ -80278,7 +80278,7 @@
         "types": "Contributed",
         "repository": "https://github.com/matthias-bs/ATC_MiThermometer.git",
         "dependencies": [
-            ""
+            "NimBLE-Arduino"
         ]
     },
     {
@@ -117085,8 +117085,8 @@
     },
     {
         "name": "Rotary_encoder",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
+        "version": "2.4.2",
+        "versions": "2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
         "author": "Csermendy Bendeguz",
         "maintainer": "Csermendy Bendeguz",
         "website": "https://github.com/Bendeguz-Cs/Rotary_encoder/tree/main",
@@ -136984,8 +136984,8 @@
     },
     {
         "name": "Tides",
-        "version": "0.0.7",
-        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.3, 0.0.1",
+        "version": "0.0.9",
+        "versions": "0.0.9, 0.0.7, 0.0.6, 0.0.5, 0.0.3, 0.0.1",
         "author": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "maintainer": "Florent Valdelievre <florentvaldelievre@gmail.com>",
         "website": "https://github.com/perpective2410/tide-projectio",
@@ -137767,6 +137767,21 @@
         "dependencies": [
             "PubSubClient",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "xv7021_spi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sensing System Support, sensingsystem_support@ea.epson.com",
+        "maintainer": "Sensing System Support, sensingsystem_support@ea.epson.com",
+        "website": "https://www.epsondevice.com/crystal/en/products/sensor/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/cubicleguy/xv7021_arduino_spi.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
