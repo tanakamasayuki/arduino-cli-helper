@@ -106179,8 +106179,8 @@
     },
     {
         "name": "ICM45686",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45686",
