@@ -61583,8 +61583,8 @@
     },
     {
         "name": "AGS02MA",
-        "version": "0.4.3",
-        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.4.4",
+        "versions": "0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AGS02MA.git",
@@ -117085,8 +117085,8 @@
     },
     {
         "name": "Rotary_encoder",
-        "version": "2.4.2",
-        "versions": "2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
+        "version": "2.4.4",
+        "versions": "2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
         "author": "Csermendy Bendeguz",
         "maintainer": "Csermendy Bendeguz",
         "website": "https://github.com/Bendeguz-Cs/Rotary_encoder/tree/main",
@@ -134769,8 +134769,8 @@
     },
     {
         "name": "MCM_GitHub_OTA",
-        "version": "0.0.4",
-        "versions": "0.0.4, 0.0.3, 0.0.1",
+        "version": "0.0.5",
+        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.1",
         "author": "mcmchris",
         "maintainer": "mcmchris <mcmchris@hotmail.com>",
         "website": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
