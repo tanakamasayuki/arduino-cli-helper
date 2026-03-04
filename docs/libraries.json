@@ -77045,8 +77045,8 @@
     },
     {
         "name": "digitalWriteFast",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.1, 1.2.0, 1.1.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0",
         "author": "Watterott https://learn.watterott.com/arduino/watterott-libs/",
         "maintainer": "Watterott, Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/ArminJo/digitalWriteFast",
@@ -132106,8 +132106,8 @@
     },
     {
         "name": "MS4525DO_RT",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MS4525DO_RT",
