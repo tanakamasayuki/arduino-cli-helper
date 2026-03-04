@@ -128730,8 +128730,8 @@
     },
     {
         "name": "POTA",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0, 1.0.0",
         "author": "Francesco Alessandro Colucci",
         "maintainer": "pleasedontcode <info@pleasedontcode.com>",
         "website": "https://www.pleasedontcode.com/please-over-the-air/",
@@ -134769,8 +134769,8 @@
     },
     {
         "name": "MCM_GitHub_OTA",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.1",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.1",
         "author": "mcmchris",
         "maintainer": "mcmchris <mcmchris@hotmail.com>",
         "website": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
@@ -137620,11 +137620,11 @@
     },
     {
         "name": "ModbusRTU-pico",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Jimes Yang",
         "maintainer": "Jimes Yang <admin@sndnvaps>",
-        "website": "https://github.com/sndnvaps/ModbusRTU-pico/",
+        "website": "https://github.com/sndnvaps/modbus-pico",
         "category": "Signal Input/Output",
         "architectures": "rp2040, rp2350",
         "types": "Contributed",
@@ -137812,6 +137812,21 @@
         "repository": "https://github.com/adafruit/Adafruit_VCNL4030.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "KiwisIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mugeshwaran R",
+        "maintainer": "Mugeshwaran R <info@kiwisiot.com>",
+        "website": "https://github.com/Kiwistron/KiwisIoT",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Kiwistron/KiwisIoT.git",
+        "dependencies": [
+            "PubSubClient"
         ]
     }
 ]
