@@ -136195,8 +136195,8 @@
     },
     {
         "name": "microReticulum",
-        "version": "0.2.8",
-        "versions": "0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2",
+        "version": "0.2.9",
+        "versions": "0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2",
         "author": "Chad Attermann <attermann@gmail.com>",
         "maintainer": "Chad Attermann <attermann@gmail.com>",
         "website": "https://github.com/attermann/microReticulum.git",
@@ -137797,6 +137797,21 @@
         "repository": "https://github.com/hasenradball/AM2302-Sensor-Pi-Pico.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit VCNL4030",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit (ladyada)",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_VCNL4030",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_VCNL4030.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
