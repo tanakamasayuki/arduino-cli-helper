@@ -88963,8 +88963,8 @@
     },
     {
         "name": "LiteLED",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.0.2, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.1, 3.0.0, 2.0.2, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Xylopyrographer",
         "maintainer": "Xylopyrographer <xylopyrographer@gmail.com>",
         "website": "https://github.com/Xylopyrographer/LiteLED",
@@ -137870,6 +137870,52 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sstaub/NextionX3.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32MultiWiFiProvision",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0",
+        "author": "Nainaiu Rakhaine <nainaiu.rakhaine@gmail.com>",
+        "maintainer": "Nainaiu Rakhaine <nainaiu.rakhaine@gmail.com> (https://www.nainaiurk.me)",
+        "website": "https://github.com/nainaiurk/ESP32MultiWiFiProvision",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nainaiurk/ESP32MultiWiFiProvision.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Adafruit TMAG5273",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_TMAG5273",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_TMAG5273.git",
+        "dependencies": [
+            "Adafruit BusIO",
+            "Adafruit Unified Sensor"
+        ]
+    },
+    {
+        "name": "Forgetfulino",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Forgetfulino Team",
+        "maintainer": "Your Name",
+        "website": "https://github.com/yourusername/Forgetfulino",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/IamTheVector/Forgetfulino.git",
         "dependencies": [
             ""
         ]
