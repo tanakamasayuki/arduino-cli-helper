@@ -137858,5 +137858,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "NextionX3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Stefan Staub",
+        "maintainer": "Stefan Staub <email@domain.com>",
+        "website": "https://github.com/sstaub/NextionX3",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sstaub/NextionX3.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
