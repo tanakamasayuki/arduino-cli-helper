@@ -118491,8 +118491,8 @@
     },
     {
         "name": "SensEdu",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.1, 0.5.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.1, 0.5.0",
         "author": "Vladyslav Sorokin, Azra Talić",
         "maintainer": "Vladyslav Sorokin <Vladyslav.Sorokin@infineon.com>",
         "website": "https://github.com/ShiegeChan/SensEdu",
@@ -128251,8 +128251,8 @@
     },
     {
         "name": "MycilaDimmer",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaDimmer",
