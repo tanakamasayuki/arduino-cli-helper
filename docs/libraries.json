@@ -137843,5 +137843,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MedianFilter",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alexandru Bogdan",
+        "maintainer": "Alexandru Bogdan",
+        "website": "https://github.com/accabog/MedianFilter",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/accabog/MedianFilter.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
