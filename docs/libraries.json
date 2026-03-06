@@ -61767,8 +61767,8 @@
     },
     {
         "name": "ArduPID",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "PowerBroker2 <gitstuff2@gmail.com>",
         "maintainer": "PowerBroker2 <gitstuff2@gmail.com>",
         "website": "https://github.com/PowerBroker2/ArduPID",
@@ -61777,7 +61777,7 @@
         "types": "Contributed",
         "repository": "https://github.com/PowerBroker2/ArduPID.git",
         "dependencies": [
-            "FireTimer"
+            "ArduHelpers"
         ]
     },
     {
@@ -138009,6 +138009,21 @@
         "repository": "https://github.com/Gypsy-Server/Gypsyv1.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "ArduHelpers",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "PowerBroker2 <gitstuff2@gmail.com>",
+        "maintainer": "PowerBroker2 <gitstuff2@gmail.com>",
+        "website": "https://github.com/PowerBroker2/ArduHelpers",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PowerBroker2/ArduHelpers.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
