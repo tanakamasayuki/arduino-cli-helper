@@ -137919,5 +137919,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "StreamCipher",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tabahi Tech <tabahi@duck.com>",
+        "maintainer": "Tabahi Tech <tabahi@duck.com>",
+        "website": "https://github.com/tabahi/StreamCipher",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tabahi/StreamCipher.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
