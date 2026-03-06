@@ -137963,5 +137963,37 @@
             "Makerlabvn_I2C_Line_Follower_Sensor",
             "Blynk"
         ]
+    },
+    {
+        "name": "WS_ESP32_Touch28",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "jeffvan302",
+        "maintainer": "jeffvan302",
+        "website": "https://github.com/jeffvan302/WS_ESP32_Touch28",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jeffvan302/WS_ESP32_Touch28.git",
+        "dependencies": [
+            "JPEGDEC",
+            "PNGdec",
+            "ESP32-audioI2S-master"
+        ]
+    },
+    {
+        "name": "ESP32ControlStudio",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Shravana HS",
+        "maintainer": "ESP32 Control Studio Team",
+        "website": "https://github.com/ShravanaHS/ESP32ControlStudio.git",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/ShravanaHS/ESP32ControlStudio.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
