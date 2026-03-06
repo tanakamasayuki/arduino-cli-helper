@@ -109834,8 +109834,8 @@
     },
     {
         "name": "Guppy",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Ben Green",
         "maintainer": "Ben Green",
         "website": "https://github.com/Kernow-Robotics/Guppy",
@@ -137225,11 +137225,11 @@
     },
     {
         "name": "Voyager-OTA-Client",
-        "version": "3.0.1",
-        "versions": "3.0.1",
+        "version": "4.0.1",
+        "versions": "4.0.1, 3.0.1",
         "author": "Fahad Zia Khan - Mediocre9",
         "maintainer": "Fahad Zia Khan - Mediocre9",
-        "website": "https://github.com/mediocre9/voyager-ota-client",
+        "website": "https://github.com/mediocre9/VoyagerOTAClient",
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
@@ -137994,6 +137994,21 @@
         "repository": "https://github.com/ShravanaHS/ESP32ControlStudio.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Gypsy",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dwan",
+        "maintainer": "Dwan",
+        "website": "https://github.com/Gypsy-Server/Gypsyv1",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Gypsy-Server/Gypsyv1.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
