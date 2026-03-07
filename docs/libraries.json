@@ -138025,5 +138025,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "WiFiController",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Leandro Tavares da Silva",
+        "maintainer": "Leandro Tavares da Silva",
+        "website": "https://github.com/ltavasilva/WiFiController",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ltavasilva/WiFiController.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Adafruit WF100DPZ",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_WF100DPZ",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_WF100DPZ.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
     }
 ]
