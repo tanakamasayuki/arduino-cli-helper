@@ -27910,13 +27910,13 @@
     },
     {
         "name": "MobaTools",
-        "version": "2.7.0",
-        "versions": "2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0, 0.9.1",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0, 0.9.1",
         "author": "MicroBahner",
         "maintainer": "MicroBahner, f-pm+gh@mailbox.org",
         "website": "https://github.com/MicroBahner/MobaTools",
         "category": "Device Control",
-        "architectures": "avr, STM32F1, esp8266, esp32, megaavr, renesas_uno, rp2040",
+        "architectures": "avr, STM32F1, esp8266, esp32, megaavr, renesas_uno, rp2040, samd",
         "types": "Contributed",
         "repository": "https://github.com/MicroBahner/MobaTools.git",
         "dependencies": [
@@ -89797,8 +89797,8 @@
     },
     {
         "name": "AFE_NXP_Arduino",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.3, 1.0.1, 1.0.0, 0.8.1, 0.7.6, 0.2.0, 0.1.3, 0.1.1, 0.1.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.3, 1.0.1, 1.0.0, 0.8.1, 0.7.6, 0.2.0, 0.1.3, 0.1.1, 0.1.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/AFE_NXP_Arduino",
