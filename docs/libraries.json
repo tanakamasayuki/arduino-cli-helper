@@ -107376,8 +107376,8 @@
     },
     {
         "name": "ConsentiumThings",
-        "version": "2.4.0",
-        "versions": "2.4.0, 2.3.9, 2.3.8, 2.3.7, 2.3.6, 2.3.5, 2.3.4, 2.3.3, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.2, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.4.1",
+        "versions": "2.4.1, 2.4.0, 2.3.9, 2.3.8, 2.3.7, 2.3.6, 2.3.5, 2.3.4, 2.3.3, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.2, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Consentium IoT",
         "maintainer": "Consentium IoT<official@consentiumiot.com>",
         "website": "https://github.com/ConsentiumIoT/ConsentiumThings",
@@ -138054,6 +138054,21 @@
         "repository": "https://github.com/adafruit/Adafruit_WF100DPZ.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "SL_PumpDriver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "yosob, Songlinstudio",
+        "maintainer": "yosob <borryyan1@gmail.com>",
+        "website": "https://github.com/yosob/SL_PumpDriver",
+        "category": "Device Control",
+        "architectures": "uno",
+        "types": "Contributed",
+        "repository": "https://github.com/yosob/SL_PumpDriver.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
