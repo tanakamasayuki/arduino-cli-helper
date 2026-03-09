@@ -120822,8 +120822,8 @@
     },
     {
         "name": "Mecmotor",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "Beastbroak30",
         "maintainer": "Antarip Kar <akantarip30@gmail.com>",
         "website": "https://github.com/beastbroak30/Mecmotor",
