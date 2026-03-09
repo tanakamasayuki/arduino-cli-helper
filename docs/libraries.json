@@ -138085,5 +138085,20 @@
         "dependencies": [
             "NimBLE-Arduino"
         ]
+    },
+    {
+        "name": "RaceDisplay",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1",
+        "author": "Francesco Troianiello <direzione@ehorizon.it>",
+        "maintainer": "Francesco Troianiello <direzione@ehorizon.it>",
+        "website": "https://github.com/franzisco29/RaceDisplay",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/franzisco29/RaceDisplay.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
