@@ -138100,5 +138100,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Adafruit AS7331 Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_AS7331",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_AS7331.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
     }
 ]
