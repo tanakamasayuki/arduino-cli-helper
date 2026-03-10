@@ -110004,8 +110004,8 @@
     },
     {
         "name": "MakerBoard",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Yukai Engineering Inc.",
         "maintainer": "Yukai Engineering Inc. <kurikit_support@ux-xu.com>",
         "website": "https://github.com/YUKAI/MakerBoard",
@@ -114570,8 +114570,8 @@
     },
     {
         "name": "CppComponentsLibrary",
-        "version": "0.0.8",
-        "versions": "0.0.8, 0.0.7, 0.0.6, 0.0.3, 0.0.1",
+        "version": "0.0.9",
+        "versions": "0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.3, 0.0.1",
         "author": "Alexander Serebryakov <alex.serebr@gmail.com>",
         "maintainer": "Alexander Serebryakov <alex.serebr@gmail.com>",
         "website": "https://github.com/aserebryakov/arduino-cpp-components-library",
@@ -129126,8 +129126,8 @@
     },
     {
         "name": "Windnerd_Core",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "windnerd.net <dev@windnerd.net>",
         "maintainer": "windnerd.net <dev@windnerd.net>",
         "website": "https://github.com/windnerd-labs/windnerd-core",
