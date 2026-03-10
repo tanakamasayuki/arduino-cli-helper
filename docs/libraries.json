@@ -138077,8 +138077,8 @@
     },
     {
         "name": "RaceDisplay",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.2, 1.1.1",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.2, 1.1.1",
         "author": "Francesco Troianiello <direzione@ehorizon.it>",
         "maintainer": "Francesco Troianiello <direzione@ehorizon.it>",
         "website": "https://github.com/franzisco29/RaceDisplay",
