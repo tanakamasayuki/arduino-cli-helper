@@ -138164,5 +138164,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ESP32Wiimote",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Andre Faria",
+        "maintainer": "Andre Faria <andremarcalfaria@gmail.com>",
+        "website": "https://github.com/andremmfaria/ESP32Wiimote",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/andremmfaria/ESP32Wiimote.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
