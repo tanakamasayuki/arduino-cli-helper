@@ -138179,5 +138179,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "boost-embedded-190",
+        "version": "1.90.0",
+        "versions": "1.90.0",
+        "author": "Boost contributors",
+        "maintainer": "SAT <innovation@sat.qc.ca>",
+        "website": "https://boost.org",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sat-mtl/boost-embedded-190.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
