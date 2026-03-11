@@ -78406,8 +78406,8 @@
     },
     {
         "name": "ClusterDuck Protocol",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.4.0, 4.3.0, 4.2.0, 4.0.0, 3.1.5, 2.11.0, 2.10.3, 2.9.10, 2.9.6, 2.0.4",
+        "version": "5.0.1",
+        "versions": "5.0.1, 5.0.0, 4.4.0, 4.3.0, 4.2.0, 4.0.0, 3.1.5, 2.11.0, 2.10.3, 2.9.10, 2.9.6, 2.0.4",
         "author": "OWL Integrations <info@owlintegrations.com>",
         "maintainer": "OWL Integrations <info@owlintegrations.com>",
         "website": "https://github.com/ClusterDuck-Protocol/ClusterDuck-Protocol",
@@ -78417,14 +78417,10 @@
         "repository": "https://github.com/Call-for-Code/ClusterDuck-Protocol.git",
         "dependencies": [
             "arduino-timer",
-            "U8g2",
             "ArduinoJson",
             "CRC32",
             "RadioLib",
-            "Async TCP",
-            "ESP Async WebServer",
             "PubSubClient",
-            "TinyGPSPlus",
             "FastLED"
         ]
     },
@@ -110216,8 +110212,8 @@
     },
     {
         "name": "ESP-NOW MIDI",
-        "version": "0.10.4",
-        "versions": "0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
+        "version": "0.10.5",
+        "versions": "0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/grantler-instruments/ESP-NOW-MIDI",
@@ -136506,8 +136502,8 @@
     },
     {
         "name": "UUIDv7",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "bkwoka",
         "maintainer": "bkwoka",
         "website": "https://github.com/bkwoka/UUIDv7",
