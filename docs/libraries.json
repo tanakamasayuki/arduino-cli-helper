@@ -73272,8 +73272,8 @@
     },
     {
         "name": "AS5600",
-        "version": "0.6.6",
-        "versions": "0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.6.7",
+        "versions": "0.6.7, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AS5600",
@@ -115131,8 +115131,8 @@
     },
     {
         "name": "ESP32-audioI2S-master",
-        "version": "3.4.4",
-        "versions": "3.4.4, 3.4.2, 3.4.1, 3.4.0, 3.3.0, 3.2.1, 3.0.13, 2.0.0",
+        "version": "3.4.5",
+        "versions": "3.4.5, 3.4.4, 3.4.2, 3.4.1, 3.4.0, 3.3.0, 3.2.1, 3.0.13, 2.0.0",
         "author": "schreibfaul1",
         "maintainer": "schreibfaul1",
         "website": "https://github.com/schreibfaul1/ESP32-audioI2S",
@@ -135335,8 +135335,8 @@
     },
     {
         "name": "HoltzLib",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Kyle Holtz",
         "maintainer": "Kyle Holtz",
         "website": "https://github.com/KE-Holtz/holtzlib",
