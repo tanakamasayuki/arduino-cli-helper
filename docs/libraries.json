@@ -138194,5 +138194,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "EasyLED",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Santi123-debug",
+        "maintainer": "Santi123-debug",
+        "website": "[https://github.com/Santi123-debug/EasyLED](https://github.com/Santi123-debug/EasyLED)",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Santi123-debug/EasyLED.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
