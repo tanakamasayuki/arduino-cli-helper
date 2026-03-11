@@ -138209,5 +138209,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DIYables_OLED_SSD1309",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables",
+        "maintainer": "DIYables <support@diyables.io>",
+        "website": "https://diyables.io/products/2.4-inch-oled-display-module-ssd1309-128x64",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables_OLED_SSD1309.git",
+        "dependencies": [
+            "Adafruit GFX Library"
+        ]
     }
 ]
