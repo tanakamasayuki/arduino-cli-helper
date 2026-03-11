@@ -51660,8 +51660,8 @@
     },
     {
         "name": "Adafruit TMP117",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_TMP117",
@@ -116918,8 +116918,8 @@
     },
     {
         "name": "ESP32_Host_MIDI",
-        "version": "5.1.0",
-        "versions": "5.1.0, 5.0.0, 4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "5.2.0",
+        "versions": "5.2.0, 5.1.0, 5.0.0, 4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "sauloverissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/ESP32_Host_MIDI",
@@ -126063,8 +126063,8 @@
     },
     {
         "name": "Adafruit TCS3430 Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_TCS3430",
@@ -138032,8 +138032,8 @@
     },
     {
         "name": "Adafruit WF100DPZ",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_WF100DPZ",
@@ -138238,6 +138238,21 @@
         "repository": "https://github.com/ASNProject/Panzer_Robotics_Library.git",
         "dependencies": [
             "ASNProject"
+        ]
+    },
+    {
+        "name": "LoRa32T",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sumit Maheshwari <sumitmaheshwari812@gmail.com>",
+        "maintainer": "Sumit Maheshwari <sumitmaheshwari812@gmail.com>",
+        "website": "https://github.com/YOUR_USERNAME/LoRa32T",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/roboticist-blip/LoRa32T.git",
+        "dependencies": [
+            "LoRa"
         ]
     }
 ]
