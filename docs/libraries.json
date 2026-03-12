@@ -138356,5 +138356,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MuxControl",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Aliperti Leonardo <aliperti.leo@gmail.com>",
+        "maintainer": "Aliperti Leonardo <aliperti.leo@gmail.com>",
+        "website": "https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
