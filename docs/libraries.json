@@ -5607,8 +5607,8 @@
     },
     {
         "name": "RF24Network",
-        "version": "2.0.5",
-        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.6",
+        "versions": "2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "TMRh20",
         "maintainer": "TMRh20,Avamander",
         "website": "https://nRF24.github.io/RF24Network/",
@@ -131608,8 +131608,8 @@
     },
     {
         "name": "AmiraEncoder",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/AmiraEncoder",
@@ -137893,7 +137893,7 @@
     {
         "name": "Forgetfulino",
         "version": "1.0.0",
-        "versions": "1.0.0",
+        "versions": "1.0.0, 0.1.0",
         "author": "Forgetfulino Team",
         "maintainer": "Your Name",
         "website": "https://github.com/yourusername/Forgetfulino",
