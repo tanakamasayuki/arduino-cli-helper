@@ -133544,8 +133544,8 @@
     },
     {
         "name": "STM32RS485DMA",
-        "version": "0.6.2",
-        "versions": "0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0",
         "author": "NitrofMtl",
         "maintainer": "NitrofMtl",
         "website": "https://github.com/nitrofmtl/STM32RS485DMA",
@@ -138249,6 +138249,21 @@
         "repository": "https://github.com/roboticist-blip/LoRa32T.git",
         "dependencies": [
             "LoRa"
+        ]
+    },
+    {
+        "name": "EM2M-ESP32-Driver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dhruv K",
+        "maintainer": "Dhruv K",
+        "website": "https://github.com/dhruvkotian/em2m-esp32-modbus",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dhruvkotian/em2m-esp32-modbus.git",
+        "dependencies": [
+            "ModbusMaster"
         ]
     }
 ]
