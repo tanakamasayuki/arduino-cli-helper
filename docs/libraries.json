@@ -138326,5 +138326,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "7Semi_NAU7802_24bit_ADC_WeightScale",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-NAU7802-24bit-ADC-for-Weight-Scale",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-NAU7802-24bit-ADC-for-Weight-Scale.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-OPT3004-Digital-Ambient-Light-Sensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
