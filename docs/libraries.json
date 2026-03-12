@@ -138280,5 +138280,36 @@
         "dependencies": [
             "PubSubClient"
         ]
+    },
+    {
+        "name": "GyverMotor2",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/GyverMotor2",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/GyverMotor2.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GyverKey",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/GyverKey",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/GyverKey.git",
+        "dependencies": [
+            "GyverIO",
+            "uButton"
+        ]
     }
 ]
