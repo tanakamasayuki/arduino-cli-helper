@@ -106722,8 +106722,8 @@
     },
     {
         "name": "RunAvgWeight",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/RunAvgWeight",
@@ -137590,12 +137590,12 @@
     },
     {
         "name": "dual2s",
-        "version": "2.0.4",
-        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1",
         "author": "yesio",
         "maintainer": "yesio <hhchen.sci@gms.ndhu.edu.tw>",
         "website": "https://github.com/yesio/dual2s",
-        "category": "Uncategorized",
+        "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/yesio/dual2s.git",
@@ -138310,6 +138310,21 @@
         "dependencies": [
             "GyverIO",
             "uButton"
+        ]
+    },
+    {
+        "name": "STM32duino LSM6DSO32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nathan Garnier",
+        "maintainer": "Nathan Garnier",
+        "website": "https://github.com/stm32duino/LSM6DSO32",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/stm32duino/LSM6DSO32.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
