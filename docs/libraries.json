@@ -136502,8 +136502,8 @@
     },
     {
         "name": "UUIDv7",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "bkwoka",
         "maintainer": "bkwoka",
         "website": "https://github.com/bkwoka/UUIDv7",
@@ -138386,6 +138386,21 @@
         "dependencies": [
             "Adafruit TinyUSB Library",
             "MIDI Library"
+        ]
+    },
+    {
+        "name": "MAX30001",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Urs Utzinger",
+        "maintainer": "Urs Utzinger",
+        "website": "https://github.com/uutzinger/Arduino_MAX30001G",
+        "category": "Sensors",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/uutzinger/Arduino_MAX30001G.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
