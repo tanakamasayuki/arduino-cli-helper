@@ -125517,8 +125517,8 @@
     },
     {
         "name": "CircuitNotion",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "CircuitNotion",
         "maintainer": "CircuitNotion",
         "website": "https://github.com/CircuitNotion/Gate-server-side-go",
@@ -138414,6 +138414,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UUtzinger_RingBuffer",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Urs Utzinger",
+        "maintainer": "Urs Utzinger",
+        "website": "https://github.com/uutzinger/RingBuffer",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/uutzinger/Arduino_RingBuffer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UUtzinger_logger",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Urs Utzinger",
+        "maintainer": "Urs Utzinger",
+        "website": "https://github.com/uutzinger/logger",
+        "category": "Uncategorized",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/uutzinger/logger.git",
         "dependencies": [
             ""
         ]
