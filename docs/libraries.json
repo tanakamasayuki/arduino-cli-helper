@@ -138402,5 +138402,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "VEGA-UIP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "CDAC",
+        "maintainer": "VEGA-Processor",
+        "website": "https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
