@@ -138371,5 +138371,21 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "TinyUSB_MIDI_Device_Arduino",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.2.0",
+        "author": "rppicomidi",
+        "maintainer": "rppicomidi",
+        "website": "https://github.com/rppicomidi/TinyUSB_MIDI_Device_Arduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rppicomidi/TinyUSB_MIDI_Device_Arduino.git",
+        "dependencies": [
+            "Adafruit TinyUSB Library",
+            "MIDI Library"
+        ]
     }
 ]
