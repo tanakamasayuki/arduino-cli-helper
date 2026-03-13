@@ -136502,8 +136502,8 @@
     },
     {
         "name": "UUIDv7",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "bkwoka",
         "maintainer": "bkwoka",
         "website": "https://github.com/bkwoka/UUIDv7",
@@ -138446,6 +138446,21 @@
         "repository": "https://github.com/uutzinger/logger.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "WirelessRC",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Havish Netla",
+        "maintainer": "Havish Netla",
+        "website": "https://github.com/havishnetla/WirelessRC",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/HavishVivek/WirelessRC.git",
+        "dependencies": [
+            "RadioHead"
         ]
     }
 ]
