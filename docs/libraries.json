@@ -138492,5 +138492,20 @@
         "dependencies": [
             "Sensirion Core"
         ]
+    },
+    {
+        "name": "LCP_sliderPz",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "sliderPz@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LCP_sliderPz",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LCP_sliderPz.git",
+        "dependencies": [
+            "LC_lilOS"
+        ]
     }
 ]
