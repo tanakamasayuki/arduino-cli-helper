@@ -131240,8 +131240,8 @@
     },
     {
         "name": "KaitMenu",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/KaitMenu",
@@ -131608,8 +131608,8 @@
     },
     {
         "name": "AmiraEncoder",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.4",
+        "versions": "1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Livio Bellini",
         "maintainer": "Livio Bellini",
         "website": "https://github.com/liviobellini/AmiraEncoder",
@@ -138549,6 +138549,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/d9ll/d9dist.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "htcw_frame",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "honey the codewitch",
+        "maintainer": "honey the codewitch",
+        "website": "https://github.com/codewitch-honey-crisis/htcw_frame",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/codewitch-honey-crisis/htcw_frame.git",
         "dependencies": [
             ""
         ]
