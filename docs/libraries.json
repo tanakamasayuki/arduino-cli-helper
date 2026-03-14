@@ -75190,8 +75190,8 @@
     },
     {
         "name": "ESP32Console",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Jan Böhmer <mail@jan-boehmer.de>",
         "maintainer": "Jan Böhmer <mail@jan-boehmer.de>",
         "website": "https://github.com/jbtronics/ESP32Console",
@@ -136502,8 +136502,8 @@
     },
     {
         "name": "UUIDv7",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "bkwoka",
         "maintainer": "bkwoka",
         "website": "https://github.com/bkwoka/UUIDv7",
@@ -138521,6 +138521,21 @@
         "repository": "https://github.com/d9ll/d9servo.git",
         "dependencies": [
             "Servo"
+        ]
+    },
+    {
+        "name": "TRAFO",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/TRAFO",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/TRAFO.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
