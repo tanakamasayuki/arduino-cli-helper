@@ -6302,8 +6302,8 @@
     },
     {
         "name": "RF24Ethernet",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.12, 1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.12, 1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://nRF24.github.io/RF24Ethernet/",
@@ -27033,8 +27033,8 @@
     },
     {
         "name": "GxEPD2",
-        "version": "1.6.7",
-        "versions": "1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0",
+        "version": "1.6.8",
+        "versions": "1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0",
         "author": "Jean-Marc Zingg",
         "maintainer": "Jean-Marc Zingg",
         "website": "https://github.com/ZinggJM/GxEPD2",
@@ -129183,13 +129183,13 @@
     },
     {
         "name": "Arduino_RouterBridge",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "Arduino",
         "maintainer": "Arduino",
         "website": "https://github.com/arduino-libraries/Arduino_RouterBridge",
         "category": "Communication",
-        "architectures": "*",
+        "architectures": "zephyr",
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_RouterBridge.git",
         "dependencies": [
@@ -134225,8 +134225,8 @@
     },
     {
         "name": "ServoDAC",
-        "version": "2.4.3",
-        "versions": "2.4.3, 2.4.2, 2.4.1, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.1.12, 2.1.11, 2.1.10, 2.1.9, 2.1.7, 2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.4.4",
+        "versions": "2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.1.12, 2.1.11, 2.1.10, 2.1.9, 2.1.7, 2.1.6, 2.1.5, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/ServoDAC",
@@ -138631,17 +138631,62 @@
     },
     {
         "name": "GL868_ESP32",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Jobit Joseph, Semicon Lab",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
-        "website": "https://github.com/jobitjoseph/GL868_ESP32",
+        "website": "https://github.com/Circuit-Digest/GL868_ESP32",
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/Circuit-Digest/GL868_ESP32.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "MLLServoConfigurator",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Jueff",
+        "maintainer": "Jueff <mobaledlib@gmx.at>",
+        "website": "https://github.com/Jueff/MLLServoConfigurator",
+        "category": "Signal Input/Output",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/Jueff/MLLServoConfigurator.git",
+        "dependencies": [
+            "PicoFlashStorage"
+        ]
+    },
+    {
+        "name": "MLLSoundTiny",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Jueff",
+        "maintainer": "Jueff <mobaledlib@gmx.at>",
+        "website": "https://github.com/Jueff/MLLSoundTiny",
+        "category": "Signal Input/Output",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/Jueff/MLLSoundTiny.git",
+        "dependencies": [
+            "PicoFlashStorage"
+        ]
+    },
+    {
+        "name": "WS281xProcessor",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.0",
+        "author": "Jueff",
+        "maintainer": "Jueff <mobaledlib@gmx.at>",
+        "website": "https://github.com/Jueff/WS281xProcessor#readme",
+        "category": "Signal Input/Output",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/Jueff/WS281xProcessor.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
