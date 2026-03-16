@@ -85325,8 +85325,8 @@
     },
     {
         "name": "DovesLapTimer",
-        "version": "3.2.0",
-        "versions": "3.2.0, 3.1.1, 3.1.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.0, 0.0.5, 0.0.2, 0.0.1",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.2.0, 3.1.1, 3.1.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.0, 0.0.5, 0.0.2, 0.0.1",
         "author": "Michael Champagne (crimsondove)",
         "maintainer": "Michael Champagne",
         "website": "https://github.com/TheAngryRaven/DovesLapTimer",
@@ -137893,12 +137893,12 @@
     },
     {
         "name": "Forgetfulino",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
-        "author": "Forgetfulino Team",
-        "maintainer": "Your Name",
-        "website": "https://github.com/yourusername/Forgetfulino",
-        "category": "Data Processing",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0, 0.1.0",
+        "author": "Nader Al Khatib",
+        "maintainer": "Nader Al Khatib",
+        "website": "https://github.com/IamTheVector/Forgetfulino",
+        "category": "Other",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/IamTheVector/Forgetfulino.git",
@@ -138685,6 +138685,21 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/Jueff/WS281xProcessor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AMC1302",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/AMC1302",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/AMC1302.git",
         "dependencies": [
             ""
         ]
