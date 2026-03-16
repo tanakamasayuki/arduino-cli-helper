@@ -89287,8 +89287,8 @@
     },
     {
         "name": "BlynkNcpDriver",
-        "version": "0.6.3",
-        "versions": "0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.4.6",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.4.6",
         "author": "Volodymyr Shymanskyy",
         "maintainer": "Volodymyr Shymanskyy <vshymanskyi@gmail.com>",
         "website": "https://blynk.io",
@@ -125187,8 +125187,8 @@
     },
     {
         "name": "Neza74HC165",
-        "version": "2.0.5",
-        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "2.0.6",
+        "versions": "2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "website": "https://github.com/Nezaemmy/Neza74HC165",
@@ -138609,6 +138609,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/gb88/BLEOTA.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MvsConnect",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1",
+        "author": "Vishal Jain <jain.vishal1695@gmail.com>",
+        "maintainer": "Vishal Jain <jain.vishal1695@gmail.com>",
+        "website": "https://github.com/allwhc/mvsconnect",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/allwhc/mvsconnect.git",
         "dependencies": [
             ""
         ]
