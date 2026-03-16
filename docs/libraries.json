@@ -6302,8 +6302,8 @@
     },
     {
         "name": "RF24Ethernet",
-        "version": "1.6.17",
-        "versions": "1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.12, 1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.12, 1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://nRF24.github.io/RF24Ethernet/",
@@ -6314,7 +6314,8 @@
         "dependencies": [
             "RF24",
             "RF24Network",
-            "RF24Mesh"
+            "RF24Mesh",
+            "lwIP"
         ]
     },
     {
@@ -137605,12 +137606,12 @@
     },
     {
         "name": "ModbusRTU-pico",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "4.2.1",
+        "versions": "4.2.1, 1.0.2, 1.0.0",
         "author": "Jimes Yang",
         "maintainer": "Jimes Yang <admin@sndnvaps>",
         "website": "https://github.com/sndnvaps/modbus-pico",
-        "category": "Signal Input/Output",
+        "category": "Communication",
         "architectures": "rp2040, rp2350",
         "types": "Contributed",
         "repository": "https://github.com/sndnvaps/modbus-pico.git",
@@ -138626,6 +138627,21 @@
         "repository": "https://github.com/allwhc/mvsconnect.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "GL868_ESP32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jobit Joseph, Semicon Lab",
+        "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "website": "https://github.com/jobitjoseph/GL868_ESP32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Circuit-Digest/GL868_ESP32.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
