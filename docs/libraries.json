@@ -91926,8 +91926,8 @@
     },
     {
         "name": "QUAD7SHIFT",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alex Rosito",
         "maintainer": "Alex Rosito",
         "website": "https://github.com/AlexRosito67/QUAD7SHIFT",
@@ -91936,7 +91936,7 @@
         "types": "Contributed",
         "repository": "https://github.com/AlexRosito67/QUAD7SHIFT.git",
         "dependencies": [
-            "tinySPI"
+            ""
         ]
     },
     {
@@ -134209,8 +134209,8 @@
     },
     {
         "name": "GPIOUtils",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
+        "version": "2.4.1",
+        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/GPIOUtils",
