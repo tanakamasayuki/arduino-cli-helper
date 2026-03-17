@@ -75407,8 +75407,8 @@
     },
     {
         "name": "pfodParser",
-        "version": "3.66.6",
-        "versions": "3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
         "author": "Matthew Ford",
         "maintainer": "Matthew Ford",
         "website": "https://github.com/drmpf/pfodParser",
@@ -137896,8 +137896,8 @@
     },
     {
         "name": "Forgetfulino",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.0, 0.1.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.0, 0.1.0",
         "author": "Nader Al Khatib",
         "maintainer": "Nader Al Khatib",
         "website": "https://github.com/IamTheVector/Forgetfulino",
@@ -138559,8 +138559,8 @@
     },
     {
         "name": "htcw_frame",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/htcw_frame",
@@ -138709,19 +138709,79 @@
     },
     {
         "name": "ESP32MacroPad",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Havish Vivek",
-        "maintainer": "Havish Vivek <havish@example.com>",
-        "website": "https://github.com/HavishVivek/ESP32MacroPad",
-        "category": "Uncategorized",
+        "maintainer": "Havish Vivek",
+        "website": "https://github.com/havishvivek/esp32macropad/",
+        "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/HavishVivek/ESP32MacroPad.git",
         "dependencies": [
-            "ESP32 BLE Keyboard",
             "Adafruit SSD1306",
             "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "OneWirePIO_RP2040",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ângelo",
+        "maintainer": "Ângelo",
+        "website": "https://github.com/angeloINTJ/OneWirePIO_RP2040",
+        "category": "Sensors",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/angeloINTJ/OneWirePIO_RP2040.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DHT22PIO_RP2040",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ângelo",
+        "maintainer": "Ângelo",
+        "website": "https://github.com/angeloINTJ/DHT22PIO_RP2040",
+        "category": "Sensors",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/angeloINTJ/DHT22PIO_RP2040.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESPSmartDash",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Manish KD",
+        "maintainer": "Manish KD <dmanishkumar093@gmail.com>",
+        "website": "https://github.com/ManishKDtm/ESPSmartDash",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ManishKDtm/ESPSmartDash.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MicroNet",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.4, 0.0.2",
+        "author": "Thomas O Fredericks",
+        "maintainer": "Thomas O Fredericks",
+        "website": "https://github.com/thomasfredericks/MicroNet",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/thomasfredericks/MicroNet.git",
+        "dependencies": [
+            "WiFiManager",
+            "EthernetBonjour"
         ]
     }
 ]
