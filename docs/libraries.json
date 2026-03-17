@@ -50566,8 +50566,8 @@
     },
     {
         "name": "runningAngle",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.3",
+        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/runningAngle",
@@ -109941,8 +109941,8 @@
     },
     {
         "name": "MCP3424",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MCP3424",
@@ -125096,21 +125096,6 @@
         ]
     },
     {
-        "name": "SparkFun Authentication Coprocessor Arduino Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "SparkFun Electronics <techsupport@sparkfun.com>",
-        "maintainer": "SparkFun Electronics <sparkfun.com>",
-        "website": "https://github.com/sparkfun/SparkFun_Authentication_Coprocessor_Arduino_Library",
-        "category": "Communication",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/sparkfun/SparkFun_Authentication_Coprocessor_Arduino_Library.git",
-        "dependencies": [
-            "SparkFun Toolkit"
-        ]
-    },
-    {
         "name": "EasyArduino",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -125138,22 +125123,6 @@
         "repository": "https://github.com/RobTillaart/I2C_CAT24M01.git",
         "dependencies": [
             ""
-        ]
-    },
-    {
-        "name": "SparkFun Apple Accessory Arduino Library",
-        "version": "3.1.2",
-        "versions": "3.1.2, 3.1.1, 3.1.0, 3.0.9, 3.0.8, 1.0.1, 1.0.0",
-        "author": "SparkFun Electronics <techsupport@sparkfun.com>",
-        "maintainer": "SparkFun Electronics <sparkfun.com>",
-        "website": "https://github.com/sparkfun/SparkFun_Apple_Accessory_Arduino_Library",
-        "category": "Communication",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/sparkfun/SparkFun_Apple_Accessory_Arduino_Library.git",
-        "dependencies": [
-            "SparkFun Toolkit",
-            "SparkFun Authentication Coprocessor Arduino Library"
         ]
     },
     {
@@ -129212,21 +129181,6 @@
         ]
     },
     {
-        "name": "Shrike Flash Library",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
-        "author": "Vicharak",
-        "maintainer": "Vicharak <deepak.sharda@vicharak.in>",
-        "website": "https://github.com/vicharak-in/shrike_flash",
-        "category": "Communication",
-        "architectures": "rp2040",
-        "types": "Contributed",
-        "repository": "https://github.com/vicharak-in/shrike_flash.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "vovagorodok_ArduinoBleBattery",
         "version": "1.0.1",
         "versions": "1.0.1, 1.0.0, 0.2.0, 0.1.0",
@@ -131350,8 +131304,8 @@
     },
     {
         "name": "MicroBlue",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.1",
         "author": "SnappyXO",
         "maintainer": "SnappyXO",
         "website": "https://github.com/snappyxo/microblue-arduino",
@@ -136329,7 +136283,7 @@
         "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/MasBarr/TumbleFeeder.git",
+        "repository": "https://github.com/KravitzLabDevices/TumbleFeeder.git",
         "dependencies": [
             "Servo",
             "RTClib",
@@ -137438,26 +137392,6 @@
         ]
     },
     {
-        "name": "Spell_Iot",
-        "version": "1.0.1",
-        "versions": "1.0.1",
-        "author": "M.Karthickraja",
-        "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
-        "website": "https://github.com/Embedded-Petal/Spell_Iot",
-        "category": "Communication",
-        "architectures": "esp32, esp8266",
-        "types": "Contributed",
-        "repository": "https://github.com/Embedded-Petal/Spell_IoT.git",
-        "dependencies": [
-            "ArduinoJson",
-            "Adafruit GFX Library",
-            "FastLED",
-            "Adafruit BusIO",
-            "Adafruit SSD1306",
-            "TM16xx LEDs and Buttons"
-        ]
-    },
-    {
         "name": "SparkFun CY8CMBR3xxx Arduino Library",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -138103,21 +138037,6 @@
         "repository": "https://github.com/adafruit/Adafruit_AS7331.git",
         "dependencies": [
             "Adafruit BusIO"
-        ]
-    },
-    {
-        "name": "Pico Flash Storage",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Juergen Winkler",
-        "maintainer": "jueff@gmx.at",
-        "website": "https://github.com/jueff/PicoFlashStorage",
-        "category": "Data Storage",
-        "architectures": "rp2040",
-        "types": "Contributed",
-        "repository": "https://github.com/Jueff/PicoFlashStorage.git",
-        "dependencies": [
-            ""
         ]
     },
     {
@@ -138810,6 +138729,56 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sakibahmedshanto/Roblink-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Spell_IoT",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.0.10",
+        "author": "M.Karthickraja",
+        "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
+        "website": "https://github.com/Embedded-Petal/Spell_Iot",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Embedded-Petal/Spell_IoT.git",
+        "dependencies": [
+            "ArduinoJson",
+            "Adafruit GFX Library",
+            "FastLED",
+            "Adafruit BusIO",
+            "Adafruit SSD1306",
+            "TM16xx LEDs and Buttons"
+        ]
+    },
+    {
+        "name": "PicoFlashStorage",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Jueff",
+        "maintainer": "Jueff <mobaledlib@gmx.at>",
+        "website": "https://github.com/jueff/PicoFlashStorage",
+        "category": "Data Storage",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/Jueff/PicoFlashStorage.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DiscretePID",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Hernan Astudillo",
+        "maintainer": "Hernan Astudillo <Hastu004@users.noreply.github.com>",
+        "website": "https://github.com/Hastu004/DiscretePID",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Hastu004/DiscretePID.git",
         "dependencies": [
             ""
         ]
