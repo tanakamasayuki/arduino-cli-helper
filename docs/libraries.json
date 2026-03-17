@@ -128656,8 +128656,8 @@
     },
     {
         "name": "SSD1306",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.1.0, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.1.0, 1.0.0",
         "author": "Volodymyr Kumpan",
         "maintainer": "Volodymyr Kumpan <v.kumpan@outlook.com>",
         "website": "https://github.com/vkumpan/SSD1306",
@@ -138782,6 +138782,21 @@
         "dependencies": [
             "WiFiManager",
             "EthernetBonjour"
+        ]
+    },
+    {
+        "name": "PtpIpCamera",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Seemanta Dutta",
+        "maintainer": "Seemanta Dutta",
+        "website": "https://github.com/seemantadutta/PtpIpCamera",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, samd",
+        "types": "Contributed",
+        "repository": "https://github.com/seemantadutta/PtpIpCamera.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
