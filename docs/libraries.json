@@ -46669,8 +46669,8 @@
     },
     {
         "name": "LibLanc",
-        "version": "3.0.3",
-        "versions": "3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "3.0.4",
+        "versions": "3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Simon Ensslen",
         "maintainer": "Simon Ensslen <sensslen@gmail.com>",
         "website": "https://github.com/sensslen/LibLanc",
@@ -112434,8 +112434,8 @@
     },
     {
         "name": "uEspConfigLib",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Naguissa <naguissa@foroelectro.net>",
         "maintainer": "Naguissa <naguissa@foroelectro.net>",
         "website": "https://github.com/Naguissa/uEspConfigLib",
@@ -112444,7 +112444,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Naguissa/uEspConfigLib.git",
         "dependencies": [
-            ""
+            "uEEPROMLib"
         ]
     },
     {
@@ -138634,9 +138634,9 @@
     },
     {
         "name": "GL868_ESP32",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
-        "author": "Jobit Joseph, Semicon Lab",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/GL868_ESP32",
         "category": "Communication",
@@ -138755,8 +138755,8 @@
     },
     {
         "name": "ESPSmartDash",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Manish KD",
         "maintainer": "Manish KD <dmanishkumar093@gmail.com>",
         "website": "https://github.com/ManishKDtm/ESPSmartDash",
