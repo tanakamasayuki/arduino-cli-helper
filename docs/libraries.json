@@ -137996,8 +137996,8 @@
     },
     {
         "name": "HijelHID_BLEKeyboard",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Hijel",
         "maintainer": "Hijel hijel.hub@gmail.com",
         "website": "https://github.com/HijelHub/HijelHID_BLEKeyboard",
@@ -138846,6 +138846,21 @@
             "LC_GUITools",
             "ST7796_t3",
             "Adafruit FT6206 Library"
+        ]
+    },
+    {
+        "name": "Sonic",
+        "version": "1.2.4",
+        "versions": "1.2.4",
+        "author": "Axxel",
+        "maintainer": "Axxel <Axxel.Inkordia@proton.me>",
+        "website": "https://github.com/Axxel-otl/Sonic",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Axxel-otl/Sonic.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
