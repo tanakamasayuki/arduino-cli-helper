@@ -103355,8 +103355,8 @@
     },
     {
         "name": "MightyOhmGeigerCounter",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Tyler Nielsen <tylernielsenn@gmail.com>",
         "maintainer": "Tyler Nielsen <tylernielsenn@gmail.com>",
         "website": "https://github.com/SnailDragon/MightyOhmGeigerCounter",
@@ -138827,6 +138827,25 @@
         "dependencies": [
             "Adafruit GFX Library",
             "Adafruit CPFS"
+        ]
+    },
+    {
+        "name": "LC_MSP3526_T",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "jim lee",
+        "maintainer": "MSP3526_T@leftcoast.biz",
+        "website": "https://github.com/leftCoast/LC_MSP3526_T",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/leftCoast/LC_MSP3526_T.git",
+        "dependencies": [
+            "LC_baseTools",
+            "LC_SPI",
+            "LC_GUITools",
+            "ST7796_t3",
+            "Adafruit FT6206 Library"
         ]
     }
 ]
