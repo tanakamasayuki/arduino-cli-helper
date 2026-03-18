@@ -134557,8 +134557,8 @@
     },
     {
         "name": "CAN_MREx",
-        "version": "1.12.3",
-        "versions": "1.12.3, 1.12.1, 1.12.0",
+        "version": "1.13.0",
+        "versions": "1.13.0, 1.12.3, 1.12.1, 1.12.0",
         "author": "Chiara Gillam",
         "maintainer": "Chiara Gillam <chiaragillam@gmail.com>",
         "website": "https://github.com/Monash-Railway-Express/CAN_MREx",
@@ -138859,6 +138859,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Axxel-otl/Sonic.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PocketbaseExtended",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.3.5",
+        "author": "Jeo Carlo Lubao",
+        "maintainer": "Jeo Carlo Lubao",
+        "website": "https://github.com/PocketBaseExtended/PocketbaseExtended",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/PocketBaseExtended/PocketbaseExtended.git",
         "dependencies": [
             ""
         ]
