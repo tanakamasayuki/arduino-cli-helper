@@ -80743,8 +80743,8 @@
     },
     {
         "name": "MAGELLAN",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
         "author": "AIS IoT Alliance Program",
         "maintainer": "MAGELLAN POC devices team <aisiot2020@gmail.com>",
         "website": "https://github.com/AIS-DeviceInnovation/Magellan",
@@ -111126,8 +111126,8 @@
     },
     {
         "name": "M5UnitUnified",
-        "version": "0.4.2",
-        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.4.4",
+        "versions": "0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5UnitUnified.git",
@@ -138876,6 +138876,36 @@
         "repository": "https://github.com/PocketBaseExtended/PocketbaseExtended.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "McpIot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "2edge.co <contact@2edge.co>",
+        "maintainer": "2edge.co <contact@2edge.co>",
+        "website": "https://github.com/ThanabordeeN/McpIot",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/ThanabordeeN/MCP-U_Arduino.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "DIYables Bluetooth",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables",
+        "maintainer": "DIYables <support@diyables.io>",
+        "website": "https://diyables.io/bluetooth-app",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables-Bluetooth.git",
+        "dependencies": [
+            "ArduinoBLE"
         ]
     }
 ]
