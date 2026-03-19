@@ -120393,8 +120393,8 @@
     },
     {
         "name": "DTS6012M_UART",
-        "version": "2.3.1",
-        "versions": "2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.0",
         "author": "Albert Cornelissen <albert@cornelissen.me>",
         "maintainer": "Albert Cornelissen <albert@cornelissen.me>",
         "website": "https://github.com/acornelissen/DTS6012M_UART",
@@ -138176,8 +138176,8 @@
     },
     {
         "name": "EM2M-ESP32-Driver",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Dhruv K",
         "maintainer": "Dhruv K",
         "website": "https://github.com/dhruvkotian/em2m-esp32-modbus",
@@ -138964,6 +138964,51 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/tonywestonuk/EPD_Painter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32 AWS MQTT Manager",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit K. Shaw",
+        "maintainer": "Rohit K. Shaw",
+        "website": "https://github.com/shawrhit/ESP32-AWS-MQTT-Manager",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/shawrhit/ESP32_AWS_MQTT_Manager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "InkaLogicModbus",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MMJ SMART ELECTRONICS by max",
+        "maintainer": "InkaLogic",
+        "website": "https://github.com/boxlink/INKALOGIC.git",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/boxlink/INKALOGIC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SharpSensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "YourFriendName",
+        "maintainer": "YourFriendName <email@example.com>",
+        "website": "https://github.com/glebshow23-crypto/SharpSensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/glebshow23-crypto/SharpSensor.git",
         "dependencies": [
             ""
         ]
