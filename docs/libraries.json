@@ -111077,8 +111077,8 @@
     },
     {
         "name": "M5Unit-HUB",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0, 0.0.2, 0.0.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-HUB",
@@ -138087,7 +138087,7 @@
     {
         "name": "ESP32Wiimote",
         "version": "1.5.0",
-        "versions": "1.5.0, 1.0.0",
+        "versions": "1.5.0, 1.1.0, 1.0.0",
         "author": "Andre Faria",
         "maintainer": "Andre Faria <andremarcalfaria@gmail.com>",
         "website": "https://github.com/andremmfaria/ESP32Wiimote",
