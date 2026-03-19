@@ -75407,8 +75407,8 @@
     },
     {
         "name": "pfodParser",
-        "version": "4.1.0",
-        "versions": "4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
+        "version": "4.1.1",
+        "versions": "4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
         "author": "Matthew Ford",
         "maintainer": "Matthew Ford",
         "website": "https://github.com/drmpf/pfodParser",
@@ -137108,13 +137108,13 @@
     },
     {
         "name": "Arduino_SpiNINA",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "http://www.arduino.cc/en/Reference/Arduino_SpiNINA",
         "category": "Communication",
-        "architectures": "samd, mbed_rp2040, megaavr",
+        "architectures": "samd, mbed_nano, megaavr",
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_SpiNINA.git",
         "dependencies": [
@@ -138934,6 +138934,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/agusevtec/eva-core-sk.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PersistentLog",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Derek Bredensteiner",
+        "maintainer": "Derek Bredensteiner",
+        "website": "https://github.com/derekbreden/PersistentLog",
+        "category": "Data Storage",
+        "architectures": "esp32, esp8266, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/derekbreden/PersistentLog.git",
         "dependencies": [
             ""
         ]
