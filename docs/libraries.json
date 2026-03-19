@@ -93936,8 +93936,8 @@
     },
     {
         "name": "RocciBoard-Library",
-        "version": "1.4.5",
-        "versions": "1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Robotics Competence Center Illertal e. V. <rocci.net>",
         "maintainer": "Jonas Biener <jonas.biener@rocci.net>, Alexander Ulbrich <alexander.ulbrich@rocci.net>",
         "website": "https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library",
@@ -120393,8 +120393,8 @@
     },
     {
         "name": "DTS6012M_UART",
-        "version": "2.4.0",
-        "versions": "2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.0",
+        "version": "2.4.1",
+        "versions": "2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.0",
         "author": "Albert Cornelissen <albert@cornelissen.me>",
         "maintainer": "Albert Cornelissen <albert@cornelissen.me>",
         "website": "https://github.com/acornelissen/DTS6012M_UART",
@@ -137996,8 +137996,8 @@
     },
     {
         "name": "HijelHID_BLEKeyboard",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Hijel",
         "maintainer": "Hijel hijel.hub@gmail.com",
         "website": "https://github.com/HijelHub/HijelHID_BLEKeyboard",
@@ -138176,8 +138176,8 @@
     },
     {
         "name": "EM2M-ESP32-Driver",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Dhruv K",
         "maintainer": "Dhruv K",
         "website": "https://github.com/dhruvkotian/em2m-esp32-modbus",
