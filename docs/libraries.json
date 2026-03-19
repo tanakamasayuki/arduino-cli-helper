@@ -115837,8 +115837,8 @@
     },
     {
         "name": "htcw_json",
-        "version": "0.2.5",
-        "versions": "0.2.5, 0.2.4, 0.2.3",
+        "version": "0.2.6",
+        "versions": "0.2.6, 0.2.5, 0.2.4, 0.2.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/htcw_io",
