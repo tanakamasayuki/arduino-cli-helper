@@ -137784,8 +137784,8 @@
     },
     {
         "name": "NextionX3",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Stefan Staub",
         "maintainer": "Stefan Staub <email@domain.com>",
         "website": "https://github.com/sstaub/NextionX3",
@@ -138850,8 +138850,8 @@
     },
     {
         "name": "Sonic",
-        "version": "1.2.4",
-        "versions": "1.2.4",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.2.4",
         "author": "Axxel",
         "maintainer": "Axxel <Axxel.Inkordia@proton.me>",
         "website": "https://github.com/Axxel-otl/Sonic",
