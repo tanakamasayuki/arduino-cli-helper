@@ -138448,8 +138448,8 @@
     },
     {
         "name": "TRAFO",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TRAFO",
@@ -138508,9 +138508,9 @@
     },
     {
         "name": "UltraSense",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "OneDevelopment",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
+        "author": "OneDevelopment & OpenLibraries-Arduino",
         "maintainer": "OneDevelopmentPL",
         "website": "https://github.com/OneDevelopmentPL/UltraSense",
         "category": "Sensors",
