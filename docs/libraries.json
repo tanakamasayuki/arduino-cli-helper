@@ -138970,11 +138970,11 @@
     },
     {
         "name": "ESP32 AWS MQTT Manager",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.0",
         "author": "Rohit K. Shaw",
         "maintainer": "Rohit K. Shaw",
-        "website": "https://github.com/shawrhit/ESP32-AWS-MQTT-Manager",
+        "website": "https://github.com/shawrhit/ESP32_AWS_MQTT_Manager",
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
@@ -139011,6 +139011,21 @@
         "repository": "https://github.com/glebshow23-crypto/SharpSensor.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "kode_bsp_function_ev_board",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Kode",
+        "maintainer": "Kode <pcabello-kode>",
+        "website": "https://components.espressif.com/components/pcabello-kode/kode_bsp_function_ev_board",
+        "category": "Device Control",
+        "architectures": "esp32p4",
+        "types": "Contributed",
+        "repository": "https://github.com/pcabello-kode/kode_bsp_function_ev_board.git",
+        "dependencies": [
+            "esp32_p4_function_ev_board"
         ]
     }
 ]
