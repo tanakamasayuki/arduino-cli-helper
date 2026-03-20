@@ -93613,8 +93613,8 @@
     },
     {
         "name": "GFX4dESP32",
-        "version": "1.1.6",
-        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.7",
+        "versions": "1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "4D Systems Pty Ltd",
         "maintainer": "4D Systems Pty Ltd <engineering@4dsystems.com.au>",
         "website": "https://github.com/4dsystems/GFX4dESP32",
@@ -120393,8 +120393,8 @@
     },
     {
         "name": "DTS6012M_UART",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.0",
+        "version": "2.5.1",
+        "versions": "2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.0",
         "author": "Albert Cornelissen <albert@cornelissen.me>",
         "maintainer": "Albert Cornelissen <albert@cornelissen.me>",
         "website": "https://github.com/acornelissen/DTS6012M_UART",
