@@ -93613,8 +93613,8 @@
     },
     {
         "name": "GFX4dESP32",
-        "version": "1.1.7",
-        "versions": "1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "4D Systems Pty Ltd",
         "maintainer": "4D Systems Pty Ltd <engineering@4dsystems.com.au>",
         "website": "https://github.com/4dsystems/GFX4dESP32",
@@ -93623,7 +93623,7 @@
         "types": "Contributed",
         "repository": "https://github.com/4dsystems/GFX4dESP32.git",
         "dependencies": [
-            ""
+            "SdFat"
         ]
     },
     {
@@ -137543,13 +137543,13 @@
     },
     {
         "name": "ModbusRTU-pico",
-        "version": "4.2.1",
-        "versions": "4.2.1, 1.0.2, 1.0.0",
+        "version": "4.3.2",
+        "versions": "4.3.2, 4.3.1, 4.2.1, 1.0.2, 1.0.0",
         "author": "Jimes Yang",
         "maintainer": "Jimes Yang <admin@sndnvaps>",
         "website": "https://github.com/sndnvaps/modbus-pico",
         "category": "Communication",
-        "architectures": "rp2040, rp2350",
+        "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/sndnvaps/modbus-pico.git",
         "dependencies": [
@@ -139026,6 +139026,21 @@
         "repository": "https://github.com/pcabello-kode/kode_bsp_function_ev_board.git",
         "dependencies": [
             "esp32_p4_function_ev_board"
+        ]
+    },
+    {
+        "name": "UCommandExecutor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "javavirys",
+        "maintainer": "javavirys",
+        "website": "https://github.com/UDFSmart/UCommandExecutor",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UDFSmart/UCommandExecutor.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
