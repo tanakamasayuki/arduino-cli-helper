@@ -69966,8 +69966,8 @@
     },
     {
         "name": "I2C_Functions",
-        "version": "1.8.3",
-        "versions": "1.8.3, 1.4.6, 1.4.4, 1.4.3, 1.3.2, 1.3.1, 1.2.0, 1.1.1",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.8.3, 1.4.6, 1.4.4, 1.4.3, 1.3.2, 1.3.1, 1.2.0, 1.1.1",
         "author": "Gunce Akkoyun <akkoyun@me.com>",
         "maintainer": "Gunce Akkoyun <akkoyun@me.com>",
         "website": "https://github.com/akkoyun/I2C_Functions",
@@ -69976,7 +69976,7 @@
         "types": "Contributed",
         "repository": "https://github.com/akkoyun/I2C_Functions.git",
         "dependencies": [
-            "Console"
+            ""
         ]
     },
     {
