@@ -26146,8 +26146,8 @@
     },
     {
         "name": "MCCI LoRaWAN LMIC library",
-        "version": "6.0.0",
-        "versions": "6.0.0, 5.0.1, 5.0.0, 4.1.1, 4.1.0, 4.0.0, 3.3.0, 3.2.0, 3.1.0, 3.0.99, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0",
+        "version": "6.0.1",
+        "versions": "6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.1.1, 4.1.0, 4.0.0, 3.3.0, 3.2.0, 3.1.0, 3.0.99, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0",
         "author": "IBM, Matthijs Kooijman, Terry Moore, ChaeHee Won, Frank Rose, Tristan Webber, Benjamin Freeman, Dhinesh Kumar",
         "maintainer": "Terry Moore <tmm@mcci.com>",
         "website": "https://github.com/mcci-catena/arduino-lmic",
@@ -139069,6 +139069,21 @@
         "architectures": "esp32, esp8266, avr, samd",
         "types": "Contributed",
         "repository": "https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperOTA",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5",
+        "author": "João Augusto Carvalho Araújo",
+        "maintainer": "João Augusto Carvalho Araújo",
+        "website": "https://github.com/joaoaugustocz/SuperOTA",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/joaoaugustocz/SuperOTA.git",
         "dependencies": [
             ""
         ]
