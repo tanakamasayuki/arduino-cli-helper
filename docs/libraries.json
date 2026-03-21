@@ -139057,5 +139057,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "AchiraWareMotor_DRV8830",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pablojosep",
+        "maintainer": "Pablojosep <pablopenuela@gmail.com>",
+        "website": "https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830",
+        "category": "Device Control",
+        "architectures": "esp32, esp8266, avr, samd",
+        "types": "Contributed",
+        "repository": "https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
