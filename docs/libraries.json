@@ -138343,8 +138343,8 @@
     },
     {
         "name": "UUtzinger_RingBuffer",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/RingBuffer",
@@ -139114,6 +139114,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Ignacy110/PCF8573.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Relay Controller",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "javavirys (UDFSOFT)",
+        "maintainer": "javavirys <support@udfsoft.com>",
+        "website": "https://github.com/UDFSmart/Relay-Controller",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UDFSmart/Relay-Controller.git",
         "dependencies": [
             ""
         ]
