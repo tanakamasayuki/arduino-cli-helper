@@ -95146,8 +95146,8 @@
     },
     {
         "name": "CSE_ModbusRTU",
-        "version": "0.0.9",
-        "versions": "0.0.9, 0.0.8, 0.0.7, 0.0.6",
+        "version": "0.0.10",
+        "versions": "0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6",
         "author": "Vishnu Mohanan",
         "maintainer": "Vishnu Mohanan",
         "website": "https://github.com/CIRCUITSTATE/CSE_ModbusRTU",
@@ -138448,8 +138448,8 @@
     },
     {
         "name": "TRAFO",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TRAFO",
