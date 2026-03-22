@@ -109619,8 +109619,8 @@
     },
     {
         "name": "deploii",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.0",
         "author": "Company of Things",
         "maintainer": "Company of Things <post@cot.as>",
         "website": "https://github.com/Company-of-Things/deploii-library",
@@ -139084,6 +139084,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/joaoaugustocz/SuperOTA.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GT911 Lite",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Tony Weston",
+        "maintainer": "Tony Weston",
+        "website": "https://github.com/tonywestonuk/gt911-arduino",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tonywestonuk/gt911-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PCF8573",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Ignacy110",
+        "maintainer": "Ignacy110",
+        "website": "https://github.com/Ignacy110/PCF8573",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ignacy110/PCF8573.git",
         "dependencies": [
             ""
         ]
