@@ -139120,8 +139120,8 @@
     },
     {
         "name": "Relay Controller",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "javavirys (UDFSOFT)",
         "maintainer": "javavirys <support@udfsoft.com>",
         "website": "https://github.com/UDFSmart/Relay-Controller",
@@ -139129,6 +139129,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/UDFSmart/Relay-Controller.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BuzzerPIO_RP2040",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ângelo",
+        "maintainer": "Ângelo",
+        "website": "https://github.com/angeloINTJ/BuzzerPIO_RP2040",
+        "category": "Signal Input/Output",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/angeloINTJ/BuzzerPIO_RP2040.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32_Azure_MQTT_Manager",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit K. Shaw",
+        "maintainer": "Rohit K. Shaw",
+        "website": "https://github.com/shawrhit/esp32_azure_mqtt_driver",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/shawrhit/ESP32_Azure_MQTT_Manager.git",
         "dependencies": [
             ""
         ]
