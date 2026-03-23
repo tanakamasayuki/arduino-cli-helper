@@ -138041,8 +138041,8 @@
     },
     {
         "name": "ESP32Wiimote",
-        "version": "1.5.2",
-        "versions": "1.5.2, 1.5.1, 1.5.0, 1.1.0, 1.0.0",
+        "version": "1.5.3",
+        "versions": "1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.1.0, 1.0.0",
         "author": "Andre Faria",
         "maintainer": "Andre Faria <andremarcalfaria@gmail.com>",
         "website": "https://github.com/andremmfaria/ESP32Wiimote",
@@ -139147,6 +139147,21 @@
         "repository": "https://github.com/sndnvaps/modbus-pico.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit ADS122C04",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_ADS122C04",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_ADS122C04.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
