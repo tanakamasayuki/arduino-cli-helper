@@ -114537,8 +114537,8 @@
     },
     {
         "name": "BnrOneAPlus",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.0.1",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.0.1",
         "author": "botnroll.com",
         "maintainer": "botnroll.com <botnroll@botnroll.com>",
         "website": "https://github.com/botnroll/BnrOneAPlus",
@@ -138041,8 +138041,8 @@
     },
     {
         "name": "ESP32Wiimote",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.1.0, 1.0.0",
+        "version": "1.5.2",
+        "versions": "1.5.2, 1.5.1, 1.5.0, 1.1.0, 1.0.0",
         "author": "Andre Faria",
         "maintainer": "Andre Faria <andremarcalfaria@gmail.com>",
         "website": "https://github.com/andremmfaria/ESP32Wiimote",
