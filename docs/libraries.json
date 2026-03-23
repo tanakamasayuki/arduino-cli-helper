@@ -7770,7 +7770,7 @@
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/blynkkk/blynk-library.git",
+        "repository": "https://github.com/Blynk-Technologies/blynk-library.git",
         "dependencies": [
             "BlynkNcpDriver"
         ]
@@ -56709,21 +56709,6 @@
         ]
     },
     {
-        "name": "ESP_8_BIT Color Composite Video Library",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.0",
-        "author": "Roger Cheng",
-        "maintainer": "Roger Cheng <roger.random@outlook.com>",
-        "website": "https://github.com/Roger-random/ESP_8_BIT_composite",
-        "category": "Display",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/Roger-random/ESP_8_BIT_composite.git",
-        "dependencies": [
-            "Adafruit GFX Library"
-        ]
-    },
-    {
         "name": "Ponoor L6470 Library",
         "version": "1.1.0",
         "versions": "1.1.0, 1.0.3, 1.0.1, 1.0.0",
@@ -89296,7 +89281,7 @@
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/blynkkk/BlynkNcpDriver.git",
+        "repository": "https://github.com/Blynk-Technologies/Blynk-NCP-Driver.git",
         "dependencies": [
             ""
         ]
@@ -131790,21 +131775,6 @@
         ]
     },
     {
-        "name": "TAD2144",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
-        "author": "TDK/Invensense",
-        "maintainer": "TDK/Invensense",
-        "website": "https://github.com/tdk-invn-oss/motion.arduino.TAD2144",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "SparkFun FPC2534 Arduino Library",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -137542,21 +137512,6 @@
         ]
     },
     {
-        "name": "ModbusRTU-pico",
-        "version": "4.3.2",
-        "versions": "4.3.2, 4.3.1, 4.2.1, 1.0.2, 1.0.0",
-        "author": "Jimes Yang",
-        "maintainer": "Jimes Yang <admin@sndnvaps>",
-        "website": "https://github.com/sndnvaps/modbus-pico",
-        "category": "Communication",
-        "architectures": "rp2040",
-        "types": "Contributed",
-        "repository": "https://github.com/sndnvaps/modbus-pico.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "microDecoder",
         "version": "1.0.1",
         "versions": "1.0.1",
@@ -139177,6 +139132,21 @@
         "dependencies": [
             "PubSubClient",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "Modbus-pico",
+        "version": "4.3.3",
+        "versions": "4.3.3",
+        "author": "Jimes Yang",
+        "maintainer": "Jimes Yang <admin@sndnvaps>",
+        "website": "https://github.com/sndnvaps/modbus-pico",
+        "category": "Communication",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/sndnvaps/modbus-pico.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
