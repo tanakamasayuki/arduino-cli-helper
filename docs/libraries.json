@@ -130161,8 +130161,8 @@
     },
     {
         "name": "BULLM_ExtendModule",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "BULLM",
         "maintainer": "YYZ <i@yyznm.cn>",
         "website": "https://github.com/bull-m/BULLM_ExtendModule",
@@ -135729,8 +135729,8 @@
     },
     {
         "name": "moddoMOUSE",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "moddo inc.",
         "maintainer": "moddo inc. <info@moddo.io>",
         "website": "https://github.com/moddoio/moddoMOUSE-Arduino",
