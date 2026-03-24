@@ -139208,5 +139208,20 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "M5Echo-Pyramid",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack <support@m5stack.com>",
+        "website": "https://github.com/m5stack/M5Echo-Pyramid",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Echo-Pyramid.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
