@@ -139090,8 +139090,8 @@
     },
     {
         "name": "BuzzerPIO_RP2040",
-        "version": "2.1.0",
-        "versions": "2.1.0, 1.0.0",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.1.0, 1.0.0",
         "author": "Ângelo Moisés Alves",
         "maintainer": "Ângelo Moisés Alves",
         "website": "https://github.com/angeloINTJ/BuzzerPIO_RP2040",
