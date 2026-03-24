@@ -139030,8 +139030,8 @@
     },
     {
         "name": "SuperOTA",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.1, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5",
         "author": "João Augusto Carvalho Araújo",
         "maintainer": "João Augusto Carvalho Araújo",
         "website": "https://github.com/joaoaugustocz/SuperOTA",
@@ -139162,6 +139162,36 @@
         "repository": "https://github.com/adafruit/Adafruit_ADS122C04.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "MicroLog",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0, 1.1.0, 1.0.0",
+        "author": "Thomas O Fredericks <thomas@fredericks.info>",
+        "maintainer": "Thomas O Fredericks <thomas@fredericks.info>",
+        "website": "https://github.com/thomasfredericks/MicroLog",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/thomasfredericks/MicroLog.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PicoSound",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "IWILZ",
+        "maintainer": "IWILZ",
+        "website": "https://github.com/yourusername/PicoSound",
+        "category": "Signal Input/Output",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/IWILZ/PicoSound.git",
+        "dependencies": [
+            "PicoSem"
         ]
     }
 ]
