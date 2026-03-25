@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Source Backup ZIP Extractor</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f4f1ea;
+      --panel: #fffdf8;
+      --ink: #1f1a14;
+      --line: #cbbda9;
+      --accent: #9a4d14;
+      --accent-2: #5f7c4f;
+      --muted: #6d6254;
+      --error: #b42318;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1e1813;
+        --panel: #292019;
+        --ink: #f5ede3;
+        --line: #5a4737;
+        --accent: #ff9f5a;
+        --accent-2: #9fca7e;
+        --muted: #c9baa7;
+        --error: #ff8c82;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background:
+        radial-gradient(circle at top left, rgba(154,77,20,0.14), transparent 24rem),
+        linear-gradient(180deg, var(--bg), color-mix(in srgb, var(--bg) 84%, black 16%));
+      color: var(--ink);
+    }
+    main {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 32px 20px 56px;
+    }
+    .hero {
+      margin-bottom: 22px;
+      padding: 22px 24px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--panel);
+      box-shadow: 0 14px 40px rgba(0,0,0,0.08);
+    }
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+      line-height: 1.1;
+      letter-spacing: 0.02em;
+    }
+    .lead {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+    .lang-box {
+      min-width: 180px;
+    }
+    .lang-box label {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 0.82rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    select,
+    textarea,
+    button {
+      font: inherit;
+    }
+    select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px 12px;
+      background: color-mix(in srgb, var(--panel) 88%, var(--bg) 12%);
+      color: var(--ink);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(320px, 1fr);
+      gap: 18px;
+    }
+    @media (max-width: 820px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+    .panel {
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--panel);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.06);
+    }
+    .panel h2 {
+      margin: 0 0 10px;
+      font-size: 1.05rem;
+    }
+    .hint {
+      margin: 0 0 12px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    textarea {
+      width: 100%;
+      min-height: 360px;
+      resize: vertical;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px 13px;
+      font: 13px/1.45 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      color: var(--ink);
+      background: color-mix(in srgb, var(--panel) 88%, var(--bg) 12%);
+    }
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    button {
+      appearance: none;
+      border: 1px solid transparent;
+      border-radius: 999px;
+      padding: 10px 15px;
+      cursor: pointer;
+      transition: transform 120ms ease, opacity 120ms ease, background 120ms ease;
+    }
+    button:hover { transform: translateY(-1px); }
+    button:disabled { opacity: 0.55; cursor: not-allowed; transform: none; }
+    .primary {
+      background: var(--accent);
+      color: #fffaf3;
+    }
+    .secondary {
+      background: transparent;
+      border-color: var(--line);
+      color: var(--ink);
+    }
+    .ghost {
+      background: color-mix(in srgb, var(--accent-2) 18%, transparent);
+      color: var(--ink);
+      border-color: color-mix(in srgb, var(--accent-2) 45%, var(--line));
+    }
+    .stat {
+      display: grid;
+      gap: 10px;
+      margin-top: 12px;
+    }
+    .stat div {
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: color-mix(in srgb, var(--panel) 84%, var(--bg) 16%);
+    }
+    .label {
+      display: block;
+      font-size: 0.78rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 2px;
+    }
+    #status {
+      min-height: 1.4em;
+      margin-top: 12px;
+      color: var(--muted);
+    }
+    #status.error { color: var(--error); }
+    ul {
+      list-style: none;
+      margin: 12px 0 0;
+      padding: 0;
+      max-height: 420px;
+      overflow: auto;
+      border-top: 1px solid var(--line);
+    }
+    li {
+      padding: 10px 0;
+      border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.92rem;
+    }
+    .empty {
+      color: var(--muted);
+      font-style: italic;
+      margin-top: 8px;
+    }
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.92em;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="hero-top">
+        <div>
+          <h1 id="title">Source Backup ZIP Extractor</h1>
+        </div>
+        <div class="lang-box">
+          <label for="language" id="languageLabel">Language</label>
+          <select id="language">
+            <option value="en">English</option>
+            <option value="ja">日本語</option>
+            <option value="zh">中文</option>
+            <option value="de">Deutsch</option>
+            <option value="fr">Français</option>
+            <option value="it">Italiano</option>
+            <option value="es">Español</option>
+          </select>
+        </div>
+      </div>
+      <p class="lead" id="lead">Paste the output of <code>sourcebackup::writeArchiveBase64To(Serial)</code>, inspect the ZIP entries, and download the restored archive.</p>
+    </section>
+
+    <section class="grid">
+      <div class="panel">
+        <h2 id="pasteHeading">Paste Base64</h2>
+        <p class="hint" id="hint">Whitespace, line breaks, and surrounding serial log noise are ignored. This tool expects the ZIP payload emitted by <code>writeArchiveBase64To()</code>.</p>
+        <textarea id="input" spellcheck="false" placeholder="UEsDBBQAAAAI..."></textarea>
+        <div class="actions">
+          <button id="extract" class="primary" type="button">Extract ZIP</button>
+          <button id="download" class="ghost" type="button" disabled>Download ZIP</button>
+          <button id="clear" class="secondary" type="button">Clear</button>
+        </div>
+        <div id="status" aria-live="polite"></div>
+      </div>
+
+      <aside class="panel">
+        <h2 id="summaryHeading">Archive Summary</h2>
+        <div class="stat">
+          <div><span class="label" id="zipSizeLabel">ZIP Size</span><strong id="zipSize">-</strong></div>
+          <div><span class="label" id="entryCountLabel">Entries</span><strong id="entryCount">-</strong></div>
+          <div><span class="label" id="rootFolderLabel">Root Folder</span><strong id="rootFolder">-</strong></div>
+        </div>
+        <h2 id="filesHeading" style="margin-top:18px;">Files</h2>
+        <div id="emptyList" class="empty">No archive decoded yet.</div>
+        <ul id="fileList" aria-live="polite"></ul>
+      </aside>
+    </section>
+  </main>
+
+  <script>
+    (function() {
+      'use strict';
+
+      const I18N = {
+        en: {
+          htmlLang: 'en',
+          pageTitle: 'Source Backup ZIP Extractor',
+          title: 'Source Backup ZIP Extractor',
+          language: 'Language',
+          lead: 'Paste the output of <code>sourcebackup::writeArchiveBase64To(Serial)</code>, inspect the ZIP entries, and download the restored archive.',
+          pasteHeading: 'Paste Base64',
+          hint: 'Whitespace, line breaks, and surrounding serial log noise are ignored. This tool expects the ZIP payload emitted by <code>writeArchiveBase64To()</code>.',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: 'Extract ZIP',
+          download: 'Download ZIP',
+          clear: 'Clear',
+          summaryHeading: 'Archive Summary',
+          zipSize: 'ZIP Size',
+          entries: 'Entries',
+          rootFolder: 'Root Folder',
+          files: 'Files',
+          noArchive: 'No archive decoded yet.',
+          noBase64: 'No base64 payload was found.',
+          invalidLength: 'Base64 length is not a multiple of 4.',
+          tooShort: 'ZIP data is too short.',
+          eocdMissing: 'End of central directory was not found.',
+          truncated: 'Central directory entry is truncated.',
+          invalidSignature: 'Invalid central directory signature.',
+          invalidSize: 'ZIP central directory size is inconsistent.',
+          decoded: 'Decoded ZIP successfully. {count} {entryWord} found.',
+          entryOne: 'entry',
+          entryMany: 'entries',
+          bytes: 'bytes',
+          rootMultiple: '(multiple)',
+          defaultDownload: 'sourcebackup.zip'
+        },
+        ja: {
+          htmlLang: 'ja',
+          pageTitle: 'Source Backup ZIP 復元ツール',
+          title: 'Source Backup ZIP 復元ツール',
+          language: '言語',
+          lead: '<code>sourcebackup::writeArchiveBase64To(Serial)</code> の出力を貼り付けると、ZIP 内のファイル一覧を確認して復元した ZIP をダウンロードできます。',
+          pasteHeading: 'Base64 を貼り付け',
+          hint: '空白、改行、シリアルログの前後に混ざった文字は無視します。このツールは <code>writeArchiveBase64To()</code> が出力した ZIP ペイロードを想定しています。',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: 'ZIP を抽出',
+          download: 'ZIP をダウンロード',
+          clear: 'クリア',
+          summaryHeading: 'アーカイブ概要',
+          zipSize: 'ZIP サイズ',
+          entries: 'エントリ数',
+          rootFolder: 'ルートフォルダ',
+          files: 'ファイル一覧',
+          noArchive: 'まだアーカイブはデコードされていません。',
+          noBase64: 'base64 データが見つかりませんでした。',
+          invalidLength: 'base64 の長さが 4 の倍数ではありません。',
+          tooShort: 'ZIP データが短すぎます。',
+          eocdMissing: 'ZIP の終端ディレクトリ情報が見つかりませんでした。',
+          truncated: 'セントラルディレクトリエントリが途中で切れています。',
+          invalidSignature: 'セントラルディレクトリのシグネチャが不正です。',
+          invalidSize: 'ZIP のセントラルディレクトリサイズが不整合です。',
+          decoded: 'ZIP のデコードに成功しました。{count} 件の {entryWord} が見つかりました。',
+          entryOne: 'ファイル',
+          entryMany: 'ファイル',
+          bytes: 'bytes',
+          rootMultiple: '(複数)',
+          defaultDownload: 'sourcebackup.zip'
+        },
+        zh: {
+          htmlLang: 'zh',
+          pageTitle: 'Source Backup ZIP 提取工具',
+          title: 'Source Backup ZIP 提取工具',
+          language: '语言',
+          lead: '粘贴 <code>sourcebackup::writeArchiveBase64To(Serial)</code> 的输出，查看 ZIP 条目并下载恢复后的 ZIP。',
+          pasteHeading: '粘贴 Base64',
+          hint: '会忽略空白、换行以及串口日志中混入的其他文本。此工具假定输入的是 <code>writeArchiveBase64To()</code> 输出的 ZIP 载荷。',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: '提取 ZIP',
+          download: '下载 ZIP',
+          clear: '清除',
+          summaryHeading: '归档摘要',
+          zipSize: 'ZIP 大小',
+          entries: '条目数',
+          rootFolder: '根文件夹',
+          files: '文件列表',
+          noArchive: '尚未解码任何归档。',
+          noBase64: '未找到 base64 数据。',
+          invalidLength: 'base64 长度不是 4 的倍数。',
+          tooShort: 'ZIP 数据太短。',
+          eocdMissing: '未找到 ZIP 结束目录记录。',
+          truncated: '中央目录条目已截断。',
+          invalidSignature: '中央目录签名无效。',
+          invalidSize: 'ZIP 中央目录大小不一致。',
+          decoded: 'ZIP 解码成功。找到 {count} 个{entryWord}。',
+          entryOne: '条目',
+          entryMany: '条目',
+          bytes: '字节',
+          rootMultiple: '(多个)',
+          defaultDownload: 'sourcebackup.zip'
+        },
+        de: {
+          htmlLang: 'de',
+          pageTitle: 'Source-Backup-ZIP-Extraktor',
+          title: 'Source-Backup-ZIP-Extraktor',
+          language: 'Sprache',
+          lead: 'Fügen Sie die Ausgabe von <code>sourcebackup::writeArchiveBase64To(Serial)</code> ein, prüfen Sie die ZIP-Einträge und laden Sie das wiederhergestellte ZIP herunter.',
+          pasteHeading: 'Base64 einfügen',
+          hint: 'Leerzeichen, Zeilenumbrüche und umgebende serielle Log-Ausgaben werden ignoriert. Dieses Werkzeug erwartet die von <code>writeArchiveBase64To()</code> ausgegebene ZIP-Nutzlast.',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: 'ZIP extrahieren',
+          download: 'ZIP herunterladen',
+          clear: 'Leeren',
+          summaryHeading: 'Archivübersicht',
+          zipSize: 'ZIP-Größe',
+          entries: 'Einträge',
+          rootFolder: 'Stammordner',
+          files: 'Dateien',
+          noArchive: 'Noch kein Archiv dekodiert.',
+          noBase64: 'Keine Base64-Nutzlast gefunden.',
+          invalidLength: 'Die Base64-Länge ist kein Vielfaches von 4.',
+          tooShort: 'Die ZIP-Daten sind zu kurz.',
+          eocdMissing: 'Das Ende des Zentralverzeichnisses wurde nicht gefunden.',
+          truncated: 'Ein Eintrag im Zentralverzeichnis ist abgeschnitten.',
+          invalidSignature: 'Ungültige Signatur im Zentralverzeichnis.',
+          invalidSize: 'Die Größe des ZIP-Zentralverzeichnisses ist inkonsistent.',
+          decoded: 'ZIP erfolgreich dekodiert. {count} {entryWord} gefunden.',
+          entryOne: 'Eintrag',
+          entryMany: 'Einträge',
+          bytes: 'Bytes',
+          rootMultiple: '(mehrere)',
+          defaultDownload: 'sourcebackup.zip'
+        },
+        fr: {
+          htmlLang: 'fr',
+          pageTitle: 'Extracteur ZIP Source Backup',
+          title: 'Extracteur ZIP Source Backup',
+          language: 'Langue',
+          lead: 'Collez la sortie de <code>sourcebackup::writeArchiveBase64To(Serial)</code>, inspectez les entrées ZIP et téléchargez l’archive restaurée.',
+          pasteHeading: 'Coller le Base64',
+          hint: 'Les espaces, retours à la ligne et textes parasites du journal série sont ignorés. Cet outil attend la charge ZIP émise par <code>writeArchiveBase64To()</code>.',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: 'Extraire le ZIP',
+          download: 'Télécharger le ZIP',
+          clear: 'Effacer',
+          summaryHeading: 'Résumé de l’archive',
+          zipSize: 'Taille du ZIP',
+          entries: 'Entrées',
+          rootFolder: 'Dossier racine',
+          files: 'Fichiers',
+          noArchive: 'Aucune archive décodée pour le moment.',
+          noBase64: 'Aucune charge base64 trouvée.',
+          invalidLength: 'La longueur du base64 n’est pas un multiple de 4.',
+          tooShort: 'Les données ZIP sont trop courtes.',
+          eocdMissing: 'La fin du répertoire central est introuvable.',
+          truncated: 'Une entrée du répertoire central est tronquée.',
+          invalidSignature: 'Signature du répertoire central invalide.',
+          invalidSize: 'La taille du répertoire central ZIP est incohérente.',
+          decoded: 'ZIP décodé avec succès. {count} {entryWord} trouvé(s).',
+          entryOne: 'entrée',
+          entryMany: 'entrées',
+          bytes: 'octets',
+          rootMultiple: '(multiple)',
+          defaultDownload: 'sourcebackup.zip'
+        },
+        it: {
+          htmlLang: 'it',
+          pageTitle: 'Estrattore ZIP Source Backup',
+          title: 'Estrattore ZIP Source Backup',
+          language: 'Lingua',
+          lead: 'Incolla l’output di <code>sourcebackup::writeArchiveBase64To(Serial)</code>, controlla le voci ZIP e scarica il file ZIP ripristinato.',
+          pasteHeading: 'Incolla Base64',
+          hint: 'Spazi, ritorni a capo e testo di log seriale circostante vengono ignorati. Questo strumento si aspetta il payload ZIP emesso da <code>writeArchiveBase64To()</code>.',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: 'Estrai ZIP',
+          download: 'Scarica ZIP',
+          clear: 'Cancella',
+          summaryHeading: 'Riepilogo archivio',
+          zipSize: 'Dimensione ZIP',
+          entries: 'Elementi',
+          rootFolder: 'Cartella radice',
+          files: 'File',
+          noArchive: 'Nessun archivio decodificato.',
+          noBase64: 'Nessun payload base64 trovato.',
+          invalidLength: 'La lunghezza del base64 non è un multiplo di 4.',
+          tooShort: 'I dati ZIP sono troppo corti.',
+          eocdMissing: 'Impossibile trovare la fine della directory centrale.',
+          truncated: 'Una voce della directory centrale è troncata.',
+          invalidSignature: 'Firma della directory centrale non valida.',
+          invalidSize: 'La dimensione della directory centrale ZIP non è coerente.',
+          decoded: 'ZIP decodificato correttamente. Trovati {count} {entryWord}.',
+          entryOne: 'elemento',
+          entryMany: 'elementi',
+          bytes: 'byte',
+          rootMultiple: '(multipla)',
+          defaultDownload: 'sourcebackup.zip'
+        },
+        es: {
+          htmlLang: 'es',
+          pageTitle: 'Extractor ZIP de Source Backup',
+          title: 'Extractor ZIP de Source Backup',
+          language: 'Idioma',
+          lead: 'Pega la salida de <code>sourcebackup::writeArchiveBase64To(Serial)</code>, revisa las entradas ZIP y descarga el ZIP restaurado.',
+          pasteHeading: 'Pegar Base64',
+          hint: 'Se ignoran espacios, saltos de línea y texto extra del registro serie. Esta herramienta espera la carga ZIP emitida por <code>writeArchiveBase64To()</code>.',
+          placeholder: 'UEsDBBQAAAAI...',
+          extract: 'Extraer ZIP',
+          download: 'Descargar ZIP',
+          clear: 'Limpiar',
+          summaryHeading: 'Resumen del archivo',
+          zipSize: 'Tamaño ZIP',
+          entries: 'Entradas',
+          rootFolder: 'Carpeta raíz',
+          files: 'Archivos',
+          noArchive: 'Todavía no se ha decodificado ningún archivo.',
+          noBase64: 'No se encontró ningún bloque base64.',
+          invalidLength: 'La longitud del base64 no es múltiplo de 4.',
+          tooShort: 'Los datos ZIP son demasiado cortos.',
+          eocdMissing: 'No se encontró el final del directorio central.',
+          truncated: 'Una entrada del directorio central está truncada.',
+          invalidSignature: 'Firma del directorio central no válida.',
+          invalidSize: 'El tamaño del directorio central ZIP es inconsistente.',
+          decoded: 'ZIP decodificado correctamente. Se encontraron {count} {entryWord}.',
+          entryOne: 'entrada',
+          entryMany: 'entradas',
+          bytes: 'bytes',
+          rootMultiple: '(múltiple)',
+          defaultDownload: 'sourcebackup.zip'
+        }
+      };
+
+      const input = document.getElementById('input');
+      const extractBtn = document.getElementById('extract');
+      const downloadBtn = document.getElementById('download');
+      const clearBtn = document.getElementById('clear');
+      const status = document.getElementById('status');
+      const zipSize = document.getElementById('zipSize');
+      const entryCount = document.getElementById('entryCount');
+      const rootFolder = document.getElementById('rootFolder');
+      const fileList = document.getElementById('fileList');
+      const emptyList = document.getElementById('emptyList');
+      const languageSelect = document.getElementById('language');
+
+      let currentBytes = null;
+      let currentObjectUrl = '';
+      let currentDownloadName = 'sourcebackup.zip';
+      let currentEntries = [];
+      let currentRootLabel = '-';
+      let currentStatus = { key: '', vars: null, isError: false, text: '' };
+      let currentLang = 'en';
+
+      function pickLanguage() {
+        const candidates = Array.isArray(navigator.languages) && navigator.languages.length
+          ? navigator.languages
+          : [navigator.language || 'en'];
+        for (const raw of candidates) {
+          const base = String(raw || '').toLowerCase().split('-')[0];
+          if (Object.prototype.hasOwnProperty.call(I18N, base)) return base;
+        }
+        return 'en';
+      }
+
+      function t(key, vars) {
+        const dict = I18N[currentLang] || I18N.en;
+        const fallback = I18N.en[key] || key;
+        const template = dict[key] || fallback;
+        return String(template).replace(/\{(\w+)\}/g, function(_, name) {
+          return vars && vars[name] != null ? String(vars[name]) : '';
+        });
+      }
+
+      function applyLanguage(lang) {
+        currentLang = Object.prototype.hasOwnProperty.call(I18N, lang) ? lang : 'en';
+        document.documentElement.lang = I18N[currentLang].htmlLang || currentLang;
+        document.title = t('pageTitle');
+        document.getElementById('title').textContent = t('title');
+        document.getElementById('languageLabel').textContent = t('language');
+        document.getElementById('lead').innerHTML = t('lead');
+        document.getElementById('pasteHeading').textContent = t('pasteHeading');
+        document.getElementById('hint').innerHTML = t('hint');
+        input.placeholder = t('placeholder');
+        extractBtn.textContent = t('extract');
+        downloadBtn.textContent = t('download');
+        clearBtn.textContent = t('clear');
+        document.getElementById('summaryHeading').textContent = t('summaryHeading');
+        document.getElementById('zipSizeLabel').textContent = t('zipSize');
+        document.getElementById('entryCountLabel').textContent = t('entries');
+        document.getElementById('rootFolderLabel').textContent = t('rootFolder');
+        document.getElementById('filesHeading').textContent = t('files');
+        if (!currentEntries.length) emptyList.textContent = t('noArchive');
+        if (currentStatus.key) setStatusKey(currentStatus.key, currentStatus.vars, currentStatus.isError);
+        else if (currentStatus.text) setStatusText(currentStatus.text, currentStatus.isError);
+        renderSummary();
+      }
+
+      function setStatusText(message, isError) {
+        currentStatus = { key: '', vars: null, isError: !!isError, text: message || '' };
+        status.textContent = message || '';
+        status.className = isError ? 'error' : '';
+      }
+
+      function setStatusKey(key, vars, isError) {
+        currentStatus = { key, vars: vars || null, isError: !!isError, text: '' };
+        status.textContent = t(key, vars);
+        status.className = isError ? 'error' : '';
+      }
+
+      function resetSummary() {
+        zipSize.textContent = '-';
+        entryCount.textContent = '-';
+        currentRootLabel = '-';
+        rootFolder.textContent = '-';
+        fileList.innerHTML = '';
+        emptyList.style.display = '';
+        emptyList.textContent = t('noArchive');
+        downloadBtn.disabled = true;
+        currentDownloadName = t('defaultDownload');
+        currentEntries = [];
+      }
+
+      function clearObjectUrl() {
+        if (currentObjectUrl) {
+          URL.revokeObjectURL(currentObjectUrl);
+          currentObjectUrl = '';
+        }
+      }
+
+      function normalizeBase64(raw) {
+        const matches = String(raw || '').match(/[A-Za-z0-9+/=]+/g);
+        return matches ? matches.join('') : '';
+      }
+
+      function decodeBase64(base64) {
+        const normalized = normalizeBase64(base64);
+        if (!normalized) throw new Error(t('noBase64'));
+        if (normalized.length % 4 !== 0) throw new Error(t('invalidLength'));
+        const binary = atob(normalized);
+        const bytes = new Uint8Array(binary.length);
+        for (let i = 0; i < binary.length; i += 1) bytes[i] = binary.charCodeAt(i);
+        return bytes;
+      }
+
+      function readU16(bytes, offset) {
+        return bytes[offset] | (bytes[offset + 1] << 8);
+      }
+
+      function readU32(bytes, offset) {
+        return (bytes[offset]) |
+          (bytes[offset + 1] << 8) |
+          (bytes[offset + 2] << 16) |
+          ((bytes[offset + 3] << 24) >>> 0);
+      }
+
+      function parseZipEntries(bytes) {
+        if (bytes.length < 22) throw new Error(t('tooShort'));
+        let eocdOffset = -1;
+        for (let i = bytes.length - 22; i >= Math.max(0, bytes.length - 65557); i -= 1) {
+          if (
+            bytes[i] === 0x50 &&
+            bytes[i + 1] === 0x4b &&
+            bytes[i + 2] === 0x05 &&
+            bytes[i + 3] === 0x06
+          ) {
+            eocdOffset = i;
+            break;
+          }
+        }
+        if (eocdOffset < 0) throw new Error(t('eocdMissing'));
+
+        const totalEntries = readU16(bytes, eocdOffset + 10);
+        const centralSize = readU32(bytes, eocdOffset + 12);
+        const centralOffset = readU32(bytes, eocdOffset + 16);
+        const decoder = new TextDecoder('utf-8');
+        const entries = [];
+        let offset = centralOffset;
+
+        for (let i = 0; i < totalEntries; i += 1) {
+          if (offset + 46 > bytes.length) throw new Error(t('truncated'));
+          if (
+            bytes[offset] !== 0x50 ||
+            bytes[offset + 1] !== 0x4b ||
+            bytes[offset + 2] !== 0x01 ||
+            bytes[offset + 3] !== 0x02
+          ) {
+            throw new Error(t('invalidSignature'));
+          }
+          const fileNameLength = readU16(bytes, offset + 28);
+          const extraLength = readU16(bytes, offset + 30);
+          const commentLength = readU16(bytes, offset + 32);
+          const compressedSize = readU32(bytes, offset + 20) >>> 0;
+          const uncompressedSize = readU32(bytes, offset + 24) >>> 0;
+          const nameStart = offset + 46;
+          const nameEnd = nameStart + fileNameLength;
+          const name = decoder.decode(bytes.slice(nameStart, nameEnd));
+          entries.push({
+            name,
+            compressedSize,
+            uncompressedSize
+          });
+          offset = nameEnd + extraLength + commentLength;
+        }
+
+        if (offset > centralOffset + centralSize + 4) {
+          throw new Error(t('invalidSize'));
+        }
+
+        return entries;
+      }
+
+      function formatBytes(size) {
+        if (!Number.isFinite(size)) return '-';
+        if (size < 1024) return `${size} B`;
+        if (size < 1024 * 1024) return `${(size / 1024).toFixed(1)} KB`;
+        return `${(size / (1024 * 1024)).toFixed(2)} MB`;
+      }
+
+      function inferRoot(entries) {
+        if (!entries.length) return '-';
+        const roots = new Set();
+        for (const entry of entries) {
+          const first = String(entry.name || '').split('/')[0];
+          if (first) roots.add(first);
+        }
+        return roots.size === 1 ? Array.from(roots)[0] : t('rootMultiple');
+      }
+
+      function renderEntries(entries) {
+        fileList.innerHTML = '';
+        if (!entries.length) {
+          emptyList.style.display = '';
+          emptyList.textContent = t('noArchive');
+          return;
+        }
+        emptyList.style.display = 'none';
+        const prefix = currentRootLabel && currentRootLabel !== '-' && currentRootLabel !== t('rootMultiple')
+          ? `${currentRootLabel}/`
+          : '';
+        for (const entry of entries) {
+          const li = document.createElement('li');
+          const displayName = prefix && String(entry.name || '').startsWith(prefix)
+            ? String(entry.name || '').slice(prefix.length)
+            : entry.name;
+          li.textContent = `${displayName} [${formatBytes(entry.uncompressedSize)}]`;
+          fileList.appendChild(li);
+        }
+      }
+
+      function renderSummary() {
+        rootFolder.textContent = currentRootLabel;
+        renderEntries(currentEntries);
+      }
+
+      function handleExtract() {
+        clearObjectUrl();
+        currentBytes = null;
+        resetSummary();
+        try {
+          const bytes = decodeBase64(input.value);
+          const entries = parseZipEntries(bytes);
+          currentBytes = bytes;
+          currentEntries = entries;
+          zipSize.textContent = formatBytes(bytes.length);
+          entryCount.textContent = String(entries.length);
+          const root = inferRoot(entries);
+          currentRootLabel = root;
+          rootFolder.textContent = root;
+          currentDownloadName = root && root !== '-' && root !== t('rootMultiple') ? `${root}.zip` : t('defaultDownload');
+          renderEntries(entries);
+          currentObjectUrl = URL.createObjectURL(new Blob([bytes], { type: 'application/zip' }));
+          downloadBtn.disabled = false;
+          setStatusKey('decoded', {
+            count: entries.length,
+            entryWord: entries.length === 1 ? t('entryOne') : t('entryMany')
+          }, false);
+        } catch (error) {
+          resetSummary();
+          setStatusText(error && error.message ? error.message : 'Failed to decode ZIP.', true);
+        }
+      }
+
+      extractBtn.addEventListener('click', handleExtract);
+
+      downloadBtn.addEventListener('click', function() {
+        if (!currentBytes || !currentObjectUrl) return;
+        const a = document.createElement('a');
+        a.href = currentObjectUrl;
+        a.download = currentDownloadName;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+      });
+
+      clearBtn.addEventListener('click', function() {
+        input.value = '';
+        clearObjectUrl();
+        currentBytes = null;
+        resetSummary();
+        setStatusText('', false);
+        input.focus();
+      });
+
+      languageSelect.addEventListener('change', function() {
+        applyLanguage(languageSelect.value);
+      });
+
+      const initialLang = pickLanguage();
+      languageSelect.value = initialLang;
+      applyLanguage(initialLang);
+    }());
+  </script>
+</body>
+</html>

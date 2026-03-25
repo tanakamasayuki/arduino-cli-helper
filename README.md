@@ -6,8 +6,12 @@ PHPで `arduino-cli board listall --json` を実行し、
 
 ## Page
 - https://tanakamasayuki.github.io/arduino-cli-helper/
+- https://tanakamasayuki.github.io/arduino-cli-helper/sourcebackup.html
 
 上記に作成したページがあります。
+
+- `sourcebackup.html` は Arduino ファームウェア側の `sourcebackup::writeArchiveBase64To(Serial)` が出力した base64 を貼り付け、ZIP を復元してダウンロードするためのページです。
+- base64 化されているのは ZIP 本体なので、ZIP に含まれるファイル名やフォルダ構造もそのまま復元できます。
 
 ## 前提
 - `arduino-cli` がPATHで実行可能であること
@@ -87,6 +91,20 @@ php -S 127.0.0.1:8000 -t .
 
 注意: 直接 `file://` で開くとブラウザの制約でJSON取得に失敗することがあります。上記の簡易サーバで配信してください。
 
+## Source Backup ZIP Extractor
+- ファイル: `docs/sourcebackup.html`
+- 内容: `sourcebackup::writeArchiveBase64To(Serial)` の出力を貼り付けると、ZIP を復元し、含まれるファイル一覧を表示してダウンロードできます。
+- 対応言語:
+  - English
+  - 日本語
+  - 中文
+  - Deutsch
+  - Français
+  - Italiano
+  - Español
+- ブラウザ言語から初期表示言語を自動選択し、ページ右上のプルダウンから手動切り替えもできます。
+- ZIP 内に共通のルートフォルダがある場合、一覧表示ではその共通部分を省略し、ダウンロード時のファイル名は `<Root Folder>.zip` になります。
+
 ## 設定（任意）
 - 環境変数 `ARDUINO_CLI_CMD` で `arduino-cli` コマンド名/パスを上書きできます。
 
@@ -115,4 +133,3 @@ ARDUINO_CLI_CMD="arduino-cli" php run.php
 - 前提:
   - ネットワークにアクセスできること
   - PHP の cURL 拡張（未インストールの場合は `file_get_contents` でフォールバック取得）
-
