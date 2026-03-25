@@ -47895,8 +47895,8 @@
     },
     {
         "name": "AirGradient Air Quality Sensor",
-        "version": "3.6.2",
-        "versions": "3.6.2, 3.6.1, 3.6.0, 3.3.9, 3.3.8, 3.3.7, 3.3.6, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.2.0-alpha, 3.1.21, 3.1.16, 3.1.15, 3.1.14, 3.1.13, 3.1.12, 3.1.11, 3.1.10, 3.1.9, 3.1.8, 3.1.7, 3.1.6, 3.1.5, 3.1.4, 3.1.3, 3.1.0-beta.1, 3.0.9, 3.0.8, 3.0.6, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.15, 2.4.14, 2.4.13, 2.4.12, 2.4.11, 2.4.7, 2.4.6, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.2.0, 2.1.0, 2.0.2, 2.0.0, 1.4.2, 1.4.1, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.0.0",
+        "version": "3.6.3",
+        "versions": "3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.3.9, 3.3.8, 3.3.7, 3.3.6, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.2.0-alpha, 3.1.21, 3.1.16, 3.1.15, 3.1.14, 3.1.13, 3.1.12, 3.1.11, 3.1.10, 3.1.9, 3.1.8, 3.1.7, 3.1.6, 3.1.5, 3.1.4, 3.1.3, 3.1.0-beta.1, 3.0.9, 3.0.8, 3.0.6, 3.0.4, 3.0.3, 3.0.1, 3.0.0, 2.4.15, 2.4.14, 2.4.13, 2.4.12, 2.4.11, 2.4.7, 2.4.6, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.2.0, 2.1.0, 2.0.2, 2.0.0, 1.4.2, 1.4.1, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.0.0",
         "author": "AirGradient <support@airgradient.com>",
         "maintainer": "AirGradient <support@airgradient.com>",
         "website": "https://www.airgradient.com/",
@@ -139075,8 +139075,8 @@
     },
     {
         "name": "Relay Controller",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "javavirys (UDFSOFT)",
         "maintainer": "javavirys <support@udfsoft.com>",
         "website": "https://github.com/UDFSmart/Relay-Controller",
@@ -139181,11 +139181,11 @@
     },
     {
         "name": "PicoSound",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "IWILZ",
         "maintainer": "IWILZ",
-        "website": "https://github.com/yourusername/PicoSound",
+        "website": "https://github.com/IWILZ/PicoSound",
         "category": "Signal Input/Output",
         "architectures": "rp2040",
         "types": "Contributed",
@@ -139312,6 +139312,38 @@
         "repository": "https://github.com/jvasquez05/SoilHumSensor.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "nikki.esp8266",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dev Nikki",
+        "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
+        "website": "https://github.com/nikki-build/nikki.esp8266",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/nikki-build/nikki.esp8266.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
+        ]
+    },
+    {
+        "name": "nikki.unoR4",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Dev Nikki",
+        "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
+        "website": "https://github.com/nikki-build/nikki.unoR4",
+        "category": "Communication",
+        "architectures": "renesas_uno",
+        "types": "Contributed",
+        "repository": "https://github.com/nikki-build/nikki.unoR4.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
         ]
     }
 ]
