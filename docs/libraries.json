@@ -33640,8 +33640,8 @@
     },
     {
         "name": "CBUS",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.31, 1.1.30, 1.1.29, 1.1.27, 1.1.26, 1.1.25, 1.1.24, 1.1.22, 1.1.21, 1.1.20, 1.1.19, 1.1.18, 1.1.17, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.6, 1.1.3, 1.1.0, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.31, 1.1.30, 1.1.29, 1.1.27, 1.1.26, 1.1.25, 1.1.24, 1.1.22, 1.1.21, 1.1.20, 1.1.19, 1.1.18, 1.1.17, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.6, 1.1.3, 1.1.0, 1.0.0",
         "author": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "maintainer": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "website": "https://github.com/MERG-DEV/CBUS",
@@ -87467,8 +87467,8 @@
     },
     {
         "name": "ACAN2040",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 0.0.3, 0.0.2",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 0.0.3, 0.0.2",
         "author": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "maintainer": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "website": "https://github.com/obdevel/ACAN2040",
@@ -87482,8 +87482,8 @@
     },
     {
         "name": "CBUSACAN2040",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 0.0.2, 0.0.1",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 0.0.2, 0.0.1",
         "author": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "maintainer": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "website": "https://github.com/MERG-DEV/CBUSACAN2040",
@@ -110198,8 +110198,8 @@
     },
     {
         "name": "ESP-NOW MIDI",
-        "version": "0.10.6",
-        "versions": "0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
+        "version": "0.10.7",
+        "versions": "0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/grantler-instruments/ESP-NOW-MIDI",
