@@ -202,6 +202,15 @@
       font-style: italic;
       margin-top: 8px;
     }
+    .hidden { display: none; }
+    input[type="file"] {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px 12px;
+      background: color-mix(in srgb, var(--panel) 88%, var(--bg) 12%);
+      color: var(--ink);
+    }
     code {
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
       font-size: 0.92em;
@@ -241,6 +250,16 @@
           <button id="download" class="ghost" type="button" disabled>Download ZIP</button>
           <button id="clear" class="secondary" type="button">Clear</button>
         </div>
+        <h2 id="binaryHeading" style="margin-top:18px;">Load Firmware Binary</h2>
+        <p class="hint" id="binaryHint">You can also upload a dumped firmware file. The page scans for valid <code>SRCBAK1</code> blobs, validates their CRCs, and lets you choose the correct candidate when multiple firmware images are bundled together.</p>
+        <input id="binaryFile" type="file" accept=".bin,.hex,.elf,.uf2,.img,application/octet-stream" />
+        <div id="candidateWrap" class="hidden" style="margin-top:12px;">
+          <label for="candidateSelect" id="candidateLabel" class="label" style="margin-bottom:6px;">Detected Blobs</label>
+          <select id="candidateSelect"></select>
+          <div class="actions">
+            <button id="useCandidate" class="ghost" type="button">Use Selected Blob</button>
+          </div>
+        </div>
         <div id="status" aria-live="polite"></div>
       </div>
 
@@ -275,6 +294,10 @@
           extract: 'Extract ZIP',
           download: 'Download ZIP',
           clear: 'Clear',
+          binaryHeading: 'Load Firmware Binary',
+          binaryHint: 'You can also upload a dumped firmware file. The page scans for valid <code>SRCBAK1</code> blobs, validates their CRCs, and lets you choose the correct candidate when multiple firmware images are bundled together.',
+          candidateLabel: 'Detected Blobs',
+          useCandidate: 'Use Selected Blob',
           summaryHeading: 'Archive Summary',
           zipSize: 'ZIP Size',
           entries: 'Entries',
@@ -288,6 +311,11 @@
           truncated: 'Central directory entry is truncated.',
           invalidSignature: 'Invalid central directory signature.',
           invalidSize: 'ZIP central directory size is inconsistent.',
+          noSourceBackup: 'No valid SRCBAK1 blob was found in the uploaded file.',
+          binaryLoaded: 'Firmware binary loaded. {count} {candidateWord} found.',
+          candidateOne: 'candidate',
+          candidateMany: 'candidates',
+          candidateItem: 'Offset 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | root {root}',
           decoded: 'Decoded ZIP successfully. {count} {entryWord} found.',
           entryOne: 'entry',
           entryMany: 'entries',
@@ -307,6 +335,10 @@
           extract: 'ZIP を抽出',
           download: 'ZIP をダウンロード',
           clear: 'クリア',
+          binaryHeading: 'ファームウェアバイナリを読込',
+          binaryHint: '実機から吸い出したファームウェアファイルもアップロードできます。ページ側で有効な <code>SRCBAK1</code> blob を走査し、CRC を検証したうえで、複数候補がある場合は選択できます。',
+          candidateLabel: '検出された blob',
+          useCandidate: '選択した blob を使う',
           summaryHeading: 'アーカイブ概要',
           zipSize: 'ZIP サイズ',
           entries: 'エントリ数',
@@ -320,6 +352,11 @@
           truncated: 'セントラルディレクトリエントリが途中で切れています。',
           invalidSignature: 'セントラルディレクトリのシグネチャが不正です。',
           invalidSize: 'ZIP のセントラルディレクトリサイズが不整合です。',
+          noSourceBackup: 'アップロードしたファイルから有効な SRCBAK1 blob が見つかりませんでした。',
+          binaryLoaded: 'ファームウェアバイナリを読み込みました。{count} 件の {candidateWord} が見つかりました。',
+          candidateOne: '候補',
+          candidateMany: '候補',
+          candidateItem: 'オフセット 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | ルート {root}',
           decoded: 'ZIP のデコードに成功しました。{count} 件の {entryWord} が見つかりました。',
           entryOne: 'ファイル',
           entryMany: 'ファイル',
@@ -339,6 +376,10 @@
           extract: '提取 ZIP',
           download: '下载 ZIP',
           clear: '清除',
+          binaryHeading: '加载固件二进制文件',
+          binaryHint: '也可以上传从设备中提取出的固件文件。页面会扫描有效的 <code>SRCBAK1</code> blob、校验 CRC，并在同一文件里有多个固件镜像时让你选择正确候选。',
+          candidateLabel: '检测到的 Blob',
+          useCandidate: '使用选中的 Blob',
           summaryHeading: '归档摘要',
           zipSize: 'ZIP 大小',
           entries: '条目数',
@@ -352,6 +393,11 @@
           truncated: '中央目录条目已截断。',
           invalidSignature: '中央目录签名无效。',
           invalidSize: 'ZIP 中央目录大小不一致。',
+          noSourceBackup: '在上传的文件中未找到有效的 SRCBAK1 blob。',
+          binaryLoaded: '固件二进制文件已加载。找到 {count} 个{candidateWord}。',
+          candidateOne: '候选',
+          candidateMany: '候选',
+          candidateItem: '偏移 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | 根目录 {root}',
           decoded: 'ZIP 解码成功。找到 {count} 个{entryWord}。',
           entryOne: '条目',
           entryMany: '条目',
@@ -371,6 +417,10 @@
           extract: 'ZIP extrahieren',
           download: 'ZIP herunterladen',
           clear: 'Leeren',
+          binaryHeading: 'Firmware-Binärdatei laden',
+          binaryHint: 'Sie können auch eine aus dem Gerät ausgelesene Firmware-Datei hochladen. Die Seite sucht nach gültigen <code>SRCBAK1</code>-Blobs, prüft deren CRCs und lässt Sie bei mehreren eingebetteten Firmware-Abbildern den richtigen Kandidaten auswählen.',
+          candidateLabel: 'Erkannte Blobs',
+          useCandidate: 'Ausgewählten Blob verwenden',
           summaryHeading: 'Archivübersicht',
           zipSize: 'ZIP-Größe',
           entries: 'Einträge',
@@ -384,6 +434,11 @@
           truncated: 'Ein Eintrag im Zentralverzeichnis ist abgeschnitten.',
           invalidSignature: 'Ungültige Signatur im Zentralverzeichnis.',
           invalidSize: 'Die Größe des ZIP-Zentralverzeichnisses ist inkonsistent.',
+          noSourceBackup: 'In der hochgeladenen Datei wurde kein gültiger SRCBAK1-Blob gefunden.',
+          binaryLoaded: 'Firmware-Binärdatei geladen. {count} {candidateWord} gefunden.',
+          candidateOne: 'Kandidat',
+          candidateMany: 'Kandidaten',
+          candidateItem: 'Offset 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | Root {root}',
           decoded: 'ZIP erfolgreich dekodiert. {count} {entryWord} gefunden.',
           entryOne: 'Eintrag',
           entryMany: 'Einträge',
@@ -403,6 +458,10 @@
           extract: 'Extraire le ZIP',
           download: 'Télécharger le ZIP',
           clear: 'Effacer',
+          binaryHeading: 'Charger un binaire firmware',
+          binaryHint: 'Vous pouvez aussi envoyer un fichier firmware extrait de l’appareil. La page recherche les blobs <code>SRCBAK1</code> valides, vérifie leurs CRC et vous laisse choisir le bon candidat si plusieurs firmwares sont regroupés.',
+          candidateLabel: 'Blobs détectés',
+          useCandidate: 'Utiliser le blob sélectionné',
           summaryHeading: 'Résumé de l’archive',
           zipSize: 'Taille du ZIP',
           entries: 'Entrées',
@@ -416,6 +475,11 @@
           truncated: 'Une entrée du répertoire central est tronquée.',
           invalidSignature: 'Signature du répertoire central invalide.',
           invalidSize: 'La taille du répertoire central ZIP est incohérente.',
+          noSourceBackup: 'Aucun blob SRCBAK1 valide n’a été trouvé dans le fichier envoyé.',
+          binaryLoaded: 'Binaire firmware chargé. {count} {candidateWord} trouvé(s).',
+          candidateOne: 'candidat',
+          candidateMany: 'candidats',
+          candidateItem: 'Offset 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | racine {root}',
           decoded: 'ZIP décodé avec succès. {count} {entryWord} trouvé(s).',
           entryOne: 'entrée',
           entryMany: 'entrées',
@@ -435,6 +499,10 @@
           extract: 'Estrai ZIP',
           download: 'Scarica ZIP',
           clear: 'Cancella',
+          binaryHeading: 'Carica binario firmware',
+          binaryHint: 'Puoi anche caricare un file firmware estratto dal dispositivo. La pagina cerca blob <code>SRCBAK1</code> validi, ne verifica i CRC e ti permette di scegliere il candidato corretto se nello stesso file sono presenti più firmware.',
+          candidateLabel: 'Blob rilevati',
+          useCandidate: 'Usa il blob selezionato',
           summaryHeading: 'Riepilogo archivio',
           zipSize: 'Dimensione ZIP',
           entries: 'Elementi',
@@ -448,6 +516,11 @@
           truncated: 'Una voce della directory centrale è troncata.',
           invalidSignature: 'Firma della directory centrale non valida.',
           invalidSize: 'La dimensione della directory centrale ZIP non è coerente.',
+          noSourceBackup: 'Nessun blob SRCBAK1 valido trovato nel file caricato.',
+          binaryLoaded: 'Binario firmware caricato. Trovati {count} {candidateWord}.',
+          candidateOne: 'candidato',
+          candidateMany: 'candidati',
+          candidateItem: 'Offset 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | radice {root}',
           decoded: 'ZIP decodificato correttamente. Trovati {count} {entryWord}.',
           entryOne: 'elemento',
           entryMany: 'elementi',
@@ -467,6 +540,10 @@
           extract: 'Extraer ZIP',
           download: 'Descargar ZIP',
           clear: 'Limpiar',
+          binaryHeading: 'Cargar binario del firmware',
+          binaryHint: 'También puedes subir un archivo de firmware extraído del dispositivo. La página busca blobs <code>SRCBAK1</code> válidos, valida sus CRC y te deja elegir el candidato correcto cuando el mismo archivo contiene varios firmwares.',
+          candidateLabel: 'Blobs detectados',
+          useCandidate: 'Usar el blob seleccionado',
           summaryHeading: 'Resumen del archivo',
           zipSize: 'Tamaño ZIP',
           entries: 'Entradas',
@@ -480,6 +557,11 @@
           truncated: 'Una entrada del directorio central está truncada.',
           invalidSignature: 'Firma del directorio central no válida.',
           invalidSize: 'El tamaño del directorio central ZIP es inconsistente.',
+          noSourceBackup: 'No se encontró ningún blob SRCBAK1 válido en el archivo subido.',
+          binaryLoaded: 'Binario de firmware cargado. Se encontraron {count} {candidateWord}.',
+          candidateOne: 'candidato',
+          candidateMany: 'candidatos',
+          candidateItem: 'Desplazamiento 0x{offsetHex} | ZIP {zipSize} | {entryCount} {entryWord} | raíz {root}',
           decoded: 'ZIP decodificado correctamente. Se encontraron {count} {entryWord}.',
           entryOne: 'entrada',
           entryMany: 'entradas',
@@ -493,6 +575,10 @@
       const extractBtn = document.getElementById('extract');
       const downloadBtn = document.getElementById('download');
       const clearBtn = document.getElementById('clear');
+      const binaryFile = document.getElementById('binaryFile');
+      const candidateWrap = document.getElementById('candidateWrap');
+      const candidateSelect = document.getElementById('candidateSelect');
+      const useCandidateBtn = document.getElementById('useCandidate');
       const status = document.getElementById('status');
       const zipSize = document.getElementById('zipSize');
       const entryCount = document.getElementById('entryCount');
@@ -508,6 +594,7 @@
       let currentRootLabel = '-';
       let currentStatus = { key: '', vars: null, isError: false, text: '' };
       let currentLang = 'en';
+      let currentCandidates = [];
 
       function pickLanguage() {
         const candidates = Array.isArray(navigator.languages) && navigator.languages.length
@@ -542,6 +629,10 @@
         extractBtn.textContent = t('extract');
         downloadBtn.textContent = t('download');
         clearBtn.textContent = t('clear');
+        document.getElementById('binaryHeading').textContent = t('binaryHeading');
+        document.getElementById('binaryHint').innerHTML = t('binaryHint');
+        document.getElementById('candidateLabel').textContent = t('candidateLabel');
+        useCandidateBtn.textContent = t('useCandidate');
         document.getElementById('summaryHeading').textContent = t('summaryHeading');
         document.getElementById('zipSizeLabel').textContent = t('zipSize');
         document.getElementById('entryCountLabel').textContent = t('entries');
@@ -576,6 +667,9 @@
         downloadBtn.disabled = true;
         currentDownloadName = t('defaultDownload');
         currentEntries = [];
+        currentCandidates = [];
+        candidateSelect.innerHTML = '';
+        candidateWrap.classList.add('hidden');
       }
 
       function clearObjectUrl() {
@@ -630,6 +724,19 @@
           (bytes[offset + 1] << 8) |
           (bytes[offset + 2] << 16) |
           ((bytes[offset + 3] << 24) >>> 0);
+      }
+
+      function crc32(bytes, start, length) {
+        let crc = 0xFFFFFFFF;
+        const end = start + length;
+        for (let i = start; i < end; i += 1) {
+          crc ^= bytes[i];
+          for (let bit = 0; bit < 8; bit += 1) {
+            const mask = -(crc & 1);
+            crc = (crc >>> 1) ^ (0xEDB88320 & mask);
+          }
+        }
+        return (crc ^ 0xFFFFFFFF) >>> 0;
       }
 
       function parseZipEntries(bytes) {
@@ -731,28 +838,97 @@
         renderEntries(currentEntries);
       }
 
+      function applyArchiveBytes(bytes) {
+        const entries = parseZipEntries(bytes);
+        currentBytes = bytes;
+        currentEntries = entries;
+        zipSize.textContent = formatBytes(bytes.length);
+        entryCount.textContent = String(entries.length);
+        const root = inferRoot(entries);
+        currentRootLabel = root;
+        rootFolder.textContent = root;
+        currentDownloadName = root && root !== '-' && root !== t('rootMultiple') ? `${root}.zip` : t('defaultDownload');
+        renderEntries(entries);
+        clearObjectUrl();
+        currentObjectUrl = URL.createObjectURL(new Blob([bytes], { type: 'application/zip' }));
+        downloadBtn.disabled = false;
+        setStatusKey('decoded', {
+          count: entries.length,
+          entryWord: entries.length === 1 ? t('entryOne') : t('entryMany')
+        }, false);
+      }
+
+      function findSourceBackupCandidates(bytes) {
+        const candidates = [];
+        const magic = [0x53, 0x52, 0x43, 0x42, 0x41, 0x4B, 0x31, 0x00];
+        for (let offset = 0; offset <= bytes.length - 28; offset += 1) {
+          let match = true;
+          for (let i = 0; i < magic.length; i += 1) {
+            if (bytes[offset + i] !== magic[i]) {
+              match = false;
+              break;
+            }
+          }
+          if (!match) continue;
+          const manifestLen = readU32(bytes, offset + 12) >>> 0;
+          const archiveLen = readU32(bytes, offset + 16) >>> 0;
+          const headerCrc = readU32(bytes, offset + 20) >>> 0;
+          const totalLen = 24 + manifestLen + archiveLen + 4;
+          if (totalLen <= 28 || offset + totalLen > bytes.length) continue;
+          if (crc32(bytes, offset, 20) !== headerCrc) continue;
+          if (crc32(bytes, offset + 24, manifestLen + archiveLen) !== (readU32(bytes, offset + 24 + manifestLen + archiveLen) >>> 0)) continue;
+          const archiveStart = offset + 24 + manifestLen;
+          const archiveEnd = archiveStart + archiveLen;
+          const archiveBytes = bytes.slice(archiveStart, archiveEnd);
+          try {
+            const entries = parseZipEntries(archiveBytes);
+            candidates.push({
+              offset,
+              manifestLen,
+              archiveLen,
+              totalLen,
+              version: readU16(bytes, offset + 8),
+              flags: readU16(bytes, offset + 10),
+              archiveBytes,
+              entries,
+              root: inferRoot(entries)
+            });
+          } catch (_) {
+            // Ignore false positives that pass CRC but do not contain a valid ZIP payload.
+          }
+        }
+        return candidates;
+      }
+
+      function renderCandidates(candidates) {
+        currentCandidates = candidates;
+        candidateSelect.innerHTML = '';
+        if (!candidates.length) {
+          candidateWrap.classList.add('hidden');
+          return;
+        }
+        candidateWrap.classList.remove('hidden');
+        candidates.forEach(function(candidate, index) {
+          const option = document.createElement('option');
+          option.value = String(index);
+          option.textContent = t('candidateItem', {
+            offsetHex: candidate.offset.toString(16).toUpperCase(),
+            zipSize: formatBytes(candidate.archiveLen),
+            entryCount: candidate.entries.length,
+            entryWord: candidate.entries.length === 1 ? t('entryOne') : t('entryMany'),
+            root: candidate.root
+          });
+          candidateSelect.appendChild(option);
+        });
+      }
+
       function handleExtract() {
         clearObjectUrl();
         currentBytes = null;
         resetSummary();
         try {
           const bytes = decodeBase64(input.value);
-          const entries = parseZipEntries(bytes);
-          currentBytes = bytes;
-          currentEntries = entries;
-          zipSize.textContent = formatBytes(bytes.length);
-          entryCount.textContent = String(entries.length);
-          const root = inferRoot(entries);
-          currentRootLabel = root;
-          rootFolder.textContent = root;
-          currentDownloadName = root && root !== '-' && root !== t('rootMultiple') ? `${root}.zip` : t('defaultDownload');
-          renderEntries(entries);
-          currentObjectUrl = URL.createObjectURL(new Blob([bytes], { type: 'application/zip' }));
-          downloadBtn.disabled = false;
-          setStatusKey('decoded', {
-            count: entries.length,
-            entryWord: entries.length === 1 ? t('entryOne') : t('entryMany')
-          }, false);
+          applyArchiveBytes(bytes);
         } catch (error) {
           resetSummary();
           setStatusText(error && error.message ? error.message : 'Failed to decode ZIP.', true);
@@ -773,11 +949,51 @@
 
       clearBtn.addEventListener('click', function() {
         input.value = '';
+        binaryFile.value = '';
         clearObjectUrl();
         currentBytes = null;
         resetSummary();
         setStatusText('', false);
         input.focus();
+      });
+
+      binaryFile.addEventListener('change', async function() {
+        const file = binaryFile.files && binaryFile.files[0];
+        if (!file) return;
+        clearObjectUrl();
+        currentBytes = null;
+        resetSummary();
+        try {
+          const buffer = await file.arrayBuffer();
+          const bytes = new Uint8Array(buffer);
+          const candidates = findSourceBackupCandidates(bytes);
+          renderCandidates(candidates);
+          if (!candidates.length) {
+            setStatusKey('noSourceBackup', null, true);
+            return;
+          }
+          setStatusKey('binaryLoaded', {
+            count: candidates.length,
+            candidateWord: candidates.length === 1 ? t('candidateOne') : t('candidateMany')
+          }, false);
+          if (candidates.length === 1) {
+            applyArchiveBytes(candidates[0].archiveBytes);
+          }
+        } catch (error) {
+          resetSummary();
+          setStatusText(error && error.message ? error.message : 'Failed to read firmware binary.', true);
+        }
+      });
+
+      useCandidateBtn.addEventListener('click', function() {
+        const index = Number(candidateSelect.value);
+        if (!Number.isInteger(index) || index < 0 || index >= currentCandidates.length) return;
+        try {
+          applyArchiveBytes(currentCandidates[index].archiveBytes);
+        } catch (error) {
+          resetSummary();
+          setStatusText(error && error.message ? error.message : 'Failed to apply candidate.', true);
+        }
       });
 
       languageSelect.addEventListener('change', function() {
