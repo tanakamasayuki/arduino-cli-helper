@@ -120104,7 +120104,7 @@
 },
   "m5stack:esp32:arduino_nesso_n1": {
     "name": "ArduinoNessoN1",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -120428,7 +120428,7 @@
 },
   "m5stack:esp32:m5stack_atom": {
     "name": "M5Atom",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -120685,7 +120685,7 @@
 },
   "m5stack:esp32:m5stack_atoms3": {
     "name": "M5AtomS3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -121001,7 +121001,7 @@
 },
   "m5stack:esp32:m5stack_atoms3r": {
     "name": "M5AtomS3R",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -121336,7 +121336,7 @@
 },
   "m5stack:esp32:m5stack_capsule": {
     "name": "M5Capsule",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -121715,7 +121715,7 @@
 },
   "m5stack:esp32:m5stack_cardputer": {
     "name": "M5Cardputer",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -122090,7 +122090,7 @@
 },
   "m5stack:esp32:m5stack_chain_dualkey": {
     "name": "M5ChainDualKey",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -122446,7 +122446,7 @@
 },
   "m5stack:esp32:m5stack_core": {
     "name": "M5Core",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -122707,7 +122707,7 @@
 },
   "m5stack:esp32:m5stack_core2": {
     "name": "M5Core2",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -122983,7 +122983,7 @@
 },
   "m5stack:esp32:m5stack_coreink": {
     "name": "M5CoreInk",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -123240,7 +123240,7 @@
 },
   "m5stack:esp32:m5stack_cores3": {
     "name": "M5CoreS3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -123615,7 +123615,7 @@
 },
   "m5stack:esp32:m5stack_dial": {
     "name": "M5Dial",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -123990,7 +123990,7 @@
 },
   "m5stack:esp32:m5stack_dinmeter": {
     "name": "M5DinMeter",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -124365,7 +124365,7 @@
 },
   "m5stack:esp32:m5stack_fire": {
     "name": "M5Fire",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -124641,7 +124641,7 @@
 },
   "m5stack:esp32:m5stack_nano_c6": {
     "name": "M5NanoC6",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -124965,7 +124965,7 @@
 },
   "m5stack:esp32:m5stack_nano_h2": {
     "name": "M5NanoH2",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -125246,7 +125246,7 @@
 },
   "m5stack:esp32:m5stack_paper": {
     "name": "M5Paper",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -125520,9 +125520,384 @@
     ],
     "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
 },
+  "m5stack:esp32:m5stack_papercolor": {
+    "name": "M5PaperColor",
+    "version": "3.3.7",
+    "config_options": [
+        {
+            "option": "UploadSpeed",
+            "option_label": "Upload Speed",
+            "values": [
+                {
+                    "value": "921600",
+                    "value_label": "921600",
+                    "selected": true
+                },
+                {
+                    "value": "115200",
+                    "value_label": "115200"
+                },
+                {
+                    "value": "230400",
+                    "value_label": "230400"
+                },
+                {
+                    "value": "460800",
+                    "value_label": "460800"
+                }
+            ]
+        },
+        {
+            "option": "USBMode",
+            "option_label": "USB Mode",
+            "values": [
+                {
+                    "value": "hwcdc",
+                    "value_label": "Hardware CDC and JTAG",
+                    "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "USB-OTG (TinyUSB)"
+                }
+            ]
+        },
+        {
+            "option": "CDCOnBoot",
+            "option_label": "USB CDC On Boot",
+            "values": [
+                {
+                    "value": "cdc",
+                    "value_label": "Enabled",
+                    "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "Disabled"
+                }
+            ]
+        },
+        {
+            "option": "MSCOnBoot",
+            "option_label": "USB Firmware MSC On Boot",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "msc",
+                    "value_label": "Enabled (Requires USB-OTG Mode)"
+                }
+            ]
+        },
+        {
+            "option": "DFUOnBoot",
+            "option_label": "USB DFU On Boot",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "dfu",
+                    "value_label": "Enabled (Requires USB-OTG Mode)"
+                }
+            ]
+        },
+        {
+            "option": "UploadMode",
+            "option_label": "Upload Mode",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "UART0 / Hardware CDC",
+                    "selected": true
+                },
+                {
+                    "value": "cdc",
+                    "value_label": "USB-OTG CDC (TinyUSB)"
+                }
+            ]
+        },
+        {
+            "option": "CPUFreq",
+            "option_label": "CPU Frequency",
+            "values": [
+                {
+                    "value": "240",
+                    "value_label": "240MHz (WiFi)",
+                    "selected": true
+                },
+                {
+                    "value": "160",
+                    "value_label": "160MHz (WiFi)"
+                },
+                {
+                    "value": "80",
+                    "value_label": "80MHz (WiFi)"
+                },
+                {
+                    "value": "40",
+                    "value_label": "40MHz"
+                },
+                {
+                    "value": "20",
+                    "value_label": "20MHz"
+                },
+                {
+                    "value": "10",
+                    "value_label": "10MHz"
+                }
+            ]
+        },
+        {
+            "option": "FlashMode",
+            "option_label": "Flash Mode",
+            "values": [
+                {
+                    "value": "qio",
+                    "value_label": "QIO 80MHz",
+                    "selected": true
+                },
+                {
+                    "value": "qio120",
+                    "value_label": "QIO 120MHz"
+                },
+                {
+                    "value": "dio",
+                    "value_label": "DIO 80MHz"
+                },
+                {
+                    "value": "opi",
+                    "value_label": "OPI 80MHz"
+                }
+            ]
+        },
+        {
+            "option": "FlashSize",
+            "option_label": "Flash Size",
+            "values": [
+                {
+                    "value": "16M",
+                    "value_label": "16MB (128Mb)",
+                    "selected": true
+                },
+                {
+                    "value": "32M",
+                    "value_label": "32MB (256Mb)"
+                }
+            ]
+        },
+        {
+            "option": "PartitionScheme",
+            "option_label": "Partition Scheme",
+            "values": [
+                {
+                    "value": "app3M_fat9M_16MB",
+                    "value_label": "16M Flash (3MB APP/9.9MB FATFS)",
+                    "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)"
+                },
+                {
+                    "value": "defaultffat",
+                    "value_label": "Default 4MB with ffat (1.2MB APP/1.5MB FATFS)"
+                },
+                {
+                    "value": "default_8MB",
+                    "value_label": "8M with spiffs (3MB APP/1.5MB SPIFFS)"
+                },
+                {
+                    "value": "minimal",
+                    "value_label": "Minimal (1.3MB APP/700KB SPIFFS)"
+                },
+                {
+                    "value": "no_ota",
+                    "value_label": "No OTA (2MB APP/2MB SPIFFS)"
+                },
+                {
+                    "value": "noota_3g",
+                    "value_label": "No OTA (1MB APP/3MB SPIFFS)"
+                },
+                {
+                    "value": "noota_ffat",
+                    "value_label": "No OTA (2MB APP/2MB FATFS)"
+                },
+                {
+                    "value": "noota_3gffat",
+                    "value_label": "No OTA (1MB APP/3MB FATFS)"
+                },
+                {
+                    "value": "huge_app",
+                    "value_label": "Huge APP (3MB No OTA/1MB SPIFFS)"
+                },
+                {
+                    "value": "min_spiffs",
+                    "value_label": "Minimal SPIFFS (1.9MB APP with OTA/190KB SPIFFS)"
+                },
+                {
+                    "value": "fatflash",
+                    "value_label": "16M Flash (2MB APP/12.5MB FATFS)"
+                },
+                {
+                    "value": "rainmaker",
+                    "value_label": "RainMaker"
+                },
+                {
+                    "value": "app5M_fat24M_32MB",
+                    "value_label": "32M Flash (4.8MB APP/22MB FATFS)"
+                },
+                {
+                    "value": "app5M_little24M_32MB",
+                    "value_label": "32M Flash (4.8MB APP/22MB LittleFS)"
+                },
+                {
+                    "value": "esp_sr_16",
+                    "value_label": "ESP SR 16M (3MB APP/7MB SPIFFS/2.9MB MODEL)"
+                },
+                {
+                    "value": "custom",
+                    "value_label": "Custom"
+                },
+                {
+                    "value": "factory_4apps",
+                    "value_label": "16MB+Factory (4x 3MB APP/2MB SPIFFS)"
+                },
+                {
+                    "value": "factory_6apps",
+                    "value_label": "16MB+Factory (6x 2MB APP/2MB SPIFFS)"
+                }
+            ]
+        },
+        {
+            "option": "DebugLevel",
+            "option_label": "Core Debug Level",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "error",
+                    "value_label": "Error"
+                },
+                {
+                    "value": "warn",
+                    "value_label": "Warn"
+                },
+                {
+                    "value": "info",
+                    "value_label": "Info"
+                },
+                {
+                    "value": "debug",
+                    "value_label": "Debug"
+                },
+                {
+                    "value": "verbose",
+                    "value_label": "Verbose"
+                }
+            ]
+        },
+        {
+            "option": "PSRAM",
+            "option_label": "PSRAM",
+            "values": [
+                {
+                    "value": "opi",
+                    "value_label": "OPI PSRAM",
+                    "selected": true
+                },
+                {
+                    "value": "enabled",
+                    "value_label": "QSPI PSRAM"
+                },
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled"
+                }
+            ]
+        },
+        {
+            "option": "LoopCore",
+            "option_label": "Arduino Runs On",
+            "values": [
+                {
+                    "value": "1",
+                    "value_label": "Core 1",
+                    "selected": true
+                },
+                {
+                    "value": "0",
+                    "value_label": "Core 0"
+                }
+            ]
+        },
+        {
+            "option": "EventsCore",
+            "option_label": "Events Run On",
+            "values": [
+                {
+                    "value": "1",
+                    "value_label": "Core 1",
+                    "selected": true
+                },
+                {
+                    "value": "0",
+                    "value_label": "Core 0"
+                }
+            ]
+        },
+        {
+            "option": "EraseFlash",
+            "option_label": "Erase All Flash Before Sketch Upload",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "all",
+                    "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "JTAGAdapter",
+            "option_label": "JTAG Adapter",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "builtin",
+                    "value_label": "Integrated USB JTAG"
+                },
+                {
+                    "value": "external",
+                    "value_label": "FTDI Adapter"
+                },
+                {
+                    "value": "bridge",
+                    "value_label": "ESP USB Bridge"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+},
   "m5stack:esp32:m5stack_papers3": {
     "name": "M5PaperS3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -125897,7 +126272,7 @@
 },
   "m5stack:esp32:m5stack_poe_cam": {
     "name": "M5PoECAM",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -126161,7 +126536,7 @@
 },
   "m5stack:esp32:m5stack_powerhub": {
     "name": "M5PowerHub",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -126536,7 +126911,7 @@
 },
   "m5stack:esp32:m5stack_stamp_c3": {
     "name": "M5StampC3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -126773,7 +127148,7 @@
 },
   "m5stack:esp32:m5stack_stamp_c6lora": {
     "name": "M5StampC6LoRa",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -127097,7 +127472,7 @@
 },
   "m5stack:esp32:m5stack_stamp_p4": {
     "name": "M5StampP4",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -127296,7 +127671,7 @@
                 },
                 {
                     "value": "min_spiffs",
-                    "value_label": "Minimal SPIFFS (1.9MB APP with OTA/190KB SPIFFS)"
+                    "value_label": "Minimal SPIFFS (1.9MB APP with OTA/128KB SPIFFS)"
                 },
                 {
                     "value": "fatflash",
@@ -127395,13 +127770,28 @@
                     "value_label": "ESP USB Bridge"
                 }
             ]
+        },
+        {
+            "option": "ChipVariant",
+            "option_label": "Chip Variant",
+            "values": [
+                {
+                    "value": "prev3",
+                    "value_label": "Before v3.00",
+                    "selected": true
+                },
+                {
+                    "value": "postv3",
+                    "value_label": "v3.00 or newer"
+                }
+            ]
         }
     ],
     "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_pico": {
     "name": "M5StampPico",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -127658,7 +128048,7 @@
 },
   "m5stack:esp32:m5stack_stamp_s3": {
     "name": "M5StampS3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -128033,7 +128423,7 @@
 },
   "m5stack:esp32:m5stack_stamp_s3bat": {
     "name": "M5StampS3Bat",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -128368,7 +128758,7 @@
 },
   "m5stack:esp32:m5stack_stamplc": {
     "name": "M5StamPLC",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -128743,7 +129133,7 @@
 },
   "m5stack:esp32:m5stack_station": {
     "name": "M5Station",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -129004,7 +129394,7 @@
 },
   "m5stack:esp32:m5stack_stickc": {
     "name": "M5StickC",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -129261,7 +129651,7 @@
 },
   "m5stack:esp32:m5stack_stickc_plus": {
     "name": "M5StickCPlus",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -129518,7 +129908,7 @@
 },
   "m5stack:esp32:m5stack_stickc_plus2": {
     "name": "M5StickCPlus2",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -129790,7 +130180,7 @@
 },
   "m5stack:esp32:m5stack_sticks3": {
     "name": "M5StickS3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -130123,9 +130513,384 @@
     ],
     "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
 },
+  "m5stack:esp32:m5stack_stopwatch": {
+    "name": "M5StopWatch",
+    "version": "3.3.7",
+    "config_options": [
+        {
+            "option": "UploadSpeed",
+            "option_label": "Upload Speed",
+            "values": [
+                {
+                    "value": "921600",
+                    "value_label": "921600",
+                    "selected": true
+                },
+                {
+                    "value": "115200",
+                    "value_label": "115200"
+                },
+                {
+                    "value": "230400",
+                    "value_label": "230400"
+                },
+                {
+                    "value": "460800",
+                    "value_label": "460800"
+                }
+            ]
+        },
+        {
+            "option": "USBMode",
+            "option_label": "USB Mode",
+            "values": [
+                {
+                    "value": "hwcdc",
+                    "value_label": "Hardware CDC and JTAG",
+                    "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "USB-OTG (TinyUSB)"
+                }
+            ]
+        },
+        {
+            "option": "CDCOnBoot",
+            "option_label": "USB CDC On Boot",
+            "values": [
+                {
+                    "value": "cdc",
+                    "value_label": "Enabled",
+                    "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "Disabled"
+                }
+            ]
+        },
+        {
+            "option": "MSCOnBoot",
+            "option_label": "USB Firmware MSC On Boot",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "msc",
+                    "value_label": "Enabled (Requires USB-OTG Mode)"
+                }
+            ]
+        },
+        {
+            "option": "DFUOnBoot",
+            "option_label": "USB DFU On Boot",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "dfu",
+                    "value_label": "Enabled (Requires USB-OTG Mode)"
+                }
+            ]
+        },
+        {
+            "option": "UploadMode",
+            "option_label": "Upload Mode",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "UART0 / Hardware CDC",
+                    "selected": true
+                },
+                {
+                    "value": "cdc",
+                    "value_label": "USB-OTG CDC (TinyUSB)"
+                }
+            ]
+        },
+        {
+            "option": "CPUFreq",
+            "option_label": "CPU Frequency",
+            "values": [
+                {
+                    "value": "240",
+                    "value_label": "240MHz (WiFi)",
+                    "selected": true
+                },
+                {
+                    "value": "160",
+                    "value_label": "160MHz (WiFi)"
+                },
+                {
+                    "value": "80",
+                    "value_label": "80MHz (WiFi)"
+                },
+                {
+                    "value": "40",
+                    "value_label": "40MHz"
+                },
+                {
+                    "value": "20",
+                    "value_label": "20MHz"
+                },
+                {
+                    "value": "10",
+                    "value_label": "10MHz"
+                }
+            ]
+        },
+        {
+            "option": "FlashMode",
+            "option_label": "Flash Mode",
+            "values": [
+                {
+                    "value": "qio",
+                    "value_label": "QIO 80MHz",
+                    "selected": true
+                },
+                {
+                    "value": "qio120",
+                    "value_label": "QIO 120MHz"
+                },
+                {
+                    "value": "dio",
+                    "value_label": "DIO 80MHz"
+                },
+                {
+                    "value": "opi",
+                    "value_label": "OPI 80MHz"
+                }
+            ]
+        },
+        {
+            "option": "FlashSize",
+            "option_label": "Flash Size",
+            "values": [
+                {
+                    "value": "16M",
+                    "value_label": "16MB (128Mb)",
+                    "selected": true
+                },
+                {
+                    "value": "32M",
+                    "value_label": "32MB (256Mb)"
+                }
+            ]
+        },
+        {
+            "option": "PartitionScheme",
+            "option_label": "Partition Scheme",
+            "values": [
+                {
+                    "value": "app3M_fat9M_16MB",
+                    "value_label": "16M Flash (3MB APP/9.9MB FATFS)",
+                    "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)"
+                },
+                {
+                    "value": "defaultffat",
+                    "value_label": "Default 4MB with ffat (1.2MB APP/1.5MB FATFS)"
+                },
+                {
+                    "value": "default_8MB",
+                    "value_label": "8M with spiffs (3MB APP/1.5MB SPIFFS)"
+                },
+                {
+                    "value": "minimal",
+                    "value_label": "Minimal (1.3MB APP/700KB SPIFFS)"
+                },
+                {
+                    "value": "no_ota",
+                    "value_label": "No OTA (2MB APP/2MB SPIFFS)"
+                },
+                {
+                    "value": "noota_3g",
+                    "value_label": "No OTA (1MB APP/3MB SPIFFS)"
+                },
+                {
+                    "value": "noota_ffat",
+                    "value_label": "No OTA (2MB APP/2MB FATFS)"
+                },
+                {
+                    "value": "noota_3gffat",
+                    "value_label": "No OTA (1MB APP/3MB FATFS)"
+                },
+                {
+                    "value": "huge_app",
+                    "value_label": "Huge APP (3MB No OTA/1MB SPIFFS)"
+                },
+                {
+                    "value": "min_spiffs",
+                    "value_label": "Minimal SPIFFS (1.9MB APP with OTA/190KB SPIFFS)"
+                },
+                {
+                    "value": "fatflash",
+                    "value_label": "16M Flash (2MB APP/12.5MB FATFS)"
+                },
+                {
+                    "value": "rainmaker",
+                    "value_label": "RainMaker"
+                },
+                {
+                    "value": "app5M_fat24M_32MB",
+                    "value_label": "32M Flash (4.8MB APP/22MB FATFS)"
+                },
+                {
+                    "value": "app5M_little24M_32MB",
+                    "value_label": "32M Flash (4.8MB APP/22MB LittleFS)"
+                },
+                {
+                    "value": "esp_sr_16",
+                    "value_label": "ESP SR 16M (3MB APP/7MB SPIFFS/2.9MB MODEL)"
+                },
+                {
+                    "value": "custom",
+                    "value_label": "Custom"
+                },
+                {
+                    "value": "factory_4apps",
+                    "value_label": "16MB+Factory (4x 3MB APP/2MB SPIFFS)"
+                },
+                {
+                    "value": "factory_6apps",
+                    "value_label": "16MB+Factory (6x 2MB APP/2MB SPIFFS)"
+                }
+            ]
+        },
+        {
+            "option": "DebugLevel",
+            "option_label": "Core Debug Level",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "error",
+                    "value_label": "Error"
+                },
+                {
+                    "value": "warn",
+                    "value_label": "Warn"
+                },
+                {
+                    "value": "info",
+                    "value_label": "Info"
+                },
+                {
+                    "value": "debug",
+                    "value_label": "Debug"
+                },
+                {
+                    "value": "verbose",
+                    "value_label": "Verbose"
+                }
+            ]
+        },
+        {
+            "option": "PSRAM",
+            "option_label": "PSRAM",
+            "values": [
+                {
+                    "value": "opi",
+                    "value_label": "OPI PSRAM",
+                    "selected": true
+                },
+                {
+                    "value": "enabled",
+                    "value_label": "QSPI PSRAM"
+                },
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled"
+                }
+            ]
+        },
+        {
+            "option": "LoopCore",
+            "option_label": "Arduino Runs On",
+            "values": [
+                {
+                    "value": "1",
+                    "value_label": "Core 1",
+                    "selected": true
+                },
+                {
+                    "value": "0",
+                    "value_label": "Core 0"
+                }
+            ]
+        },
+        {
+            "option": "EventsCore",
+            "option_label": "Events Run On",
+            "values": [
+                {
+                    "value": "1",
+                    "value_label": "Core 1",
+                    "selected": true
+                },
+                {
+                    "value": "0",
+                    "value_label": "Core 0"
+                }
+            ]
+        },
+        {
+            "option": "EraseFlash",
+            "option_label": "Erase All Flash Before Sketch Upload",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "all",
+                    "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "JTAGAdapter",
+            "option_label": "JTAG Adapter",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "builtin",
+                    "value_label": "Integrated USB JTAG"
+                },
+                {
+                    "value": "external",
+                    "value_label": "FTDI Adapter"
+                },
+                {
+                    "value": "bridge",
+                    "value_label": "ESP USB Bridge"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+},
   "m5stack:esp32:m5stack_tab5": {
     "name": "M5Tab5",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -130324,7 +131089,7 @@
                 },
                 {
                     "value": "min_spiffs",
-                    "value_label": "Minimal SPIFFS (1.9MB APP with OTA/190KB SPIFFS)"
+                    "value_label": "Minimal SPIFFS (1.9MB APP with OTA/128KB SPIFFS)"
                 },
                 {
                     "value": "fatflash",
@@ -130423,13 +131188,28 @@
                     "value_label": "ESP USB Bridge"
                 }
             ]
+        },
+        {
+            "option": "ChipVariant",
+            "option_label": "Chip Variant",
+            "values": [
+                {
+                    "value": "prev3",
+                    "value_label": "Before v3.00",
+                    "selected": true
+                },
+                {
+                    "value": "postv3",
+                    "value_label": "v3.00 or newer"
+                }
+            ]
         }
     ],
     "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_timer_cam": {
     "name": "M5TimerCAM",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -130693,7 +131473,7 @@
 },
   "m5stack:esp32:m5stack_tough": {
     "name": "M5Tough",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -130969,7 +131749,7 @@
 },
   "m5stack:esp32:m5stack_unit_c6l": {
     "name": "M5UnitC6L",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -131293,7 +132073,7 @@
 },
   "m5stack:esp32:m5stack_unit_cam": {
     "name": "M5UnitCAM",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -131557,7 +132337,7 @@
 },
   "m5stack:esp32:m5stack_unit_cams3": {
     "name": "M5UnitCAMS3",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -131924,7 +132704,7 @@
 },
   "m5stack:esp32:m5stack_unit_poe_p4": {
     "name": "M5UnitPoEP4",
-    "version": "3.2.6",
+    "version": "3.3.7",
     "config_options": [
         {
             "option": "UploadSpeed",
