@@ -586,8 +586,29 @@
       }
 
       function normalizeBase64(raw) {
-        const matches = String(raw || '').match(/[A-Za-z0-9+/=]+/g);
-        return matches ? matches.join('') : '';
+        const text = String(raw || '').replace(/\r/g, '');
+        const beginMarker = '-----BEGIN SOURCEBACKUP ZIP BASE64-----';
+        const endMarker = '-----END SOURCEBACKUP ZIP BASE64-----';
+        const beginIndex = text.indexOf(beginMarker);
+        const endIndex = text.indexOf(endMarker);
+        let body = text;
+        if (beginIndex >= 0 && endIndex > beginIndex) {
+          body = text.slice(beginIndex + beginMarker.length, endIndex);
+        }
+        const chunks = [];
+        const lines = body.split('\n');
+        for (const rawLine of lines) {
+          const line = rawLine.trim();
+          if (!line) continue;
+          if (line.startsWith('-----')) continue;
+          if (/^https?:\/\//i.test(line)) continue;
+          if (/^source backup restore:?$/i.test(line)) continue;
+          const cleaned = line.replace(/\s+/g, '');
+          if (!cleaned) continue;
+          if (!/^[A-Za-z0-9+/=]+$/.test(cleaned)) continue;
+          chunks.push(cleaned);
+        }
+        return chunks.join('');
       }
 
       function decodeBase64(base64) {
