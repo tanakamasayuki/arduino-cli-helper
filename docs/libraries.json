@@ -128404,8 +128404,8 @@
     },
     {
         "name": "Sensirion UPT BLE Server",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Bjoern Muntwyler, Jonas Stolle",
         "maintainer": "Sensirion AG <sensirion.com>",
         "website": "https://github.com/Sensirion/arduino-upt-ble-server",
@@ -138880,8 +138880,8 @@
     },
     {
         "name": "eva-core-sk",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-core-sk",
