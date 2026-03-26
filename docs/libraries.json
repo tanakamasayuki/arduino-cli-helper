@@ -109865,8 +109865,8 @@
     },
     {
         "name": "TMD3725",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.1.0",
         "author": "Vasilii Zhuravskii",
         "maintainer": "vasya-zh <vasily.zhuravsky@gmail.com>",
         "website": "https://github.com/vasya-zh/TMD3725",
