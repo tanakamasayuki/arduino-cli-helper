@@ -130298,13 +130298,13 @@
     },
     {
         "name": "Shrike",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Vicharak",
         "maintainer": "Vicharak <deepak.sharda@vicharak.in>",
         "website": "https://github.com/vicharak-in/shrike_flash",
         "category": "Communication",
-        "architectures": "rp2040",
+        "architectures": "rp2040, esp32",
         "types": "Contributed",
         "repository": "https://github.com/vicharak-in/shrike_arduino.git",
         "dependencies": [
@@ -136566,8 +136566,8 @@
     },
     {
         "name": "DTS6012M",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Martin Schörner",
         "maintainer": "Martin Schörner <fan4tix@freenet.de>",
         "website": "https://github.com/fan4tix/DTS6012M",
@@ -139375,6 +139375,36 @@
         "dependencies": [
             "HaierProtocol",
             "SuplaDevice"
+        ]
+    },
+    {
+        "name": "RohitCore-Base",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Base",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Base.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RohitCore-Timer",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Timer",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Timer.git",
+        "dependencies": [
+            "RohitCore-Base"
         ]
     }
 ]
