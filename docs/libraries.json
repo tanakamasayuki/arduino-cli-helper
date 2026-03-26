@@ -138553,8 +138553,8 @@
     },
     {
         "name": "WS281xProcessor",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.1.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.0",
         "author": "Jueff",
         "maintainer": "Jueff <mobaledlib@gmx.at>",
         "website": "https://github.com/Jueff/WS281xProcessor#readme",
@@ -139405,6 +139405,21 @@
         "repository": "https://github.com/rohitmaji004/RohitCore-Timer.git",
         "dependencies": [
             "RohitCore-Base"
+        ]
+    },
+    {
+        "name": "Politician",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "0ldev",
+        "maintainer": "0ldev <no@email.com>",
+        "website": "https://github.com/0ldev/Politician",
+        "category": "Communication",
+        "architectures": "esp32, esp32s2, esp32s3, esp32c3, esp32c6",
+        "types": "Contributed",
+        "repository": "https://github.com/0ldev/Politician.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
