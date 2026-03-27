@@ -129794,8 +129794,8 @@
     },
     {
         "name": "Arduino_Modulino",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.1, 0.6.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.1, 0.6.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Modulino",
@@ -139450,6 +139450,21 @@
         "repository": "https://github.com/HijelHub/HijelHID_BLEMouse.git",
         "dependencies": [
             "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "DIYables TFT Shield Mega",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io (diyables.io@gmail.com)",
+        "website": "http://diyables.io/tft-shield-mega",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables_TFT_Shield_Mega.git",
+        "dependencies": [
+            "Adafruit GFX Library"
         ]
     }
 ]
