@@ -139436,5 +139436,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "HijelHID_BLEMouse",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Hijel",
+        "maintainer": "Hijel hijel.hub@gmail.com",
+        "website": "https://github.com/HijelHub/HijelHID_BLEMouse",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/HijelHub/HijelHID_BLEMouse.git",
+        "dependencies": [
+            "NimBLE-Arduino"
+        ]
     }
 ]
