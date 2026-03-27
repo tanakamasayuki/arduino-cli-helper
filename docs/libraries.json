@@ -136927,8 +136927,8 @@
     },
     {
         "name": "TLV320DAC3101",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Thomas Jentzsch",
         "maintainer": "Thomas Jentzsch <yellobyte@bluewin.ch>",
         "website": "https://github.com/yellobyte/TLV320DAC3101",
@@ -139181,8 +139181,8 @@
     },
     {
         "name": "PicoSound",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.0",
         "author": "IWILZ",
         "maintainer": "IWILZ",
         "website": "https://github.com/IWILZ/PicoSound",
