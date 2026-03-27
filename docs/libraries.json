@@ -139469,18 +139469,17 @@
     },
     {
         "name": "LTC2944_BMS",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Roland van Leusden",
         "maintainer": "Roland van Leusden",
-        "website": "https://github.com/rleusden/LTC2944_BMS/tree/main",
+        "website": "https://github.com/rleusden/LTC2944_BMS",
         "category": "Sensors",
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/rleusden/LTC2944_BMS.git",
         "dependencies": [
-            "Wire",
-            "EEPROM"
+            ""
         ]
     }
 ]
