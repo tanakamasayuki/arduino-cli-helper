@@ -139469,8 +139469,8 @@
     },
     {
         "name": "LTC2944_BMS",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Roland van Leusden",
         "maintainer": "Roland van Leusden",
         "website": "https://github.com/rleusden/LTC2944_BMS",
