@@ -67098,10 +67098,10 @@
     },
     {
         "name": "NTP",
-        "version": "1.7.1",
-        "versions": "1.7.1, 1.7.0, 1.6.0, 1.5.0",
+        "version": "1.8.0",
+        "versions": "1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0",
         "author": "Stefan Staub",
-        "maintainer": "Stefan Staub <email@domain.com>",
+        "maintainer": "Stefan Staub <https://github.com/sstaub>",
         "website": "https://github.com/sstaub/NTP",
         "category": "Timing",
         "architectures": "*",
