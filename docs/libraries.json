@@ -139136,8 +139136,8 @@
     },
     {
         "name": "Modbus-pico",
-        "version": "4.3.3",
-        "versions": "4.3.3",
+        "version": "4.4.0",
+        "versions": "4.4.0, 4.3.3",
         "author": "Jimes Yang",
         "maintainer": "Jimes Yang <admin@sndnvaps>",
         "website": "https://github.com/sndnvaps/modbus-pico",
