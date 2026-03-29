@@ -138433,8 +138433,8 @@
     },
     {
         "name": "htcw_frame",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/htcw_frame",
