@@ -139060,8 +139060,8 @@
     },
     {
         "name": "PCF8573",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Ignacy110",
         "maintainer": "Ignacy110",
         "website": "https://github.com/Ignacy110/PCF8573",
@@ -139538,6 +139538,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sstaub/NTP3.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MultiTimerSAMD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "muman.ch <info@muman.ch>",
+        "maintainer": "muman.ch <info@muman.ch>",
+        "website": "https://github.com/mumanchu/MultiTimerSAMD",
+        "category": "Timing",
+        "architectures": "samd",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/MultiTimerSAMD.git",
         "dependencies": [
             ""
         ]
