@@ -139526,5 +139526,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "NTP3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Stefan Staub",
+        "maintainer": "Stefan Staub <https://github.com/sstaub>",
+        "website": "https://github.com/sstaub/NTP3",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sstaub/NTP3.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
