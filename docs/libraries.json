@@ -96596,8 +96596,8 @@
     },
     {
         "name": "JBWopr",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0-beta4, 1.0.0-beta2",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0-beta4, 1.0.0-beta2",
         "author": "Jonny Bergdahl",
         "maintainer": "Jonny Bergdahl <github@bergdahl.org>",
         "website": "https://github.com/jonnybergdahl/Arduino_JBWopr_Library",
@@ -137032,13 +137032,13 @@
     },
     {
         "name": "NodeRemote",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.5.14",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.5.14",
         "author": "youjunjer",
         "maintainer": "youjunjer",
         "website": "https://github.com/youjunjer/NodeRemote",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/youjunjer/NodeRemote.git",
         "dependencies": [
