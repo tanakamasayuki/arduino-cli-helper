@@ -139587,5 +139587,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "I2C_HC4067",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/I2C_HC4067",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/I2C_HC4067.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
