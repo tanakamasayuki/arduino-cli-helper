@@ -139617,5 +139617,20 @@
         "dependencies": [
             "Sensirion Core"
         ]
+    },
+    {
+        "name": "HDrive",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Jesús Amezquita, Kame Electronics",
+        "maintainer": "Jesús Amezquita <l25290382@cdguzman.tecnm.mx>",
+        "website": "https://github.com/JesRex700/HDrive",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/JesRex700/HDrive.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
