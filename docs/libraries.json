@@ -130570,8 +130570,8 @@
     },
     {
         "name": "BLE Serial - NUS",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_BLESerial",
@@ -130580,7 +130580,8 @@
         "types": "Contributed",
         "repository": "https://github.com/uutzinger/Arduino_BLESerial.git",
         "dependencies": [
-            ""
+            "NimBLE-Arduino",
+            "UUtzinger_RingBuffer"
         ]
     },
     {
@@ -139555,6 +139556,21 @@
         "repository": "https://github.com/mumanchu/MultiTimerSAMD.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "MSS-XCADE Control Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nathan Holmes <support@iascaled.com>",
+        "maintainer": "Nathan Holmes <support@iascaled.com>",
+        "website": "https://docs.iascaled.com/SimpleSig/Block%20Signal%20Custom/developer_guide/",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/IowaScaledEngineering/mss-xcade-lib.git",
+        "dependencies": [
+            "Wire"
         ]
     }
 ]
