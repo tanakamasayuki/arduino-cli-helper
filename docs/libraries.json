@@ -120875,8 +120875,8 @@
     },
     {
         "name": "DIYables TFT Shield",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "DIYables.io",
         "maintainer": "DIYables.io (diyables.io@gmail.com)",
         "website": "https://diyables.io/products/3.5-inch-color-tft-lcd-display-screen-module-320x480-non-touch-for-arduino-uno-and-mega-ili9486-8-bit-parallel-interface",
@@ -139455,8 +139455,8 @@
     },
     {
         "name": "DIYables TFT Shield Mega",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "DIYables.io",
         "maintainer": "DIYables.io (diyables.io@gmail.com)",
         "website": "http://diyables.io/tft-shield-mega",
@@ -139629,6 +139629,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/JesRex700/HDrive.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DFRobot_STCC4",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DFRobot",
+        "maintainer": "Fary <feng.yang@dfrobot.com>",
+        "website": "https://github.com/DFRobot/DFRobot_STCC4",
+        "category": "Uncategorized",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/DFRobot/DFRobot_STCC4.git",
         "dependencies": [
             ""
         ]
