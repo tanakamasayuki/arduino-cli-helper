@@ -16925,8 +16925,8 @@
     },
     {
         "name": "NRFLite",
-        "version": "3.0.6",
-        "versions": "3.0.6, 3.0.5, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.11, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1",
+        "version": "3.0.7",
+        "versions": "3.0.7, 3.0.6, 3.0.5, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.11, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1",
         "author": "Dave Parson <dparson55@hotmail.com>",
         "maintainer": "Dave Parson <dparson55@hotmail.com>",
         "website": "https://github.com/dparson55/NRFLite",
@@ -110747,8 +110747,8 @@
     },
     {
         "name": "GPStar Audio Serial Library",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.2, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.0, 1.2.2, 1.2.0, 1.1.0, 1.0.0",
         "author": "Michael Rajotte",
         "maintainer": "Michael Rajotte <michael.rajotte@gpstartechnologies.com>",
         "website": "https://github.com/gpstar81/GPStarAudio-Serial-Library",
@@ -118748,8 +118748,8 @@
     },
     {
         "name": "M5StamPLC",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5StamPLC.git",
