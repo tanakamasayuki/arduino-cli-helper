@@ -104459,8 +104459,8 @@
     },
     {
         "name": "LTR390_DFR",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/LTR390_DFR",
@@ -104474,8 +104474,8 @@
     },
     {
         "name": "LTR390_RT",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/LTR390_RT",
@@ -110199,8 +110199,8 @@
     },
     {
         "name": "ESP-NOW MIDI",
-        "version": "0.10.8",
-        "versions": "0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
+        "version": "0.10.9",
+        "versions": "0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/grantler-instruments/ESP-NOW-MIDI",
@@ -124237,8 +124237,8 @@
     },
     {
         "name": "MicroSui",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.2",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2",
         "author": "Gustavo Belbruno",
         "maintainer": "Gustavo Belbruno <gustavobelbruno@gmail.com>",
         "website": "https://github.com/MicroSui/microsui-lib",
