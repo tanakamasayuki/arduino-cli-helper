@@ -106768,8 +106768,8 @@
     },
     {
         "name": "LidarArray",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "João Augusto Carvalho Araújo",
         "maintainer": "João Augusto Carvalho Araújo <czjoaoaugustocz@gmail.com>",
         "website": "https://github.com/joaoaugustocz/LidarArray/",
@@ -106778,7 +106778,8 @@
         "types": "Contributed",
         "repository": "https://github.com/joaoaugustocz/LidarArray.git",
         "dependencies": [
-            "VL53L0X"
+            "VL53L0X",
+            "VL53L4CD"
         ]
     },
     {
@@ -138851,8 +138852,8 @@
     },
     {
         "name": "DIYables Bluetooth",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "DIYables",
         "maintainer": "DIYables <support@diyables.io>",
         "website": "https://diyables.io/bluetooth-app",
