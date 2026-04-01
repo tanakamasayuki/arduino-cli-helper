@@ -111128,8 +111128,8 @@
     },
     {
         "name": "MX8650 Mouse sensor library",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Saurav Sajeev",
         "maintainer": "Saurav Sajeev",
         "website": "https://github.com/styropyr0/MX8650",
@@ -138912,8 +138912,8 @@
     },
     {
         "name": "EPD Painter",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.0",
         "author": "Tony Weston <tony_w@javadev.uk>",
         "maintainer": "Tony Weston <tony_w@javadev.uk>",
         "website": "https://github.com/tonywestonuk/EPD_Painter/",
