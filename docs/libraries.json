@@ -6227,13 +6227,13 @@
     },
     {
         "name": "IRremote",
-        "version": "4.6.1",
-        "versions": "4.6.1, 4.6.0, 4.5.0, 4.4.3, 4.4.2, 4.4.1, 4.4.0, 4.3.2, 4.3.1, 4.3.0, 4.2.1, 4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.9.0, 3.8.0, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.8.1, 2.8.0, 2.7.0, 2.6.1, 2.6.0, 2.5.0, 2.2.3, 2.0.1, 1.0.0",
+        "version": "4.7.0",
+        "versions": "4.7.0, 4.6.1, 4.6.0, 4.5.0, 4.4.3, 4.4.2, 4.4.1, 4.4.0, 4.3.2, 4.3.1, 4.3.0, 4.2.1, 4.2.0, 4.1.2, 4.1.1, 4.1.0, 4.0.0, 3.9.0, 3.8.0, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.8.1, 2.8.0, 2.7.0, 2.6.1, 2.6.0, 2.5.0, 2.2.3, 2.0.1, 1.0.0",
         "author": "shirriff, z3t0, ArminJo",
         "maintainer": "Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/Arduino-IRremote/Arduino-IRremote",
         "category": "Communication",
-        "architectures": "avr, megaavr, samd, esp8266, esp32, stm32, STM32F1, mbed, mbed_nano, rp2040, mbed_rp2040, renesas_uno, riscv",
+        "architectures": "avr, megaavr, samd, esp8266, esp32, stm32, STM32F1, mbed, mbed_nano, rp2040, mbed_rp2040, renesas_uno, riscv, nRF5",
         "types": "Contributed",
         "repository": "https://github.com/z3t0/Arduino-IRremote.git",
         "dependencies": [
@@ -31542,8 +31542,8 @@
     },
     {
         "name": "EasyButtonAtInt01",
-        "version": "3.4.0",
-        "versions": "3.4.0, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.0",
+        "version": "3.4.1",
+        "versions": "3.4.1, 3.4.0, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.0",
         "author": "Armin Joachimsmeyer",
         "maintainer": "Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/ArminJo/EasyButtonAtInt01",
@@ -33610,8 +33610,8 @@
     },
     {
         "name": "BlueDisplay",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.4.0, 4.0.1, 4.0.0, 3.0.2, 3.0.1, 3.0.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "5.1.0",
+        "versions": "5.1.0, 5.0.0, 4.4.0, 4.0.1, 4.0.0, 3.0.2, 3.0.1, 3.0.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.3.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Armin Joachimsmeyer",
         "maintainer": "Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/ArminJo/Arduino-BlueDisplay",
@@ -45638,8 +45638,8 @@
     },
     {
         "name": "LcdMenu",
-        "version": "5.12.1",
-        "versions": "5.12.1, 5.12.0, 5.11.3, 5.11.2, 5.11.1, 5.11.0, 5.10.0, 5.9.0, 5.8.0, 5.7.0, 5.6.0, 5.5.1, 5.5.0, 5.4.1, 5.4.0, 5.3.1, 5.3.0, 5.2.0, 5.1.0, 5.0.0, 4.2.0, 4.1.0, 4.0.0, 3.5.6, 3.5.5, 3.5.4, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.1, 3.1.0, 3.0.1, 3.0.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 2.0.0-beta.2, 2.0.0-beta.1, 1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "5.12.2",
+        "versions": "5.12.2, 5.12.1, 5.12.0, 5.11.3, 5.11.2, 5.11.1, 5.11.0, 5.10.0, 5.9.0, 5.8.0, 5.7.0, 5.6.0, 5.5.1, 5.5.0, 5.4.1, 5.4.0, 5.3.1, 5.3.0, 5.2.0, 5.1.0, 5.0.0, 4.2.0, 4.1.0, 4.0.0, 3.5.6, 3.5.5, 3.5.4, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.1, 3.1.0, 3.0.1, 3.0.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 2.0.0-beta.2, 2.0.0-beta.1, 1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Forntoh Thomas <thomasforntoh@gmail.com>",
         "maintainer": "Forntoh Thomas <thomasforntoh@gmail.com>",
         "website": "https://lcdmenu.forntoh.dev",
@@ -56106,8 +56106,8 @@
     },
     {
         "name": "SuplaDevice",
-        "version": "25.11.0",
-        "versions": "25.11.0, 25.8.1, 25.6.0, 25.2.0, 25.1.3, 24.11.4, 24.11.3, 24.10.4, 24.9.0, 24.8.0, 24.6.0, 24.5.2, 24.3.0, 24.2.0, 23.12.0, 23.11.0, 23.10.1, 23.10.0, 23.8.1, 23.7.1, 23.7.0, 23.5.0, 23.4.0, 23.2.1, 23.2.0, 22.12.1, 22.12.0, 22.11.3, 22.10.3, 22.10.1, 2.4.2, 2.4.1, 2.4.0, 2.3.5, 2.3.4",
+        "version": "26.4.0",
+        "versions": "26.4.0, 25.11.0, 25.8.1, 25.6.0, 25.2.0, 25.1.3, 24.11.4, 24.11.3, 24.10.4, 24.9.0, 24.8.0, 24.6.0, 24.5.2, 24.3.0, 24.2.0, 23.12.0, 23.11.0, 23.10.1, 23.10.0, 23.8.1, 23.7.1, 23.7.0, 23.5.0, 23.4.0, 23.2.1, 23.2.0, 22.12.1, 22.12.0, 22.11.3, 22.10.3, 22.10.1, 2.4.2, 2.4.1, 2.4.0, 2.3.5, 2.3.4",
         "author": "AC SOFTWARE SP. Z O.O.",
         "maintainer": "AC SOFTWARE SP. Z O.O. <krzysiek@supla.org>",
         "website": "https://github.com/SUPLA/supla-device",
@@ -64430,8 +64430,8 @@
     },
     {
         "name": "AvrTracing",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Armin Joachimsmeyer",
         "maintainer": "Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/ArminJo/AvrTracing",
@@ -79426,8 +79426,8 @@
     },
     {
         "name": "LCDBigNumbers",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.1.1, 1.1.0, 1.0.0",
         "author": "Armin Joachimsmeyer",
         "maintainer": "Armin Joachimsmeyer <armin.arduino@gmail.com>",
         "website": "https://github.com/ArminJo/LCDBigNumbers",
@@ -99523,8 +99523,8 @@
     },
     {
         "name": "Moteus",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "info@mjbots.com",
         "maintainer": "info@mjbots.com",
         "website": "https://github.com/mjbots/moteus-arduino",
@@ -102741,8 +102741,8 @@
     },
     {
         "name": "Arduino_Opta_Blueprint",
-        "version": "0.2.8",
-        "versions": "0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.2.9",
+        "versions": "0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Daniele Aimo (d.aimo@arduino.cc)",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_Opta_Blueprint",
@@ -102751,8 +102751,7 @@
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_Opta_Blueprint.git",
         "dependencies": [
-            "Arduino_SerialUpdater",
-            "Arduino_DebugUtils"
+            ""
         ]
     },
     {
@@ -116004,8 +116003,8 @@
     },
     {
         "name": "ESPShell",
-        "version": "0.99.15",
-        "versions": "0.99.15, 0.99.14, 0.99.13, 0.99.12, 0.99.10, 0.99.9, 0.99.8, 0.99.7, 0.99.6, 0.99.5, 0.99.4, 0.99.3, 0.99.2",
+        "version": "0.99.16",
+        "versions": "0.99.16, 0.99.15, 0.99.14, 0.99.13, 0.99.12, 0.99.10, 0.99.9, 0.99.8, 0.99.7, 0.99.6, 0.99.5, 0.99.4, 0.99.3, 0.99.2",
         "author": "Viacheslav Logunov <vvb333007@gmail.com>",
         "maintainer": "Viacheslav Logunov <vvb333007@gmail.com>",
         "website": "https://github.com/vvb333007/espshell",
@@ -139759,11 +139758,11 @@
     },
     {
         "name": "CharlieDisplay",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Adri Chowdhury",
-        "maintainer": "Adri Chowdhury",
-        "website": "https://github.com/yourusername/CharlieDisplay",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
+        "author": "Adri Chowdhury, adrichowdhury26@gmail.com",
+        "maintainer": "Adri Chowdhury, adrichowdhury26@gmail.com",
+        "website": "https://github.com/Zo-dri/CharlieDisplay",
         "category": "Display",
         "architectures": "avr",
         "types": "Contributed",
@@ -139783,6 +139782,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/HamzaYslmn/espfetch.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SimpleCANio",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "simplefoc",
+        "maintainer": "simplefoc",
+        "website": "https://github.com/simplefoc/SimpleCANio",
+        "category": "Communication",
+        "architectures": "stm32, esp32, teensy",
+        "types": "Contributed",
+        "repository": "https://github.com/simplefoc/SimpleCANio.git",
         "dependencies": [
             ""
         ]
