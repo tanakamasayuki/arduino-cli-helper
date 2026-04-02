@@ -116004,8 +116004,8 @@
     },
     {
         "name": "ESPShell",
-        "version": "0.99.14",
-        "versions": "0.99.14, 0.99.13, 0.99.12, 0.99.10, 0.99.9, 0.99.8, 0.99.7, 0.99.6, 0.99.5, 0.99.4, 0.99.3, 0.99.2",
+        "version": "0.99.15",
+        "versions": "0.99.15, 0.99.14, 0.99.13, 0.99.12, 0.99.10, 0.99.9, 0.99.8, 0.99.7, 0.99.6, 0.99.5, 0.99.4, 0.99.3, 0.99.2",
         "author": "Viacheslav Logunov <vvb333007@gmail.com>",
         "maintainer": "Viacheslav Logunov <vvb333007@gmail.com>",
         "website": "https://github.com/vvb333007/espshell",
@@ -139724,6 +139724,67 @@
             "M5UnitUnified",
             "M5Utility",
             "M5HAL"
+        ]
+    },
+    {
+        "name": "VEGA_RV3028",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Kaustav Saloi (C-DAC)",
+        "maintainer": "Kaustav Saloi <kaustavsalois@gmailcom>",
+        "website": "https://github.com/kaustavsaloi/VEGA_RV3028",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kaustavsaloi/VEGA_RV3028.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SynoLinks",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SynoLinks <support@synolinks.com>",
+        "maintainer": "SynoLinks <support@synolinks.com>",
+        "website": "https://github.com/synolinks/synolinks-arduino",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/SaleemAkhter/synolinks-arduino.git",
+        "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "CharlieDisplay",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adri Chowdhury",
+        "maintainer": "Adri Chowdhury",
+        "website": "https://github.com/yourusername/CharlieDisplay",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Zo-dri/CharlieDisplay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "espfetch",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "website": "https://github.com/HamzaYslmn/espfetch",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/HamzaYslmn/espfetch.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
