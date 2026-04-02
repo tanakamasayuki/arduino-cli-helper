@@ -124161,8 +124161,8 @@
     },
     {
         "name": "Esp32-RTOS-Serial",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/Esp32-RTOS-Serial",
@@ -139773,13 +139773,13 @@
     },
     {
         "name": "espfetch",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.1, 2.0.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/espfetch",
         "category": "Other",
-        "architectures": "esp32",
+        "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/HamzaYslmn/espfetch.git",
         "dependencies": [
