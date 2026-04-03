@@ -112283,8 +112283,8 @@
     },
     {
         "name": "HX710AB",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HX710AB",
@@ -128070,8 +128070,8 @@
     },
     {
         "name": "SHT4x",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SHT4x",
@@ -129570,7 +129570,7 @@
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
-        "repository": "https://github.com/thomasgeissl/NeopixelCommander.git",
+        "repository": "https://github.com/threeeeight/NeopixelCommander.git",
         "dependencies": [
             "ESPAsyncWebServer",
             "AsyncTCP",
@@ -139844,6 +139844,70 @@
         "repository": "https://github.com/RBEGamer/EEPROM_24xx025.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "esp32-tunnel",
+        "version": "3.6.1",
+        "versions": "3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
+        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "website": "https://github.com/HamzaYslmn/esp32-tunnel",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/HamzaYslmn/esp32-tunnel.git",
+        "dependencies": [
+            "espfetch",
+            "ESP Async WebServer",
+            "AsyncTCP",
+            "ESPAsyncTCP"
+        ]
+    },
+    {
+        "name": "ATGenX_Hub",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Seif Emad / ARDUTECH0",
+        "maintainer": "Seif Emad <support@atgenx.com>",
+        "website": "https://github.com/ARDUTECH0/ATGenXIOT",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ARDUTECH0/ATGenXIOT.git",
+        "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "OptimizedGPIO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "mumanchu <info@muman.ch>",
+        "maintainer": "mumanchu <info@muman.ch>",
+        "website": "https://github.com/mumanchu/OptimizedGPIO",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/OptimizedGPIO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TFT35_V1_F407",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mylonas Dimitris",
+        "maintainer": "Mylonas Dimitris",
+        "website": "https://github.com/MylonasDimitris/TFT35_V1_F407",
+        "category": "Display",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/MylonasDimitris/TFT35_V1_F407.git",
+        "dependencies": [
+            "SdFat"
         ]
     }
 ]
