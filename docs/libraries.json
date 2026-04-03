@@ -139800,5 +139800,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "PCA9848",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Marcel Ochsendorf <info@marcelochsendorf.com>",
+        "maintainer": "Marcel Ochsendorf <info@marcelochsendorf.com>",
+        "website": "https://github.com/RBEGamer/Arduino-PCA9848",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RBEGamer/Arduino-PCA9848.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Sfp",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Clawfather",
+        "maintainer": "Clawfather",
+        "website": "https://example.invalid/Sfp",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RBEGamer/ArduinoSFPDiagnostics.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EEPROM_24AA025",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Marcel Ochsendorf <info@marcelochsendorf.com>",
+        "maintainer": "Marcel Ochsendorf <info@marcelochsendorf.com>",
+        "website": "https://github.com/RBEGamer/EEPROM_24xx025",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RBEGamer/EEPROM_24xx025.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
