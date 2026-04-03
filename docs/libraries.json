@@ -41875,8 +41875,8 @@
     },
     {
         "name": "Angle",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/Angle",
@@ -139773,8 +139773,8 @@
     },
     {
         "name": "espfetch",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.0",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/espfetch",
@@ -139848,8 +139848,8 @@
     },
     {
         "name": "esp32-tunnel",
-        "version": "3.6.2",
-        "versions": "3.6.2, 3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
+        "version": "3.6.3",
+        "versions": "3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp32-tunnel",
@@ -139921,6 +139921,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/markDownWriter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MC14489",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ignacy110",
+        "maintainer": "Ignacy110",
+        "website": "https://github.com/Ignacy110/MC14489",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ignacy110/MC14489.git",
         "dependencies": [
             ""
         ]
