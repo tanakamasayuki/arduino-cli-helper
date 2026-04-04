@@ -139560,8 +139560,8 @@
     },
     {
         "name": "MSS-XCADE Control Library",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Nathan Holmes <support@iascaled.com>",
         "maintainer": "Nathan Holmes <support@iascaled.com>",
         "website": "https://docs.iascaled.com/SimpleSig/Block%20Signal%20Custom/developer_guide/",
@@ -139942,8 +139942,8 @@
     },
     {
         "name": "JW_MatrixButtons",
-        "version": "1.0.2",
-        "versions": "1.0.2",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2",
         "author": "JW Control",
         "maintainer": "JW Control <jw.control.peru@gmail.com>",
         "website": "https://github.com/JW-Control/JW_MatrixButtons",
@@ -139983,6 +139983,21 @@
         "repository": "https://github.com/JW-Control/JW_FRAM.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "UUtzinger_DRV8704",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Urs Utzinger",
+        "maintainer": "Urs Utzinger",
+        "website": "https://github.com/uutzinger/Arduino_DRV8704",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/uutzinger/Arduino_DRV8704.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
