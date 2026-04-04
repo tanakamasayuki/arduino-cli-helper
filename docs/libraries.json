@@ -130493,8 +130493,8 @@
     },
     {
         "name": "SensythingCore",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Protocentral Electronics <support@protocentral.com>",
         "maintainer": "Protocentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/SensythingCore",
