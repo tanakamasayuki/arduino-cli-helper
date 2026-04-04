@@ -140014,5 +140014,73 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "RohitCore-Sensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Sensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Sensor.git",
+        "dependencies": [
+            "RohitCore-Base",
+            "DHT sensor library",
+            "Adafruit BMP280 Library"
+        ]
+    },
+    {
+        "name": "RohitCore-Logger",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Logger",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Logger.git",
+        "dependencies": [
+            "RohitCore-Base"
+        ]
+    },
+    {
+        "name": "LoRaDomo",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jerome Gonzalez",
+        "maintainer": "Jerome Gonzalez infomiz.jg@gmail.com",
+        "website": "https://github.com/Mizar03110/LoRaDomo",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Mizar03110/LoRaDomo.git",
+        "dependencies": [
+            "RadioHead",
+            "PubSubClient",
+            "WebSockets",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "MCUW_LoRa_boards",
+        "version": "0.1.11",
+        "versions": "0.1.11, 0.1.10",
+        "author": "MCUW <112967559+mcuw@users.noreply.github.com>",
+        "maintainer": "MCUW <112967559+mcuw@users.noreply.github.com>",
+        "website": "https://github.com/mcuw/LoRaBoards.git",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mcuw/LoRaBoards.git",
+        "dependencies": [
+            "RadioLib",
+            "OneButton",
+            "XPowersLib",
+            "ESP8266 and ESP32 OLED driver for SSD1306 displays"
+        ]
     }
 ]
