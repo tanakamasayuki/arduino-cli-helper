@@ -140082,5 +140082,20 @@
             "XPowersLib",
             "ESP8266 and ESP32 OLED driver for SSD1306 displays"
         ]
+    },
+    {
+        "name": "MWTimeout",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Vladimir M",
+        "maintainer": "Vladimir M <vladimir.vsc@gmail.com>",
+        "website": "https://github.com/darklazy/MWTimeout",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/darklazy/MWTimeout.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
