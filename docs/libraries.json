@@ -28280,8 +28280,8 @@
     },
     {
         "name": "MCCI Arduino Development Kit ADK",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
         "author": "Terry Moore, ChaeHee Won",
         "maintainer": "MCCI Corporation <techsupport@mcci.com>",
         "website": "https://github.com/mcci-catena/Catena-mcciadk",
@@ -120468,8 +120468,8 @@
     },
     {
         "name": "ieee-802_15_4",
-        "version": "0.5.7",
-        "versions": "0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2",
+        "version": "0.5.8",
+        "versions": "0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/IEEE802154",
