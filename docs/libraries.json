@@ -28280,8 +28280,8 @@
     },
     {
         "name": "MCCI Arduino Development Kit ADK",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
         "author": "Terry Moore, ChaeHee Won",
         "maintainer": "MCCI Corporation <techsupport@mcci.com>",
         "website": "https://github.com/mcci-catena/Catena-mcciadk",
@@ -140111,6 +140111,21 @@
         "repository": "https://github.com/OpenSynaptic/OSynaptic-FX.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit VL53L5CX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Limor 'ladyada' Fried with assistance from Claude Code",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_VL53L5",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_VL53L5.git",
+        "dependencies": [
+            "Adafruit BusIO"
         ]
     }
 ]
