@@ -28280,8 +28280,8 @@
     },
     {
         "name": "MCCI Arduino Development Kit ADK",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0",
         "author": "Terry Moore, ChaeHee Won",
         "maintainer": "MCCI Corporation <techsupport@mcci.com>",
         "website": "https://github.com/mcci-catena/Catena-mcciadk",
@@ -140067,8 +140067,8 @@
     },
     {
         "name": "MCUW_LoRa_boards",
-        "version": "0.1.12",
-        "versions": "0.1.12, 0.1.11, 0.1.10",
+        "version": "0.1.13",
+        "versions": "0.1.13, 0.1.12, 0.1.11, 0.1.10",
         "author": "MCUW <112967559+mcuw@users.noreply.github.com>",
         "maintainer": "MCUW <112967559+mcuw@users.noreply.github.com>",
         "website": "https://github.com/mcuw/LoRaBoards.git",
@@ -140094,6 +140094,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/darklazy/MWTimeout.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OSynaptic-FX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "OSynaptic-FX Maintainers",
+        "maintainer": "OSynaptic-FX Maintainers",
+        "website": "https://github.com/OpenSynaptic/OSynaptic-FX",
+        "category": "Communication",
+        "architectures": "esp32, rp2040, samd, stm32, mbed_rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/OpenSynaptic/OSynaptic-FX.git",
         "dependencies": [
             ""
         ]
