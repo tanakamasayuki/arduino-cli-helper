@@ -139575,8 +139575,8 @@
     },
     {
         "name": "TeensyXENO",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "XENOCROSS AEROSPACE SYSTEM",
         "maintainer": "Katsushi Mitsutake <mitutake@xenocross.com>",
         "website": "https://github.com/mitutake0422/TeensyXENO",
