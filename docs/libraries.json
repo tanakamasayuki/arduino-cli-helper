@@ -108539,8 +108539,8 @@
     },
     {
         "name": "ConnectionHelper",
-        "version": "3.0.13",
-        "versions": "3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 1.1.0, 1.0.8, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.14",
+        "versions": "3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 1.1.0, 1.0.8, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ConnectionHelper",
@@ -120438,8 +120438,8 @@
     },
     {
         "name": "GCMEncryption",
-        "version": "0.5.2",
-        "versions": "0.5.2, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.5.3",
+        "versions": "0.5.3, 0.5.2, 0.2.2, 0.2.1, 0.2.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/GCMEncryption",
@@ -137952,8 +137952,8 @@
     },
     {
         "name": "HijelHID_BLEKeyboard",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Hijel",
         "maintainer": "Hijel hijel.hub@gmail.com",
         "website": "https://github.com/HijelHub/HijelHID_BLEKeyboard",
