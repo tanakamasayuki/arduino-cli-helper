@@ -140100,8 +140100,8 @@
     },
     {
         "name": "OSynaptic-FX",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "OSynaptic-FX Maintainers",
         "maintainer": "OSynaptic-FX Maintainers",
         "website": "https://github.com/OpenSynaptic/OSynaptic-FX",
@@ -140322,6 +140322,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tl5915/Buehlmann-ZHL-16C.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OSynaptic-RX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "OpenSynaptic Contributors",
+        "maintainer": "OpenSynaptic Contributors",
+        "website": "https://github.com/OpenSynaptic/OSynaptic-RX",
+        "category": "Communication",
+        "architectures": "avr, esp8266, esp32, stm32, samd, megaavr",
+        "types": "Contributed",
+        "repository": "https://github.com/OpenSynaptic/OSynaptic-RX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OSynaptic-TX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "OSynaptic-TX Maintainers",
+        "maintainer": "OSynaptic-TX Maintainers",
+        "website": "https://github.com/OpenSynaptic/OSynaptic-TX",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/OpenSynaptic/OSynaptic-TX.git",
         "dependencies": [
             ""
         ]
