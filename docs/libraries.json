@@ -139987,8 +139987,8 @@
     },
     {
         "name": "UUtzinger_DRV8704",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_DRV8704",
@@ -139997,7 +139997,7 @@
         "types": "Contributed",
         "repository": "https://github.com/uutzinger/Arduino_DRV8704.git",
         "dependencies": [
-            ""
+            "UUtzinger_logger"
         ]
     },
     {
