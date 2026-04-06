@@ -130826,8 +130826,8 @@
     },
     {
         "name": "SensorManager",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "website": "https://github.com/k3ldar/SensorManager",
