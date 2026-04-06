@@ -140002,8 +140002,8 @@
     },
     {
         "name": "AdditiveHW",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Andrii Maliarenko (Mospak)",
         "maintainer": "Andrii Maliarenko <m0spak@icloud.com>",
         "website": "https://codeberg.org/mospak/AdditiveHW",
@@ -140100,13 +140100,13 @@
     },
     {
         "name": "OSynaptic-FX",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "OSynaptic-FX Maintainers",
         "maintainer": "OSynaptic-FX Maintainers",
         "website": "https://github.com/OpenSynaptic/OSynaptic-FX",
         "category": "Communication",
-        "architectures": "esp32, rp2040, samd, stm32, mbed_rp2040",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/OpenSynaptic/OSynaptic-FX.git",
         "dependencies": [
@@ -140172,6 +140172,98 @@
         "dependencies": [
             "Wire",
             "SPI"
+        ]
+    },
+    {
+        "name": "7Semi BMV080",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi",
+        "website": "https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor",
+        "category": "Sensors",
+        "architectures": "esp32, esp32s2, esp32s3, cortex-m0plus, cortex-m4, cortex-m4f, cortex-m7f, cortex-m33, cortex-m33f, raspberry_pi",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor.git",
+        "dependencies": [
+            "Wire",
+            "SPI"
+        ]
+    },
+    {
+        "name": "7Semi BME280",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi_BMI330",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_BMI330",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_BMI330.git",
+        "dependencies": [
+            "Wire",
+            "SPI"
+        ]
+    },
+    {
+        "name": "7Semi_SGP4x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-SGP4x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-SGP4x.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "7Semi MAX31855",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-MAX31855-Thermocouple-Amplifier",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-MAX31855-Thermocouple-Amplifier.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi BMI270",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BMI270",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BMI270.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
