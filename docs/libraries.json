@@ -136109,8 +136109,8 @@
     },
     {
         "name": "microReticulum",
-        "version": "0.2.9",
-        "versions": "0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2",
         "author": "Chad Attermann <attermann@gmail.com>",
         "maintainer": "Chad Attermann <attermann@gmail.com>",
         "website": "https://github.com/attermann/microReticulum.git",
@@ -140126,6 +140126,52 @@
         "repository": "https://github.com/adafruit/Adafruit_VL53L5.git",
         "dependencies": [
             "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "7Semi_MMC5983MA",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-MMC5983MA-3-axis-Magnetic-Sensor-Arduino-Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-MMC5983MA-3-axis-Magnetic-Sensor-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi_ISM330DHCX",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-ISM330DHCX-6-Axis-IMU-Accelerometer-Gyroscope-",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-ISM330DHCX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi_BMP585",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BMP585-Pressure-Sensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BMP585.git",
+        "dependencies": [
+            "Wire",
+            "SPI"
         ]
     }
 ]
