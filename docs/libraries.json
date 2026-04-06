@@ -140313,8 +140313,8 @@
     },
     {
         "name": "Buehlmann ZHL-16C",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "tongl",
         "maintainer": "tongl, tommyliu1996@gmail.com",
         "website": "https://github.com/tl5915/Buehlmann-ZHL-16C",
