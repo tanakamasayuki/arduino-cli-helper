@@ -130736,8 +130736,8 @@
     },
     {
         "name": "DFRobot_LoRaWAN_ESP32S3",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Martin <Martin@dfrobot.com>",
         "maintainer": "Martin <Martin@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_LoRaWAN_ESP32S3",
@@ -134713,8 +134713,8 @@
     },
     {
         "name": "ESP32-RGB-LEDStrip",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.0.0",
         "author": "afpineda",
         "maintainer": "afpineda <74291754+afpineda@users.noreply.github.com>",
         "website": "https://github.com/afpineda/ESP32-RGB-LEDStrip",
@@ -138691,8 +138691,8 @@
     },
     {
         "name": "Spell_IoT",
-        "version": "1.1.4",
-        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
+        "version": "1.1.5",
+        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
         "author": "M.Karthickraja",
         "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Spell_Iot",
@@ -140352,6 +140352,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/OpenSynaptic/OSynaptic-TX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DIYables LCD I2C",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io (diyables.io@gmail.com)",
+        "website": "https://diyables.io/products/lcd-i2c-16x2-blue-background",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables-LCD-I2C.git",
         "dependencies": [
             ""
         ]
