@@ -118612,8 +118612,8 @@
     },
     {
         "name": "PicoSyslog",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "1.1.0",
+        "versions": "1.1.0, 0.0.1",
         "author": "Michał Leśniewski",
         "maintainer": "Michał Leśniewski <mlesniew@gmail.com>",
         "website": "https://github.com/mlesniew/PicoSyslog",
@@ -140569,8 +140569,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
