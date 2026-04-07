@@ -137499,8 +137499,8 @@
     },
     {
         "name": "dual2s",
-        "version": "2.0.6",
-        "versions": "2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1",
+        "version": "2.0.7",
+        "versions": "2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1",
         "author": "yesio",
         "maintainer": "yesio <hhchen.sci@gms.ndhu.edu.tw>",
         "website": "https://github.com/yesio/dual2s",
@@ -140367,6 +140367,112 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/DIYables/DIYables-LCD-I2C.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi BMP384",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BMP348",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BMP348.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi MLX90393",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-MLX90393",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-MLX90393.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi-TMP102",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-TMP102-Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-TMP102.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "7Semi DAC7578",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi",
+        "website": "https://github.com/7semi-solutions/7Semi-DAC7578",
+        "category": "Signal Input/Output",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-DAC7578.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "7Semi_BME68x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BME68x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BME68x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi BMP58x",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BMP58x-Pressure-Sensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BMP58x-Pressure-Sensor.git",
+        "dependencies": [
+            "Wire",
+            "SPI"
+        ]
+    },
+    {
+        "name": "7Semi VEML7700",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-VEML7700",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-VEML7700.git",
         "dependencies": [
             ""
         ]
