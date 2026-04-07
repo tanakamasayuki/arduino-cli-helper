@@ -105542,8 +105542,8 @@
     },
     {
         "name": "GTL",
-        "version": "1.3.15",
-        "versions": "1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.1, 1.0.0",
+        "version": "1.3.16",
+        "versions": "1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GTL",
@@ -116033,8 +116033,8 @@
     },
     {
         "name": "Inkplate Motion Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Soldered",
         "maintainer": "Soldered <hello@soldered.com>",
         "website": "https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library",
@@ -140520,6 +140520,51 @@
         "repository": "https://github.com/7semi-solutions/7Semi_TMAG5273-3D-Hall-Effect-Sensor.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "7Semi ENS210",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-ENS210",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-ENS210.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "7Semi STS4x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-STS4x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-STS4x.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "RapidBootWiFi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Idlan Zafran Mohd Zaidie",
+        "maintainer": "Idlan Zafran Mohd Zaidie",
+        "website": "https://github.com/IdlanZafran/RapidBootWiFi",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/IdlanZafran/RapidBootWifi.git",
+        "dependencies": [
+            "WiFiManager"
         ]
     }
 ]
