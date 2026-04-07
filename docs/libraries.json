@@ -132851,17 +132851,17 @@
     },
     {
         "name": "InstantIoT",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "JeanLoick DT",
-        "maintainer": "JeanLoick DT",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "JeanLoick DT <jeanloickdt@gmail.com>",
+        "maintainer": "JeanLoick DT <jeanloickdt@gmail.com>",
         "website": "https://github.com/jeanloickdt/InstantIoT",
         "category": "Communication",
-        "architectures": "esp32, esp8266",
+        "architectures": "esp32, esp8266, renesas_uno",
         "types": "Contributed",
         "repository": "https://github.com/jeanloickdt/InstantIoT.git",
         "dependencies": [
-            ""
+            "NimBLE-Arduino"
         ]
     },
     {
