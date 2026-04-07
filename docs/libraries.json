@@ -124236,8 +124236,8 @@
     },
     {
         "name": "MicroSui",
-        "version": "0.3.3",
-        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2",
+        "version": "0.3.4",
+        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2",
         "author": "Gustavo Belbruno",
         "maintainer": "Gustavo Belbruno <gustavobelbruno@gmail.com>",
         "website": "https://github.com/MicroSui/microsui-lib",
