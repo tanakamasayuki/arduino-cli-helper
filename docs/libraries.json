@@ -138911,8 +138911,8 @@
     },
     {
         "name": "EPD Painter",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.0",
         "author": "Tony Weston <tony_w@javadev.uk>",
         "maintainer": "Tony Weston <tony_w@javadev.uk>",
         "website": "https://github.com/tonywestonuk/EPD_Painter/",
