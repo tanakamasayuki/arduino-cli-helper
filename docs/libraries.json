@@ -140476,5 +140476,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "7Semi_MAX31856",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_MAX31856",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_MAX31856.git",
+        "dependencies": [
+            "SPI"
+        ]
+    },
+    {
+        "name": "7Semi STS3x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-STS3x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-STS3x.git",
+        "dependencies": [
+            "Wire"
+        ]
+    },
+    {
+        "name": "7Semi_TMAG5273",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_TMAG5273-3D-Hall-Effect-Sensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_TMAG5273-3D-Hall-Effect-Sensor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
