@@ -140566,5 +140566,21 @@
         "dependencies": [
             "WiFiManager"
         ]
+    },
+    {
+        "name": "Trellis",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.8",
+        "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
+        "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
+        "website": "https://github.com/ovexro/trellis",
+        "category": "Communication",
+        "architectures": "esp32, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/ovexro/trellis.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
+        ]
     }
 ]
