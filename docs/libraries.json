@@ -139425,8 +139425,8 @@
     },
     {
         "name": "blendixserial",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0",
         "author": "usman",
         "maintainer": "Usman <help@electronicstree.com>",
         "website": "https://github.com/electronicstree/BlendixSerial-Arduino",
@@ -140569,8 +140569,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.4.2",
-        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.4.3",
+        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
@@ -140671,6 +140671,24 @@
         "repository": "https://github.com/IlVin/QMan.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESP32_Multitasking_Network_Suite",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Bojan Jurca",
+        "maintainer": "Bojan Jurca <bojan@gmail.com>",
+        "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library.git",
+        "dependencies": [
+            "LightweightSTL",
+            "ThreadSafePing",
+            "ThreadSafeFS",
+            "cronDaemon"
         ]
     }
 ]
