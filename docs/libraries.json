@@ -140612,5 +140612,35 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "M5Module-QRCode",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Module-QRCode.git",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Module-QRCode.git",
+        "dependencies": [
+            "M5Unified"
+        ]
+    },
+    {
+        "name": "DIYables_MultiFuncShield",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io",
+        "website": "https://diyables.io/products/multi-function-shield-for-arduino-uno-mega",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables-Multi-Function-Shield.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
