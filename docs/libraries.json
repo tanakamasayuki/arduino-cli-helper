@@ -140582,5 +140582,35 @@
             "ArduinoJson",
             "WebSockets"
         ]
+    },
+    {
+        "name": "magnetometer_calibration",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "tongl",
+        "maintainer": "tongl, tommyliu1996@gmail.com",
+        "website": "https://github.com/tl5915/magnetometer_calibration",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tl5915/magnetometer_calibration.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32_MQTTv5",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Jorge Gaspar Beltre Rivera",
+        "maintainer": "Jorge Gaspar Beltre Rivera",
+        "website": "https://github.com/JorgeGBeltre/ESP32_MQTTv5",
+        "category": "Communication",
+        "architectures": "esp32, esp32s2, esp32s3, esp32c3, esp32c6",
+        "types": "Contributed",
+        "repository": "https://github.com/JorgeGBeltre/ESP32_MQTTv5.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
