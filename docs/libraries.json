@@ -140569,8 +140569,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
@@ -140654,6 +140654,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/7semi-solutions/7Semi-TMP23x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "QMan",
+        "version": "1.0.2-beta",
+        "versions": "1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
+        "author": "Ilia Vinokurov",
+        "maintainer": "Ilia Vinokurov <ilvin@mail.ru>",
+        "website": "https://github.com/IlVin/QMan",
+        "category": "Timing",
+        "architectures": "avr, lgt8f",
+        "types": "Contributed",
+        "repository": "https://github.com/IlVin/QMan.git",
         "dependencies": [
             ""
         ]
