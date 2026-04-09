@@ -126953,8 +126953,8 @@
     },
     {
         "name": "BC7215AC_Universal_Aircon_Control",
-        "version": "5.4.0",
-        "versions": "5.4.0, 4.1.0",
+        "version": "7.0.0",
+        "versions": "7.0.0, 5.4.0, 4.1.0",
         "author": "Bitcode",
         "maintainer": "Bitcode <support@bitcode.com.cn>",
         "website": "https://github.com/bitcode-tech/bc7215ac",
@@ -138691,8 +138691,8 @@
     },
     {
         "name": "Spell_IoT",
-        "version": "1.1.6",
-        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
+        "version": "1.1.7",
+        "versions": "1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
         "author": "M.Karthickraja",
         "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Spell_Iot",
@@ -139912,8 +139912,8 @@
     },
     {
         "name": "markDownWriter",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/markDownWriter",
@@ -140719,6 +140719,21 @@
         "repository": "https://github.com/DIYables/DIYables-Mini-Mp3.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "SensirionI2cSgp43",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "Sensirion",
+        "maintainer": "Sensirion",
+        "website": "https://github.com/Sensirion/arduino-i2c-sgp43",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sensirion/arduino-i2c-sgp43.git",
+        "dependencies": [
+            "Sensirion Core"
         ]
     }
 ]
