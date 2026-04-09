@@ -140569,8 +140569,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.4.3",
-        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.4.4",
+        "versions": "0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
@@ -140749,6 +140749,21 @@
         "repository": "https://github.com/LearnPRG-py/Vectorial.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "eva-motors",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Andrey Gusev",
+        "maintainer": "Andrey Gusev",
+        "website": "https://agusevtec.github.io/eva-motors",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/agusevtec/eva-motors.git",
+        "dependencies": [
+            "eva-core-sk"
         ]
     }
 ]
