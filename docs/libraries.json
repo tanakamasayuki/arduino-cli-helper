@@ -131226,8 +131226,8 @@
     },
     {
         "name": "M5Unit-FINGER",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-FINGER",
@@ -131243,8 +131243,8 @@
     },
     {
         "name": "M5Unit-RF433",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-RF433",
@@ -140702,6 +140702,21 @@
         "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/ulywae/NeuEEPROM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DIYables_MiniMp3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables <diyables.io>",
+        "maintainer": "DIYables <diyables.io>",
+        "website": "https://diyables.io/products/mini-mp3-player-module",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables-Mini-Mp3.git",
         "dependencies": [
             ""
         ]
