@@ -140690,5 +140690,20 @@
             "ThreadSafeFS",
             "cronDaemon"
         ]
+    },
+    {
+        "name": "NeuEEPROM",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Uly Wae",
+        "maintainer": "Uly Wae",
+        "website": "https://github.com/ulywae/NeuEEPROM",
+        "category": "Data Storage",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/NeuEEPROM.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
