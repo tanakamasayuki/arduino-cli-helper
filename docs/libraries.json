@@ -137982,8 +137982,8 @@
     },
     {
         "name": "Adafruit AS7331 Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_AS7331",
@@ -140115,8 +140115,8 @@
     },
     {
         "name": "Adafruit VL53L5CX",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Limor 'ladyada' Fried with assistance from Claude Code",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_VL53L5",
