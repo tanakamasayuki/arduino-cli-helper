@@ -140780,5 +140780,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "AdvancedRotaryEncoder",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Ruben Paul Thomsen",
+        "maintainer": "Ruben Paul Thomsen",
+        "website": "https://github.com/RPaulT/RotaryEncoder",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RPaulT/AdvancedRotaryEncoder.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ThingsSentral",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Idlan Zafran Mohd Zaidie",
+        "maintainer": "Idlan Zafran Mohd Zaidie <lanzaidie@gmail.com>",
+        "website": "https://github.com/IdlanZafran/ThingsSentral",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/IdlanZafran/ThingsSentral.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
