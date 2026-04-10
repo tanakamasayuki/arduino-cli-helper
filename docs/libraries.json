@@ -138911,8 +138911,8 @@
     },
     {
         "name": "EPD Painter",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.0",
         "author": "Tony Weston <tony_w@javadev.uk>",
         "maintainer": "Tony Weston <tony_w@javadev.uk>",
         "website": "https://github.com/tonywestonuk/EPD_Painter/",
@@ -140569,8 +140569,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.4.4",
-        "versions": "0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.4.5",
+        "versions": "0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
@@ -140693,8 +140693,8 @@
     },
     {
         "name": "NeuEEPROM",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Uly Wae",
         "maintainer": "Uly Wae",
         "website": "https://github.com/ulywae/NeuEEPROM",
