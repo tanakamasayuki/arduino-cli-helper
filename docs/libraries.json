@@ -101354,8 +101354,8 @@
     },
     {
         "name": "Ardwloop",
-        "version": "0.3.9",
-        "versions": "0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.1, 0.2.0, 0.1.8, 0.1.7, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.8",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.1, 0.2.0, 0.1.8, 0.1.7, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.8",
         "author": "Laurent Schall <llschall@gmx.com>",
         "maintainer": "Laurent Schall <llschall@gmx.com>",
         "website": "https://github.com/llschall/ardwloop-ino",
@@ -138791,8 +138791,8 @@
     },
     {
         "name": "Sonic",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.1, 1.2.4",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.1, 1.2.4",
         "author": "Axxel",
         "maintainer": "Axxel <Axxel.Inkordia@proton.me>",
         "website": "https://github.com/Axxel-otl/Sonic",
