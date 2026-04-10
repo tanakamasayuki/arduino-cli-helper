@@ -82934,8 +82934,8 @@
     },
     {
         "name": "TFT_eSPI_Widgets",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.1",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.1",
         "author": "Alban Mancheron <alban.mancheron@lirmm.fr>",
         "maintainer": "Alban Mancheron <alban.mancheron@lirmm.fr>",
         "website": "https://gite.lirmm.fr/doccy/TFT_eSPI_Widgets",
@@ -120718,8 +120718,8 @@
     },
     {
         "name": "RockBLOCK-9704",
-        "version": "0.1.30",
-        "versions": "0.1.30, 0.1.29, 0.1.28, 0.1.27, 0.1.26, 0.1.25, 0.1.24, 0.1.23, 0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.18",
+        "version": "0.1.31",
+        "versions": "0.1.31, 0.1.30, 0.1.29, 0.1.28, 0.1.27, 0.1.26, 0.1.25, 0.1.24, 0.1.23, 0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.18",
         "author": "Ground Control",
         "maintainer": "help@groundcontrol.com",
         "website": "https://github.com/rock7/RockBLOCK-9704",
@@ -140660,13 +140660,13 @@
     },
     {
         "name": "QMan",
-        "version": "1.0.2-beta",
-        "versions": "1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
+        "version": "1.0.3-beta",
+        "versions": "1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
         "author": "Ilia Vinokurov",
         "maintainer": "Ilia Vinokurov <ilvin@mail.ru>",
         "website": "https://github.com/IlVin/QMan",
         "category": "Timing",
-        "architectures": "avr, lgt8f",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/IlVin/QMan.git",
         "dependencies": [
