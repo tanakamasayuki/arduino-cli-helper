@@ -83383,8 +83383,8 @@
     },
     {
         "name": "HC4067",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HC4067",
@@ -129318,8 +129318,8 @@
     },
     {
         "name": "PedroRobot",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
         "author": "Almtzr",
         "maintainer": "Almtzr",
         "website": "https://github.com/almtzr/Pedro",
