@@ -140810,5 +140810,20 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "INA Series Sensor",
+        "version": "0.2.1",
+        "versions": "0.2.1",
+        "author": "dunknowcoding",
+        "maintainer": "dunknowcoding",
+        "website": "https://github.com/dunknowcoding/INA_series_sensor",
+        "category": "Sensors",
+        "architectures": "esp32, avr, samd, rp2040, rp2350",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/INA_series_sensor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
