@@ -124160,21 +124160,6 @@
         ]
     },
     {
-        "name": "Esp32-RTOS-Serial",
-        "version": "2.1.0",
-        "versions": "2.1.0, 1.1.0, 1.0.0, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
-        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
-        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
-        "website": "https://github.com/HamzaYslmn/Esp32-RTOS-Serial",
-        "category": "Communication",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/HamzaYslmn/Esp32-RTOS-Serial.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "PantryClient",
         "version": "1.0.0",
         "versions": "1.0.0, 0.1.0",
@@ -140554,10 +140539,10 @@
     },
     {
         "name": "RapidBootWiFi",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Idlan Zafran Mohd Zaidie",
-        "maintainer": "Idlan Zafran Mohd Zaidie",
+        "maintainer": "Idlan Zafran Mohd Zaidie <lanzaidie@gmail.com>",
         "website": "https://github.com/IdlanZafran/RapidBootWiFi",
         "category": "Communication",
         "architectures": "esp32, esp8266",
@@ -140777,6 +140762,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Adriano-Severino/ASXNanoStreamEncoder.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "esp-rtosSerial",
+        "version": "4.0.0",
+        "versions": "4.0.0",
+        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "website": "https://github.com/HamzaYslmn/esp-rtosSerial",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/HamzaYslmn/esp-rtosSerial.git",
         "dependencies": [
             ""
         ]
