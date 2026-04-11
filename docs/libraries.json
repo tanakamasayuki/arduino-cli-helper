@@ -87632,13 +87632,13 @@
     },
     {
         "name": "EepromSecureData",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.1, 0.1.0",
         "author": "Pascal Jean aka epsilonrt",
         "maintainer": "epsilonrt",
         "website": "https://epsilonrt.github.io/EepromSecureData",
         "category": "Data Storage",
-        "architectures": "*",
+        "architectures": "avr, renesas_uno, teensy, esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/epsilonrt/EepromSecureData.git",
         "dependencies": [
