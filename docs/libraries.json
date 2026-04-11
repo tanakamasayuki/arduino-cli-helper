@@ -136431,8 +136431,8 @@
     },
     {
         "name": "ESP32AI Voice Command",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/ESP32AI",
@@ -140822,6 +140822,21 @@
         "architectures": "esp32, avr, samd, rp2040, rp2350",
         "types": "Contributed",
         "repository": "https://github.com/dunknowcoding/INA_series_sensor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "vovagorodok_ArduinoBleSerial",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
+        "author": "vovagorodok",
+        "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
+        "website": "https://github.com/vovagorodok/ArduinoBleSerial",
+        "category": "Communication",
+        "architectures": "esp32, samd, megaavr, mbed, apollo3, mbed_nano, mbed_portenta, mbed_nicla",
+        "types": "Contributed",
+        "repository": "https://github.com/vovagorodok/ArduinoBleSerial.git",
         "dependencies": [
             ""
         ]
