@@ -27911,13 +27911,13 @@
     },
     {
         "name": "MobaTools",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0, 0.9.1",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0, 0.9.1",
         "author": "MicroBahner",
         "maintainer": "MicroBahner, f-pm+gh@mailbox.org",
         "website": "https://github.com/MicroBahner/MobaTools",
         "category": "Device Control",
-        "architectures": "avr, STM32F1, esp8266, esp32, megaavr, renesas_uno, rp2040, samd",
+        "architectures": "avr, STM32F1, esp8266, esp32, megaavr, renesas_uno, rp2040, samd, stm32",
         "types": "Contributed",
         "repository": "https://github.com/MicroBahner/MobaTools.git",
         "dependencies": [
@@ -78719,8 +78719,8 @@
     },
     {
         "name": "EmbeddedMqttBroker",
-        "version": "2.0.12-qos0",
-        "versions": "2.0.12-qos0, 2.0.11-qos0, 2.0.10-qos0, 2.0.9-qos0, 2.0.8-qos0, 1.0.8-qos0, 1.0.7-qos0, 1.0.6-qos0, 1.0.5-qos0, 1.0.4-qos0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "2.1.12-qos0",
+        "versions": "2.1.12-qos0, 2.0.12-qos0, 2.0.11-qos0, 2.0.10-qos0, 2.0.9-qos0, 2.0.8-qos0, 1.0.8-qos0, 1.0.7-qos0, 1.0.6-qos0, 1.0.5-qos0, 1.0.4-qos0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Alex Cajas <alexcajas505@gmail.com>",
         "maintainer": "Alex Cajas <alexcajas505@gmail.com>",
         "website": "https://github.com/alexCajas/EmbeddedMqttBroker.git",
@@ -140867,6 +140867,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Nocturnailed-Community/NocML.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NocKinematics",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Muhammad Ikhwan Fathulloh <muhammadikhwanfathulloh17@gmail.com>",
+        "maintainer": "Nocturnailed Community <nocturnailed.team@gmail.com>",
+        "website": "https://github.com/Nocturnailed-Community/NocKinematics",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Nocturnailed-Community/NocKinematics.git",
         "dependencies": [
             ""
         ]
