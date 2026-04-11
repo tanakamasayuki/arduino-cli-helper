@@ -95177,7 +95177,7 @@
     {
         "name": "Satspares_DWIN_DGUS_HMI",
         "version": "2.17.0",
-        "versions": "2.17.0, 2.11.0, 2.1.7, 2.1.6, 2.1.5, 2.1.0",
+        "versions": "2.17.0, 2.11.7, 2.11.0, 2.1.7, 2.1.6, 2.1.5, 2.1.0",
         "author": "Tejeet Magar and Satspares",
         "maintainer": "Satspares <satspares@gmail.com>",
         "website": "https://github.com/satspares/DWIN_DGUS_HMI",
@@ -140882,6 +140882,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Nocturnailed-Community/NocKinematics.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NocLLM",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Muhammad Ikhwan Fathulloh <muhammadikhwanfathulloh17@gmail.com>",
+        "maintainer": "Nocturnailed Community <nocturnailed.team@gmail.com>",
+        "website": "https://github.com/Nocturnailed-Community/NocLLM",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Nocturnailed-Community/NocLLM.git",
         "dependencies": [
             ""
         ]
