@@ -140900,5 +140900,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ButtonPoll",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Ulywae",
+        "maintainer": "Ulywae <ulywae@gmail.com>",
+        "website": "https://github.com/ulywae/ButtonPoll",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/ButtonPoll.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
