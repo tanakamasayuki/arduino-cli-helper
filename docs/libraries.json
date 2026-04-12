@@ -80966,8 +80966,8 @@
     },
     {
         "name": "AngleConvertor",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/AngleConvertor",
@@ -133458,8 +133458,8 @@
     },
     {
         "name": "STM32RS485DMA",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0",
         "author": "NitrofMtl",
         "maintainer": "NitrofMtl",
         "website": "https://github.com/nitrofmtl/STM32RS485DMA",
@@ -140918,8 +140918,8 @@
     },
     {
         "name": "NeuFrame",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuFrame",
@@ -140960,6 +140960,38 @@
         "repository": "https://github.com/rohitmaji004/RohitCore-Communication.git",
         "dependencies": [
             "RohitCore-Base"
+        ]
+    },
+    {
+        "name": "NTC_Temp",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Jorge Perales",
+        "maintainer": "Erick Monja",
+        "website": "https://github.com/Japs35/NTC_Temp",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Japs35/NTC_Temp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "V7RCRobot-ESP32",
+        "version": "0.0.2",
+        "versions": "0.0.2",
+        "author": "V7RC / V7 Idea Technology Ltd.",
+        "maintainer": "Louis Chuang <louis@v7idea.com.tw>",
+        "website": "https://github.com/v7rc/V7RCRobot-ESP32",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/v7rc/V7RCRobot-ESP32.git",
+        "dependencies": [
+            "ESP32Servo",
+            "NimBLE-Arduino",
+            "Adafruit NeoPixel"
         ]
     }
 ]
