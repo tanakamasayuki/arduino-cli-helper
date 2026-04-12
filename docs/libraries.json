@@ -104458,8 +104458,8 @@
     },
     {
         "name": "LTR390_DFR",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/LTR390_DFR",
@@ -140539,8 +140539,8 @@
     },
     {
         "name": "RapidBootWiFi",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Idlan Zafran Mohd Zaidie",
         "maintainer": "Idlan Zafran Mohd Zaidie <lanzaidie@gmail.com>",
         "website": "https://github.com/IdlanZafran/RapidBootWiFi",
@@ -140678,8 +140678,8 @@
     },
     {
         "name": "NeuEEPROM",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Uly Wae",
         "maintainer": "Uly Wae",
         "website": "https://github.com/ulywae/NeuEEPROM",
@@ -140798,8 +140798,8 @@
     },
     {
         "name": "ThingsSentral",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Idlan Zafran Mohd Zaidie",
         "maintainer": "Idlan Zafran Mohd Zaidie <lanzaidie@gmail.com>",
         "website": "https://github.com/IdlanZafran/ThingsSentral",
@@ -140929,6 +140929,37 @@
         "repository": "https://github.com/ulywae/NeuFrame.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "RohitCore-Telemetry",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Telemetry",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Telemetry.git",
+        "dependencies": [
+            "RohitCore-Base",
+            "RohitCore-Communication"
+        ]
+    },
+    {
+        "name": "RohitCore-Communication",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Communication",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Communication.git",
+        "dependencies": [
+            "RohitCore-Base"
         ]
     }
 ]
