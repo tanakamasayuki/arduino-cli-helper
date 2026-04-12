@@ -141008,5 +141008,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SteadyPing",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "CaptainEXE",
+        "maintainer": "Slayd Development",
+        "website": "https://github.com/SlaydDev/SteadyPing",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SlaydDev/SteadyPing.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
