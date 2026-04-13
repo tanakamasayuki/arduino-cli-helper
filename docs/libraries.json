@@ -140554,8 +140554,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.4.9, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.9, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
@@ -141011,8 +141011,8 @@
     },
     {
         "name": "SteadyPing",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "CaptainEXE",
         "maintainer": "Slayd Development",
         "website": "https://github.com/SlaydDev/SteadyPing",
@@ -141052,6 +141052,21 @@
         "repository": "https://github.com/sciosense/ufc23-arduino.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "RohitCore-Storage",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Storage",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Storage.git",
+        "dependencies": [
+            "RohitCore-Base"
         ]
     }
 ]
