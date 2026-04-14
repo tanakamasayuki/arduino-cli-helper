@@ -140539,8 +140539,8 @@
     },
     {
         "name": "RapidBootWiFi",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Idlan Zafran Mohd Zaidie",
         "maintainer": "Idlan Zafran Mohd Zaidie <lanzaidie@gmail.com>",
         "website": "https://github.com/IdlanZafran/RapidBootWiFi",
@@ -140678,8 +140678,8 @@
     },
     {
         "name": "NeuEEPROM",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuEEPROM",
