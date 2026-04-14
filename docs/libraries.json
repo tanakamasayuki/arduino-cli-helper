@@ -133518,8 +133518,8 @@
     },
     {
         "name": "INA238",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/INA238",
@@ -141129,6 +141129,22 @@
         "repository": "https://github.com/ulywae/NeuNVS.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "MQTTOTAv5",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jorge Gaspar Beltre Rivera",
+        "maintainer": "Jorge Gaspar Beltre Rivera",
+        "website": "https://github.com/JorgeGBeltre/MQTTOTAv5",
+        "category": "Communication",
+        "architectures": "esp32, esp32s2, esp32s3, esp32c3, esp32c6",
+        "types": "Contributed",
+        "repository": "https://github.com/JorgeGBeltre/MQTTOTAv5.git",
+        "dependencies": [
+            "ESP32_MQTTv5",
+            "ArduinoJson"
         ]
     }
 ]
