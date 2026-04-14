@@ -89258,8 +89258,8 @@
     },
     {
         "name": "STM32duino VL53L8CX",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/VL53L8CX",
@@ -141082,6 +141082,23 @@
         "repository": "https://github.com/mumanchu/TMC22xxDriver.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "M5Unit-NFC",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Unit-NFC",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Unit-NFC.git",
+        "dependencies": [
+            "M5UnitUnified",
+            "M5Utility",
+            "M5HAL"
         ]
     }
 ]
