@@ -2634,8 +2634,8 @@
     },
     {
         "name": "Adafruit IO Arduino",
-        "version": "4.3.4",
-        "versions": "4.3.4, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.9, 4.2.8, 4.2.7, 4.2.5, 4.2.4, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.2, 4.0.1, 4.0.0, 3.9.1, 3.8.0, 3.7.0, 3.6.4, 3.6.3, 3.6.0, 3.5.1, 3.5.0, 3.4.0, 3.3.1, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.0, 2.7.23, 2.7.22, 2.7.21, 2.7.19, 2.7.18, 2.7.17, 2.7.16, 2.7.15, 2.7.14, 2.7.13, 2.7.12, 2.7.11, 2.7.10, 2.7.9, 2.7.8, 2.7.7, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.2.0, 2.1.1, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "4.3.5",
+        "versions": "4.3.5, 4.3.4, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.9, 4.2.8, 4.2.7, 4.2.5, 4.2.4, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.2, 4.0.1, 4.0.0, 3.9.1, 3.8.0, 3.7.0, 3.6.4, 3.6.3, 3.6.0, 3.5.1, 3.5.0, 3.4.0, 3.3.1, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.0, 2.7.23, 2.7.22, 2.7.21, 2.7.19, 2.7.18, 2.7.17, 2.7.16, 2.7.15, 2.7.14, 2.7.13, 2.7.12, 2.7.11, 2.7.10, 2.7.9, 2.7.8, 2.7.7, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.2.0, 2.1.1, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <adafruitio@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_IO_Arduino",
@@ -85535,8 +85535,8 @@
     },
     {
         "name": "Mozzi",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.3",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.3",
         "author": "Tim Barrass and contributors as documented in source, and at https://github.com/sensorium/Mozzi/graphs/contributors",
         "maintainer": "Tim Barrass <faveflave@gmail.com>",
         "website": "https://sensorium.github.io/Mozzi/",
@@ -141099,6 +141099,36 @@
             "M5UnitUnified",
             "M5Utility",
             "M5HAL"
+        ]
+    },
+    {
+        "name": "ESPNowProtocol",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Fabio Souza",
+        "maintainer": "Fabio Souza",
+        "website": "https://github.com/FBSeletronica/ESPNowProtocol",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/FBSeletronica/ESPNowProtocol.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NeuNVS",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "UlyWae @neu",
+        "maintainer": "UlyWae <ulywae@gmail.com>",
+        "website": "https://github.com/ulywae/NeuNVS",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/NeuNVS.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
