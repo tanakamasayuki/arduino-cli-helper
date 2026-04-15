@@ -26566,8 +26566,8 @@
     },
     {
         "name": "ReactESP",
-        "version": "3.2.0",
-        "versions": "3.2.0, 3.1.1, 3.1.0, 3.0.1, 3.0.0, 2.1.0, 2.0.0, 1.0.0, 0.3.1, 0.3.0, 0.2.2, 0.2.0",
+        "version": "3.3.0",
+        "versions": "3.3.0, 3.2.0, 3.1.1, 3.1.0, 3.0.1, 3.0.0, 2.1.0, 2.0.0, 1.0.0, 0.3.1, 0.3.0, 0.2.2, 0.2.0",
         "author": "Matti Airas <mairas@iki.fi>, Andrew Carter <andrewcarter1992@gmail.com>",
         "maintainer": "Matti Airas <mairas@iki.fi>",
         "website": "https://github.com/mairas/ReactESP",
@@ -140645,8 +140645,8 @@
     },
     {
         "name": "QMan",
-        "version": "1.0.3-beta",
-        "versions": "1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
+        "version": "1.0.4-beta",
+        "versions": "1.0.4-beta, 1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
         "author": "Ilia Vinokurov",
         "maintainer": "Ilia Vinokurov <ilvin@mail.ru>",
         "website": "https://github.com/IlVin/QMan",
