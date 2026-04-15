@@ -141176,5 +141176,20 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "SmartProcess",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jayasankar JP",
+        "maintainer": "Jayasankar JP <scicopath01@gmail.com>",
+        "website": "https://github.com/jayasankar-jp/SmartProcess",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jayasankar-jp/SmartProcess.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
