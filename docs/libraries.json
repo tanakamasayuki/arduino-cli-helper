@@ -106165,8 +106165,8 @@
     },
     {
         "name": "ICM45605",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45605",
@@ -111111,8 +111111,8 @@
     },
     {
         "name": "M5UnitUnified",
-        "version": "0.4.5",
-        "versions": "0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.4.6",
+        "versions": "0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5UnitUnified",
@@ -128925,8 +128925,8 @@
     },
     {
         "name": "ICM45608",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45608",
@@ -132532,8 +132532,8 @@
     },
     {
         "name": "myDHT",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 1.0.0",
         "author": "Toni Matutinović",
         "maintainer": "Toni Matutinović <tonimatutta@gmail.com>",
         "website": "https://github.com/tonimatutinovic/myDHT",
@@ -141220,6 +141220,21 @@
         "repository": "https://github.com/DIYables/DIYables-DC-Motor.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "TFTGraph",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fahim Rouhani, Hedvig Stordalen, Nicolai Wissler",
+        "maintainer": "Nicolai Wissler <Nick.Awsome74@gmail.com>",
+        "website": "https://github.com/SeventyFourProductions/TFTGraph",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SeventyFourProductions/TFTGraph.git",
+        "dependencies": [
+            "Adafruit TFTLCD Library"
         ]
     }
 ]
