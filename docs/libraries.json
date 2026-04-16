@@ -3814,8 +3814,8 @@
     },
     {
         "name": "MQTT",
-        "version": "2.5.2",
-        "versions": "2.5.2, 2.5.1, 2.5.0, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.11.0, 1.10.1, 1.10.0, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.2, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.5.3",
+        "versions": "2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.11.0, 1.10.1, 1.10.0, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.2, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Joel Gaehwiler <joel.gaehwiler@gmail.com>",
         "maintainer": "Joel Gaehwiler <joel.gaehwiler@gmail.com>",
         "website": "https://github.com/256dpi/arduino-mqtt",
@@ -131211,8 +131211,8 @@
     },
     {
         "name": "M5Unit-FINGER",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-FINGER",
@@ -141086,8 +141086,8 @@
     },
     {
         "name": "M5Unit-NFC",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-NFC",
@@ -141179,8 +141179,8 @@
     },
     {
         "name": "SmartProcess",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Jayasankar JP",
         "maintainer": "Jayasankar JP <scicopath01@gmail.com>",
         "website": "https://github.com/jayasankar-jp/SmartProcess",
@@ -141203,6 +141203,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/joseluu/adc128d818_driver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DIYables_DC_Motor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io",
+        "website": "https://diyables.io/motor-shield",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables-DC-Motor.git",
         "dependencies": [
             ""
         ]
