@@ -102331,8 +102331,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleChess",
-        "version": "0.7.6",
-        "versions": "0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.7.7",
+        "versions": "0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoBleChess",
@@ -102346,8 +102346,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleOTA",
-        "version": "2.0.8",
-        "versions": "2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.9",
+        "versions": "2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoBleOTA",
@@ -129152,8 +129152,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleBattery",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.2.0, 0.1.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.2.0, 0.1.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoBleBattery",
@@ -140828,8 +140828,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleSerial",
-        "version": "0.0.4",
-        "versions": "0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.5",
+        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoBleSerial",
