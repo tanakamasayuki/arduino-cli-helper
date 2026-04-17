@@ -115868,8 +115868,8 @@
     },
     {
         "name": "GTimer",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GTimer",
@@ -141385,6 +141385,37 @@
         "repository": "https://github.com/DIYables/DIYables_4Digit7Segment_TM1637.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "DS2482",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "APADevices <kecup>",
+        "maintainer": "APADevices <kecup>",
+        "website": "https://github.com/APADevices/DS2482",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/apadevices/DS2482.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "APAPHX2_ADS1115",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "APADevices [@kecup]",
+        "maintainer": "APADevices [@kecup]",
+        "website": "https://github.com/apadevices/APAPHX2_ADS1115",
+        "category": "Sensors",
+        "architectures": "avr, esp8266, esp32, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/apadevices/APAPHX2_ADS1115.git",
+        "dependencies": [
+            "Wire",
+            "EEPROM"
         ]
     }
 ]
