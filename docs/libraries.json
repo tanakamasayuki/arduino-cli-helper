@@ -141521,5 +141521,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SenseAir_S88_Async",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oleksandr Specled",
+        "maintainer": "Oleksandr Specled <specled@inbox.eu>",
+        "website": "https://github.com/specledcomua-creator/SenseAir_S88",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/specledcomua-creator/SenseAir_S88.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
