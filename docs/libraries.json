@@ -135941,8 +135941,8 @@
     },
     {
         "name": "MSF-Time-Lib",
-        "version": "1.2.4",
-        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.5",
+        "versions": "1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Ivica Matic",
         "maintainer": "Ivica Matic",
         "website": "https://github.com/ivica3730k/MSF-Time-Lib",
@@ -141490,6 +141490,36 @@
         "repository": "https://github.com/sensirion/arduino-i2c-sgp43.git",
         "dependencies": [
             "Sensirion Core"
+        ]
+    },
+    {
+        "name": "IndustrialSense",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "IndustrialSense Contributors",
+        "maintainer": "IndustrialSense Contributors",
+        "website": "https://github.com/nawawimegahertz/IndustrialSense",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nawawimegahertz/IndustrialSense.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EasyJoystick",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Seth Kinzel <sethkinzel2@hotmail.com>",
+        "maintainer": "Seth Kinzel <sethkinzel2@hotmail.com>",
+        "website": "https://github.com/SethKinzel/EasyJoystick",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SethKinzel/EasyJoystick.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
