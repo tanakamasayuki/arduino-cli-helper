@@ -141341,5 +141341,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "GY33_Colour_Sensor",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "You-010",
+        "maintainer": "You-010 <276804073+You-010@users.noreply.github.com>",
+        "website": "https://github.com/You-010/GY33_Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/You-010/GY33_Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NocMotion",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Muhammad Ikhwan Fathulloh <muhammadikhwanfathulloh17@gmail.com>",
+        "maintainer": "Nocturnailed Community <nocturnailed.team@gmail.com>",
+        "website": "https://github.com/Nocturnailed-Community/NocMotion",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Nocturnailed-Community/NocMotion.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
