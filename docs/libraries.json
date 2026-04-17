@@ -125654,8 +125654,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -141269,8 +141269,8 @@
     },
     {
         "name": "TCA6408A_RT",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TCA6408A_RT",
@@ -141284,8 +141284,8 @@
     },
     {
         "name": "TCA6416A_RT",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TCA6416A_RT",
@@ -141299,8 +141299,8 @@
     },
     {
         "name": "TCA6424A_RT",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/TCA6424A_RT",
@@ -141404,18 +141404,92 @@
     },
     {
         "name": "APAPHX2_ADS1115",
-        "version": "1.1.0",
-        "versions": "1.1.0",
-        "author": "APADevices [@kecup]",
-        "maintainer": "APADevices [@kecup]",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
+        "author": "APADevices <kecup@vazac.eu>",
+        "maintainer": "APADevices <kecup@vazac.eu>",
         "website": "https://github.com/apadevices/APAPHX2_ADS1115",
         "category": "Sensors",
         "architectures": "avr, esp8266, esp32, stm32",
         "types": "Contributed",
         "repository": "https://github.com/apadevices/APAPHX2_ADS1115.git",
         "dependencies": [
-            "Wire",
-            "EEPROM"
+            ""
+        ]
+    },
+    {
+        "name": "ICM45687",
+        "version": "1.1.2",
+        "versions": "1.1.2",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45687",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM45687.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM56622",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM56622",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM56622.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM56686",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM56686",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM56686.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM45606",
+        "version": "1.1.2",
+        "versions": "1.1.2",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45606",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM45606.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM45685",
+        "version": "1.1.2",
+        "versions": "1.1.2",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM45685",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM45685.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
