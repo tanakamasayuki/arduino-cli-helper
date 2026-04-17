@@ -141371,5 +141371,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DIYables_4Digit7Segment_TM1637",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io",
+        "website": "https://diyables.io/products/4-digit-7-segment-display-led-tm1637-with-colon",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables_4Digit7Segment_TM1637.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
