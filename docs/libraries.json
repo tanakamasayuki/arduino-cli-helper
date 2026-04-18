@@ -82469,8 +82469,8 @@
     },
     {
         "name": "tcUnicodeHelper",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.1.1, 1.1.0, 1.0.0, 0.2.0, 0.1.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.1, 1.1.1, 1.1.0, 1.0.0, 0.2.0, 0.1.0",
         "author": "davetcc",
         "maintainer": "https://www.thecoderscorner.com",
         "website": "https://github.com/TcMenu/tcUnicodeHelper",
