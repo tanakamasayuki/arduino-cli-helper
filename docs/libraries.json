@@ -48522,11 +48522,11 @@
     },
     {
         "name": "TaskManagerIO",
-        "version": "1.5.2",
-        "versions": "1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.5.4",
+        "versions": "1.5.4, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "davetcc",
         "maintainer": "https://www.thecoderscorner.com",
-        "website": "https://github.com/TcMenu/TaskManagerIO",
+        "website": "https://www.thecoderscorner.com/products/arduino-libraries/",
         "category": "Other",
         "architectures": "",
         "types": "Contributed",
@@ -141533,6 +141533,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/specledcomua-creator/SenseAir_S88.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Yfrobot MP3 V3",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "YFROBOT",
+        "maintainer": "YFROBOT <yfrobot@qq.com>",
+        "website": "https://github.com/YFROBOT-TM/Yfrobot_MP3V3_Library",
+        "category": "Device Control",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/YFROBOT-TM/Yfrobot_MP3V3_Library.git",
         "dependencies": [
             ""
         ]
