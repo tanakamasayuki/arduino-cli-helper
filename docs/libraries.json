@@ -103062,8 +103062,8 @@
     },
     {
         "name": "sclm-p105_shield",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "chankame <chan@denkiburo.com>",
         "maintainer": "chankame <chan@denkiburo.com>",
         "website": "https://github.com/chankame/sclm-p105_shield",
@@ -136231,11 +136231,11 @@
     },
     {
         "name": "TumbleFeeder",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.2, 1.0.1",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.0.2, 1.0.1",
         "author": "Mason Barrett, Kravitz Lab",
         "maintainer": "Mason Barrett, Kravitz Lab",
-        "website": "https://github.com/MasBarr/TumbleFeeder",
+        "website": "https://github.com/KravitzLabDevices/TumbleFeeder",
         "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
@@ -136243,7 +136243,6 @@
         "dependencies": [
             "Servo",
             "RTClib",
-            "ArduinoLowPower",
             "SdFat",
             "Adafruit GFX Library",
             "Adafruit SHARP Memory Display"
@@ -136683,8 +136682,8 @@
     },
     {
         "name": "Tumbly",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Mason Barrett, Lex Kravitz",
         "maintainer": "Lex Kravitz <alexxai@wustl.edu   >",
         "website": "https://github.com/KravitzLabDevices/Tumbly",
