@@ -121520,8 +121520,8 @@
     },
     {
         "name": "M5Unit-INFRARED",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0, 0.0.1",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-INFRARED",
