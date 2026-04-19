@@ -141102,8 +141102,8 @@
     },
     {
         "name": "NeuNVS",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuNVS",
@@ -141625,6 +141625,21 @@
         "dependencies": [
             "PortentaEthernet",
             "Ethernet"
+        ]
+    },
+    {
+        "name": "xelp",
+        "version": "0.2.6",
+        "versions": "0.2.6, 0.2.5",
+        "author": "M. A. Chatterjee <deftio@deftio.com>",
+        "maintainer": "M. A. Chatterjee <deftio@deftio.com>",
+        "website": "https://github.com/deftio/xelp",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/deftio/xelp.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
