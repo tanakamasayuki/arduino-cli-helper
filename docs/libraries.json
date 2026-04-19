@@ -5653,8 +5653,8 @@
     },
     {
         "name": "TaskScheduler",
-        "version": "4.0.5",
-        "versions": "4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
+        "version": "4.0.7",
+        "versions": "4.0.7, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "website": "https://github.com/arkhipenko/TaskScheduler.git",
@@ -141613,8 +141613,8 @@
     },
     {
         "name": "FTPSclientOPTA",
-        "version": "0.2.3",
-        "versions": "0.2.3, 0.2.2, 0.2.1",
+        "version": "0.2.4",
+        "versions": "0.2.4, 0.2.3, 0.2.2, 0.2.1",
         "author": "dorkmo",
         "maintainer": "dorkmo <dorkmo@gmail.com>",
         "website": "https://github.com/dorkmo/FTPSclientOPTA",
@@ -141623,14 +141623,13 @@
         "types": "Contributed",
         "repository": "https://github.com/dorkmo/FTPSclientOPTA.git",
         "dependencies": [
-            "PortentaEthernet",
             "Ethernet"
         ]
     },
     {
         "name": "xelp",
-        "version": "0.2.6",
-        "versions": "0.2.6, 0.2.5",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.6, 0.2.5",
         "author": "M. A. Chatterjee <deftio@deftio.com>",
         "maintainer": "M. A. Chatterjee <deftio@deftio.com>",
         "website": "https://github.com/deftio/xelp",
