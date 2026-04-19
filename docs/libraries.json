@@ -141595,5 +141595,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "at_client",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Atsign Foundation",
+        "maintainer": "Atsign Foundation <info@atsign.com>",
+        "website": "https://github.com/atsign-foundation/at_client_arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/atsign-foundation/at_client_arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
