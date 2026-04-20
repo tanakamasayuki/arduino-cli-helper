@@ -141671,5 +141671,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SerialCommandCoordinator",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Matthew Miller",
+        "maintainer": "Matthew Miller",
+        "website": "https://github.com/mattykakes/SerialCommandCoordinator",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mattykakes/SerialCommandCoordinator.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
