@@ -47530,8 +47530,8 @@
     },
     {
         "name": "ADS1X15",
-        "version": "0.6.1",
-        "versions": "0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.13, 0.3.12, 0.3.11, 0.3.10, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.6.2",
+        "versions": "0.6.2, 0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.13, 0.3.12, 0.3.11, 0.3.10, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ADS1X15",
@@ -129228,8 +129228,8 @@
     },
     {
         "name": "ProtoBot",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "website": "https://microbots.io/ProtoBot",
@@ -129238,7 +129238,10 @@
         "types": "Contributed",
         "repository": "https://github.com/microbotsio/ProtoBot.git",
         "dependencies": [
-            ""
+            "CodeCell",
+            "DriveCell",
+            "BLEOTA",
+            "Adafruit NeoPixel"
         ]
     },
     {
@@ -141683,6 +141686,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mattykakes/SerialCommandCoordinator.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HLK-LD6004",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "swherdman",
+        "maintainer": "swherdman",
+        "website": "https://github.com/swherdman/HLK-LD6004",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/swherdman/HLK-LD6004.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "XDigit7Segment_74HC595",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "fmeng",
+        "maintainer": "fmeng <fmeng123@gmail.com>",
+        "website": "https://github.com/fmeng/XDigit7Segment_74HC595",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/fmeng/XDigit7Segment_74HC595.git",
         "dependencies": [
             ""
         ]
