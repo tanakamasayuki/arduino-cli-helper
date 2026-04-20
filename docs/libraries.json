@@ -141656,5 +141656,20 @@
             "FirebaseClient",
             "FirebaseJson"
         ]
+    },
+    {
+        "name": "ESP32P4_ULP",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Xorlent",
+        "maintainer": "Xorlent <https://github.com/Xorlent>",
+        "website": "https://github.com/Xorlent/ESP32P4_ULP",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Xorlent/ESP32P4_ULP.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
