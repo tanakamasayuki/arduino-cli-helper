@@ -5653,8 +5653,8 @@
     },
     {
         "name": "TaskScheduler",
-        "version": "4.0.7",
-        "versions": "4.0.7, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
+        "version": "4.0.8",
+        "versions": "4.0.8, 4.0.7, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.8.5, 3.7.0, 3.6.0, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.6, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.0.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "website": "https://github.com/arkhipenko/TaskScheduler.git",
@@ -141526,8 +141526,8 @@
     },
     {
         "name": "SenseAir_S88_Async",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Oleksandr Specled",
         "maintainer": "Oleksandr Specled <specled@inbox.eu>",
         "website": "https://github.com/specledcomua-creator/SenseAir_S88",
