@@ -141586,8 +141586,8 @@
     },
     {
         "name": "RM3100-Arduino",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Vladimir Evdokimov <vladimir@vladimirevdokimov.ru>",
         "maintainer": "Vladimir Evdokimov <vladimir@vladimirevdokimov.ru>",
         "website": "https://github.com/EvdokimovVladimir/RM3100",
