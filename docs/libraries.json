@@ -141301,8 +141301,8 @@
     },
     {
         "name": "ES32D26PLC",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "JDavid",
         "maintainer": "JDavid",
         "website": "https://github.com/blackhack/ES32D26PLC",
@@ -141526,8 +141526,8 @@
     },
     {
         "name": "SenseAir_S88_Async",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Oleksandr Specled",
         "maintainer": "Oleksandr Specled <specled@inbox.eu>",
         "website": "https://github.com/specledcomua-creator/SenseAir_S88",
@@ -141662,8 +141662,8 @@
     },
     {
         "name": "ESP32P4_ULP",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "Xorlent",
         "maintainer": "Xorlent <https://github.com/Xorlent>",
         "website": "https://github.com/Xorlent/ESP32P4_ULP",
@@ -141761,6 +141761,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/CoolNeon/CoolNeon_devshield.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FR_Math",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.2",
+        "author": "M. A. Chatterjee <deftio@deftio.com>",
+        "maintainer": "M. A. Chatterjee <deftio@deftio.com>",
+        "website": "https://github.com/deftio/fr_math",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/deftio/fr_math.git",
         "dependencies": [
             ""
         ]
