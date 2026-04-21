@@ -139607,8 +139607,8 @@
     },
     {
         "name": "HDrive",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1",
         "author": "Jesús Amezquita, Kame Electronics",
         "maintainer": "Jesús Amezquita <l25290382@cdguzman.tecnm.mx>",
         "website": "https://github.com/JesRex700/HDrive",
@@ -141733,6 +141733,36 @@
         "repository": "https://github.com/Sensirion/arduino-i2c-sen69c.git",
         "dependencies": [
             "Sensirion Core"
+        ]
+    },
+    {
+        "name": "SPI Library for MS5611 Altimeter and Temperature Sensor",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Ron Barry",
+        "maintainer": "Ron Barry",
+        "website": "https://github.com/foodini/arduino_ms5611_spi",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/foodini/arduino_ms5611_spi.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CoolNeon DevShield",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Chris Knight",
+        "maintainer": "https://github.com/ghstwhl",
+        "website": "https://github.com/CoolNeon/CoolNeon_devshield/",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/CoolNeon/CoolNeon_devshield.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
