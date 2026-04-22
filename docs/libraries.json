@@ -136188,8 +136188,8 @@
     },
     {
         "name": "variants_collector",
-        "version": "0.1.6",
-        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
+        "version": "0.1.7",
+        "versions": "0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/variants_collector",
@@ -141821,6 +141821,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/FSLP.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CoolNeon TCL",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1",
+        "author": "Christopher De Vries",
+        "maintainer": "https://github.com/devries",
+        "website": "https://github.com/CoolNeon/arduino-tcl/",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/CoolNeon/arduino-tcl.git",
         "dependencies": [
             ""
         ]
