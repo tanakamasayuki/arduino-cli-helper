@@ -135308,8 +135308,8 @@
     },
     {
         "name": "ReactiveESP32",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://alkonosst.github.io/ReactiveESP32/",
@@ -141331,8 +141331,8 @@
     },
     {
         "name": "GY33_Colour_Sensor",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "You-010",
         "maintainer": "You-010 <276804073+You-010@users.noreply.github.com>",
         "website": "https://github.com/You-010/GY33_Arduino",
