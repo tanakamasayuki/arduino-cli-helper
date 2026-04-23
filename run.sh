@@ -3,6 +3,7 @@ wget https://downloads.arduino.cc/arduino-cli/arduino-cli_latest_Linux_64bit.tar
 tar zxvf arduino-cli_latest_Linux_64bit.tar.gz arduino-cli
 rm arduino-cli_latest_Linux_64bit.tar.gz
 
+./arduino-cli config add board_manager.additional_urls https://downloads.arduino.cc/packages/package_index.json
 ./arduino-cli config add board_manager.additional_urls https://espressif.github.io/arduino-esp32/package_esp32_index.json
 ./arduino-cli config add board_manager.additional_urls https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json
 ./arduino-cli config add board_manager.additional_urls https://arduino.esp8266.com/stable/package_esp8266com_index.json

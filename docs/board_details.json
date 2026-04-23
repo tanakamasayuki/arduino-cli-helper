@@ -14497,14 +14497,14 @@
 },
   "arduino:avr:LilyPadUSB": {
     "name": "LilyPad Arduino USB",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:atmegang": {
     "name": "Arduino NG or older",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14525,7 +14525,7 @@
 },
   "arduino:avr:bt": {
     "name": "Arduino BT",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14546,21 +14546,21 @@
 },
   "arduino:avr:chiwawa": {
     "name": "Arduino Industrial 101",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:circuitplay32u4cat": {
     "name": "Adafruit Circuit Playground",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:diecimila": {
     "name": "Arduino Duemilanove or Diecimila",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14581,49 +14581,49 @@
 },
   "arduino:avr:esplora": {
     "name": "Arduino Esplora",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:ethernet": {
     "name": "Arduino Ethernet",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:fio": {
     "name": "Arduino Fio",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:gemma": {
     "name": "Arduino Gemma",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:leonardo": {
     "name": "Arduino Leonardo",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:leonardoeth": {
     "name": "Arduino Leonardo ETH",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:lilypad": {
     "name": "LilyPad Arduino",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14644,7 +14644,7 @@
 },
   "arduino:avr:mega": {
     "name": "Arduino Mega or Mega 2560",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14665,21 +14665,21 @@
 },
   "arduino:avr:megaADK": {
     "name": "Arduino Mega ADK",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:micro": {
     "name": "Arduino Micro",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:mini": {
     "name": "Arduino Mini",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14700,7 +14700,7 @@
 },
   "arduino:avr:nano": {
     "name": "Arduino Nano",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14725,14 +14725,14 @@
 },
   "arduino:avr:one": {
     "name": "Linino One",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:pro": {
     "name": "Arduino Pro or Pro Mini",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
         {
             "option": "cpu",
@@ -14761,70 +14761,112 @@
 },
   "arduino:avr:robotControl": {
     "name": "Arduino Robot Control",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:robotMotor": {
     "name": "Arduino Robot Motor",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:uno": {
-    "name": "Arduino Uno",
-    "version": "1.8.6",
+    "name": "Arduino UNO",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:unomini": {
-    "name": "Arduino Uno Mini",
-    "version": "1.8.6",
+    "name": "Arduino UNO Mini",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:unowifi": {
-    "name": "Arduino Uno WiFi",
-    "version": "1.8.6",
+    "name": "Arduino UNO WiFi",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:yun": {
     "name": "Arduino Yún",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
   "arduino:avr:yunmini": {
     "name": "Arduino Yún Mini",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "config_options": [
 
     ]
 },
+  "arduino:megaavr:nona4809": {
+    "name": "Arduino Nano Every",
+    "version": "1.8.8",
+    "config_options": [
+        {
+            "option": "mode",
+            "option_label": "Registers emulation",
+            "values": [
+                {
+                    "value": "on",
+                    "value_label": "ATMEGA328",
+                    "selected": true
+                },
+                {
+                    "value": "off",
+                    "value_label": "None (ATMEGA4809)"
+                }
+            ]
+        }
+    ]
+},
+  "arduino:megaavr:uno2018": {
+    "name": "Arduino Uno WiFi Rev2",
+    "version": "1.8.8",
+    "config_options": [
+        {
+            "option": "mode",
+            "option_label": "Registers emulation",
+            "values": [
+                {
+                    "value": "on",
+                    "value_label": "ATMEGA328",
+                    "selected": true
+                },
+                {
+                    "value": "off",
+                    "value_label": "None (ATMEGA4809)"
+                }
+            ]
+        }
+    ]
+},
   "arduino:renesas_uno:minima": {
     "name": "Arduino UNO R4 Minima",
-    "version": "1.5.1",
+    "version": "1.5.3",
     "config_options": [
 
     ]
 },
   "arduino:renesas_uno:nanor4": {
     "name": "Arduino Nano R4",
-    "version": "1.5.1",
+    "version": "1.5.3",
     "config_options": [
 
     ]
 },
   "arduino:renesas_uno:unor4wifi": {
     "name": "Arduino UNO R4 WiFi",
-    "version": "1.5.1",
+    "version": "1.5.3",
     "config_options": [
 
     ]
