@@ -15,6 +15,7 @@ rm arduino-cli_latest_Linux_64bit.tar.gz
 
 ./arduino-cli core update-index
 #./arduino-cli core install arduino:avr
+#./arduino-cli core install arduino:megaavr
 #./arduino-cli core install arduino:renesas_uno
 #./arduino-cli core install esp32:esp32
 #./arduino-cli core install m5stack:esp32
