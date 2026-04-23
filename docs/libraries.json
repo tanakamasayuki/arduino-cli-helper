@@ -50840,8 +50840,8 @@
     },
     {
         "name": "InkplateLibrary",
-        "version": "10.2.2",
-        "versions": "10.2.2, 10.2.1, 10.2.0, 10.0.0, 9.1.0, 9.0.0, 8.2.1, 8.2.0, 8.1.0, 8.0.0, 7.0.0, 6.0.0, 5.7.1, 5.7.0, 5.5.2, 5.5.1, 5.0.0, 4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.4.0, 2.3.2, 2.3.0, 2.2.0, 2.0.0, 1.1.0, 1.0.0",
+        "version": "11.0.0",
+        "versions": "11.0.0, 10.2.2, 10.2.1, 10.2.0, 10.0.0, 9.1.0, 9.0.0, 8.2.1, 8.2.0, 8.1.0, 8.0.0, 7.0.0, 6.0.0, 5.7.1, 5.7.0, 5.5.2, 5.5.1, 5.0.0, 4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.4.0, 2.3.2, 2.3.0, 2.2.0, 2.0.0, 1.1.0, 1.0.0",
         "author": "Soldered <hello@soldered.com>",
         "maintainer": "David Zovko <hello@soldered.com>",
         "website": "https://github.com/SolderedElectronics/Inkplate-Arduino-library",
@@ -141902,6 +141902,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/SolderedElectronics/Soldered-PCAL6416A-IO-Expander-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "IskakINO_Storage",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "iskakfatoni",
+        "maintainer": "iskakfatoni <iskakfatoni@gmail.com>",
+        "website": "https://github.com/iskakfatoni/IskakINO_Storage",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/iskakfatoni/IskakINO_Storage.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ArduClaw",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Kartikeyan Srinivasan",
+        "maintainer": "@KartikS417",
+        "website": "https://github.com/KartikS417/Arduclaw",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/KartikS417/Arduclaw.git",
         "dependencies": [
             ""
         ]
