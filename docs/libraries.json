@@ -114834,8 +114834,8 @@
     },
     {
         "name": "M5Atomic-EchoBase",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Atomic-EchoBase.git",
@@ -115979,9 +115979,9 @@
     },
     {
         "name": "Pervasive_BWRY_Small",
-        "version": "9.0.6",
-        "versions": "9.0.6, 9.0.5, 9.0.4, 9.0.2",
-        "author": "Pervasive Displays, Inc.",
+        "version": "9.0.8",
+        "versions": "9.0.8, 9.0.6, 9.0.5, 9.0.4, 9.0.2",
+        "author": "Pervasive Displays Inc.",
         "maintainer": "Arvin Tan <https://www.pervasivedisplays.com/>",
         "website": "https://github.com/PervasiveDisplays",
         "category": "Display",
