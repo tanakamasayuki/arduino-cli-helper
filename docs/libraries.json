@@ -75422,8 +75422,8 @@
     },
     {
         "name": "Sensirion I2C SCD30",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0, 0.1.0",
         "author": "Sensirion",
         "maintainer": "Sensirion",
         "website": "https://github.com/Sensirion/arduino-i2c-scd30",
@@ -98730,8 +98730,8 @@
     },
     {
         "name": "ArduProf",
-        "version": "2.2.3",
-        "versions": "2.2.3, 2.2.2, 2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "2.2.4",
+        "versions": "2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Team Professional",
         "maintainer": "Team Professional <teamprof.net@gmail.com>",
         "website": "https://github.com/teamprof/arduprof",
