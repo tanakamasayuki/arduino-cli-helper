@@ -141935,5 +141935,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "GPStar Audio Serial",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "GPStar Technologies",
+        "maintainer": "<contact@gpstartechnologies.com>",
+        "website": "https://github.com/GPStarTechnologies/GPStarAudio-Serial",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GPStarTechnologies/GPStar-Audio-Serial.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
