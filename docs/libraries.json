@@ -132876,8 +132876,8 @@
     },
     {
         "name": "sol",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0, 0.1.0",
         "author": "Parvat Raj Singh",
         "maintainer": "Parvat Raj Singh <parvat.raj2@gmail.com>",
         "website": "https://github.com/torrey-xyz/solduino",
@@ -141949,6 +141949,42 @@
         "repository": "https://github.com/GPStarTechnologies/GPStar-Audio-Serial.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Mete Hoca Qwilino",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mete Hoca",
+        "maintainer": "Mete Hoca <metekemalatay@gmail.com>",
+        "website": "https://github.com/metehoca/Mete_Hoca_Qwilino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/metehoca/Mete_Hoca_Qwilino.git",
+        "dependencies": [
+            "STM32duino VL53L4CD",
+            "STM32duino VL53L4ED",
+            "Arduino_LSM6DSOX",
+            "Arduino_LPS22HB",
+            "Arduino_HS300x",
+            "ArduinoGraphics",
+            "Arduino_LTR381RGB"
+        ]
+    },
+    {
+        "name": "UniversalZaloBot",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "chunix64 <141021414+chunix64@users.noreply.github.com>",
+        "maintainer": "chunix64 <141021414+chunix64@users.noreply.github.com>",
+        "website": "https://github.com/chunix64/Universal-Arduino-Zalo-Bot",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/chunix64/Universal-Arduino-Zalo-Bot.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
