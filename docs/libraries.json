@@ -91822,8 +91822,8 @@
     },
     {
         "name": "MQSpaceData",
-        "version": "5.5.5",
-        "versions": "5.5.5, 5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.4.0, 5.3.0, 5.1.5, 5.1.0, 5.0.0, 4.5.1, 4.5.0, 4.2.5, 4.1.5, 4.0.5, 4.0.1, 4.0.0, 3.1.0, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.0, 2.9.0, 2.8.0, 2.1.5, 2.0.0, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1",
+        "version": "5.5.6",
+        "versions": "5.5.6, 5.5.5, 5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.4.0, 5.3.0, 5.1.5, 5.1.0, 5.0.0, 4.5.1, 4.5.0, 4.2.5, 4.1.5, 4.0.5, 4.0.1, 4.0.0, 3.1.0, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.0, 2.9.0, 2.8.0, 2.1.5, 2.0.0, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/MQDataScience",
@@ -125268,8 +125268,8 @@
     },
     {
         "name": "RadioactiveSpaceData",
-        "version": "5.5.4",
-        "versions": "5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0, 5.0.0",
+        "version": "5.5.6",
+        "versions": "5.5.6, 5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0, 5.0.0",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/RadioactiveDataScience",
@@ -126763,8 +126763,8 @@
     },
     {
         "name": "MG811SpaceData",
-        "version": "5.5.5",
-        "versions": "5.5.5, 5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0",
+        "version": "5.5.6",
+        "versions": "5.5.6, 5.5.5, 5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.5.0, 5.1.5, 5.1.0",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/MG811DataScience",
@@ -127095,8 +127095,8 @@
     },
     {
         "name": "SP3S-AQ2SpaceData",
-        "version": "5.5.4",
-        "versions": "5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.1.0",
+        "version": "5.5.6",
+        "versions": "5.5.6, 5.5.4, 5.5.3, 5.5.2, 5.5.1, 5.1.0",
         "author": "abcdaaaaaaaaa",
         "maintainer": "abcdaaaaaaaaa <amertanik@icloud.com>",
         "website": "https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience",
@@ -142028,6 +142028,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/HamzaYslmn/Esp-BLE-Web.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TinyPortal",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "OrkaLxrd",
+        "maintainer": "OrkaLxrd",
+        "website": "https://github.com/OrkaLxrd/TinyPortal",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/OrkaLxrd/TinyPortal.git",
         "dependencies": [
             ""
         ]
