@@ -139950,8 +139950,8 @@
     },
     {
         "name": "JW_FRAM",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "JW Control",
         "maintainer": "JW Control",
         "website": "https://github.com/JW-Control/JW_FRAM",
