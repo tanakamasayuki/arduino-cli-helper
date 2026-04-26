@@ -142061,5 +142061,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "esp-ps5",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "website": "https://github.com/HamzaYslmn/esp-ps5",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/HamzaYslmn/esp-ps5.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
