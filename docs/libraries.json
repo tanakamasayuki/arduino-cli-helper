@@ -140653,8 +140653,8 @@
     },
     {
         "name": "ESP32_Multitasking_Network_Suite",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
@@ -141849,7 +141849,7 @@
     {
         "name": "ESPfuscate",
         "version": "1.0.0",
-        "versions": "1.0.0, 0.4.1, 0.4.0, 0.3.0",
+        "versions": "1.0.0, 0.4.2, 0.4.1, 0.4.0, 0.3.0",
         "author": "AndreaDV",
         "maintainer": "AndreaDV",
         "website": "https://github.com/AndreaDV01/ESPfuscate",
@@ -142064,8 +142064,8 @@
     },
     {
         "name": "esp-ps5",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp-ps5",
