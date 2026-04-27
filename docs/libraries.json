@@ -107480,8 +107480,8 @@
     },
     {
         "name": "IOXESP32_4-20mA_Receiver",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "ArtronShop CO.,LTD.",
         "maintainer": "Sonthaya.NT <sonthaya.nt@artronshop.co.th>",
         "website": "https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver",
@@ -142075,6 +142075,36 @@
         "repository": "https://github.com/HamzaYslmn/esp-ps5.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "clogger",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "cyfney-anka",
+        "maintainer": "cyfney-anka@qq.com",
+        "website": "https://github.com/cyfney/clogger",
+        "category": "Other",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/cyfney/clogger.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CodexPad",
+        "version": "2.1.6",
+        "versions": "2.1.6, 2.1.5",
+        "author": "cyfney-anka",
+        "maintainer": "cyfney-anka@qq.com",
+        "website": "https://github.com/CodexPad/codexpad_arduino_lib",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/CodexPad/codex_pad_arduino_lib.git",
+        "dependencies": [
+            "NimBLE-Arduino"
         ]
     }
 ]
