@@ -75423,8 +75423,8 @@
     },
     {
         "name": "Sensirion I2C SCD30",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0, 0.1.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0, 0.1.0",
         "author": "Sensirion",
         "maintainer": "Sensirion",
         "website": "https://github.com/Sensirion/arduino-i2c-scd30",
@@ -142106,6 +142106,21 @@
         "repository": "https://github.com/CodexPad/codex_pad_arduino_lib.git",
         "dependencies": [
             "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "KISS_FFT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Meer Zafarullah Noohani <https://github.com/meerzafarnoohani>",
+        "maintainer": "Meer Zafarullah Noohani <https://github.com/meerzafarnoohani>",
+        "website": "https://github.com/meerzafarnoohani/KISS_FFT",
+        "category": "Signal Input/Output",
+        "architectures": "esp32, avr, samd, rp2040, *",
+        "types": "Contributed",
+        "repository": "https://github.com/meerzafarnoohani/KISS_FFT.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
