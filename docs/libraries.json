@@ -101430,8 +101430,8 @@
     },
     {
         "name": "Sensirion UPT I2C Auto Detection",
-        "version": "3.0.2",
-        "versions": "3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Jonas Stolle, Maximilian Paulsen",
         "maintainer": "Sensirion AG <sensirion.com>",
         "website": "https://github.com/Sensirion/arduino-upt-i2c-auto-detection",
@@ -101450,7 +101450,12 @@
             "Sensirion I2C SCD30",
             "Sensirion I2C SGP41",
             "Sensirion I2C STC3x",
+            "Sensirion I2C SEN62",
+            "Sensirion I2C SEN63C",
+            "Sensirion I2C SEN65",
             "Sensirion I2C SEN66",
+            "Sensirion I2C SEN68",
+            "Sensirion I2C SEN69C",
             "Sensirion I2C STCC4"
         ]
     },
@@ -140548,8 +140553,8 @@
     },
     {
         "name": "Trellis",
-        "version": "0.27.0",
-        "versions": "0.27.0, 0.26.0, 0.25.0, 0.24.0, 0.23.0, 0.22.0, 0.21.0, 0.20.0, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.0, 0.12.0, 0.11.0, 0.10.1, 0.10.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.9, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
+        "version": "0.28.0",
+        "versions": "0.28.0, 0.27.0, 0.26.0, 0.25.0, 0.24.0, 0.23.0, 0.22.0, 0.21.0, 0.20.0, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.0, 0.12.0, 0.11.0, 0.10.1, 0.10.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.9, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.8",
         "author": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "maintainer": "Joshua-Ovidiu Drobota <nubiraorg@gmail.com>",
         "website": "https://github.com/ovexro/trellis",
@@ -142065,8 +142070,8 @@
     },
     {
         "name": "esp-ps5",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp-ps5",
@@ -142095,8 +142100,8 @@
     },
     {
         "name": "CodexPad",
-        "version": "2.1.6",
-        "versions": "2.1.6, 2.1.5",
+        "version": "2.1.7",
+        "versions": "2.1.7, 2.1.6, 2.1.5",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/codexpad_arduino_lib",
@@ -142119,6 +142124,21 @@
         "architectures": "esp32, avr, samd, rp2040, *",
         "types": "Contributed",
         "repository": "https://github.com/meerzafarnoohani/KISS_FFT.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ETL_Arduino",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Meer Zafarullah Noohani <https://github.com/meerzafarnoohani>",
+        "maintainer": "Meer Zafarullah Noohani <https://github.com/meerzafarnoohani>",
+        "website": "https://github.com/meerzafarnoohani/ETL_Arduino",
+        "category": "Data Storage",
+        "architectures": "esp32, avr, samd, rp2040, *",
+        "types": "Contributed",
+        "repository": "https://github.com/meerzafarnoohani/ETL_Arduino.git",
         "dependencies": [
             ""
         ]
