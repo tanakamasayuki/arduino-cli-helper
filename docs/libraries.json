@@ -28942,8 +28942,8 @@
     },
     {
         "name": "Heltec ESP32 Dev-Boards",
-        "version": "2.1.5",
-        "versions": "2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.0.2, 2.0.1, 1.1.5, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2",
+        "version": "2.1.6",
+        "versions": "2.1.6, 2.1.5, 2.1.4, 2.1.2, 2.1.1, 2.0.2, 2.0.1, 1.1.5, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2",
         "author": "Heltec Automation",
         "maintainer": "HelTec <support@heltec.cn>",
         "website": "https://github.com/HelTecAutomation/Heltec_ESP32.git",
@@ -28953,7 +28953,8 @@
         "repository": "https://github.com/HelTecAutomation/Heltec_ESP32.git",
         "dependencies": [
             "Adafruit GFX Library",
-            "Adafruit BusIO"
+            "Adafruit BusIO",
+            "heltec-eink-modules"
         ]
     },
     {
