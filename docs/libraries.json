@@ -139986,8 +139986,8 @@
     },
     {
         "name": "AdditiveHW",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Andrii Maliarenko (Mospak)",
         "maintainer": "Andrii Maliarenko <m0spak@icloud.com>",
         "website": "https://codeberg.org/mospak/AdditiveHW",
@@ -142216,6 +142216,21 @@
         "repository": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Embedded GUI Framework",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Cordell O'Leary (cordelloleary@gmail.com)",
+        "maintainer": "Cordell O'Leary (cordelloleary@gmail.com)",
+        "website": "https://github.com/CDonalO/Embedded-GUI-Framework",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/CDonalO/Embedded-GUI-Framework.git",
+        "dependencies": [
+            "Adafruit GFX Library"
         ]
     }
 ]
