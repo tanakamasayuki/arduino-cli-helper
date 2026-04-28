@@ -128847,8 +128847,8 @@
     },
     {
         "name": "RCLink",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Little Man Builds",
         "maintainer": "Little Man Builds <darren@ozzyimages.com>",
         "website": "https://github.com/littlemanbuilds/RCLink",
@@ -142274,6 +142274,36 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": "https://github.com/prj-electins/ElctinsIoTClient.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ScioSense_ENS17x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ScioSense",
+        "maintainer": "ScioSense",
+        "website": "https://github.com/sciosense/ens17x-arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sciosense/ens17x-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TMT_SmartConnect",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TMT Electronic",
+        "maintainer": "TMT Electronic <support@tmtelectronic.com>",
+        "website": "https://github.com/danielthu167/TMT_SmartConnect",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/danielthu167/TMT_SmartConnect.git",
         "dependencies": [
             ""
         ]
