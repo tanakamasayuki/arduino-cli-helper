@@ -97304,8 +97304,8 @@
     },
     {
         "name": "ATD3.5-S3",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.0.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.0, 1.0.0",
         "author": "ArtronShop CO.,LTD.",
         "maintainer": "Sonthaya Nongnuch <sonthaya.nt@hotmail.com>",
         "website": "https://github.com/ArtronShop/ATD3.5-S3_Library",
@@ -142199,6 +142199,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/jorgesilvaramos/InkaLogic-IO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MMJ InkaBUS Analog Inputs",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jorge A. Silva",
+        "maintainer": "Jorge A. Silva",
+        "website": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs.git",
         "dependencies": [
             ""
         ]
