@@ -142157,5 +142157,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "CharlieLED",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.0.2",
+        "author": "Geoffrey Trueman Falk",
+        "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
+        "website": "https://github.com/topquark22/CharlieLED",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/topquark22/CharlieLED.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MMJ_InkaBUS_AnalogOut",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jorge A. Silva",
+        "maintainer": "Jorge A. Silva",
+        "website": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "InkaLogic IO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jorge Silva",
+        "maintainer": "Jorge Silva",
+        "website": "https://github.com/jorgesilvaramos/InkaLogic-IO",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jorgesilvaramos/InkaLogic-IO.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
