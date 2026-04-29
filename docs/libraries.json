@@ -142307,5 +142307,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ElectinsIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nash <nash@electins.id>",
+        "maintainer": "Nash <nash@electins.id>",
+        "website": "https://github.com/prj-electins/ElectinsIoT",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/prj-electins/ElectinsIoT.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
