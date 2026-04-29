@@ -110969,8 +110969,8 @@
     },
     {
         "name": "OSP ReusableApps aoapps",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.10, 0.2.9",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.10, 0.2.9",
         "author": "ams-OSRAM",
         "maintainer": "ams-OSRAM",
         "website": "https://github.com/ams-OSRAM/OSP_aoapps",
@@ -142338,6 +142338,36 @@
             "M5Unified",
             "IRremoteESP8266",
             "M5Unit-NFC"
+        ]
+    },
+    {
+        "name": "Soldered LSM6DS3 Arduino library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.solde.red/333069",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Soldered LSM6DSO Arduino Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
