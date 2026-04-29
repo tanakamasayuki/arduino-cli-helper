@@ -93734,8 +93734,8 @@
     },
     {
         "name": "IS31FL3729_LED_Matrix",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Aviv Greenberg <avivgr@gmail.com>",
         "maintainer": "Aviv Greenberg <avivgr@gmail.com>",
         "website": "https://github.com/avivgr/IS31FL3729_LED_Matrix",
@@ -93744,7 +93744,7 @@
         "types": "Contributed",
         "repository": "https://github.com/avivgr/IS31FL3729_LED_Matrix.git",
         "dependencies": [
-            "Wire"
+            ""
         ]
     },
     {
@@ -142100,8 +142100,8 @@
     },
     {
         "name": "CodexPad",
-        "version": "2.1.9",
-        "versions": "2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/codexpad_arduino_lib",
@@ -142321,6 +142321,23 @@
         "repository": "https://github.com/prj-electins/ElectinsIoT.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "M5StackChan",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5StackChan.git",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/StackChan-BSP.git",
+        "dependencies": [
+            "M5Unified",
+            "IRremoteESP8266",
+            "M5Unit-NFC"
         ]
     }
 ]
