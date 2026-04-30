@@ -121731,8 +121731,8 @@
     },
     {
         "name": "GeoLinker",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.2, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.2, 1.0.0",
         "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph (Circuit Digest)<jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/GeoLinker",
