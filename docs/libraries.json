@@ -142447,5 +142447,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ESP32_SharpIR",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Ramdesh Gustiar",
+        "maintainer": "Ramdesh Gustiar",
+        "website": "https://github.com/newbiei/ESP32_SharpIR",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/newbiei/ESP32_SharpIR.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
