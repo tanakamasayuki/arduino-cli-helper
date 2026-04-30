@@ -142399,5 +142399,38 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SafeSerial",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/SafeSerial",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/SafeSerial.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DropCeiling",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Nick Puckett",
+        "maintainer": "Nick Puckett",
+        "website": "https://github.com/npuckett/DropCeiling",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/npuckett/DropCeiling.git",
+        "dependencies": [
+            "Ethernet",
+            "Adafruit GFX Library",
+            "Adafruit ST7735 and ST7789 Library",
+            "Adafruit BusIO"
+        ]
     }
 ]
