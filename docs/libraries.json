@@ -142478,5 +142478,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "US500",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/US500",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/US500.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LEDGeometry",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Tong Li",
+        "maintainer": "Tong Li <tongli.math@gmail.com>",
+        "website": "https://github.com/universe1987/LEDGeometry",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/universe1987/LEDGeometry.git",
+        "dependencies": [
+            "FastLED"
+        ]
     }
 ]
