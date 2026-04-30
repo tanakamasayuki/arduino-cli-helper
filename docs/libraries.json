@@ -142432,5 +142432,20 @@
             "Adafruit ST7735 and ST7789 Library",
             "Adafruit BusIO"
         ]
+    },
+    {
+        "name": "MP6602",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pololu",
+        "maintainer": "Pololu <inbox@pololu.com>",
+        "website": "https://github.com/pololu/mp6602-arduino",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/pololu/mp6602-arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
