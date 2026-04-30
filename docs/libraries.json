@@ -117264,21 +117264,6 @@
         ]
     },
     {
-        "name": "Adafruit DAC7578 Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Adafruit",
-        "maintainer": "Adafruit <info@adafruit.com>",
-        "website": "https://github.com/adafruit/Adafruit_DAC7578",
-        "category": "Device Control",
-        "architectures": "*",
-        "types": "Recommended",
-        "repository": "https://github.com/adafruit/Adafruit_DACX578.git",
-        "dependencies": [
-            "Adafruit BusIO"
-        ]
-    },
-    {
         "name": "AMT25",
         "version": "0.1.2",
         "versions": "0.1.2, 0.1.1, 0.1.0",
@@ -138130,21 +138115,6 @@
         ]
     },
     {
-        "name": "hxtp-micro",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
-        "author": "Hestia Labs",
-        "maintainer": "Hestia Labs",
-        "website": "https://github.com/hestia1abs/hxtp-micro",
-        "category": "Communication",
-        "architectures": "esp32, esp8266",
-        "types": "Contributed",
-        "repository": "https://github.com/hestia1abs/hxtp-micro.git",
-        "dependencies": [
-            "PubSubClient"
-        ]
-    },
-    {
         "name": "GyverMotor2",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -141854,10 +141824,10 @@
     },
     {
         "name": "ESPfuscate",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.4.2, 0.4.1, 0.4.0, 0.3.0",
-        "author": "AndreaDV",
-        "maintainer": "AndreaDV",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0",
+        "author": "AndreaDV01",
+        "maintainer": "AndreaDV01",
         "website": "https://github.com/AndreaDV01/ESPfuscate",
         "category": "Uncategorized",
         "architectures": "esp32",
@@ -142159,26 +142129,11 @@
         ]
     },
     {
-        "name": "CharlieLED",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.0.2",
-        "author": "Geoffrey Trueman Falk",
-        "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
-        "website": "https://github.com/topquark22/CharlieLED",
-        "category": "Device Control",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/topquark22/CharlieLED.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "MMJ_InkaBUS_AnalogOut",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Jorge A. Silva",
-        "maintainer": "Jorge A. Silva",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "MMJ SMART ELECTRONICS",
+        "maintainer": "Jorge Silva",
         "website": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut",
         "category": "Device Control",
         "architectures": "*",
@@ -142461,6 +142416,52 @@
         "repository": "https://github.com/newbiei/ESP32_SharpIR.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit DACX578 Library",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_DACX578",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_DACX578.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "LongLiveThEEPROM",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Volodymyr Mykhalchuk",
+        "maintainer": "Volodymyr Mykhalchuk <vmykhalchuk@gmail.com>",
+        "website": "https://github.com/vmykhalchuk/LongLiveThEEPROM",
+        "category": "Data Storage",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/vmykhalchuk/LongLiveThEEPROM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MakeabilityLab",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Jon E. Froehlich <jonf@cs.washington.edu>",
+        "maintainer": "Jon E. Froehlich <jonf@cs.washington.edu>",
+        "website": "https://github.com/makeabilitylab/makelab-arduino-lib",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/makeabilitylab/makelab-arduino-lib.git",
+        "dependencies": [
+            "Adafruit SSD1306",
+            "Adafruit GFX Library"
         ]
     }
 ]
