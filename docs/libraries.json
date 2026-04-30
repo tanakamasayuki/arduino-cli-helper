@@ -112280,8 +112280,8 @@
     },
     {
         "name": "HX710AB",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HX710AB",
@@ -142462,6 +142462,21 @@
         "dependencies": [
             "Adafruit SSD1306",
             "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "QuarkifiStreamOTA",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Anirban <anirban@quarkifistream.in>",
+        "maintainer": "Anirban <anirban@quarkifistream.in>",
+        "website": "https://github.com/quarkifii/quarkifi-stream-arduino-ota",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/quarkifii/quarkifi-stream-arduino-ota.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
