@@ -142556,8 +142556,8 @@
     },
     {
         "name": "ArduTest",
-        "version": "0.2.0",
-        "versions": "0.2.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ArduTest",
@@ -142583,6 +142583,21 @@
         "dependencies": [
             "Adafruit VS1053 Library",
             "PololuLedStrip"
+        ]
+    },
+    {
+        "name": "BMP390_LTSM",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Gavin Lyons <glyons66@hotmail.com>",
+        "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
+        "website": "https://github.com/gavinlyonsrepo/BMP390_LTSM",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/gavinlyonsrepo/BMP390_LTSM.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
