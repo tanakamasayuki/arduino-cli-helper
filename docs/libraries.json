@@ -142145,9 +142145,9 @@
     },
     {
         "name": "InkaLogic IO",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Jorge Silva",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.0",
+        "author": "MMJ SMART ELECTRONICS",
         "maintainer": "Jorge Silva",
         "website": "https://github.com/jorgesilvaramos/InkaLogic-IO",
         "category": "Device Control",
