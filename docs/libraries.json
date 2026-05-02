@@ -142599,5 +142599,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ARAM_FS_Stepper",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "A.R.A.M. - American Robotics Assisted Manufacturing",
+        "maintainer": "A.R.A.M. - American Robotics Assisted Manufacturing <support@aram-usa.com>",
+        "website": "https://github.com/ARAM-USA-Support/ARAM_FS_Stepper",
+        "category": "Device Control",
+        "architectures": "*s",
+        "types": "Contributed",
+        "repository": "https://github.com/ARAM-USA-Support/ARAM_FS_Stepper.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RumiCar",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "RumiCar-group <info@rumicar.com>",
+        "maintainer": "RumiCar-group <info@rumicar.com>",
+        "website": "https://github.com/RumiCar-group/RumiCar-lib",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RumiCar-group/RumiCar-lib.git",
+        "dependencies": [
+            "VL53L0X"
+        ]
     }
 ]
