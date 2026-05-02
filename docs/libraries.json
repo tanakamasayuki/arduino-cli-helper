@@ -142659,5 +142659,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "PQCMicro",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Pratul Deshpande",
+        "maintainer": "Pratul Deshpande <https://pratuldeshpande.com/>",
+        "website": "https://github.com/PratulDeshpande/PQCMicro",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PratulDeshpande/PQCMicro.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
