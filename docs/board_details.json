@@ -121875,8 +121875,23 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "config_options": [
+        {
+            "option": "arduino",
+            "option_label": "Arduino",
+            "values": [
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled",
+                    "selected": true
+                },
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled"
+                }
+            ]
+        },
         {
             "option": "sdl2",
             "option_label": "SDL2",
