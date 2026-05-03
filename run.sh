@@ -10,10 +10,9 @@ rm arduino-cli_latest_Linux_64bit.tar.gz
 ./arduino-cli config add board_manager.additional_urls https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 ./arduino-cli config add board_manager.additional_urls https://github.com/sonydevworld/spresense-arduino-compatible/releases/download/generic/package_spresense_index.json
 ./arduino-cli config add board_manager.additional_urls https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
-./arduino-cli config add board_manager.additional_urls https://tanakamasayuki.github.io/native-arduino-core/package_index.json
 ./arduino-cli config add board_manager.additional_urls https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 ./arduino-cli config add board_manager.additional_urls https://github.com/YuukiUmeta-UIAP/board_manager_files/raw/main/package_uiap.jp_index.json
-./arduino-cli config add board_manager.additional_urls https://tanakamasayuki.github.io/host-arduino-core/package_index.json
+./arduino-cli config add board_manager.additional_urls https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json
 
 ./arduino-cli core update-index
 #./arduino-cli core install arduino:avr

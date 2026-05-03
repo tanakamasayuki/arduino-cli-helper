@@ -121875,11 +121875,25 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "config_options": [
-
+        {
+            "option": "sdl2",
+            "option_label": "SDL2",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "enabled",
+                    "value_label": "Enabled"
+                }
+            ]
+        }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5Dial": {
     "name": "Native (SLD2_M5Dial)",
@@ -121982,7 +121996,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5Stack": {
     "name": "Native (SLD2_M5Stack)",
@@ -122085,7 +122099,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5StackCore2": {
     "name": "Native (SLD2_M5StackCore2)",
@@ -122188,7 +122202,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5StackCoreInk": {
     "name": "Native (SLD2_M5StackCoreInk)",
@@ -122291,7 +122305,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5StackCoreS3": {
     "name": "Native (SLD2_M5StackCoreS3)",
@@ -122394,7 +122408,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5StickCPlus": {
     "name": "Native (SLD2_M5StickCPlus)",
@@ -122497,7 +122511,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5StickCPlus2": {
     "name": "Native (SLD2_M5StickCPlus2)",
@@ -122600,7 +122614,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:SLD2_M5Tab5": {
     "name": "Native (SLD2_M5Tab5)",
@@ -122703,7 +122717,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "lang-ship:native:generic": {
     "name": "Native (Generic)",
@@ -122842,7 +122856,7 @@
             ]
         }
     ],
-    "package_url": "https://tanakamasayuki.github.io/native-arduino-core/package_index.json"
+    "package_url": "https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json"
 },
   "m5stack:esp32:arduino_nesso_n1": {
     "name": "ArduinoNessoN1",
