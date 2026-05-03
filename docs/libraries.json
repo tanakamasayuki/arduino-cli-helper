@@ -97016,8 +97016,8 @@
     },
     {
         "name": "PsychicHttp",
-        "version": "2.1.2",
-        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Zach Hoeken <hoeken@gmail.com>",
         "maintainer": "Zach Hoeken <hoeken@gmail.com>",
         "website": "https://github.com/hoeken/PsychicHttp",
@@ -97026,8 +97026,7 @@
         "types": "Contributed",
         "repository": "https://github.com/hoeken/PsychicHttp.git",
         "dependencies": [
-            "ArduinoJson",
-            "UrlEncode"
+            "ArduinoJson"
         ]
     },
     {
@@ -126920,8 +126919,8 @@
     },
     {
         "name": "BC7215AC_Universal_Aircon_Control",
-        "version": "7.0.2",
-        "versions": "7.0.2, 7.0.0, 5.4.0, 4.1.0",
+        "version": "7.1.0",
+        "versions": "7.1.0, 7.0.2, 7.0.0, 5.4.0, 4.1.0",
         "author": "Bitcode",
         "maintainer": "Bitcode <support@bitcode.com.cn>",
         "website": "https://github.com/bitcode-tech/bc7215ac",
