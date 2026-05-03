@@ -115646,13 +115646,13 @@
     },
     {
         "name": "ArucoLite",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "Paulo Marques",
         "maintainer": "Paulo Marques",
         "website": "https://github.com/pmarques-dev/ArucoLite",
         "category": "Data Processing",
-        "architectures": "",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/pmarques-dev/ArucoLite.git",
         "dependencies": [
