@@ -116896,8 +116896,8 @@
     },
     {
         "name": "ESP32_Host_MIDI",
-        "version": "6.0.0",
-        "versions": "6.0.0, 5.2.1, 5.2.0, 5.1.0, 5.0.0, 4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "6.0.1",
+        "versions": "6.0.1, 6.0.0, 5.2.1, 5.2.0, 5.1.0, 5.0.0, 4.0.0, 3.1.0, 3.0.0, 2.1.0, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "sauloverissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/ESP32_Host_MIDI",
@@ -142672,6 +142672,36 @@
         "repository": "https://github.com/PratulDeshpande/PQCMicro.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "RohitCore-Power",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Power",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Power.git",
+        "dependencies": [
+            "RohitCore-Base"
+        ]
+    },
+    {
+        "name": "RohitCore-Config",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Rohit Maji",
+        "maintainer": "Rohit Maji <rohitmaji2002@gmail.com>",
+        "website": "https://github.com/rohitmaji004/RohitCore-Config",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rohitmaji004/RohitCore-Config.git",
+        "dependencies": [
+            "RohitCore-Base"
         ]
     }
 ]
