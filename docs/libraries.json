@@ -32731,8 +32731,8 @@
     },
     {
         "name": "RemoteXY",
-        "version": "4.1.9",
-        "versions": "4.1.9, 4.1.8, 4.1.7, 4.1.6, 4.1.5, 4.1.4, 4.1.3, 4.1.2, 3.1.14, 3.1.13, 3.1.12, 3.1.11, 3.1.10, 3.1.9, 3.1.7, 3.1.6, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.3.5",
+        "version": "4.1.10",
+        "versions": "4.1.10, 4.1.9, 4.1.8, 4.1.7, 4.1.6, 4.1.5, 4.1.4, 4.1.3, 4.1.2, 3.1.14, 3.1.13, 3.1.12, 3.1.11, 3.1.10, 3.1.9, 3.1.7, 3.1.6, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.3.5",
         "author": "Evgenii Shemanuev, RemoteXY",
         "maintainer": "RemoteXY <info@remotexy.com>",
         "website": "http://remotexy.com/en/help/",
@@ -60005,8 +60005,8 @@
     },
     {
         "name": "AIfES for Arduino",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.1, 2.1.0, 2.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
         "author": "Fraunhofer IMS",
         "maintainer": "Fraunhofer IMS",
         "website": "https://github.com/Fraunhofer-IMS/AIfES_for_Arduino",
@@ -98730,8 +98730,8 @@
     },
     {
         "name": "ArduProf",
-        "version": "2.2.4",
-        "versions": "2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Team Professional",
         "maintainer": "Team Professional <teamprof.net@gmail.com>",
         "website": "https://github.com/teamprof/arduprof",
@@ -129486,8 +129486,8 @@
     },
     {
         "name": "JMBase",
-        "version": "1.7.1",
-        "versions": "1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
+        "version": "1.8.0",
+        "versions": "1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
         "author": "Juanjo Martín",
         "maintainer": "Juanjo Martín",
         "website": "https://github.com/juanjomartinf/JMBase",
@@ -142702,6 +142702,21 @@
         "repository": "https://github.com/rohitmaji004/RohitCore-Config.git",
         "dependencies": [
             "RohitCore-Base"
+        ]
+    },
+    {
+        "name": "GC9107_LTSM",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Gavin Lyons <glyons66@hotmail.com>",
+        "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
+        "website": "https://github.com/gavinlyonsrepo/GC9107_LTSM",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/gavinlyonsrepo/GC9107_LTSM.git",
+        "dependencies": [
+            "display16_LTSM"
         ]
     }
 ]
