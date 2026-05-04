@@ -102145,8 +102145,8 @@
     },
     {
         "name": "HaMqttEntities",
-        "version": "1.0.11",
-        "versions": "1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.12",
+        "versions": "1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Paulino Ruiz de Clavijo Vázquez <pruiz@us.es>",
         "maintainer": "Paulino Ruiz de Clavijo Vázquez <pruiz@us.es>",
         "website": "https://github.com/paulino/ha-mqtt-entities",
@@ -102155,7 +102155,7 @@
         "types": "Contributed",
         "repository": "https://github.com/paulino/ha-mqtt-entities.git",
         "dependencies": [
-            "PubSubClient"
+            "PubSubClient3"
         ]
     },
     {
@@ -142434,8 +142434,8 @@
     },
     {
         "name": "LongLiveThEEPROM",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.2, 0.0.1",
         "author": "Volodymyr Mykhalchuk",
         "maintainer": "Volodymyr Mykhalchuk <vmykhalchuk@gmail.com>",
         "website": "https://github.com/vmykhalchuk/LongLiveThEEPROM",
