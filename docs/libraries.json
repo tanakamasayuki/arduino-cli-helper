@@ -123899,8 +123899,8 @@
     },
     {
         "name": "ScalpelSpace Momentum",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "ScalpelSpace",
         "maintainer": "ScalpelSpace <info@scalpelspace.com>",
         "website": "https://github.com/scalpelspace/scalpelspace_momentum",
@@ -140856,8 +140856,8 @@
     },
     {
         "name": "ButtonPoll",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/ButtonPoll",
@@ -142159,8 +142159,8 @@
     },
     {
         "name": "MMJ InkaBUS Analog Inputs",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "MMJ SMART ELECTRONICS",
         "maintainer": "Jorge Silva",
         "website": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs",
