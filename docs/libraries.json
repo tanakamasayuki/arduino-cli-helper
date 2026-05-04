@@ -142718,5 +142718,20 @@
         "dependencies": [
             "display16_LTSM"
         ]
+    },
+    {
+        "name": "LoRa-E22T",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
+        "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
+        "website": "https://github.com/alkonosst/LoRa-E22T/",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/alkonosst/LoRa-E22T.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
