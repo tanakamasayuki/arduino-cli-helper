@@ -107485,8 +107485,8 @@
     },
     {
         "name": "IOXESP32_4-20mA_Receiver",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "ArtronShop CO.,LTD.",
         "maintainer": "Sonthaya.NT <sonthaya.nt@artronshop.co.th>",
         "website": "https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver",
@@ -133216,13 +133216,13 @@
     },
     {
         "name": "BioLogic",
-        "version": "1.1.14",
-        "versions": "1.1.14, 1.1.13, 1.1.12, 1.1.1, 1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
+        "version": "1.1.15",
+        "versions": "1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.1, 1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
         "category": "Device Control",
-        "architectures": "esp32, esp8266, avr, stm32",
+        "architectures": "esp32, esp8266, stm32, RP2040 (Raspberry Pi Pico)",
         "types": "Contributed",
         "repository": "https://github.com/maumolinavaldez-pixel/BioLogic.git",
         "dependencies": [
@@ -142721,8 +142721,8 @@
     },
     {
         "name": "LoRa-E22T",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/LoRa-E22T/",
@@ -142790,6 +142790,21 @@
         "architectures": "zephyr, zephyr_main",
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_HardwareServo.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PIDEasy-Improved",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Kaleo S. Mendonça",
+        "maintainer": "<kaleosoaresmendonca@gmail.com>",
+        "website": "https://github.com/kwlew/PIDEasy-Improved",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kwlew/PIDEasy-Improved.git",
         "dependencies": [
             ""
         ]
