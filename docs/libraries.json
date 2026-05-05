@@ -142434,8 +142434,8 @@
     },
     {
         "name": "LongLiveThEEPROM",
-        "version": "0.1.0",
-        "versions": "0.1.0, 0.0.2, 0.0.1",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.2, 0.0.1",
         "author": "Volodymyr Mykhalchuk",
         "maintainer": "Volodymyr Mykhalchuk <vmykhalchuk@gmail.com>",
         "website": "https://github.com/vmykhalchuk/LongLiveThEEPROM",
@@ -142760,6 +142760,36 @@
         "architectures": "esp32, esp8266, stm32",
         "types": "Contributed",
         "repository": "https://github.com/plexus-oss/plexus-c.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MathParser",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Meer Zafarullah Noohani <https://github.com/meerzafarnoohani>",
+        "maintainer": "Meer Zafarullah Noohani <https://github.com/meerzafarnoohani>",
+        "website": "https://github.com/meerzafarnoohani/MathParser",
+        "category": "Data Processing",
+        "architectures": "esp32, avr, samd, rp2040, *",
+        "types": "Contributed",
+        "repository": "https://github.com/meerzafarnoohani/MathParser.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Arduino_HardwareServo",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Lucio Rossi, Giovanni Bruno, Arduino",
+        "maintainer": "Arduino <info@arduino.cc>",
+        "website": "https://github.com/arduino-libraries/Arduino_HardwareServo",
+        "category": "Device Control",
+        "architectures": "zephyr, zephyr_main",
+        "types": "Arduino",
+        "repository": "https://github.com/arduino-libraries/Arduino_HardwareServo.git",
         "dependencies": [
             ""
         ]
