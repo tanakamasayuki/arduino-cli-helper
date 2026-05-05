@@ -121875,7 +121875,7 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "config_options": [
         {
             "option": "arduino",
@@ -123195,7 +123195,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_atom": {
     "name": "M5Atom",
@@ -123452,7 +123452,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_atoms3": {
     "name": "M5AtomS3",
@@ -123768,7 +123768,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_atoms3r": {
     "name": "M5AtomS3R",
@@ -124103,7 +124103,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_capsule": {
     "name": "M5Capsule",
@@ -124482,7 +124482,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_cardputer": {
     "name": "M5Cardputer",
@@ -124857,7 +124857,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_chain_dualkey": {
     "name": "M5ChainDualKey",
@@ -125213,7 +125213,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_core": {
     "name": "M5Core",
@@ -125474,7 +125474,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_core2": {
     "name": "M5Core2",
@@ -125750,7 +125750,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_coreink": {
     "name": "M5CoreInk",
@@ -126007,7 +126007,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_cores3": {
     "name": "M5CoreS3",
@@ -126382,7 +126382,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_dial": {
     "name": "M5Dial",
@@ -126757,7 +126757,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_dinmeter": {
     "name": "M5DinMeter",
@@ -127132,7 +127132,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_fire": {
     "name": "M5Fire",
@@ -127408,7 +127408,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_nano_c6": {
     "name": "M5NanoC6",
@@ -127732,7 +127732,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_nano_h2": {
     "name": "M5NanoH2",
@@ -128013,7 +128013,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_paper": {
     "name": "M5Paper",
@@ -128289,7 +128289,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_papercolor": {
     "name": "M5PaperColor",
@@ -128664,7 +128664,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_papers3": {
     "name": "M5PaperS3",
@@ -129039,7 +129039,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_poe_cam": {
     "name": "M5PoECAM",
@@ -129303,7 +129303,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_powerhub": {
     "name": "M5PowerHub",
@@ -129678,7 +129678,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_c3": {
     "name": "M5StampC3",
@@ -129915,7 +129915,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_c6lora": {
     "name": "M5StampC6LoRa",
@@ -130239,7 +130239,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_p4": {
     "name": "M5StampP4",
@@ -130558,7 +130558,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_pico": {
     "name": "M5StampPico",
@@ -130815,7 +130815,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_s3": {
     "name": "M5StampS3",
@@ -131190,7 +131190,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamp_s3bat": {
     "name": "M5StampS3Bat",
@@ -131525,7 +131525,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stamplc": {
     "name": "M5StamPLC",
@@ -131900,7 +131900,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_station": {
     "name": "M5Station",
@@ -132161,7 +132161,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stickc": {
     "name": "M5StickC",
@@ -132418,7 +132418,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stickc_plus": {
     "name": "M5StickCPlus",
@@ -132675,7 +132675,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stickc_plus2": {
     "name": "M5StickCPlus2",
@@ -132947,7 +132947,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_sticks3": {
     "name": "M5StickS3",
@@ -133282,7 +133282,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_stopwatch": {
     "name": "M5StopWatch",
@@ -133657,7 +133657,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_tab5": {
     "name": "M5Tab5",
@@ -133976,7 +133976,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_timer_cam": {
     "name": "M5TimerCAM",
@@ -134240,7 +134240,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_tough": {
     "name": "M5Tough",
@@ -134516,7 +134516,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_unit_c6l": {
     "name": "M5UnitC6L",
@@ -134840,7 +134840,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_unit_cam": {
     "name": "M5UnitCAM",
@@ -135104,7 +135104,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_unit_cams3": {
     "name": "M5UnitCAMS3",
@@ -135471,7 +135471,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_unit_poe_p4": {
     "name": "M5UnitPoEP4",
@@ -135775,7 +135775,7 @@
             ]
         }
     ],
-    "package_url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+    "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "rp2040:rp2040:0xcb_helios": {
     "name": "0xCB Helios",
