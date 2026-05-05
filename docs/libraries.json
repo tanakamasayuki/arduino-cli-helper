@@ -133216,8 +133216,8 @@
     },
     {
         "name": "BioLogic",
-        "version": "1.1.15",
-        "versions": "1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.1, 1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.1, 1.1.0, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.0",
         "author": "Mau Molina Valdez",
         "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
         "website": "https://github.com/maumolinavaldez-pixel/BioLogic",
@@ -142807,6 +142807,36 @@
         "repository": "https://github.com/kwlew/PIDEasy-Improved.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "UBMA250",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Cesar Bautista <cesar.bautista@uelectronics.com>, Unit Electronics, TinyCircuits <info@tiny-circuits.com>",
+        "maintainer": "Unit Electronics <cotizaciones@uelectronics.com>",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_bma250_library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_bma250_library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BLECommands",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Andrey Rodin",
+        "maintainer": "Andrey Rodin <andrey.val.rodin@gmail.com>",
+        "website": "https://github.com/andrey-val-rodin/BleCommands.Arduino/",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/andrey-val-rodin/BleCommands.Arduino.git",
+        "dependencies": [
+            "ArduinoBLE"
         ]
     }
 ]
