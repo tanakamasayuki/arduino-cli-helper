@@ -142748,5 +142748,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "plexus-c",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Plexus Team",
+        "maintainer": "Plexus Team <hello@plexus.dev>",
+        "website": "https://github.com/plexus-oss/plexus-c",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/plexus-oss/plexus-c.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
