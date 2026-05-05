@@ -141733,8 +141733,8 @@
     },
     {
         "name": "FR_Math",
-        "version": "2.0.7",
-        "versions": "2.0.7, 2.0.6, 2.0.5, 2.0.2",
+        "version": "2.0.8",
+        "versions": "2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.2",
         "author": "M. A. Chatterjee <deftio@deftio.com>",
         "maintainer": "M. A. Chatterjee <deftio@deftio.com>",
         "website": "https://github.com/deftio/fr_math",
@@ -142730,6 +142730,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/alkonosst/LoRa-E22T.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NeuButton",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ulywae <ulywae@gmail.com>",
+        "maintainer": "Ulywae <ulywae@gmail.com>",
+        "website": "https://github.com/ulywae/NeuButton",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/NeuButton.git",
         "dependencies": [
             ""
         ]
