@@ -33504,8 +33504,8 @@
     },
     {
         "name": "Adafruit TinyUSB Library",
-        "version": "3.7.5",
-        "versions": "3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1",
+        "version": "3.7.6",
+        "versions": "3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.0, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.5, 3.1.4, 3.1.3, 3.1.1, 3.1.0, 3.0.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.18.4, 1.18.3, 1.18.1, 1.18.0, 1.17.1, 1.17.0, 1.16.0, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.3, 1.13.2, 1.13.1, 1.12.0, 1.11.0, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0, 0.10.5, 0.10.4, 0.10.2, 0.10.1, 0.10.0, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0, 0.5.0, 0.0.1",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_TinyUSB_Arduino",
@@ -100221,13 +100221,13 @@
     },
     {
         "name": "M5StackToio",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Futomi Hatano <futomi.hatano@gmail.com>",
         "maintainer": "Ken-ichi Hayashi <ken-ichi@h.email.ne.jp>",
         "website": "https://github.com/kenichi884/M5StackToio",
         "category": "Device Control",
-        "architectures": "*",
+        "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/kenichi884/M5StackToio.git",
         "dependencies": [
@@ -140994,8 +140994,8 @@
     },
     {
         "name": "ScioSense_UFC23",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "ScioSense",
         "maintainer": "ScioSense",
         "website": "https://github.com/sciosense/ufc23-arduino",
@@ -142736,8 +142736,8 @@
     },
     {
         "name": "NeuButton",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuButton",
@@ -142837,6 +142837,21 @@
         "repository": "https://github.com/andrey-val-rodin/BleCommands.Arduino.git",
         "dependencies": [
             "ArduinoBLE"
+        ]
+    },
+    {
+        "name": "CircuitDigestCloud",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jobit Joseph, Circuit Digest",
+        "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "website": "https://github.com/circuitdigest/CircuitDigestCloud",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Circuit-Digest/CircuitDigestCloud.git",
+        "dependencies": [
+            "PubSubClient"
         ]
     }
 ]
