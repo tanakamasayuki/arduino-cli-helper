@@ -141913,8 +141913,8 @@
     },
     {
         "name": "GPStar Audio Serial",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "GPStar Technologies",
         "maintainer": "GPStar Technologies <contact@gpstartechnologies.com>",
         "website": "https://github.com/GPStarTechnologies/GPStarAudio-Serial",
