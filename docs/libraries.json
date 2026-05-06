@@ -142555,8 +142555,8 @@
     },
     {
         "name": "ArduTest",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ArduTest",
@@ -142736,8 +142736,8 @@
     },
     {
         "name": "NeuButton",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuButton",
