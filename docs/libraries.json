@@ -46944,8 +46944,8 @@
     },
     {
         "name": "DHT2pin",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.3",
+        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DHT2pin",
@@ -118625,8 +118625,8 @@
     },
     {
         "name": "RTOScppESP32",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/RTOScppESP32",
@@ -142867,6 +142867,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/kritishmohapatra/SingleSevenSeg.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NocShield",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Muhammad Ikhwan Fathulloh <muhammadikhwanfathulloh17@gmail.com>",
+        "maintainer": "Nocturnailed Community <nocturnailed.team@gmail.com>",
+        "website": "https://github.com/Nocturnailed-Community/NocShield",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Nocturnailed-Community/NocShield.git",
         "dependencies": [
             ""
         ]
