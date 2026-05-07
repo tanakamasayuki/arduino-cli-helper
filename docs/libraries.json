@@ -113608,8 +113608,8 @@
     },
     {
         "name": "CJKit",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.0",
         "author": "André Breda <andre@breda.pt>",
         "maintainer": "André Breda <andre@breda.pt>",
         "website": "https://github.com/abread/cj-kit-arduino-lib",
@@ -131074,8 +131074,8 @@
     },
     {
         "name": "HLK-LD245X",
-        "version": "0.9.1",
-        "versions": "0.9.1, 0.9.0, 0.8.0",
+        "version": "0.9.5",
+        "versions": "0.9.5, 0.9.1, 0.9.0, 0.8.0",
         "author": "Miłosz Linkiewicz <milosz.lin@gmail.com>",
         "maintainer": "Miłosz Linkiewicz <milosz.lin@gmail.com>",
         "website": "https://github.com/Fiooodooor/HLK-LD245X",
@@ -142852,6 +142852,21 @@
         "repository": "https://github.com/Circuit-Digest/CircuitDigestCloud.git",
         "dependencies": [
             "PubSubClient"
+        ]
+    },
+    {
+        "name": "SingleSevenSeg",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Kritish Mohapatra",
+        "maintainer": "Kritish Mohapatra",
+        "website": "https://github.com/kritishmohapatra/SingleSevenSeg",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kritishmohapatra/SingleSevenSeg.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
