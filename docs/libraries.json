@@ -45247,8 +45247,8 @@
     },
     {
         "name": "PCF8574",
-        "version": "0.4.4",
-        "versions": "0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.1.9",
+        "version": "0.4.5",
+        "versions": "0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.1.9",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCF8574.git",
@@ -47288,8 +47288,8 @@
     },
     {
         "name": "FLE",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.1",
+        "version": "0.1.6",
+        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/FLE",
@@ -131558,7 +131558,7 @@
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/TORICA-Org/SerialWeb.git",
+        "repository": "https://github.com/00kenno/SerialWeb.git",
         "dependencies": [
             "ESP Async WebServer",
             "Async TCP",
@@ -138790,21 +138790,6 @@
         ]
     },
     {
-        "name": "McpIot",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
-        "author": "2edge.co <contact@2edge.co>",
-        "maintainer": "2edge.co <contact@2edge.co>",
-        "website": "https://github.com/ThanabordeeN/MCP-U_Arduino",
-        "category": "Communication",
-        "architectures": "esp32, esp8266, avr",
-        "types": "Contributed",
-        "repository": "https://github.com/ThanabordeeN/MCP-U_Arduino.git",
-        "dependencies": [
-            "ArduinoJson"
-        ]
-    },
-    {
         "name": "DIYables Bluetooth",
         "version": "1.0.1",
         "versions": "1.0.1, 1.0.0",
@@ -139613,7 +139598,7 @@
         "category": "Other",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/ozobot/circuit_kit_library.git",
+        "repository": "https://github.com/ozobot/drvkit_library.git",
         "dependencies": [
             "Wire"
         ]
@@ -142541,21 +142526,6 @@
         ]
     },
     {
-        "name": "LengthConvertor",
-        "version": "0.1.0",
-        "versions": "0.1.0",
-        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
-        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
-        "website": "https://github.com/RobTillaart/LengthConvertor",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/RobTillaart/lengthConverter.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "ArduTest",
         "version": "0.2.2",
         "versions": "0.2.2, 0.2.1, 0.2.0",
@@ -142914,6 +142884,66 @@
         "repository": "https://github.com/Otto17/LightConnect.git",
         "dependencies": [
             "DNSServer"
+        ]
+    },
+    {
+        "name": "MCP-U",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
+        "author": "2edge.co <contact@2edge.co>",
+        "maintainer": "2edge.co <contact@2edge.co>",
+        "website": "https://github.com/ThanabordeeN/MCP-U_Arduino",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/ThanabordeeN/MCP-U_Arduino.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "lengthConverter",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/lengthConverter",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/lengthConverter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "A02YYUW",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/A02YYUW",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/A02YYUW.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ClearCoreWatchdog",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "RobotBuzzard",
+        "maintainer": "RobotBuzzard <buzzy@reasonablerobot.io>",
+        "website": "https://github.com/RobotBuzzard/ClearCoreWatchdog",
+        "category": "Timing",
+        "architectures": "sam",
+        "types": "Contributed",
+        "repository": "https://github.com/RobotBuzzard/ClearCoreWatchdog.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
