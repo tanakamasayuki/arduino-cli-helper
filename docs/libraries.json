@@ -142885,5 +142885,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "midi2",
+        "version": "0.3.1",
+        "versions": "0.3.1",
+        "author": "Saulo Verissimo",
+        "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
+        "website": "https://github.com/sauloverissimo/midi2",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sauloverissimo/midi2.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
