@@ -142900,5 +142900,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "LightConnect",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Otto <den-life@mail.ru>",
+        "maintainer": "Otto <den-life@mail.ru>",
+        "website": "https://github.com/Otto17/LightConnect",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Otto17/LightConnect.git",
+        "dependencies": [
+            "DNSServer"
+        ]
     }
 ]
