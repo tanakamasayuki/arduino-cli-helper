@@ -142945,5 +142945,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SimcomA76xx",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/SimcomA76xx",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/SimcomA76xx.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
