@@ -142977,5 +142977,20 @@
             "PubSubClient",
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "midi2_cpp",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "Saulo Verissimo <sauloverissimo@gmail.com>",
+        "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
+        "website": "https://github.com/sauloverissimo/midi2_cpp",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sauloverissimo/midi2_cpp.git",
+        "dependencies": [
+            "midi2"
+        ]
     }
 ]
