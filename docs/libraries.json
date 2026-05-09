@@ -142708,8 +142708,8 @@
     },
     {
         "name": "NeuButton",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuButton",
@@ -142959,6 +142959,23 @@
         "repository": "https://github.com/soosp/SimcomA76xx.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "EasyAzureIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "K3vin135",
+        "maintainer": "K3vin135",
+        "website": "https://github.com/K3vin135/iot-azure-bridge",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/K3vin135/iot-azure-bridge.git",
+        "dependencies": [
+            "azure-sdk-for-c",
+            "PubSubClient",
+            "ArduinoJson"
         ]
     }
 ]
