@@ -81062,8 +81062,8 @@
     },
     {
         "name": "FastIMU",
-        "version": "1.2.9",
-        "versions": "1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "LiquidCGS <LiquidCGS@gmail.com>",
         "maintainer": "LiquidCGS <LiquidCGS@gmail.com>",
         "website": "https://github.com/LiquidCGS/FastIMU",
@@ -142948,8 +142948,8 @@
     },
     {
         "name": "SimcomA76xx",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/SimcomA76xx",
@@ -143036,6 +143036,51 @@
         "repository": "https://github.com/Gigasitron-xcross/XC_SR04.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "DualMotor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Md. Mamun Ahmed",
+        "maintainer": "Md. Mamun Ahmed <ask.mamunahmed@gmail.com>",
+        "website": "https://github.com/dm-mamun/DualMotor",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dm-mamun/DualMotor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "mmWaveKit",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Lennart Hennigs",
+        "maintainer": "Lennart Hennigs <mail@lennarthennigs.de>",
+        "website": "https://github.com/LennartHennigs/mmWaveKit",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/LennartHennigs/mmWaveKit.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AMRFID",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Guilherme Caiala",
+        "maintainer": "guicaiala@gmail.com",
+        "website": "https://github.com/guicaiala/AMRFID",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/guicaiala/AMRFID.git",
+        "dependencies": [
+            "MFRC522"
         ]
     }
 ]
