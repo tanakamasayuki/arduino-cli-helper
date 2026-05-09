@@ -142708,8 +142708,8 @@
     },
     {
         "name": "NeuButton",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuButton",
@@ -142858,8 +142858,8 @@
     },
     {
         "name": "midi2",
-        "version": "0.3.1",
-        "versions": "0.3.1",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1",
         "author": "Saulo Verissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/midi2",
