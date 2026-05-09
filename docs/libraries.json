@@ -121232,8 +121232,8 @@
     },
     {
         "name": "ModbusRTU",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.0.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.0.0",
         "author": "peto-3210 <modry321456987@gmail.com>",
         "maintainer": "peto-3210 <modry321456987@gmail.com>",
         "website": "https://github.com/peto-3210/ModbusRTU",
@@ -136080,8 +136080,8 @@
     },
     {
         "name": "microReticulum",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2",
         "author": "Chad Attermann <attermann@gmail.com>",
         "maintainer": "Chad Attermann <attermann@gmail.com>",
         "website": "https://github.com/attermann/microReticulum.git",
