@@ -78109,8 +78109,8 @@
     },
     {
         "name": "I2CKeyPad8x8",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/I2CKeyPad8x8",
@@ -142991,6 +142991,36 @@
         "repository": "https://github.com/sauloverissimo/midi2_cpp.git",
         "dependencies": [
             "midi2"
+        ]
+    },
+    {
+        "name": "NeuStorage",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ulywae (@neufa) <ulywae@gmail.com>",
+        "maintainer": "Ulywae (@neufa) <ulywae@gmail.com>",
+        "website": "https://github.com/ulywae/NeuStorage",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/NeuStorage.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CCARemote",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "HTL Anichstrasse",
+        "maintainer": "Andreas Eckhart",
+        "website": "https://github.com/andreas-eckhart/CCARemote-Arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ccaprojects/CCARemote-Arduino.git",
+        "dependencies": [
+            "PubSubClient"
         ]
     }
 ]
