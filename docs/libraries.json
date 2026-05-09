@@ -143022,5 +143022,20 @@
         "dependencies": [
             "PubSubClient"
         ]
+    },
+    {
+        "name": "XC_SR04",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "GIGASITRON",
+        "maintainer": "GIGASITRON <inquiry@gigasitron.com>",
+        "website": "https://github.com/Gigasitron-xcross/XC_SR04",
+        "category": "Sensors",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/Gigasitron-xcross/XC_SR04.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
