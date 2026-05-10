@@ -15117,8 +15117,8 @@
     },
     {
         "name": "EasyNTPClient",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Harsha Alva",
         "maintainer": "Harsha Alva <aharshac@gmail.com>",
         "website": "https://github.com/aharshac/EasyNTPClient",
@@ -131061,8 +131061,8 @@
     },
     {
         "name": "vid6608",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Petr Golovachev",
         "maintainer": "Petr Golovachev <petro@petro.ws>",
         "website": "https://github.com/petrows/arduino-vid6608",
@@ -143145,8 +143145,8 @@
     },
     {
         "name": "LGFX_Fonts",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
         "author": "tobozo",
         "maintainer": "tobozo",
         "website": "https://github.com/tobozo/LGFX_Fonts",
