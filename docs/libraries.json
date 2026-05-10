@@ -123871,8 +123871,8 @@
     },
     {
         "name": "GVector",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GVector",
@@ -142798,8 +142798,8 @@
     },
     {
         "name": "BLECommands",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Andrey Rodin",
         "maintainer": "Andrey Rodin <andrey.val.rodin@gmail.com>",
         "website": "https://github.com/andrey-val-rodin/BleCommands.Arduino/",
@@ -143010,17 +143010,17 @@
     },
     {
         "name": "CCARemote",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "HTL Anichstrasse",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "HTL Anichstraße",
         "maintainer": "Andreas Eckhart",
-        "website": "https://github.com/andreas-eckhart/CCARemote-Arduino",
+        "website": "https://github.com/ccaprojects/CCARemote-Arduino",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ccaprojects/CCARemote-Arduino.git",
         "dependencies": [
-            "PubSubClient"
+            ""
         ]
     },
     {
@@ -143202,6 +143202,21 @@
         "dependencies": [
             "ArduinoJson",
             "Crypto"
+        ]
+    },
+    {
+        "name": "TinyRTOS",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Nikolai Radke",
+        "maintainer": "Nikolai Radke",
+        "website": "https://github.com/NikolaiRadke/TinyRTOS",
+        "category": "Timing",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/NikolaiRadke/TinyRTOS.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
