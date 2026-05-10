@@ -143127,5 +143127,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "NeuKV",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ulywae (@neufa) <ulywae@gmail.com>",
+        "maintainer": "Ulywae (@neufa) <ulywae@gmail.com>",
+        "website": "https://github.com/ulywae/NeuKV",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/NeuKV.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
