@@ -143070,8 +143070,8 @@
     },
     {
         "name": "AMRFID",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Guilherme Caiala",
         "maintainer": "guicaiala@gmail.com",
         "website": "https://github.com/guicaiala/AMRFID",
@@ -143186,6 +143186,22 @@
         "repository": "https://github.com/Rafeul1997/AutoLCD.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ESP_ChaCha",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Otto <den-life@mail.ru>",
+        "maintainer": "Otto <den-life@mail.ru>",
+        "website": "https://github.com/Otto17/ESP_ChaCha",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Otto17/ESP_ChaCha.git",
+        "dependencies": [
+            "ArduinoJson",
+            "Crypto"
         ]
     }
 ]
