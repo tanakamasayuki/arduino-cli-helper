@@ -143218,5 +143218,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Statechart",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
+        "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
+        "website": "https://github.com/alkonosst/Statechart/",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/alkonosst/Statechart.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
