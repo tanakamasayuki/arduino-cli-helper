@@ -121552,8 +121552,8 @@
     },
     {
         "name": "compkit",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.1, 1.0.0",
         "author": "Alexandre Hiroyuki Yamauchi <alex.hiroyuki@outlook.com>",
         "maintainer": "Alexandre Hiroyuki Yamauchi <alex.hiroyuki@outlook.com>",
         "website": "https://github.com/robotieee/compkit",
@@ -143232,6 +143232,21 @@
         "repository": "https://github.com/alkonosst/Statechart.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "AddressLearnMLX",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Jueff",
+        "maintainer": "Jueff <mobaledlib@gmx.at>",
+        "website": "https://github.com/Jueff/AddressLearnMLX#readme",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Jueff/AddressLearnMLX.git",
+        "dependencies": [
+            "MobaLedLib"
         ]
     }
 ]
