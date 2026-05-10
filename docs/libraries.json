@@ -143082,5 +143082,50 @@
         "dependencies": [
             "MFRC522"
         ]
+    },
+    {
+        "name": "qf_math",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "M. A. Chatterjee",
+        "maintainer": "deftio@deftio.com",
+        "website": "https://github.com/deftio/qf_math",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/deftio/qf_math.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESPCar",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Abdul Rafeul Mallick",
+        "maintainer": "Abdul Rafeul Mallick",
+        "website": "https://github.com/Rafeul1997/ESPCar",
+        "category": "Device Control",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Rafeul1997/ESPCar.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CriticalTaskScheduler",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "author": "Andre Nepomuceno",
+        "maintainer": "Andre Nepomuceno <andre.nepomuceno@users.noreply.github.com>",
+        "website": "https://github.com/andrenepomuceno/CriticalTaskScheduler",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/andrenepomuceno/CriticalTaskScheduler.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
