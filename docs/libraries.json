@@ -142873,8 +142873,8 @@
     },
     {
         "name": "LightConnect",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Otto <den-life@mail.ru>",
         "maintainer": "Otto <den-life@mail.ru>",
         "website": "https://github.com/Otto17/LightConnect",
@@ -142883,7 +142883,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Otto17/LightConnect.git",
         "dependencies": [
-            "DNSServer"
+            ""
         ]
     },
     {
@@ -143154,6 +143154,36 @@
         "architectures": "esp32, esp8266, samd, rp2040, mbed_rp2040, mbed_nano",
         "types": "Contributed",
         "repository": "https://github.com/tobozo/LGFX_Fonts.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NTCTemp",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Abdul Rafeul Mallick",
+        "maintainer": "Abdul Rafeul Mallick",
+        "website": "https://github.com/Rafeul1997/NTCTemp",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Rafeul1997/NTCTemp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AutoLCD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Abdul Rafeul Mallick",
+        "maintainer": "Abdul Rafeul Mallick",
+        "website": "https://github.com/Rafeul1997/AutoLCD",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Rafeul1997/AutoLCD.git",
         "dependencies": [
             ""
         ]
