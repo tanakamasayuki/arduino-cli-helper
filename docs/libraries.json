@@ -143293,5 +143293,21 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DuinoClaw",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ArtronShop Co., Ltd.",
+        "maintainer": "Sonthaya Nongnuch <sonthaya.nt@hotmail.com>",
+        "website": "https://github.com/ArtronShop/DuinoClaw",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ArtronShop/DuinoClaw.git",
+        "dependencies": [
+            "ArduinoJson",
+            "UniversalTelegramBot"
+        ]
     }
 ]
