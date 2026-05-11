@@ -139620,8 +139620,8 @@
     },
     {
         "name": "Inkplate LVGL Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Soldered <hello@soldered.com>",
         "maintainer": "Josip Šimun Kuči <josip@soldered.com>",
         "website": "https://github.com/SolderedElectronics/Inkplate-LVGL-Library/tree/main",
@@ -140753,8 +140753,8 @@
     },
     {
         "name": "INA Series Sensor",
-        "version": "0.5.2",
-        "versions": "0.5.2, 0.5.0, 0.2.5, 0.2.1",
+        "version": "0.5.3",
+        "versions": "0.5.3, 0.5.2, 0.5.0, 0.2.5, 0.2.1",
         "author": "dunknowcoding",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/INA_series_sensor",
