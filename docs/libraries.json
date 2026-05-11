@@ -123599,12 +123599,12 @@
     },
     {
         "name": "SerialSDManager",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Eric Thieme-Garmann",
         "maintainer": "senseBox Team <kontakt@reedu.de>",
         "website": "https://github.com/sensebox/SerialSDManager",
-        "category": "Uncategorized",
+        "category": "Data Storage",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sensebox/SerialSDManager.git",
@@ -143308,6 +143308,51 @@
         "dependencies": [
             "ArduinoJson",
             "UniversalTelegramBot"
+        ]
+    },
+    {
+        "name": "UANIMA",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jonathan Mejorado López, Cesar Bautista <cesar.bautista@uelectronics.com>",
+        "maintainer": "Jonathan Mejorado López, Cesar Bautista <cesar.bautista@uelectronics.com>",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_uanima_library",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_uanima_library.git",
+        "dependencies": [
+            "Adafruit NeoPixel"
+        ]
+    },
+    {
+        "name": "CodexPadFrameDecoder",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "chenliang@null-lab.com",
+        "maintainer": "chenliang@null-lab.com",
+        "website": "https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib",
+        "category": "Other",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CrashHive32",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "Parvaz Jamei",
+        "maintainer": "Parvaz Jamei <parvaz.nic@gmail.com>",
+        "website": "https://github.com/parvaz-jamei/CrashHive32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Parvaz-Jamei/CrashHive32.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
