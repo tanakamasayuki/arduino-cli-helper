@@ -143248,5 +143248,20 @@
         "dependencies": [
             "MobaLedLib"
         ]
+    },
+    {
+        "name": "AvantLumi",
+        "version": "0.2.10",
+        "versions": "0.2.10",
+        "author": "AvantMaker.com",
+        "maintainer": "AvantMaker.com <info@avantmaker.com>",
+        "website": "https://avantmaker.com/",
+        "category": "Display",
+        "architectures": "esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/AvantMaker/AvantLumi.git",
+        "dependencies": [
+            "FastLED"
+        ]
     }
 ]
