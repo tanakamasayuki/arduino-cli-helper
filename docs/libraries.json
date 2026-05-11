@@ -78799,8 +78799,8 @@
     },
     {
         "name": "ld2410",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.1.4, 0.1.3, 0.1.1, 0.1.0",
         "author": "Nick Reynolds",
         "maintainer": "Nick Reynolds <ncmreynolds+ld2410@googlemail.com>",
         "website": "https://github.com/ncmreynolds/ld2410",
@@ -142056,8 +142056,8 @@
     },
     {
         "name": "CodexPad",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/codexpad_arduino_lib",
@@ -143262,6 +143262,36 @@
         "repository": "https://github.com/AvantMaker/AvantLumi.git",
         "dependencies": [
             "FastLED"
+        ]
+    },
+    {
+        "name": "Universal Blink",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.0.0",
+        "author": "Abdul Rafeul Mallick",
+        "maintainer": "Abdul Rafeul Mallick",
+        "website": "https://github.com/Rafeul1997/Blink",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Rafeul1997/Universal_Blink.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RemoteUpload",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Idlan Zafran Mohd Zaidie",
+        "maintainer": "Idlan Zafran Mohd Zaidie <lanzaidie@gmail.com>",
+        "website": "https://github.com/IdlanZafran/RemoteUpload",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/IdlanZafran/RemoteUpload.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
