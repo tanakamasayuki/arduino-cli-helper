@@ -143327,8 +143327,8 @@
     },
     {
         "name": "CodexPadFrameDecoder",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "chenliang@null-lab.com",
         "maintainer": "chenliang@null-lab.com",
         "website": "https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib",
@@ -143353,6 +143353,21 @@
         "repository": "https://github.com/Parvaz-Jamei/CrashHive32.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Roboticus Debugger",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Edgar Mamikonian, EdgarMamikonian1710@gmail.com",
+        "maintainer": "Edgar Mamikonian <edgarmamikonian1710@gmail.com>",
+        "website": "https://github.com/sSpectrals/RoboticusDebugger",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sSpectrals/RoboticusDebugger.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
