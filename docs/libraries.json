@@ -143369,5 +143369,20 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "PulseAnalyzer",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "zjp007",
+        "maintainer": "zjp007",
+        "website": "https://github.com/zjp007/PulseAnalyzer",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/zjp007/PulseAnalyzer.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
