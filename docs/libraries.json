@@ -141936,8 +141936,8 @@
     },
     {
         "name": "UniversalZaloBot",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "chunix64 <141021414+chunix64@users.noreply.github.com>",
         "maintainer": "chunix64 <141021414+chunix64@users.noreply.github.com>",
         "website": "https://github.com/chunix64/Universal-Arduino-Zalo-Bot",
@@ -143206,8 +143206,8 @@
     },
     {
         "name": "TinyRTOS",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Nikolai Radke",
         "maintainer": "Nikolai Radke",
         "website": "https://github.com/NikolaiRadke/TinyRTOS",
@@ -143456,6 +143456,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/embeddip/arduino-ide.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EcoWifi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Huu-Phuoc Nguyen <huuphuoc.research@gmail.com>",
+        "maintainer": "Huu-Phuoc Nguyen <huuphuoc.research@gmail.com>",
+        "website": "https://github.com/HuuPhuoc2411/EcoWifi",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/HuuPhuoc2411/EcoWifi.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NeuWiFi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ulywae <ulywae@gmail.com>",
+        "maintainer": "Ulywae <ulywae@gmail.com>",
+        "website": "https://github.com/ulywae/NeuWiFi",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ulywae/NeuWiFi.git",
         "dependencies": [
             ""
         ]
