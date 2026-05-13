@@ -143327,8 +143327,8 @@
     },
     {
         "name": "CodexPadFrameDecoder",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "chenliang@null-lab.com",
         "maintainer": "chenliang@null-lab.com",
         "website": "https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib",
