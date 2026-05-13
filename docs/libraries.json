@@ -141043,8 +141043,8 @@
     },
     {
         "name": "ESPNowProtocol",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.1.0",
         "author": "Fabio Souza",
         "maintainer": "Fabio Souza",
         "website": "https://github.com/FBSeletronica/ESPNowProtocol",
@@ -142041,8 +142041,8 @@
     },
     {
         "name": "clogger",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.0",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/cyfney/clogger",
