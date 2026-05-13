@@ -143519,5 +143519,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DashlyClient",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Smart Stack Solutions",
+        "maintainer": "Smart Stack Solutions <support@dashlyiot.com>",
+        "website": "https://dashlyiot.com",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Unical-A/DashlyClient.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
