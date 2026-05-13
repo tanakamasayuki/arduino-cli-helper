@@ -143489,5 +143489,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "microTelegramAPI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Serhii Lebedenko",
+        "maintainer": "Serhii Lebedenko (slebedenko@gmail.com)",
+        "website": "https://github.com/SerhiiLe/microTelegramAPI",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SerhiiLe/microTelegramAPI.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "DFMiniMp3E",
+        "version": "1.2.3",
+        "versions": "1.2.3",
+        "author": "Michael C. Miller (makuna@live.com)",
+        "maintainer": "Serhii Lebedenko (slebedenko@gmail.com)",
+        "website": "https://github.com/SerhiiLe/DFMiniMp3E",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SerhiiLe/DFMiniMp3E.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
