@@ -114751,8 +114751,8 @@
     },
     {
         "name": "tinyServo84",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "David Dubins <d.dubins@utoronto.ca>",
         "maintainer": "d.dubins@utoronto.ca",
         "website": "https://github.com/dndubins/tinyServo84",
@@ -116588,8 +116588,8 @@
     },
     {
         "name": "Hublink-Node",
-        "version": "1.0.10",
-        "versions": "1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2, 1.0.0",
+        "version": "1.0.11",
+        "versions": "1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2, 1.0.0",
         "author": "Matt Gaidica",
         "maintainer": "Matt Gaidica <gaidica@wustl.edu>",
         "website": "https://github.com/Neurotech-Hub/Hublink-Node",
@@ -132700,8 +132700,8 @@
     },
     {
         "name": "BLESerial_ESP32",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BLESerial_ESP32",
@@ -143581,6 +143581,22 @@
         "repository": "https://github.com/cyfney/easy_i2c.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ConnectKit",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "EduKits International",
+        "maintainer": "EduKits International",
+        "website": "https://github.com/edukits/ConnectKit",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/edukits/ConnectKit.git",
+        "dependencies": [
+            "ArduinoHttpClient",
+            "Ethernet"
         ]
     }
 ]
