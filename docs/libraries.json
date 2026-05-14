@@ -111201,13 +111201,13 @@
     },
     {
         "name": "RotEncoder",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Jens D. Madsen",
         "maintainer": "Jens D. Madsen",
         "website": "https://arduino.one/RotEncoder",
         "category": "Signal Input/Output",
-        "architectures": "avr, *",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/JensDMadsen/RotEncoder.git",
         "dependencies": [
@@ -124794,8 +124794,8 @@
     },
     {
         "name": "MQTTESP8266",
-        "version": "5.1.2",
-        "versions": "5.1.2, 5.1.1, 5.1.0, 5.0.1",
+        "version": "6.0.0",
+        "versions": "6.0.0, 5.1.2, 5.1.1, 5.1.0, 5.0.1",
         "author": "Petr B.",
         "maintainer": "Petr B.",
         "website": "https://github.com/Zefek/MQTTESP8266",
@@ -141026,8 +141026,8 @@
     },
     {
         "name": "M5Unit-NFC",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-NFC",
