@@ -47303,8 +47303,8 @@
     },
     {
         "name": "Interval",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.1",
+        "version": "0.1.6",
+        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/Interval.git",
@@ -116588,8 +116588,8 @@
     },
     {
         "name": "Hublink-Node",
-        "version": "1.0.11",
-        "versions": "1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2, 1.0.0",
+        "version": "1.0.12",
+        "versions": "1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2, 1.0.0",
         "author": "Matt Gaidica",
         "maintainer": "Matt Gaidica <gaidica@wustl.edu>",
         "website": "https://github.com/Neurotech-Hub/Hublink-Node",
@@ -132700,8 +132700,8 @@
     },
     {
         "name": "BLESerial_ESP32",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BLESerial_ESP32",
@@ -143597,6 +143597,21 @@
         "dependencies": [
             "ArduinoHttpClient",
             "Ethernet"
+        ]
+    },
+    {
+        "name": "MIDIplayer",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Daniel Nemes",
+        "maintainer": "Daniel Nemes",
+        "website": "https://github.com/CITROMOSEPER/MIDIplayer",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/CITROMOSEPER/MIDIplayer.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
