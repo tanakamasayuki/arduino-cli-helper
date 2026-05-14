@@ -143522,8 +143522,8 @@
     },
     {
         "name": "DashlyClient",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Smart Stack Solutions",
         "maintainer": "Smart Stack Solutions <support@dashlyiot.com>",
         "website": "https://dashlyiot.com",
