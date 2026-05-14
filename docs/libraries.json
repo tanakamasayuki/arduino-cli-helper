@@ -132944,8 +132944,8 @@
     },
     {
         "name": "ESP32-OTA-Client",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "LEKPCSTEAM",
         "maintainer": "LEKPCSTEAM",
         "website": "https://github.com/LEKPCSTEAM/ESP32-OTA-Client",
