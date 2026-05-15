@@ -142011,8 +142011,8 @@
     },
     {
         "name": "AdvancedCLI",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/AdvancedCLI/",
