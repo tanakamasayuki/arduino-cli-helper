@@ -142888,8 +142888,8 @@
     },
     {
         "name": "MCP-U",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0",
         "author": "2edge.co <contact@2edge.co>",
         "maintainer": "2edge.co <contact@2edge.co>",
         "website": "https://github.com/ThanabordeeN/MCP-U_Arduino",
@@ -143642,6 +143642,21 @@
         "repository": "https://github.com/emakefun-arduino-library/cq01.git",
         "dependencies": [
             "EasyI2c"
+        ]
+    },
+    {
+        "name": "SerialRGBLed",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "mumanchu <info@muman.ch>",
+        "maintainer": "mumanchu <info@muman.ch>",
+        "website": "https://github.com/mumanchu/SerialRGBLed",
+        "category": "Display",
+        "architectures": "esp32, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/SerialRGBLed.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
