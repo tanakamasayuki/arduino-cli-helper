@@ -41490,8 +41490,8 @@
     },
     {
         "name": "SmartRC-CC1101-Driver-Lib",
-        "version": "3.0.1",
-        "versions": "3.0.1, 2.5.7, 2.5.6, 2.5.5, 2.5.4, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.0, 2.3.5, 2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0",
+        "version": "3.0.2",
+        "versions": "3.0.2, 3.0.1, 2.5.7, 2.5.6, 2.5.5, 2.5.4, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.0, 2.3.5, 2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0",
         "author": "Little Satan (SmartRC), original by Wilson Shen",
         "maintainer": "Little Satan (SmartRC)",
         "website": "https://github.com/lsatan/SmartRC-CC1101-Driver-Lib",
@@ -64656,8 +64656,8 @@
     },
     {
         "name": "M5Unified",
-        "version": "0.2.14",
-        "versions": "0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.17, 0.1.16, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
+        "version": "0.2.15",
+        "versions": "0.2.15, 0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.17, 0.1.16, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unified.git",
@@ -114721,8 +114721,8 @@
     },
     {
         "name": "MCP23017_MR",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/MCP23017",
@@ -143296,8 +143296,8 @@
     },
     {
         "name": "DuinoClaw",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "ArtronShop Co., Ltd.",
         "maintainer": "Sonthaya Nongnuch <sonthaya.nt@hotmail.com>",
         "website": "https://github.com/ArtronShop/DuinoClaw",
