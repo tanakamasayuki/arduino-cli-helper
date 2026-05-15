@@ -143417,8 +143417,8 @@
     },
     {
         "name": "XYdraw",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Daniel Nemes",
         "maintainer": "Daniel Nemes",
         "website": "https://github.com/CITROMOSEPER/XYdraw",
@@ -143670,6 +143670,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/apadevices/APADOSE.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OTAxpress",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Abdul Rafeul Mallick",
+        "maintainer": "Abdul Rafeul Mallick",
+        "website": "https://github.com/Rafeul1997/OTAxpress",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Rafeul-1997/OTAxpress.git",
         "dependencies": [
             ""
         ]
