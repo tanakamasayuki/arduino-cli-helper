@@ -143613,5 +143613,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "LaskakitZivyobrazClient",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Patrik Novák <novakpatrik.99@protonmail.com>",
+        "maintainer": "Patrik Novak <novakpatrik.99@protonmail.com>",
+        "website": "https://github.com/LaskaKit/laskakit_zivyobraz_client",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/LaskaKit/laskakit_zivyobraz_client.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CQ01",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "arex.huang",
+        "maintainer": "arex.huang<arex@null-lab.com>",
+        "website": "https://github.com/emakefun-arduino-library/cq01",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/emakefun-arduino-library/cq01.git",
+        "dependencies": [
+            "EasyI2c"
+        ]
     }
 ]
