@@ -112417,8 +112417,8 @@
     },
     {
         "name": "uEspConfigLib",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Naguissa <naguissa@foroelectro.net>",
         "maintainer": "Naguissa <naguissa@foroelectro.net>",
         "website": "https://github.com/Naguissa/uEspConfigLib",
@@ -135987,8 +135987,8 @@
     },
     {
         "name": "V7RCServoDriver",
-        "version": "0.0.15",
-        "versions": "0.0.15, 0.0.14, 0.0.13, 0.0.7, 0.0.6, 0.0.5",
+        "version": "0.0.16",
+        "versions": "0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.7, 0.0.6, 0.0.5",
         "author": "V7RC / V7 Idea Technology Ltd.",
         "maintainer": "Louis Chuang <louis@v7idea.com.tw>",
         "website": "https://github.com/v7rc/V7RCServoDriver",
@@ -140919,8 +140919,8 @@
     },
     {
         "name": "V7RCRobot-ESP32",
-        "version": "0.0.2",
-        "versions": "0.0.2",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2",
         "author": "V7RC / V7 Idea Technology Ltd.",
         "maintainer": "Louis Chuang <louis@v7idea.com.tw>",
         "website": "https://github.com/v7rc/V7RCRobot-ESP32",
