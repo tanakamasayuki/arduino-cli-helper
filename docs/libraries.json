@@ -137604,8 +137604,8 @@
     },
     {
         "name": "SyncItIOT",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Snow Fox Lab PVT LTD",
         "maintainer": "Bikash Adhikari <bikash@snowfoxlab.com.np>",
         "website": "https://github.com/snowfoxlab/SyncItIOT",
@@ -143601,8 +143601,8 @@
     },
     {
         "name": "MIDIplayer",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Daniel Nemes",
         "maintainer": "Daniel Nemes",
         "website": "https://github.com/CITROMOSEPER/MIDIplayer",
@@ -143655,6 +143655,21 @@
         "architectures": "esp32, stm32",
         "types": "Contributed",
         "repository": "https://github.com/mumanchu/SerialRGBLed.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "APA-Dose",
+        "version": "3.3.0",
+        "versions": "3.3.0",
+        "author": "APADevices <kecup@vazac.eu>",
+        "maintainer": "APADevices <kecup@vazac.eu>",
+        "website": "https://www.facebook.com/APA.adm",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/apadevices/APADOSE.git",
         "dependencies": [
             ""
         ]
