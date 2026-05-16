@@ -129165,8 +129165,8 @@
     },
     {
         "name": "ESP32CertBundle",
-        "version": "20260211.0.1",
-        "versions": "20260211.0.1, 20260211.0.0, 20251202.0.0, 1.0.2, 1.0.1, 1.0.0, 0.1.4, 0.1.3",
+        "version": "20260514.0.0",
+        "versions": "20260514.0.0, 20260211.0.1, 20260211.0.0, 20251202.0.0, 1.0.2, 1.0.1, 1.0.0, 0.1.4, 0.1.3",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32CertBundle",
@@ -143552,8 +143552,8 @@
     },
     {
         "name": "M5Unit-RFID",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-RFID",
