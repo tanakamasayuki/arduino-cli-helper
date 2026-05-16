@@ -143733,5 +143733,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "AutoconnectoSDK",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.3, 1.0.0",
+        "author": "Autoconnecto",
+        "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
+        "website": "https://github.com/autoconnecto/autoconnecto-sdk",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/autoconnecto/autoconnecto-sdk.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
