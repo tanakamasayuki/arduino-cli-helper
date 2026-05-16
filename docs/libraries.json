@@ -143688,5 +143688,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ESP32_WebGPIO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Abdul Rafeul Mallick",
+        "maintainer": "Abdul Rafeul Mallick",
+        "website": "https://github.com/Rafeul1997/ESP32_WebGPIO",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Rafeul-1997/ESP32_WebGPIO.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
