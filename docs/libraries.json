@@ -143703,5 +143703,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "EcoSensePower",
+        "version": "0.9.10",
+        "versions": "0.9.10",
+        "author": "Parvaz Jamei",
+        "maintainer": "Parvaz Jamei <parvaz.nic@gmail.com>",
+        "website": "https://github.com/Parvaz-Jamei/EcoSensePower-Arduino",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Parvaz-Jamei/EcoSensePower-Arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
