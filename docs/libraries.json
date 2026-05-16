@@ -111399,8 +111399,8 @@
     },
     {
         "name": "milesTag",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
         "author": "Nick Reynolds",
         "maintainer": "Nick Reynolds <ncmreynolds+milesTag@googlemail.com>",
         "website": "https://github.com/ncmreynolds/milesTag",
@@ -143760,6 +143760,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/SPIKeyPad.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MiniMessenger",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ziwen Lu, Alex Charitonidis",
+        "maintainer": "Ziwen Lu, Alex Charitonidis <a.charitonidis@ucl.ac.uk>",
+        "website": "https://github.com/Alexandros-Charitonidis/MiniMessenger",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alexandros-Charitonidis/MiniMessenger.git",
+        "dependencies": [
+            "ArduinoMqttClient"
+        ]
+    },
+    {
+        "name": "PulseWetProbe",
+        "version": "0.3.7",
+        "versions": "0.3.7",
+        "author": "Parvaz Jamei",
+        "maintainer": "Parvaz Jamei <parvaz.nic@gmail.com>",
+        "website": "https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino.git",
         "dependencies": [
             ""
         ]
