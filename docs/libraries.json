@@ -117780,8 +117780,8 @@
     },
     {
         "name": "MBusCom",
-        "version": "0.1.6",
-        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.7",
+        "versions": "0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Zeppelin500 <mbusinolib@gmail.com>",
         "maintainer": "Zeppelin500 <mbusinolib@gmail.com>",
         "website": "https://github.com/Zeppelin500/MBusinoLib.git",
