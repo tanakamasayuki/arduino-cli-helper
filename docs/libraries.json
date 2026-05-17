@@ -107907,8 +107907,8 @@
     },
     {
         "name": "MycilaUtilities",
-        "version": "4.3.0",
-        "versions": "4.3.0, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.0, 3.3.1, 3.3.0, 3.2.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.0.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.0.1, 1.0.0",
+        "version": "5.0.0",
+        "versions": "5.0.0, 4.3.0, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.0, 3.3.1, 3.3.0, 3.2.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.0.0, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaUtilities",
@@ -142873,8 +142873,8 @@
     },
     {
         "name": "LightConnect",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Otto <den-life@mail.ru>",
         "maintainer": "Otto <den-life@mail.ru>",
         "website": "https://github.com/Otto17/LightConnect",
@@ -143766,8 +143766,8 @@
     },
     {
         "name": "MiniMessenger",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Ziwen Lu, Alex Charitonidis",
         "maintainer": "Ziwen Lu, Alex Charitonidis <a.charitonidis@ucl.ac.uk>",
         "website": "https://github.com/Alexandros-Charitonidis/MiniMessenger",
