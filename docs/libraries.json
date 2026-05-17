@@ -136096,8 +136096,8 @@
     },
     {
         "name": "SafeGithubOTA",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "gibz104",
         "maintainer": "gibz104",
         "website": "https://github.com/gibz104/SafeGithubOTA",
