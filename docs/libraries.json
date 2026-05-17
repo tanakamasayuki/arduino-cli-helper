@@ -143522,8 +143522,8 @@
     },
     {
         "name": "DashlyClient",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 1.0.1, 1.0.0",
         "author": "Smart Stack Solutions",
         "maintainer": "Smart Stack Solutions <support@dashlyiot.com>",
         "website": "https://dashlyiot.com",
@@ -143790,6 +143790,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BeaconAria",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sanket Salvi <sanket.salvi@mitwpu.edu.in>",
+        "maintainer": "Sanket Salvi <sanket.salvi@mitwpu.edu.in>",
+        "website": "https://github.com/SanketSalviNITK/Beacon_ARIA",
+        "category": "Uncategorized",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/SanketSalviNITK/Beacon_ARIA.git",
         "dependencies": [
             ""
         ]
