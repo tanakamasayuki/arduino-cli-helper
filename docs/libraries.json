@@ -123646,8 +123646,8 @@
     },
     {
         "name": "FIR_Filters",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "kkfranco98",
         "maintainer": "kkfranco98",
         "website": "https://github.com/kkfranco98/FIR_Filters",
@@ -123656,7 +123656,7 @@
         "types": "Contributed",
         "repository": "https://github.com/kkfranco98/FIR_Filters.git",
         "dependencies": [
-            ""
+            "TinyRingBuffer"
         ]
     },
     {
@@ -143895,6 +143895,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/sajidrahii/ESP32S3_n8r16_CameraStream.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "WCB_Client",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Greg Hulette",
+        "maintainer": "Greg Hulette",
+        "website": "https://github.com/greghulette/WCBClient",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/greghulette/WCBClient.git",
         "dependencies": [
             ""
         ]
