@@ -143808,5 +143808,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "AY8912_ESP32",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Ваше Имя",
+        "maintainer": "Ваше Имя <email@example.com>",
+        "website": "https://github.com/Dim-aka/AY8912_ESP32",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Dim-aka/AY8912_ESP32.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
