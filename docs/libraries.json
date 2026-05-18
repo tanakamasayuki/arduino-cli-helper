@@ -140615,8 +140615,8 @@
     },
     {
         "name": "ESP32_Multitasking_Network_Suite",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
@@ -143910,6 +143910,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/greghulette/WCBClient.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TinyRingBuffer",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "kkfranco98",
+        "maintainer": "kkfranco98",
+        "website": "https://github.com/kkfranco98/TinyRingBuffer",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kkfranco98/TinyRingBuffer.git",
         "dependencies": [
             ""
         ]
