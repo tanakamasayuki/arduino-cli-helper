@@ -89411,8 +89411,8 @@
     },
     {
         "name": "XENSIV Digital Pressure Sensor",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Infineon Technologies",
         "maintainer": "Infineon Technologies <www.infineon.com>",
         "website": "https://github.com/Infineon/arduino-xensiv-dps3xx",
