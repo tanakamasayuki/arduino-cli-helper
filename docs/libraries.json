@@ -143853,5 +143853,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DIYables TFT SPI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io (diyables.io@gmail.com)",
+        "website": "https://diyables.io",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables_TFT_SPI.git",
+        "dependencies": [
+            "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "Arduino_SE05X",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Arduino",
+        "maintainer": "Arduino <info@arduino.cc>",
+        "website": "https://github.com/arduino-libraries/Arduino_SE05X/",
+        "category": "Communication",
+        "architectures": "renesas_portenta, zephyr_main, mbed_portenta",
+        "types": "Arduino",
+        "repository": "https://github.com/arduino-libraries/Arduino_SE05X.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32S3CameraStream",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sajid Ahmed Rahi",
+        "maintainer": "Sajid Ahmed Rahi <sajidahmedrahii@gmail.com>",
+        "website": "https://github.com/sajidrahii/ESP32S3_n8r16_CameraStream",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/sajidrahii/ESP32S3_n8r16_CameraStream.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
