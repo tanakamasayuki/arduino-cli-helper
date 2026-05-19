@@ -143928,5 +143928,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "DevLab_BMI323",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adrian Rabadan Ortiz",
+        "maintainer": "Adrian Rabadan Ortiz",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
