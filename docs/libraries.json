@@ -143327,8 +143327,8 @@
     },
     {
         "name": "CodexPadFrameDecoder",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "chenliang@null-lab.com",
         "maintainer": "chenliang@null-lab.com",
         "website": "https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib",
@@ -143940,6 +143940,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PCMFlow",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/PCMFlow",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/PCMFlow.git",
         "dependencies": [
             ""
         ]
