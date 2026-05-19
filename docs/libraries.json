@@ -143492,8 +143492,8 @@
     },
     {
         "name": "microTelegramAPI",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Serhii Lebedenko",
         "maintainer": "Serhii Lebedenko (slebedenko@gmail.com)",
         "website": "https://github.com/SerhiiLe/microTelegramAPI",
