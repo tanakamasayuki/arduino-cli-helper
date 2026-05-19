@@ -143991,8 +143991,8 @@
     },
     {
         "name": "GeigerMeasurement",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/GeigerMeasurement",
@@ -144001,7 +144001,7 @@
         "types": "Contributed",
         "repository": "https://github.com/soosp/GeigerMeasurement.git",
         "dependencies": [
-            "RunningStats"
+            "RunningStatistics"
         ]
     },
     {
