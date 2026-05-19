@@ -123646,8 +123646,8 @@
     },
     {
         "name": "FIR_Filters",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "kkfranco98",
         "maintainer": "kkfranco98",
         "website": "https://github.com/kkfranco98/FIR_Filters",
@@ -143955,6 +143955,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tanakamasayuki/PCMFlow.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NezaRTC",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Emmanuel Mugwaneza",
+        "maintainer": "Emmanuel Mugwaneza  <nezaemmy1@gmail.com>",
+        "website": "https://github.com/Nezaemmy/NezaRTC",
+        "category": "Timing",
+        "architectures": "esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Nezaemmy/NezaRTC.git",
         "dependencies": [
             ""
         ]
