@@ -142618,8 +142618,8 @@
     },
     {
         "name": "ArduLora",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "NamNamIoT",
         "maintainer": "NamNamIoT <thanhnamlt5@gmail.com>",
         "website": "https://github.com/NamNamIoT/ArduLora",
@@ -143432,8 +143432,8 @@
     },
     {
         "name": "SimpleOTAClient",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "SimpleOTA <support@simpleota.com>",
         "maintainer": "SimpleOTA <support@simpleota.com>",
         "website": "https://github.com/xanderwasserman/SimpleOTAClient-Arduino",
@@ -144015,6 +144015,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/SolderedElectronics/Soldered-ADS1219-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NezaWiFiPortal",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Emmanuel Mugwaneza",
+        "maintainer": "Emmanuel Mugwaneza",
+        "website": "https://github.com/Nezaemmy/NezaWiFiPortal",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Nezaemmy/NezaWiFiPortal.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Soldered-SCD43",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://solde.red/333414",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library.git",
         "dependencies": [
             ""
         ]
