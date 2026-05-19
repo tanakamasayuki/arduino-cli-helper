@@ -143973,5 +143973,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "RunningStatistics",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/RunningStatistics",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/RunningStatistics.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GeigerMeasurement",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/GeigerMeasurement",
+        "category": "Sensors",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/GeigerMeasurement.git",
+        "dependencies": [
+            "RunningStats"
+        ]
     }
 ]
