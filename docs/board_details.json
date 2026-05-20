@@ -121875,7 +121875,7 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "config_options": [
         {
             "option": "arduino",

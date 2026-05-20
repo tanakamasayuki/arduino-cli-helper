@@ -144063,5 +144063,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Soldered Button LED Buzzer Board Arduino Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fran Fodor",
+        "maintainer": "Fran Fodor <fran.fodor@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-Button-LED-Buzzer-Board-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
