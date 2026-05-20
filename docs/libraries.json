@@ -139882,8 +139882,8 @@
     },
     {
         "name": "JW_MatrixButtons",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2",
         "author": "JW Control",
         "maintainer": "JW Control <jw.control.peru@gmail.com>",
         "website": "https://github.com/JW-Control/JW_MatrixButtons",
@@ -144075,6 +144075,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/SolderedElectronics/Soldered-Button-LED-Buzzer-Board-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ViSPE ADIN1110",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Abin Antony <abinantony.dev@gmail.com>",
+        "maintainer": "Abin Antony <abinantony.dev@gmail.com>",
+        "website": "https://github.com/Vi-Micro-Systems/ViSPE_ADIN1110",
+        "category": "Communication",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/abinantony01/ViSPE-ADIN1110.git",
         "dependencies": [
             ""
         ]
