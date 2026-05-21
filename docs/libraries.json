@@ -143010,8 +143010,8 @@
     },
     {
         "name": "CCARemote",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "HTL Anichstraße",
         "maintainer": "Andreas Eckhart",
         "website": "https://github.com/ccaprojects/CCARemote-Arduino",
