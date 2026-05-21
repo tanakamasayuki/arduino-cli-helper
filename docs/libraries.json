@@ -129750,8 +129750,8 @@
     },
     {
         "name": "FastRGB",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Ben Stokman",
         "maintainer": "Ben Stokman <ben.stokman@protonmail.com>",
         "website": "https://git.benstokman.me/benjistokman/FastRGB",
@@ -144090,6 +144090,21 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/abinantony01/ViSPE-ADIN1110.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "XBeeFrame",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ahmed Surangiwala <ahmedsurangiwala@gmail.com>",
+        "maintainer": "Ahmed Surangiwala <ahmedsurangiwala@gmail.com>",
+        "website": "https://github.com/Ahmed191006/XBeeFrame",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Ahmed191006/XBeeFrame.git",
         "dependencies": [
             ""
         ]
