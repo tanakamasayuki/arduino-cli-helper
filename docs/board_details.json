@@ -13476,7 +13476,7 @@
 },
   "Seeeduino:nrf52:tracker_t1000_e_lorawan": {
     "name": "Seeed Tracker T1000 E LoRaWAN",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "config_options": [
         {
             "option": "softdevice",
@@ -13532,7 +13532,7 @@
 },
   "Seeeduino:nrf52:wio_tracker_1110": {
     "name": "Seeed Wio Tracker 1110",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "config_options": [
         {
             "option": "softdevice",
@@ -13618,7 +13618,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840": {
     "name": "Seeed XIAO nRF52840",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "config_options": [
         {
             "option": "softdevice",
@@ -13659,7 +13659,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840Plus": {
     "name": "Seeed XIAO nRF52840 Plus",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "config_options": [
         {
             "option": "softdevice",
@@ -13700,7 +13700,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840Sense": {
     "name": "Seeed XIAO nRF52840 Sense",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "config_options": [
         {
             "option": "softdevice",
@@ -13741,7 +13741,7 @@
 },
   "Seeeduino:nrf52:xiaonRF52840SensePlus": {
     "name": "Seeed XIAO nRF52840 Sense Plus",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "config_options": [
         {
             "option": "softdevice",
@@ -13790,7 +13790,7 @@
 },
   "Seeeduino:samd:Seeed_femto_m0": {
     "name": "Seeeduino Femto",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -13827,7 +13827,7 @@
 },
   "Seeeduino:samd:WioGPS": {
     "name": "Seeeduino Wio GPS Board",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -13864,7 +13864,7 @@
 },
   "Seeeduino:samd:Wio_LTE_CAT": {
     "name": "Wio LTE Cat.1",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -13901,7 +13901,7 @@
 },
   "Seeeduino:samd:Wio_Lite_MG126": {
     "name": "Seeeduino Wio lite MG126",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -13938,7 +13938,7 @@
 },
   "Seeeduino:samd:rolawan": {
     "name": "Seeeduino LoRaWAN",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -13975,7 +13975,7 @@
 },
   "Seeeduino:samd:seeed_XIAO_m0": {
     "name": "Seeeduino XIAO",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -14021,13 +14021,95 @@
                     "value_label": "None"
                 }
             ]
+        },
+        {
+            "option": "txrxled",
+            "option_label": "TX/RX LED",
+            "values": [
+                {
+                    "value": "on",
+                    "value_label": "On",
+                    "selected": true
+                },
+                {
+                    "value": "off",
+                    "value_label": "Off"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json"
+},
+  "Seeeduino:samd:seeed_XIAO_m0_plus": {
+    "name": "Seeed XIAO M0 Plus",
+    "version": "1.8.6",
+    "config_options": [
+        {
+            "option": "usbstack",
+            "option_label": "USB Stack",
+            "values": [
+                {
+                    "value": "arduino",
+                    "value_label": "Arduino",
+                    "selected": true
+                },
+                {
+                    "value": "tinyusb",
+                    "value_label": "TinyUSB"
+                }
+            ]
+        },
+        {
+            "option": "debug",
+            "option_label": "Debug",
+            "values": [
+                {
+                    "value": "off",
+                    "value_label": "Off",
+                    "selected": true
+                },
+                {
+                    "value": "on",
+                    "value_label": "On"
+                }
+            ]
+        },
+        {
+            "option": "sercom4",
+            "option_label": "SERCOM4",
+            "values": [
+                {
+                    "value": "include",
+                    "value_label": "USART",
+                    "selected": true
+                },
+                {
+                    "value": "exclude",
+                    "value_label": "None"
+                }
+            ]
+        },
+        {
+            "option": "txrxled",
+            "option_label": "TX/RX LED",
+            "values": [
+                {
+                    "value": "on",
+                    "value_label": "On",
+                    "selected": true
+                },
+                {
+                    "value": "off",
+                    "value_label": "Off"
+                }
+            ]
         }
     ],
     "package_url": "https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json"
 },
   "Seeeduino:samd:seeed_grove_ui_wireless": {
     "name": "Seeeduino Grove UI Wireles (SAMD51)",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "cache",
@@ -14144,7 +14226,7 @@
 },
   "Seeeduino:samd:seeed_wio_terminal": {
     "name": "Seeeduino Wio Terminal",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "role",
@@ -14291,7 +14373,7 @@
 },
   "Seeeduino:samd:zero": {
     "name": "Seeeduino Zero",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "config_options": [
         {
             "option": "usbstack",
@@ -14497,14 +14579,14 @@
 },
   "arduino:avr:LilyPadUSB": {
     "name": "LilyPad Arduino USB",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:atmegang": {
     "name": "Arduino NG or older",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14525,7 +14607,7 @@
 },
   "arduino:avr:bt": {
     "name": "Arduino BT",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14546,21 +14628,21 @@
 },
   "arduino:avr:chiwawa": {
     "name": "Arduino Industrial 101",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:circuitplay32u4cat": {
     "name": "Adafruit Circuit Playground",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:diecimila": {
     "name": "Arduino Duemilanove or Diecimila",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14581,49 +14663,49 @@
 },
   "arduino:avr:esplora": {
     "name": "Arduino Esplora",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:ethernet": {
     "name": "Arduino Ethernet",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:fio": {
     "name": "Arduino Fio",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:gemma": {
     "name": "Arduino Gemma",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:leonardo": {
     "name": "Arduino Leonardo",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:leonardoeth": {
     "name": "Arduino Leonardo ETH",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:lilypad": {
     "name": "LilyPad Arduino",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14644,7 +14726,7 @@
 },
   "arduino:avr:mega": {
     "name": "Arduino Mega or Mega 2560",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14665,21 +14747,21 @@
 },
   "arduino:avr:megaADK": {
     "name": "Arduino Mega ADK",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:micro": {
     "name": "Arduino Micro",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:mini": {
     "name": "Arduino Mini",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14700,7 +14782,7 @@
 },
   "arduino:avr:nano": {
     "name": "Arduino Nano",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14725,14 +14807,14 @@
 },
   "arduino:avr:one": {
     "name": "Linino One",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:pro": {
     "name": "Arduino Pro or Pro Mini",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
         {
             "option": "cpu",
@@ -14761,49 +14843,49 @@
 },
   "arduino:avr:robotControl": {
     "name": "Arduino Robot Control",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:robotMotor": {
     "name": "Arduino Robot Motor",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:uno": {
     "name": "Arduino UNO",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:unomini": {
     "name": "Arduino UNO Mini",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:unowifi": {
     "name": "Arduino UNO WiFi",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:yun": {
     "name": "Arduino Yún",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
 },
   "arduino:avr:yunmini": {
     "name": "Arduino Yún Mini",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "config_options": [
 
     ]
@@ -121875,7 +121957,7 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "config_options": [
         {
             "option": "arduino",

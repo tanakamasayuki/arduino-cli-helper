@@ -137786,8 +137786,8 @@
     },
     {
         "name": "MKE_ONE",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
         "author": "MakerEdu.vn",
         "maintainer": "MakerEdu.vn",
         "website": "https://www.makerlab.vn/arduinolibraries",
@@ -144137,6 +144137,21 @@
         "repository": "https://github.com/ARDUnia/PersianDate.git",
         "dependencies": [
             "RTClib"
+        ]
+    },
+    {
+        "name": "Soldered Library for Relays",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://solde.red/333021, https://solde.red/333023, https://solde.red/333024, https://solde.red/333025",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-Relay-Arduino-Library.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
