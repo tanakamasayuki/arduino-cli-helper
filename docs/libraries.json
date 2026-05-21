@@ -144108,5 +144108,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Simple-Function",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Madhavan",
+        "maintainer": "Madhavan",
+        "website": "https://github.com/Maddy0723/Simple-Function",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Maddy0723/simple.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PersianDate",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Hamidreza Milaninia <milaninia.h@gmail.com> [ARDUnia Agency]",
+        "maintainer": "Hamidreza Milaninia <milaninia.h@gmail.com>",
+        "website": "https://github.com/hamidrezamilaninia/PersianDate",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ARDUnia/PersianDate.git",
+        "dependencies": [
+            "RTClib"
+        ]
     }
 ]
