@@ -144168,5 +144168,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "EasySensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Your Name <your.email@example.com>",
+        "maintainer": "Your Name <your.email@example.com>",
+        "website": "https://github.com/YOUR_USERNAME/EasySensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Raheeb223/EasySensor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
