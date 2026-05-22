@@ -95209,8 +95209,8 @@
     },
     {
         "name": "modem-freeRTOS",
-        "version": "1.0.9",
-        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.10",
+        "versions": "1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "J. Lucas S. <lucas.ua.eet@gmail.com>",
         "maintainer": "J. Lucas S. <lucas.ua.eet@gmail.com>",
         "website": "https://github.com/zimbora/esp32-modem-freeRTOS",
@@ -111094,8 +111094,8 @@
     },
     {
         "name": "M5HAL",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5HAL.git",
