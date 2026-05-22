@@ -115986,9 +115986,9 @@
     },
     {
         "name": "Pervasive_BWRY_Small",
-        "version": "9.0.8",
-        "versions": "9.0.8, 9.0.6, 9.0.5, 9.0.4, 9.0.2",
-        "author": "Pervasive Displays Inc.",
+        "version": "9.0.9",
+        "versions": "9.0.9, 9.0.8, 9.0.6, 9.0.5, 9.0.4, 9.0.2",
+        "author": "Pervasive Displays, Inc.",
         "maintainer": "Arvin Tan <https://www.pervasivedisplays.com/>",
         "website": "https://github.com/PervasiveDisplays",
         "category": "Display",
