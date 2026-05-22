@@ -144213,5 +144213,65 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ICM53607",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM53607",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM53607.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM53611",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM53611",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM53611.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM53621",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM53621",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM53621.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ICM53622",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TDK/Invensense",
+        "maintainer": "TDK/Invensense",
+        "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM53622",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tdk-invn-oss/motion.arduino.ICM53622.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
