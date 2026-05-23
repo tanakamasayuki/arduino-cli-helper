@@ -144288,5 +144288,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "N64Controller-ESP32",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Andrew Brown, Peter Den Hartog, Kai Lüke, Daniel Schaal, Haskell",
+        "maintainer": "Haskell",
+        "website": "https://github.com/hmackowski/N64Controller-ESP32",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/hmackowski/N64Controller-ESP32.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
