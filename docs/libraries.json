@@ -144303,5 +144303,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "INA2227",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/INA2227",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/INA2227.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
