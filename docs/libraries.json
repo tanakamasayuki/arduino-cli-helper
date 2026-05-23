@@ -125742,8 +125742,8 @@
     },
     {
         "name": "ST7735_LTSM",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/ST7735_LTSM",
@@ -144330,6 +144330,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Terry-Gould/ACANFD_SAME.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Linker",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DeveloperSungHyun <sunghyun5322@gmail.com>",
+        "maintainer": "DeveloperSungHyun <sunghyun5322@gmail.com>",
+        "website": "https://github.com/yourusername/MyLibrary",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/han-sunghyun/Arduino_Linker_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "XLOT-QuadSwitch",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "XLOT",
+        "maintainer": "XLOT",
+        "website": "http://www.xlot.tech",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/felixlubenben/XLOT_QuadSwitch.git",
         "dependencies": [
             ""
         ]
