@@ -144318,5 +144318,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ACANFD_SAME",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pierre Molinaro, Terry Gould",
+        "maintainer": "Terry Gould <terry.gould.public@gmail.com>",
+        "website": "https://github.com/Terry-Gould/ACANFD_SAME",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Terry-Gould/ACANFD_SAME.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
