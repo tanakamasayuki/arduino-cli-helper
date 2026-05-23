@@ -113610,8 +113610,8 @@
     },
     {
         "name": "CJKit",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.0",
         "author": "André Breda <andre@breda.pt>",
         "maintainer": "André Breda <andre@breda.pt>",
         "website": "https://github.com/abread/cj-kit-arduino-lib",
