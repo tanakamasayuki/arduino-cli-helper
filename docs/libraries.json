@@ -136668,8 +136668,8 @@
     },
     {
         "name": "Tumbly",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Mason Barrett, Lex Kravitz",
         "maintainer": "Lex Kravitz <alexxai@wustl.edu   >",
         "website": "https://github.com/KravitzLabDevices/Tumbly",
@@ -144390,6 +144390,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Fl-project123/Hijri_date.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BioLogic_Mini",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mau Molina Valdez",
+        "maintainer": "Mauricio Molina Valdez <maubiomedica@gmail.com>",
+        "website": "https://github.com/maumolinavaldez-pixel/BioLogic_Mini",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/maumolinavaldez-pixel/BioLogic_Mini.git",
         "dependencies": [
             ""
         ]
