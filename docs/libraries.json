@@ -128773,8 +128773,8 @@
     },
     {
         "name": "SerialCommandManager",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.5.0, 2.4.0, 2.0.0, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.5.0, 2.4.0, 2.0.0, 1.0.0",
         "author": "Si Carter <s1cart3r@gmail.com>",
         "maintainer": "Si Carter <s1cart3r@gmail.com>",
         "website": "https://github.com/k3ldar/SerialCommandManager",
@@ -143736,8 +143736,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.2.4",
-        "versions": "1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.2.5",
+        "versions": "1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
@@ -144377,6 +144377,21 @@
         "repository": "https://github.com/Terry-Gould/CANMessageSignal.git",
         "dependencies": [
             "ACANFD_SAME"
+        ]
+    },
+    {
+        "name": "Hijri_date",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fa'al",
+        "maintainer": "Fa'al",
+        "website": "https://github.com/Fl-project123/Hijri_date",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Fl-project123/Hijri_date.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
