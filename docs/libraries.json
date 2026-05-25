@@ -142918,8 +142918,8 @@
     },
     {
         "name": "A02YYUW",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/A02YYUW",
@@ -144407,6 +144407,21 @@
         "repository": "https://github.com/maumolinavaldez-pixel/BioLogic_Mini.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "EasyWiFiMDNS",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mahdi Misk",
+        "maintainer": "Mahdi Misk <mahdimisk7@gmail.com>",
+        "website": "https://github.com/mahdi-misk/EasyWiFiMDNS",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mahdi-misk/EasyWiFiMDNS.git",
+        "dependencies": [
+            "WiFiManager"
         ]
     }
 ]
