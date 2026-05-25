@@ -86070,8 +86070,8 @@
     },
     {
         "name": "RTC_NXP_Arduino",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/RTC_NXP_Arduino",
@@ -142768,8 +142768,8 @@
     },
     {
         "name": "PIDEasy-Improved",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Kaleo S. Mendonça",
         "maintainer": "<kaleosoaresmendonca@gmail.com>",
         "website": "https://github.com/kwlew/PIDEasy-Improved",
@@ -143586,8 +143586,8 @@
     },
     {
         "name": "APA-Dose",
-        "version": "3.16.3",
-        "versions": "3.16.3, 3.16.2, 3.16.1, 3.15.2, 3.15.1, 3.15.0, 3.14.3, 3.14.2, 3.14.1, 3.14.0, 3.13.3, 3.12.0, 3.8.3, 3.4.2, 3.3.0",
+        "version": "3.16.4",
+        "versions": "3.16.4, 3.16.3, 3.16.2, 3.16.1, 3.15.2, 3.15.1, 3.15.0, 3.14.3, 3.14.2, 3.14.1, 3.14.0, 3.13.3, 3.12.0, 3.8.3, 3.4.2, 3.3.0",
         "author": "APADevices <kecup@vazac.eu>",
         "maintainer": "APADevices <kecup@vazac.eu>",
         "website": "https://github.com/apadevices/APADOSE",
@@ -144453,6 +144453,36 @@
         "repository": "https://github.com/sauloverissimo/midi2cpp.git",
         "dependencies": [
             "midi2"
+        ]
+    },
+    {
+        "name": "StableLCD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jens D. Madsen",
+        "maintainer": "Jens D. Madsen",
+        "website": "https://arduino.one/StableLCD",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/JensDMadsen/StableLCD.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MT6826S SPI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "BrozuTechWorks",
+        "maintainer": "Bruno Cerna <brunocc24@gmail.com>",
+        "website": "https://github.com/mynameisbrozu/MT6826S-SPI",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mynameisbrozu/MT6826S-SPI.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
