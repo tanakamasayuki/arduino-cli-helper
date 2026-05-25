@@ -144513,5 +144513,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SPD_Arduino",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "spdrw",
+        "maintainer": "h13317136163@163.com",
+        "website": "https://github.com/spdrw/SPD_Arduino",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/spdrw/SPD_Arduino.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
