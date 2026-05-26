@@ -121957,7 +121957,7 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.0.7",
+    "version": "1.1.0",
     "config_options": [
         {
             "option": "arduino",
@@ -121986,6 +121986,21 @@
                 {
                     "value": "enabled",
                     "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "tls",
+            "option_label": "TLS",
+            "values": [
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "openssl",
+                    "value_label": "OpenSSL"
                 }
             ]
         }
