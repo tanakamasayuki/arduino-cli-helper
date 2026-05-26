@@ -109587,8 +109587,8 @@
     },
     {
         "name": "Olimex16x2",
-        "version": "0.1.4",
-        "versions": "0.1.4",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4",
         "author": "thirstyice",
         "maintainer": "thirstyice - https://github.com/thirstyice",
         "website": "https://github.com/thirstyice/Olimex16x2",
