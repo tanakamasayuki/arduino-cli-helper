@@ -119692,8 +119692,8 @@
     },
     {
         "name": "Seeed Arduino SPA06",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Kenneract",
         "maintainer": "Seeed Studio <techsupport@seeed.cc>",
         "website": "https://github.com/Seeed-Studio/Seeed_Arduino_SPA06",
