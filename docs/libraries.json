@@ -26611,8 +26611,8 @@
     },
     {
         "name": "Streaming",
-        "version": "6.2.4",
-        "versions": "6.2.4, 6.2.3, 6.2.2, 6.2.1, 6.2.0, 6.1.1, 6.1.0, 6.0.10, 6.0.9, 6.0.8, 6.0.7, 6.0.6, 6.0.5, 6.0.4, 6.0.3, 6.0.2, 5.0.0",
+        "version": "6.3.0",
+        "versions": "6.3.0, 6.2.4, 6.2.3, 6.2.2, 6.2.1, 6.2.0, 6.1.1, 6.1.0, 6.0.10, 6.0.9, 6.0.8, 6.0.7, 6.0.6, 6.0.5, 6.0.4, 6.0.3, 6.0.2, 5.0.0",
         "author": "Mikal Hart <mikal@arduiniana.org>",
         "maintainer": "Peter Polidoro <peter@polidoro.io>",
         "website": "https://github.com/janelia-arduino/Streaming",
@@ -85478,10 +85478,10 @@
     },
     {
         "name": "spaiot-lib",
-        "version": "1.2.4",
-        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0, 0.24.0, 0.23.0, 0.21.0, 0.20.0, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.0, 0.12.0, 0.2.4",
-        "author": "epsilonrt <epsilonrt@gmail.com>",
-        "maintainer": "epsilonrt <epsilonrt@gmail.com>",
+        "version": "1.2.5",
+        "versions": "1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0, 0.24.0, 0.23.0, 0.21.0, 0.20.0, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.0, 0.12.0, 0.2.4",
+        "author": "epsilonrt <epsilonrt@epsilonrt.fr>",
+        "maintainer": "epsilonrt <epsilonrt@epsilonrt.fr>",
         "website": "https://epsilonrt.github.io/spaiot-lib",
         "category": "Device Control",
         "architectures": "esp8266, esp32",
@@ -94706,8 +94706,8 @@
     },
     {
         "name": "SparkFun STHS34PF80 Arduino Library",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.0",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library",
@@ -117054,8 +117054,8 @@
     },
     {
         "name": "Rotary_encoder",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
+        "version": "3.0.0-alpha",
+        "versions": "3.0.0-alpha, 2.5.0, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.4, 1.1.3",
         "author": "Csermendy Bendeguz",
         "maintainer": "Csermendy Bendeguz",
         "website": "https://github.com/Bendeguz-Cs/Rotary_encoder/tree/main",
@@ -132144,8 +132144,8 @@
     },
     {
         "name": "LC_Adafruit_1947",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0",
         "author": "jim lee",
         "maintainer": "Adafruit_1947@leftcoast.biz",
         "website": "https://github.com/leftCoast/Arduino",
@@ -132157,7 +132157,8 @@
             "LC_baseTools",
             "LC_SPI",
             "LC_GUITools",
-            "Adafruit_GFX.Adafruit_ILI9341",
+            "Adafruit_GFX",
+            "Adafruit_ILI9341",
             "Adafruit FT6206 Library"
         ]
     },
@@ -144601,6 +144602,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/ulywae/NeuDB.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HttpDigestAuth",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/HttpDigestAuth",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/HttpDigestAuth.git",
         "dependencies": [
             ""
         ]
