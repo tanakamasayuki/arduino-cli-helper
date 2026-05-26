@@ -142221,8 +142221,8 @@
     },
     {
         "name": "ScioSense_ENS17x",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "ScioSense",
         "maintainer": "ScioSense",
         "website": "https://github.com/sciosense/ens17x-arduino",
@@ -143586,8 +143586,8 @@
     },
     {
         "name": "APA-Dose",
-        "version": "3.16.4",
-        "versions": "3.16.4, 3.16.3, 3.16.2, 3.16.1, 3.15.2, 3.15.1, 3.15.0, 3.14.3, 3.14.2, 3.14.1, 3.14.0, 3.13.3, 3.12.0, 3.8.3, 3.4.2, 3.3.0",
+        "version": "3.17.1",
+        "versions": "3.17.1, 3.17.0, 3.16.4, 3.16.3, 3.16.2, 3.16.1, 3.15.2, 3.15.1, 3.15.0, 3.14.3, 3.14.2, 3.14.1, 3.14.0, 3.13.3, 3.12.0, 3.8.3, 3.4.2, 3.3.0",
         "author": "APADevices <kecup@vazac.eu>",
         "maintainer": "APADevices <kecup@vazac.eu>",
         "website": "https://github.com/apadevices/APADOSE",
@@ -144496,6 +144496,96 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/hii-nice-2-meet-u/HANUMAN_32_mini.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ButtonPoll_CW",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "maintainer": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "website": "https://github.com/contaware/ButtonPoll_CW.git",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/contaware/ButtonPoll_CW.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RotaryEncoderPoll_CW",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "maintainer": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "website": "https://github.com/contaware/RotaryEncoderPoll_CW.git",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/contaware/RotaryEncoderPoll_CW.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TimerPoll_CW",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "maintainer": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "website": "https://github.com/contaware/TimerPoll_CW.git",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/contaware/TimerPoll_CW.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PrintCol_CW",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "maintainer": "Oliver Pfister <oliver.pfister@contaware.com>",
+        "website": "https://github.com/contaware/PrintCol_CW.git",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/contaware/PrintCol_CW.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MorseDecoder",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Aryan Kajiwala",
+        "maintainer": "Aryan Kajiwala <aryanbkaji124@gmail.com>",
+        "website": "https://github.com/aryankajiwala/Morse",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AryanKaji/Morse.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GitReleaseOTA",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Jishnu Mahanta",
+        "maintainer": "Jishnu Mahanta",
+        "website": "https://github.com/jishnumahanta/GitReleaseOTA",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jishnumahanta/GitReleaseOTA.git",
         "dependencies": [
             ""
         ]
