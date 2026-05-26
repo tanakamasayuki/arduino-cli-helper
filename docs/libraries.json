@@ -109401,8 +109401,8 @@
     },
     {
         "name": "Palazzetti",
-        "version": "3.2.0",
-        "versions": "3.2.0, 3.1.0, 3.0.1, 3.0.0, 2.7.10, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.0",
+        "version": "3.3.0",
+        "versions": "3.3.0, 3.2.0, 3.1.0, 3.0.1, 3.0.0, 2.7.10, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.0",
         "author": "Domochip <domochip@hotmail.com>",
         "maintainer": "Domochip <domochip@hotmail.com>",
         "website": "https://github.com/Domochip/Palazzetti",
@@ -117099,8 +117099,8 @@
     },
     {
         "name": "ME310G1",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "CodeZoo",
         "maintainer": "Rooney <rooney.jang@codezoo.co.kr>",
         "website": "https://github.com/codezoo-ltd/arduino-ME310G1-library",
@@ -125637,8 +125637,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.3.8",
-        "versions": "1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.3.9",
+        "versions": "1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -132822,8 +132822,8 @@
     },
     {
         "name": "InstantIoT",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "JeanLoick DT <jeanloickdt@gmail.com>",
         "maintainer": "JeanLoick DT <jeanloickdt@gmail.com>",
         "website": "https://github.com/jeanloickdt/InstantIoT",
@@ -132832,7 +132832,7 @@
         "types": "Contributed",
         "repository": "https://github.com/jeanloickdt/InstantIoT.git",
         "dependencies": [
-            "NimBLE-Arduino"
+            ""
         ]
     },
     {
@@ -143342,8 +143342,8 @@
     },
     {
         "name": "XYdraw",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Daniel Nemes",
         "maintainer": "Daniel Nemes",
         "website": "https://github.com/CITROMOSEPER/XYdraw",
