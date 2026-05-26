@@ -71519,8 +71519,8 @@
     },
     {
         "name": "CAN_BUS_Shield",
-        "version": "2.3.3",
-        "versions": "2.3.3",
+        "version": "2.3.4",
+        "versions": "2.3.4, 2.3.3",
         "author": "Seeed Studio",
         "maintainer": "Seeed Studio <techsupport@seeed.cc>",
         "website": "https://github.com/Seeed-Studio/Seeed_Arduino_CAN",
@@ -144411,8 +144411,8 @@
     },
     {
         "name": "SPD_Arduino",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "spdrw",
         "maintainer": "h13317136163@163.com",
         "website": "https://github.com/spdrw/SPD_Arduino",
