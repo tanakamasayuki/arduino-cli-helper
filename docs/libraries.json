@@ -135732,11 +135732,11 @@
     },
     {
         "name": "RoboServo",
-        "version": "1.1.0",
-        "versions": "1.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 0.2.0",
         "author": "dunknowcoding",
         "maintainer": "dunknowcoding",
-        "website": "https://github.com/roboservo/RoboServo",
+        "website": "https://github.com/dunknowcoding/RoboServo",
         "category": "Device Control",
         "architectures": "esp32, esp8266",
         "types": "Contributed",
@@ -142996,8 +142996,8 @@
     },
     {
         "name": "CCARemote",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "HTL Anichstraße",
         "maintainer": "Andreas Eckhart",
         "website": "https://github.com/ccaprojects/CCARemote-Arduino",
@@ -144681,6 +144681,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/m-mcgowan/note-emu.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DiFinders",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "dunknowcoding",
+        "maintainer": "dunknowcoding <NiusRobotLab>",
+        "website": "https://github.com/dunknowcoding/DiFinders",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/DiFinders.git",
         "dependencies": [
             ""
         ]
