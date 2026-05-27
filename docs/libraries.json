@@ -144593,8 +144593,8 @@
     },
     {
         "name": "NeuDB",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuDB",
