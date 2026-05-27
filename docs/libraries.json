@@ -136172,8 +136172,8 @@
     },
     {
         "name": "variants_collector",
-        "version": "0.1.9",
-        "versions": "0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
+        "version": "0.1.10",
+        "versions": "0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/variants_collector",
@@ -142042,13 +142042,13 @@
     },
     {
         "name": "clogger",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.0",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/cyfney/clogger",
         "category": "Other",
-        "architectures": "avr, esp32",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/cyfney/clogger.git",
         "dependencies": [
