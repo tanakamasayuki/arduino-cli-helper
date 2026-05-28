@@ -142589,8 +142589,8 @@
     },
     {
         "name": "RumiCar",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "RumiCar-group <info@rumicar.com>",
         "maintainer": "RumiCar-group <info@rumicar.com>",
         "website": "https://github.com/RumiCar-group/RumiCar-lib",
@@ -143632,8 +143632,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.3.3",
+        "versions": "1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
