@@ -136654,8 +136654,8 @@
     },
     {
         "name": "Gingoduino",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.1.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.1.0",
         "author": "Saulo Verissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/gingoduino",
@@ -142859,8 +142859,8 @@
     },
     {
         "name": "midi2",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1",
         "author": "Saulo Verissimo",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/midi2",
@@ -144696,6 +144696,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/dunknowcoding/DiFinders.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DadosCorp",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Edilson Maia <edilson.tec@hotmail.com>",
+        "maintainer": "DadosCorp <contato@dadoscorp.com.br>",
+        "website": "https://dadoscorp.com.br",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/edilsonmaia/DadosCorp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DadosCorpCore",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Edilson Maia <edilson.tec@hotmail.com>",
+        "maintainer": "DadosCorp <contato@dadoscorp.com.br>",
+        "website": "https://dadoscorp.com.br",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, *",
+        "types": "Contributed",
+        "repository": "https://github.com/edilsonmaia/DadosCorpCore.git",
         "dependencies": [
             ""
         ]
