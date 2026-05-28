@@ -121957,35 +121957,20 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "config_options": [
         {
-            "option": "arduino",
-            "option_label": "Arduino",
+            "option": "mode",
+            "option_label": "Mode",
             "values": [
                 {
-                    "value": "enabled",
-                    "value_label": "Enabled",
+                    "value": "default",
+                    "value_label": "Default (Arduino host)",
                     "selected": true
                 },
                 {
-                    "value": "disabled",
-                    "value_label": "Disabled"
-                }
-            ]
-        },
-        {
-            "option": "sdl2",
-            "option_label": "SDL2",
-            "values": [
-                {
-                    "value": "disabled",
-                    "value_label": "Disabled",
-                    "selected": true
-                },
-                {
-                    "value": "enabled",
-                    "value_label": "Enabled"
+                    "value": "lgfx",
+                    "value_label": "LovyanGFX / M5GFX headless"
                 }
             ]
         },
