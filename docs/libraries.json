@@ -144593,8 +144593,8 @@
     },
     {
         "name": "NeuDB",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuDB",
@@ -144728,6 +144728,24 @@
         "repository": "https://github.com/edilsonmaia/DadosCorpCore.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Iridium9604LaunchPad",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "iridium.com",
+        "maintainer": "iridium.com",
+        "website": "https://iridium.gitlab.io/9604_launch_pad/documentation/",
+        "category": "Device Control",
+        "architectures": "samd",
+        "types": "Contributed",
+        "repository": "https://gitlab.com/iridium/9604_launch_pad/arduino_library.git",
+        "dependencies": [
+            "SdFat",
+            "ArduinoLog",
+            "Arduino_BQ24195",
+            "ArduinoJson"
         ]
     }
 ]
