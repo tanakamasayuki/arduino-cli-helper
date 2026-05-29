@@ -42132,8 +42132,8 @@
     },
     {
         "name": "BitArray",
-        "version": "0.2.9",
-        "versions": "0.2.9, 0.2.8, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.9, 0.2.8, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/BitArray",
@@ -125936,8 +125936,8 @@
     },
     {
         "name": "GC9A01_LTSM",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/GC9A01_LTSM",
@@ -142813,8 +142813,8 @@
     },
     {
         "name": "CircuitDigestCloud",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/CircuitDigestCloud",
@@ -144745,6 +144745,21 @@
             "ArduinoLog",
             "Arduino_BQ24195",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "LGFXVirtualCanvas",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/LGFXVirtualCanvas",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/LGFXVirtualCanvas.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
