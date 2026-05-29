@@ -144776,5 +144776,21 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "FA-Lectric-IoT",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Fachrain Azis <fachrainazis02@gmail.com>",
+        "maintainer": "Fachrain Azis <fachrain@gmail.com>",
+        "website": "https://github.com/Fachrain02/FA-Lectric-IoT",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Fachrain02/FA-Lectric-IoT.git",
+        "dependencies": [
+            "WebSockets",
+            "ArduinoJson"
+        ]
     }
 ]
