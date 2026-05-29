@@ -1947,8 +1947,8 @@
     },
     {
         "name": "Adafruit SSD1306",
-        "version": "2.5.16",
-        "versions": "2.5.16, 2.5.15, 2.5.14, 2.5.13, 2.5.12, 2.5.11, 2.5.10, 2.5.9, 2.5.7, 2.5.6, 2.5.4, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.2, 1.1.0, 1.0.1, 1.0.0",
+        "version": "2.5.17",
+        "versions": "2.5.17, 2.5.16, 2.5.15, 2.5.14, 2.5.13, 2.5.12, 2.5.11, 2.5.10, 2.5.9, 2.5.7, 2.5.6, 2.5.4, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.2, 1.1.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_SSD1306",
@@ -98009,8 +98009,8 @@
     },
     {
         "name": "GSON",
-        "version": "1.8.6",
-        "versions": "1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.1, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.14, 1.4.13, 1.4.12, 1.4.11, 1.4.10, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.8.8",
+        "versions": "1.8.8, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.1, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.14, 1.4.13, 1.4.12, 1.4.11, 1.4.10, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GSON",
@@ -109755,8 +109755,8 @@
     },
     {
         "name": "Iridium9704LaunchPad",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9704_launch_pad/documentation/",
@@ -130131,8 +130131,8 @@
     },
     {
         "name": "BULLM_ExtendModule",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.2.0, 0.1.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0, 0.2.0, 0.1.0",
         "author": "BULLM",
         "maintainer": "YYZ <i@yyznm.cn>",
         "website": "https://github.com/bull-m/BULLM_ExtendModule",
@@ -144457,8 +144457,8 @@
     },
     {
         "name": "StableLCD",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Jens D. Madsen",
         "maintainer": "Jens D. Madsen",
         "website": "https://arduino.one/StableLCD",
@@ -144731,8 +144731,8 @@
     },
     {
         "name": "Iridium9604LaunchPad",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9604_launch_pad/documentation/",
@@ -144758,6 +144758,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tanakamasayuki/LGFXVirtualCanvas.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "I2C_ABP2",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/I2C_ABP2",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/I2C_ABP2.git",
         "dependencies": [
             ""
         ]
