@@ -140008,8 +140008,8 @@
     },
     {
         "name": "MCUW_LoRa_boards",
-        "version": "0.1.15",
-        "versions": "0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10",
+        "version": "0.1.16",
+        "versions": "0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10",
         "author": "MCUW <112967559+mcuw@users.noreply.github.com>",
         "maintainer": "MCUW <112967559+mcuw@users.noreply.github.com>",
         "website": "https://github.com/mcuw/LoRaBoards.git",
