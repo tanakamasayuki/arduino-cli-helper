@@ -144592,13 +144592,13 @@
     },
     {
         "name": "NeuDB",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Ulywae <ulywae@gmail.com>",
         "maintainer": "Ulywae <ulywae@gmail.com>",
         "website": "https://github.com/ulywae/NeuDB",
         "category": "Data Storage",
-        "architectures": "esp32",
+        "architectures": "esp32, esp32s3, esp32c3",
         "types": "Contributed",
         "repository": "https://github.com/ulywae/NeuDB.git",
         "dependencies": [
