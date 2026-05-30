@@ -144779,8 +144779,8 @@
     },
     {
         "name": "FA-Lectric-IoT",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Fachrain Azis <fachrainazis02@gmail.com>",
         "maintainer": "Fachrain Azis <fachrain@gmail.com>",
         "website": "https://github.com/Fachrain02/FA-Lectric-IoT",
