@@ -144779,8 +144779,8 @@
     },
     {
         "name": "FA-Lectric-IoT",
-        "version": "1.2.4",
-        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.5",
+        "versions": "1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Fachrain Azis <fachrainazis02@gmail.com>",
         "maintainer": "Fachrain Azis <fachrain@gmail.com>",
         "website": "https://github.com/Fachrain02/FA-Lectric-IoT",
@@ -144804,6 +144804,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/lbuque/ButtonSense.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BetterMenu",
+        "version": "0.5.1",
+        "versions": "0.5.1, 0.5.0",
+        "author": "Trent M. Wyatt",
+        "maintainer": "Trent M. Wyatt",
+        "website": "https://github.com/ripred/BetterMenu",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ripred/BetterMenu.git",
         "dependencies": [
             ""
         ]
