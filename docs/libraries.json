@@ -111094,8 +111094,8 @@
     },
     {
         "name": "M5HAL",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5HAL.git",
@@ -111249,8 +111249,8 @@
     },
     {
         "name": "M5Utility",
-        "version": "0.0.12",
-        "versions": "0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.13",
+        "versions": "0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Utility",
@@ -143796,8 +143796,8 @@
     },
     {
         "name": "WCB_Client",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Greg Hulette",
         "maintainer": "Greg Hulette",
         "website": "https://github.com/greghulette/WCBClient",
