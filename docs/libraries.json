@@ -72744,8 +72744,8 @@
     },
     {
         "name": "ADF7023",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Igor Levkov <levkov.igor@gmail.com>",
         "maintainer": "Igor Levkov <levkov.igor@gmail.com>",
         "website": "https://github.com/levkovigor/ADF7023",
@@ -92908,8 +92908,8 @@
     },
     {
         "name": "SWSerialOut",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SWSerialOut",
@@ -104291,8 +104291,8 @@
     },
     {
         "name": "rtc_utils",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/rtc_utils",
@@ -108765,8 +108765,8 @@
     },
     {
         "name": "WiFiConnector",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/WiFiConnector",
@@ -109371,8 +109371,8 @@
     },
     {
         "name": "Looper",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/Looper",
@@ -122752,8 +122752,8 @@
     },
     {
         "name": "uPID",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/uPID",
@@ -123007,8 +123007,8 @@
     },
     {
         "name": "RGBLED",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/RGBLED",
@@ -144944,6 +144944,21 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/OrkaLxrd/SimpleFlashAudio.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "puara-gestures",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Edu_Meneses, SAT",
+        "maintainer": "Edu <emeneses@sat.qc.ca>, SAT <innovation@sat.qc.ca>",
+        "website": "https://github.com/Puara/puara-gestures",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Puara/puara-gestures-arduino.git",
         "dependencies": [
             ""
         ]
