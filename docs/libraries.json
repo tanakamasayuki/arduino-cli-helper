@@ -118851,8 +118851,8 @@
     },
     {
         "name": "AutomationTimers",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0, 0.0.1",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0, 0.0.1",
         "author": "C. M. Bulliner",
         "maintainer": "C. M. Bulliner <chrisbulliner@gmail.com>",
         "website": "https://github.com/CMB27/AutomationTimers",
