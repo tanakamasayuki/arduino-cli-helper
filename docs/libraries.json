@@ -46592,8 +46592,8 @@
     },
     {
         "name": "RADAR",
-        "version": "0.1.9",
-        "versions": "0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3",
+        "version": "0.1.10",
+        "versions": "0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/RADAR",
@@ -78844,8 +78844,8 @@
     },
     {
         "name": "PERIPUMP",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PERIPUMP.git",
@@ -80909,8 +80909,8 @@
     },
     {
         "name": "RAIN",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.6",
+        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/RAIN",
@@ -91310,8 +91310,8 @@
     },
     {
         "name": "MATRIX7219",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MATRIX7219",
@@ -144901,6 +144901,21 @@
         "repository": "https://github.com/apadevices/APALCDGUI.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "MH-T7042A Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "acapovilla",
+        "maintainer": "acapovilla",
+        "website": "https://github.com/acapovilla/MH-T7042A_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/acapovilla/MH-T7042A_Library.git",
+        "dependencies": [
+            "Adafruit Unified Sensor"
         ]
     }
 ]
