@@ -82273,8 +82273,8 @@
     },
     {
         "name": "ROBLEX",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "ROBLEX",
         "maintainer": "Judiviga <juandivillamizar@yahoo.com>",
         "website": "https://github.com/Judiviga/ROBLEX",
@@ -138132,8 +138132,8 @@
     },
     {
         "name": "GyverKey",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverKey",
@@ -141735,8 +141735,8 @@
     },
     {
         "name": "GyverPush",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverPush",
@@ -143796,8 +143796,8 @@
     },
     {
         "name": "WCB_Client",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Greg Hulette",
         "maintainer": "Greg Hulette",
         "website": "https://github.com/greghulette/WCBClient",
@@ -144231,8 +144231,8 @@
     },
     {
         "name": "Linker",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.0.1, 1.0.0",
         "author": "DeveloperSungHyun <sunghyun5322@gmail.com>",
         "maintainer": "DeveloperSungHyun <sunghyun5322@gmail.com>",
         "website": "https://github.com/han-sunghyun/Arduino_Linker_Library",
@@ -144916,6 +144916,36 @@
         "repository": "https://github.com/acapovilla/MH-T7042A_Library.git",
         "dependencies": [
             "Adafruit Unified Sensor"
+        ]
+    },
+    {
+        "name": "ESP32_CAN_NG",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Collin Kidder, Outlandnish, TechOverflow",
+        "maintainer": "TechOverflow <fusion.tindie@gmail.com>",
+        "website": "https://github.com/TechOverflow/esp32_can",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/TechOverflow/esp32_can.git",
+        "dependencies": [
+            "can_common"
+        ]
+    },
+    {
+        "name": "SimpleFlashAudio",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "OrkaLxrd",
+        "maintainer": "OrkaLxrd",
+        "website": "https://github.com/OrkaLxrd/SimpleFlashAudio",
+        "category": "Signal Input/Output",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/OrkaLxrd/SimpleFlashAudio.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
