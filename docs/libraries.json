@@ -115986,9 +115986,9 @@
     },
     {
         "name": "Pervasive_BWRY_Small",
-        "version": "9.0.9",
-        "versions": "9.0.9, 9.0.8, 9.0.6, 9.0.5, 9.0.4, 9.0.2",
-        "author": "Pervasive Displays, Inc.",
+        "version": "9.1.0",
+        "versions": "9.1.0, 9.0.9, 9.0.8, 9.0.6, 9.0.5, 9.0.4, 9.0.2",
+        "author": "Pervasive Displays Inc.",
         "maintainer": "Arvin Tan <https://www.pervasivedisplays.com/>",
         "website": "https://github.com/PervasiveDisplays",
         "category": "Display",
@@ -144989,6 +144989,21 @@
         "architectures": "avr, megaavr, samd, esp32, esp8266, stm32, teensy, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/littlemanbuilds/SwitchBank.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DFRobot_C4002",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DFRobot",
+        "maintainer": "JiaLi <zhixin.liu@dfrobot.com>",
+        "website": "https://github.com/DFRobot/DFRobot_C4002",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DFRobot/DFRobot_C4002.git",
         "dependencies": [
             ""
         ]
