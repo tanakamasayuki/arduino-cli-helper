@@ -111094,8 +111094,8 @@
     },
     {
         "name": "M5HAL",
-        "version": "0.0.4",
-        "versions": "0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5HAL.git",
@@ -111104,7 +111104,7 @@
         "types": "Contributed",
         "repository": "https://github.com/m5stack/M5HAL.git",
         "dependencies": [
-            ""
+            "M5Utility"
         ]
     },
     {
@@ -111249,8 +111249,8 @@
     },
     {
         "name": "M5Utility",
-        "version": "0.0.13",
-        "versions": "0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Utility",
@@ -138956,8 +138956,8 @@
     },
     {
         "name": "AchiraWareMotor_DRV8830",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Pablojosep",
         "maintainer": "Pablojosep <pablopenuela@gmail.com>",
         "website": "https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830",
@@ -143327,8 +143327,8 @@
     },
     {
         "name": "ProtoCentral ST1VAFE3BX",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.0",
         "author": "ProtoCentral Electronics",
         "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral_st1vafe3bx_arduino",
@@ -145006,6 +145006,23 @@
         "repository": "https://github.com/DFRobot/DFRobot_C4002.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "HAN IoT Shield",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Remko Welling <remko.welling@han.nl>",
+        "maintainer": "Remko Welling <remko.welling@han.nl>",
+        "website": "https://gitlab.com/wlgrw/han-iot-node",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://gitlab.com/wlgrw/han-iot-node.git",
+        "dependencies": [
+            "OneWire",
+            "DallasTemperature",
+            "CayenneLPP"
         ]
     }
 ]
