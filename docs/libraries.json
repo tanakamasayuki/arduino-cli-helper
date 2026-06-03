@@ -81107,8 +81107,8 @@
     },
     {
         "name": "LIN master portable",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0",
         "author": "Georg Icking-Konert",
         "maintainer": "Georg Icking-Konert (gicking)",
         "website": "https://github.com/gicking/LIN_master_portable_Arduino",
@@ -117099,8 +117099,8 @@
     },
     {
         "name": "ME310G1",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "CodeZoo",
         "maintainer": "Rooney <rooney.jang@codezoo.co.kr>",
         "website": "https://github.com/codezoo-ltd/arduino-ME310G1-library",
