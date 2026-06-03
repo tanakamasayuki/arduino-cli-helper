@@ -143327,8 +143327,8 @@
     },
     {
         "name": "ProtoCentral ST1VAFE3BX",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.0",
         "author": "ProtoCentral Electronics",
         "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral_st1vafe3bx_arduino",
