@@ -136668,8 +136668,8 @@
     },
     {
         "name": "Tumbly",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Mason Barrett, Lex Kravitz",
         "maintainer": "Lex Kravitz <alexxai@wustl.edu   >",
         "website": "https://github.com/KravitzLabDevices/Tumbly",
@@ -137982,8 +137982,8 @@
     },
     {
         "name": "SimpleRGBLed",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "pablojosep",
         "maintainer": "pablojosep",
         "website": "https://github.com/pablojosep/SimpleRGBLed",
@@ -144779,8 +144779,8 @@
     },
     {
         "name": "FA-Lectric-IoT",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Fachrain Azis <fachrainazis02@gmail.com>",
         "maintainer": "Fachrain Azis <fachrain@gmail.com>",
         "website": "https://github.com/Fachrain02/FA-Lectric-IoT",
