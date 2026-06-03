@@ -110955,8 +110955,8 @@
     },
     {
         "name": "tgx",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 0.8.0",
         "author": "Arvind Singh",
         "maintainer": "Arvind Singh",
         "website": "https://github.com/vindar/tgx",
@@ -144959,6 +144959,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Puara/puara-gestures-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PotIO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Little Man Builds",
+        "maintainer": "Little Man Builds",
+        "website": "https://github.com/littlemanbuilds/PotIO",
+        "category": "Signal Input/Output",
+        "architectures": "avr, megaavr, sam, samd, esp32, esp8266, stm32, teensy, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/littlemanbuilds/PotIO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SwitchBank",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "author": "Little Man Builds (Darren Osborne)",
+        "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
+        "website": "https://github.com/LittleManBuilds/SwitchBank",
+        "category": "Signal Input/Output",
+        "architectures": "avr, megaavr, samd, esp32, esp8266, stm32, teensy, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/littlemanbuilds/SwitchBank.git",
         "dependencies": [
             ""
         ]
