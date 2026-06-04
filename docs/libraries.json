@@ -81760,8 +81760,8 @@
     },
     {
         "name": "ProtoCentral TLA20xx",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.0",
         "author": "ProtoCentral Electronics <support@protocentral.com>",
         "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral_tla20XX_arduino",
@@ -90208,8 +90208,8 @@
     },
     {
         "name": "uNeurai",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4, 0.0.2, 0.0.1",
+        "version": "0.0.6",
+        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
         "author": "Asimov",
         "maintainer": "Asimov <web@neurai.org>",
         "website": "https://github.com/NeuraiProject/uNeurai",
@@ -100343,8 +100343,8 @@
     },
     {
         "name": "Arduino_SecureElement",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_SecureElement",
@@ -100353,7 +100353,8 @@
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_SecureElement.git",
         "dependencies": [
-            "ArduinoECCX08"
+            "ArduinoECCX08",
+            "Arduino_SE05X"
         ]
     },
     {
@@ -145013,8 +145014,8 @@
     },
     {
         "name": "HAN IoT Shield",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
         "author": "Remko Welling <remko.welling@han.nl>",
         "maintainer": "Remko Welling <remko.welling@han.nl>",
         "website": "https://gitlab.com/wlgrw/han-iot-node",
