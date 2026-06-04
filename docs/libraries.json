@@ -48798,8 +48798,8 @@
     },
     {
         "name": "phyphox BLE",
-        "version": "1.2.6",
-        "versions": "1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.9.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.9.0",
         "author": "RWTH Aachen University <contact@phyphox.org>",
         "maintainer": "Dominik Dorsel <dominik@phyphox.org>",
         "website": "https://phyphox.org/arduino",
@@ -115647,8 +115647,8 @@
     },
     {
         "name": "ArucoLite",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.0",
         "author": "Paulo Marques",
         "maintainer": "Paulo Marques",
         "website": "https://github.com/pmarques-dev/ArucoLite",
