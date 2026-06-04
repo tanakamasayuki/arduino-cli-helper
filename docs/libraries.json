@@ -58832,8 +58832,8 @@
     },
     {
         "name": "relativity",
-        "version": "0.1.6",
-        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.7",
+        "versions": "0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/relativity",
@@ -59690,8 +59690,8 @@
     },
     {
         "name": "SGP30",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SGP30",
@@ -108368,8 +108368,8 @@
     },
     {
         "name": "roo_windows",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_windows",
@@ -145040,6 +145040,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/takkaO/OpenFontRender.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ARAM_Toggle_Actuator",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "A.R.A.M. - American Robotics Assisted Manufacturing",
+        "maintainer": "A.R.A.M. - American Robotics Assisted Manufacturing <support@aram-usa.com>",
+        "website": "https://github.com/ARAM-USA-Support/ARAM_Toggle_Actuator",
+        "category": "Device Control",
+        "architectures": "*s",
+        "types": "Contributed",
+        "repository": "https://github.com/ARAM-USA-Support/ARAM_Toggle_Actuator.git",
         "dependencies": [
             ""
         ]
