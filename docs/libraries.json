@@ -42979,8 +42979,8 @@
     },
     {
         "name": "DS18B20_RT",
-        "version": "0.2.6",
-        "versions": "0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2",
+        "version": "0.2.7",
+        "versions": "0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DS18B20_RT",
@@ -47501,8 +47501,8 @@
     },
     {
         "name": "DS18B20_int",
-        "version": "0.3.5",
-        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2",
+        "version": "0.3.6",
+        "versions": "0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DS18B20_INT",
@@ -136266,17 +136266,20 @@
     },
     {
         "name": "Ryzobee",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0, 0.0.1",
         "author": "Ryzobee Team",
         "maintainer": "Ryzobee Team",
-        "website": "https://github.com/ggadc/Ryzobee_arduino_esp32.git",
+        "website": "https://github.com/Ryzobee/Ryzobee_arduino_esp32",
         "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/Ryzobee/Ryzobee_arduino_esp32.git",
         "dependencies": [
-            ""
+            "LovyanGFX",
+            "Adafruit_NeoPixel",
+            "LIS2DW12",
+            "AnimatedGIF"
         ]
     },
     {
