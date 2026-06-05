@@ -109161,8 +109161,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.6",
-        "versions": "1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.7",
+        "versions": "1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
@@ -136219,8 +136219,8 @@
     },
     {
         "name": "TumbleFeeder",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.0.2, 1.0.1",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0, 1.0.2, 1.0.1",
         "author": "Mason Barrett, Kravitz Lab",
         "maintainer": "Mason Barrett, Kravitz Lab",
         "website": "https://github.com/KravitzLabDevices/TumbleFeeder",
