@@ -136267,8 +136267,8 @@
     },
     {
         "name": "Ryzobee",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0, 0.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0, 0.0.1",
         "author": "Ryzobee Team",
         "maintainer": "Ryzobee Team",
         "website": "https://github.com/Ryzobee/Ryzobee_arduino_esp32",
@@ -136277,7 +136277,10 @@
         "types": "Contributed",
         "repository": "https://github.com/Ryzobee/Ryzobee_arduino_esp32.git",
         "dependencies": [
-            ""
+            "LovyanGFX",
+            "Adafruit NeoPixel",
+            "STM32duino LIS2DW12",
+            "AnimatedGIF"
         ]
     },
     {
