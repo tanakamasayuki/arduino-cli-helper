@@ -144814,8 +144814,8 @@
     },
     {
         "name": "BetterMenu",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0",
+        "version": "0.5.2",
+        "versions": "0.5.2, 0.5.1, 0.5.0",
         "author": "Trent M. Wyatt",
         "maintainer": "Trent M. Wyatt",
         "website": "https://github.com/ripred/BetterMenu",
