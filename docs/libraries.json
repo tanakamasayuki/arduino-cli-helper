@@ -141754,8 +141754,8 @@
     },
     {
         "name": "SmartTrafficLight",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.1",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.0, 1.0.1",
         "author": "Raphael Vicente de Oliveira <vicenteraphaeloliveira@gmail.com>",
         "maintainer": "Raphael Vicente de Oliveira <vicenteraphaeloliveira@gmail.com>",
         "website": "https://github.com/vicenteraphael/SmartTrafficLight",
