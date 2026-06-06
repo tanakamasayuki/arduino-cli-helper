@@ -128986,8 +128986,8 @@
     },
     {
         "name": "AutoPlex7",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "website": "https://github.com/TechTronicsEngineering/AutoPlex7",
@@ -131719,8 +131719,8 @@
     },
     {
         "name": "MQTTOTA",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Jorge Gaspar Beltre Rivera",
         "maintainer": "Jorge Gaspar Beltre Rivera",
         "website": "https://github.com/JorgeGBeltre/MQTTOTA",
@@ -145086,6 +145086,126 @@
         "architectures": "esp32, esp8266, *",
         "types": "Contributed",
         "repository": "https://github.com/soosp/Host.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BitBang_LiquidCrystal_I2C",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "kokodev",
+        "maintainer": "kokodev",
+        "website": "https://github.com/kokofixcomputers/BitBang_LiquidCrystal_I2C",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/kokofixcomputers/BitBang_LiquidCrystal_I2C.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "F1_23_UDP",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/f1-23-udp",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/f1-23-udp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "F1 24 UDP Telemetry Parser",
+        "version": "1.0.7",
+        "versions": "1.0.7",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/f1-24-udp",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/f1-24-udp.git",
+        "dependencies": [
+            "WiFiUDP"
+        ]
+    },
+    {
+        "name": "F1 25 UDP Telemetry Parser",
+        "version": "1.0.5",
+        "versions": "1.0.5",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/f1-25-udp",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/f1-25-udp.git",
+        "dependencies": [
+            "WiFiUDP"
+        ]
+    },
+    {
+        "name": "F1 26 UDP Telemetry Parser",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/f1-26-udp",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/f1-26-udp.git",
+        "dependencies": [
+            "WiFiUDP"
+        ]
+    },
+    {
+        "name": "GT7 UDP Telemetry Parser",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/gt7-udp",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/gt7-udp.git",
+        "dependencies": [
+            "WiFiUDP"
+        ]
+    },
+    {
+        "name": "assetto-corsa-udp",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/assetto-corsa-udp",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/assetto-corsa-udp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Project Cars 2 UDP",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "MacManley",
+        "maintainer": "MacManley",
+        "website": "https://github.com/MacManley/project-cars-2-udp",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/MacManley/project-cars-2-udp.git",
         "dependencies": [
             ""
         ]
