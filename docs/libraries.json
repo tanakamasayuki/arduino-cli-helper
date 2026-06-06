@@ -128986,8 +128986,8 @@
     },
     {
         "name": "AutoPlex7",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "website": "https://github.com/TechTronicsEngineering/AutoPlex7",
@@ -143000,8 +143000,8 @@
     },
     {
         "name": "CCARemote",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "HTL Anichstraße",
         "maintainer": "Andreas Eckhart",
         "website": "https://github.com/ccaprojects/CCARemote-Arduino",
@@ -145221,6 +145221,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Protocentral/protocentral_tmf8829_arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DTC Lookup",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Gershy13",
+        "maintainer": "Gershy13",
+        "website": "https://github.com/Gershy13/dtc-lookup",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Gershy13/dtc-lookup.git",
         "dependencies": [
             ""
         ]
