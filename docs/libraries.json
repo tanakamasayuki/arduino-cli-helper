@@ -142256,8 +142256,8 @@
     },
     {
         "name": "ElectinsIoT",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.0.0, 1.0.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.0.0, 1.0.0",
         "author": "Nash <support@electins.id>",
         "maintainer": "Nash <support@electins.id>",
         "website": "https://github.com/prj-electins/ElectinsIoT",
@@ -144447,8 +144447,8 @@
     },
     {
         "name": "midi2cpp",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0",
         "author": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/midi2cpp",
@@ -144457,7 +144457,7 @@
         "types": "Contributed",
         "repository": "https://github.com/sauloverissimo/midi2cpp.git",
         "dependencies": [
-            "midi2"
+            ""
         ]
     },
     {
@@ -144815,8 +144815,8 @@
     },
     {
         "name": "BetterMenu",
-        "version": "0.5.2",
-        "versions": "0.5.2, 0.5.1, 0.5.0",
+        "version": "0.5.3",
+        "versions": "0.5.3, 0.5.2, 0.5.1, 0.5.0",
         "author": "Trent M. Wyatt",
         "maintainer": "Trent M. Wyatt",
         "website": "https://github.com/ripred/BetterMenu",
