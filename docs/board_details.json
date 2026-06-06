@@ -14955,7 +14955,7 @@
 },
   "esp32:esp32:AirM2M_CORE_ESP32C3": {
     "name": "AirM2M_CORE_ESP32C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -15127,7 +15127,7 @@
 },
   "esp32:esp32:Bee_Data_Logger": {
     "name": "Bee Data Logger",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -15275,7 +15275,7 @@
 },
   "esp32:esp32:Bee_Motion": {
     "name": "Bee Motion",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -15423,7 +15423,7 @@
 },
   "esp32:esp32:Bee_Motion_Mini": {
     "name": "Bee Motion Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -15591,7 +15591,7 @@
 },
   "esp32:esp32:Bee_Motion_S3": {
     "name": "Bee Motion S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -15739,7 +15739,7 @@
 },
   "esp32:esp32:Bee_S3": {
     "name": "Bee S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -15976,7 +15976,7 @@
 },
   "esp32:esp32:BharatPi-A7672S-4G": {
     "name": "BharatPi A7672S 4G Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -16233,7 +16233,7 @@
 },
   "esp32:esp32:BharatPi-LoRa": {
     "name": "BharatPi LoRa Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -16490,7 +16490,7 @@
 },
   "esp32:esp32:BharatPi-Node-Wifi": {
     "name": "BharatPi Node Wifi Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -16747,7 +16747,7 @@
 },
   "esp32:esp32:CoreESP32": {
     "name": "Microduino-CoreESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -16880,7 +16880,7 @@
 },
   "esp32:esp32:ET-Board": {
     "name": "ET-Board",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -16990,7 +16990,7 @@
 },
   "esp32:esp32:Edgebox-ESP-100": {
     "name": "Edgebox-ESP-100",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -17330,7 +17330,7 @@
 },
   "esp32:esp32:Geekble_ESP32C3": {
     "name": "Geekble Mini ESP32-C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -17441,7 +17441,7 @@
 },
   "esp32:esp32:Geekble_Nano_ESP32S3": {
     "name": "Geekble nano ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -17594,7 +17594,7 @@
 },
   "esp32:esp32:OpenKB": {
     "name": "INEX OpenKB",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -17685,7 +17685,7 @@
 },
   "esp32:esp32:Pcbcupid_GLYPH_C3": {
     "name": "Pcbcupid GLYPH C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -17895,7 +17895,7 @@
 },
   "esp32:esp32:Pcbcupid_GLYPH_C6": {
     "name": "Pcbcupid GLYPH C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -18139,7 +18139,7 @@
 },
   "esp32:esp32:Pcbcupid_GLYPH_H2": {
     "name": "Pcbcupid GLYPH H2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -18376,7 +18376,7 @@
 },
   "esp32:esp32:S_ODI_Ultra": {
     "name": "S.ODI Ultra v1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -18467,7 +18467,7 @@
 },
   "esp32:esp32:VALTRACK_V4_MFW_ESP32_C3": {
     "name": "VALTRACK_V4_MFW_ESP32_C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -18705,7 +18705,7 @@
 },
   "esp32:esp32:VALTRACK_V4_VTS_ESP32_C3": {
     "name": "VALTRACK_V4_VTS_ESP32_C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -18943,7 +18943,7 @@
 },
   "esp32:esp32:WeMosBat": {
     "name": "WeMos WiFi&Bluetooth Battery",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -19097,7 +19097,7 @@
 },
   "esp32:esp32:XIAO_ESP32C3": {
     "name": "XIAO_ESP32C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -19335,7 +19335,7 @@
 },
   "esp32:esp32:XIAO_ESP32C5": {
     "name": "XIAO_ESP32C5",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -19638,7 +19638,7 @@
 },
   "esp32:esp32:XIAO_ESP32C6": {
     "name": "XIAO_ESP32C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -19882,7 +19882,7 @@
 },
   "esp32:esp32:XIAO_ESP32S3": {
     "name": "XIAO_ESP32S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -20181,7 +20181,7 @@
 },
   "esp32:esp32:XIAO_ESP32S3_Plus": {
     "name": "XIAO_ESP32S3_PLUS",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -20484,7 +20484,7 @@
 },
   "esp32:esp32:adafruit_camera_esp32s3": {
     "name": "Adafruit pyCamera S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -20815,7 +20815,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32_v2": {
     "name": "Adafruit Feather ESP32 V2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -21023,7 +21023,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32c6": {
     "name": "Adafruit Feather ESP32-C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -21280,7 +21280,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s2": {
     "name": "Adafruit Feather ESP32-S2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -21569,7 +21569,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s2_reversetft": {
     "name": "Adafruit Feather ESP32-S2 Reverse TFT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -21858,7 +21858,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s2_tft": {
     "name": "Adafruit Feather ESP32-S2 TFT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -22147,7 +22147,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s3": {
     "name": "Adafruit Feather ESP32-S3 2MB PSRAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -22478,7 +22478,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s3_nopsram": {
     "name": "Adafruit Feather ESP32-S3 No PSRAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -22758,7 +22758,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s3_reversetft": {
     "name": "Adafruit Feather ESP32-S3 Reverse TFT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -23089,7 +23089,7 @@
 },
   "esp32:esp32:adafruit_feather_esp32s3_tft": {
     "name": "Adafruit Feather ESP32-S3 TFT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -23420,7 +23420,7 @@
 },
   "esp32:esp32:adafruit_funhouse_esp32s2": {
     "name": "Adafruit FunHouse",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -23709,7 +23709,7 @@
 },
   "esp32:esp32:adafruit_itsybitsy_esp32": {
     "name": "Adafruit ItsyBitsy ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -23913,7 +23913,7 @@
 },
   "esp32:esp32:adafruit_magtag29_esp32s2": {
     "name": "Adafruit MagTag 2.9\"",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -24202,7 +24202,7 @@
 },
   "esp32:esp32:adafruit_matrixportal_esp32s3": {
     "name": "Adafruit MatrixPortal ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -24501,7 +24501,7 @@
 },
   "esp32:esp32:adafruit_metro_esp32s2": {
     "name": "Adafruit Metro ESP32-S2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -24790,7 +24790,7 @@
 },
   "esp32:esp32:adafruit_metro_esp32s3": {
     "name": "Adafruit Metro ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -25097,7 +25097,7 @@
 },
   "esp32:esp32:adafruit_qtpy_esp32_pico": {
     "name": "Adafruit QT Py ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -25305,7 +25305,7 @@
 },
   "esp32:esp32:adafruit_qtpy_esp32c3": {
     "name": "Adafruit QT Py ESP32-C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -25522,7 +25522,7 @@
 },
   "esp32:esp32:adafruit_qtpy_esp32s2": {
     "name": "Adafruit QT Py ESP32-S2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -25811,7 +25811,7 @@
 },
   "esp32:esp32:adafruit_qtpy_esp32s3_n4r2": {
     "name": "Adafruit QT Py ESP32-S3 (4M Flash 2M PSRAM)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -26142,7 +26142,7 @@
 },
   "esp32:esp32:adafruit_qtpy_esp32s3_nopsram": {
     "name": "Adafruit QT Py ESP32-S3 No PSRAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -26422,7 +26422,7 @@
 },
   "esp32:esp32:adafruit_qualia_s3_rgb666": {
     "name": "Adafruit Qualia ESP32-S3 RGB666",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -26729,7 +26729,7 @@
 },
   "esp32:esp32:alfredo-nou3": {
     "name": "Alfredo NoU3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -26990,7 +26990,7 @@
 },
   "esp32:esp32:alksesp32": {
     "name": "ALKS ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -27216,7 +27216,7 @@
 },
   "esp32:esp32:amyboard": {
     "name": "AMYboard",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -27402,7 +27402,7 @@
 },
   "esp32:esp32:arduino_nesso_n1": {
     "name": "Arduino Nesso N1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -27624,7 +27624,7 @@
 },
   "esp32:esp32:aslcanx2": {
     "name": "AutosportLabs ESP-CAN-X2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -27952,7 +27952,7 @@
 },
   "esp32:esp32:atd147_s3": {
     "name": "ATD1.47-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -28253,7 +28253,7 @@
 },
   "esp32:esp32:atd35s3": {
     "name": "ATD3.5-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -28554,7 +28554,7 @@
 },
   "esp32:esp32:atmegazero_esp32s2": {
     "name": "ATMegaZero ESP32-S2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -28833,7 +28833,7 @@
 },
   "esp32:esp32:aventen_s3_sync": {
     "name": "Aventen S3 Sync",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -29188,7 +29188,7 @@
 },
   "esp32:esp32:aw2eth": {
     "name": "CNRS AW2ETH",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -29283,7 +29283,7 @@
 },
   "esp32:esp32:axiometa_genesis_mini": {
     "name": "Axiometa Genesis Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -29626,7 +29626,7 @@
 },
   "esp32:esp32:axiometa_genesis_one": {
     "name": "Axiometa Genesis One",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -29977,7 +29977,7 @@
 },
   "esp32:esp32:axiometa_pixie_m1": {
     "name": "Axiometa PIXIE M1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -30324,7 +30324,7 @@
 },
   "esp32:esp32:bpi-bit": {
     "name": "BPI-BIT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -30415,7 +30415,7 @@
 },
   "esp32:esp32:bpi_leaf_s3": {
     "name": "BPI-Leaf-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -30755,7 +30755,7 @@
 },
   "esp32:esp32:cezerio_dev_esp32c6": {
     "name": "cezerio dev ESP32C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -31027,7 +31027,7 @@
 },
   "esp32:esp32:cezerio_mini_dev_esp32c6": {
     "name": "cezerio mini dev ESP32C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -31299,7 +31299,7 @@
 },
   "esp32:esp32:ch_denky": {
     "name": "Denky",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -31424,7 +31424,7 @@
 },
   "esp32:esp32:circuitart_zero_s3": {
     "name": "CircuitART Zero S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -31693,7 +31693,7 @@
 },
   "esp32:esp32:codecell": {
     "name": "CodeCell C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -31953,7 +31953,7 @@
 },
   "esp32:esp32:connaxio_espoir": {
     "name": "Connaxio's Espoir",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -32126,7 +32126,7 @@
 },
   "esp32:esp32:crabik_slot_esp32_s3": {
     "name": "Crabik Slot ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -32361,7 +32361,7 @@
 },
   "esp32:esp32:cw02": {
     "name": "XinaBox CW02",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -32482,7 +32482,7 @@
 },
   "esp32:esp32:cyobot_v2_esp32s3": {
     "name": "CYOBOT V2 ESP32S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -32888,7 +32888,7 @@
 },
   "esp32:esp32:cytron_maker_feather_aiot_s3": {
     "name": "Cytron Maker Feather AIoT S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -33168,7 +33168,7 @@
 },
   "esp32:esp32:d-duino-32": {
     "name": "D-duino-32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -33286,7 +33286,7 @@
 },
   "esp32:esp32:d1_mini32": {
     "name": "WEMOS D1 MINI ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -33435,7 +33435,7 @@
 },
   "esp32:esp32:d1_uno32": {
     "name": "WEMOS D1 R32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -33584,7 +33584,7 @@
 },
   "esp32:esp32:d32": {
     "name": "LOLIN D32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -33698,7 +33698,7 @@
 },
   "esp32:esp32:d32_pro": {
     "name": "LOLIN D32 PRO",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -33831,7 +33831,7 @@
 },
   "esp32:esp32:deneyapkart": {
     "name": "Deneyap Kart",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -34130,7 +34130,7 @@
 },
   "esp32:esp32:deneyapkart1A": {
     "name": "Deneyap Kart 1A",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -34429,7 +34429,7 @@
 },
   "esp32:esp32:deneyapkart1Av2": {
     "name": "Deneyap Kart 1A v2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -34792,7 +34792,7 @@
 },
   "esp32:esp32:deneyapkartg": {
     "name": "Deneyap Kart G",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -35053,7 +35053,7 @@
 },
   "esp32:esp32:deneyapkartv2": {
     "name": "Deneyap Kart v2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -35431,7 +35431,7 @@
 },
   "esp32:esp32:deneyapmini": {
     "name": "Deneyap Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -35752,7 +35752,7 @@
 },
   "esp32:esp32:deneyapminiv2": {
     "name": "Deneyap Mini v2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -36073,7 +36073,7 @@
 },
   "esp32:esp32:department_of_alchemy_minimain_esp32s2": {
     "name": "Department of Alchemy MiniMain ESP32-S2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -36355,7 +36355,7 @@
 },
   "esp32:esp32:dfrobot_beetle_esp32c3": {
     "name": "DFRobot Beetle ESP32-C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -36565,7 +36565,7 @@
 },
   "esp32:esp32:dfrobot_beetle_esp32c6": {
     "name": "DFRobot Beetle ESP32-C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -36829,7 +36829,7 @@
 },
   "esp32:esp32:dfrobot_firebeetle2_esp32c5": {
     "name": "DFRobot Firebeetle 2 ESP32-C5",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -37084,7 +37084,7 @@
 },
   "esp32:esp32:dfrobot_firebeetle2_esp32c6": {
     "name": "DFRobot FireBeetle 2 ESP32-C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -37348,7 +37348,7 @@
 },
   "esp32:esp32:dfrobot_firebeetle2_esp32e": {
     "name": "FireBeetle 2 ESP32-E",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -37628,7 +37628,7 @@
 },
   "esp32:esp32:dfrobot_firebeetle2_esp32p4": {
     "name": "DFRobot FireBeetle 2 ESP32-P4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -37809,7 +37809,7 @@
 },
   "esp32:esp32:dfrobot_firebeetle2_esp32s3": {
     "name": "DFRobot Firebeetle 2 ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -38149,7 +38149,7 @@
 },
   "esp32:esp32:dfrobot_lorawan_esp32s3": {
     "name": "DFRobot LoRaWAN ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -38489,7 +38489,7 @@
 },
   "esp32:esp32:dfrobot_romeo_esp32s3": {
     "name": "DFRobot Romeo ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -38793,7 +38793,7 @@
 },
   "esp32:esp32:dpu_esp32": {
     "name": "DPU ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -38946,7 +38946,7 @@
 },
   "esp32:esp32:elecrow_crowpanel_7": {
     "name": "Elecrow CrowPanel 7.0P",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -39190,7 +39190,7 @@
 },
   "esp32:esp32:epulse_feather": {
     "name": "ThingPulse ePulse Feather",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -39372,7 +39372,7 @@
 },
   "esp32:esp32:epulse_feather_c6": {
     "name": "ThingPulse ePulse Feather C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -39644,7 +39644,7 @@
 },
   "esp32:esp32:esp32": {
     "name": "ESP32 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -39978,7 +39978,7 @@
 },
   "esp32:esp32:esp32-devkitlipo": {
     "name": "OLIMEX ESP32-DevKit-LiPo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -40126,7 +40126,7 @@
 },
   "esp32:esp32:esp32-evb": {
     "name": "OLIMEX ESP32-EVB",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -40236,7 +40236,7 @@
 },
   "esp32:esp32:esp32-gateway": {
     "name": "OLIMEX ESP32-GATEWAY",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -40357,7 +40357,7 @@
 },
   "esp32:esp32:esp32-poe": {
     "name": "OLIMEX ESP32-POE",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -40568,7 +40568,7 @@
 },
   "esp32:esp32:esp32-poe-iso": {
     "name": "OLIMEX ESP32-POE-ISO",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -40779,7 +40779,7 @@
 },
   "esp32:esp32:esp32-sbc-fabgl": {
     "name": "OLIMEX ESP32-SBC-FABGL",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -41101,7 +41101,7 @@
 },
   "esp32:esp32:esp32-trueverit-iot-driver": {
     "name": "Trueverit ESP32 Universal IoT Driver",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -41188,7 +41188,7 @@
 },
   "esp32:esp32:esp32-trueverit-iot-driver-mkii": {
     "name": "Trueverit ESP32 Universal IoT Driver MK II",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -41275,7 +41275,7 @@
 },
   "esp32:esp32:esp320": {
     "name": "Electronic SweetPeas - ESP320",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -41366,7 +41366,7 @@
 },
   "esp32:esp32:esp32_family": {
     "name": "ESP32 Family Device",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
 
     ],
@@ -41374,7 +41374,7 @@
 },
   "esp32:esp32:esp32c2": {
     "name": "ESP32C2 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -41542,7 +41542,7 @@
 },
   "esp32:esp32:esp32c3": {
     "name": "ESP32C3 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -41834,7 +41834,7 @@
 },
   "esp32:esp32:esp32c3-devkitlipo": {
     "name": "OLIMEX ESP32-C3-DevKit-Lipo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -42107,7 +42107,7 @@
 },
   "esp32:esp32:esp32c3m1IKit": {
     "name": "ESP-C3-M1-I-Kit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -42276,7 +42276,7 @@
 },
   "esp32:esp32:esp32c5": {
     "name": "ESP32C5 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -42615,7 +42615,7 @@
 },
   "esp32:esp32:esp32c6": {
     "name": "ESP32C6 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -42939,7 +42939,7 @@
 },
   "esp32:esp32:esp32c6-evb": {
     "name": "OLIMEX ESP32-C6-EVB",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -43231,7 +43231,7 @@
 },
   "esp32:esp32:esp32c61": {
     "name": "ESP32C61 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -43507,7 +43507,7 @@
 },
   "esp32:esp32:esp32cam": {
     "name": "AI Thinker ESP32-CAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "CPUFreq",
@@ -43672,7 +43672,7 @@
 },
   "esp32:esp32:esp32da": {
     "name": "ESP32-WROOM-DA Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -43941,7 +43941,7 @@
 },
   "esp32:esp32:esp32doit-devkit-v1": {
     "name": "DOIT ESP32 DEVKIT V1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -44032,7 +44032,7 @@
 },
   "esp32:esp32:esp32doit-espduino": {
     "name": "DOIT ESPduino32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -44181,7 +44181,7 @@
 },
   "esp32:esp32:esp32h2": {
     "name": "ESP32H2 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -44462,7 +44462,7 @@
 },
   "esp32:esp32:esp32h2-devkitlipo": {
     "name": "OLIMEX ESP32-H2-DevKit-LiPo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -44715,7 +44715,7 @@
 },
   "esp32:esp32:esp32micromod": {
     "name": "SparkFun ESP32 MicroMod",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -44953,7 +44953,7 @@
 },
   "esp32:esp32:esp32p4": {
     "name": "ESP32P4 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -45293,7 +45293,7 @@
 },
   "esp32:esp32:esp32p4_4ds_mipi": {
     "name": "4D Systems ESP32-P4 MIPI Displays",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -45556,7 +45556,7 @@
 },
   "esp32:esp32:esp32p4_4ds_mipi_round": {
     "name": "4D Systems ESP32-P4 Round MIPI Displays",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -45803,7 +45803,7 @@
 },
   "esp32:esp32:esp32p4_core_board": {
     "name": "ESP32P4 Core Board",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -46059,7 +46059,7 @@
 },
   "esp32:esp32:esp32s2": {
     "name": "ESP32S2 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -46411,7 +46411,7 @@
 },
   "esp32:esp32:esp32s2-devkitlipo": {
     "name": "OLIMEX ESP32-S2-DevKit-Lipo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -46744,7 +46744,7 @@
 },
   "esp32:esp32:esp32s2-devkitlipo-usb": {
     "name": "OLIMEX ESP32-S2-DevKit-Lipo-USB",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -47077,7 +47077,7 @@
 },
   "esp32:esp32:esp32s2usb": {
     "name": "ESP32S2 Native USB",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "FlashSize",
@@ -47219,7 +47219,7 @@
 },
   "esp32:esp32:esp32s3": {
     "name": "ESP32S3 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -47633,7 +47633,7 @@
 },
   "esp32:esp32:esp32s3-devkitlipo": {
     "name": "OLIMEX ESP32-S3-DevKit-Lipo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -48016,7 +48016,7 @@
 },
   "esp32:esp32:esp32s3-octal": {
     "name": "ESP32S3 Dev Module Octal (WROOM2)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -48395,7 +48395,7 @@
 },
   "esp32:esp32:esp32s3_powerfeather": {
     "name": "ESP32-S3 PowerFeather",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -48683,7 +48683,7 @@
 },
   "esp32:esp32:esp32s3box": {
     "name": "ESP32-S3-Box",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -48808,7 +48808,7 @@
 },
   "esp32:esp32:esp32s3camlcd": {
     "name": "ESP32S3 CAM LCD",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -48957,7 +48957,7 @@
 },
   "esp32:esp32:esp32s3usbotg": {
     "name": "ESP32-S3-USB-OTG",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -49087,7 +49087,7 @@
 },
   "esp32:esp32:esp32thing": {
     "name": "SparkFun ESP32 Thing",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -49197,7 +49197,7 @@
 },
   "esp32:esp32:esp32thing_plus": {
     "name": "SparkFun ESP32 Thing Plus",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -49303,7 +49303,7 @@
 },
   "esp32:esp32:esp32thing_plus_c": {
     "name": "SparkFun ESP32 Thing Plus C",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -49409,7 +49409,7 @@
 },
   "esp32:esp32:esp32vn-iot-uno": {
     "name": "ESP32vn IoT Uno",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -49500,7 +49500,7 @@
 },
   "esp32:esp32:esp32wrover": {
     "name": "ESP32 Wrover Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -49661,7 +49661,7 @@
 },
   "esp32:esp32:esp32wroverkit": {
     "name": "ESP32 Wrover Kit (all versions)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -49911,7 +49911,7 @@
 },
   "esp32:esp32:espea32": {
     "name": "ESPea32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50002,7 +50002,7 @@
 },
   "esp32:esp32:espectro32": {
     "name": "ESPectro32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50123,7 +50123,7 @@
 },
   "esp32:esp32:espino32": {
     "name": "ThaiEasyElec's ESPino32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50214,7 +50214,7 @@
 },
   "esp32:esp32:featheresp32": {
     "name": "Adafruit ESP32 Feather",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50435,7 +50435,7 @@
 },
   "esp32:esp32:fed4": {
     "name": "FED4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50738,7 +50738,7 @@
 },
   "esp32:esp32:firebeetle32": {
     "name": "FireBeetle-ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50829,7 +50829,7 @@
 },
   "esp32:esp32:fm-devkit": {
     "name": "ESP32 FM DevKit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -50905,7 +50905,7 @@
 },
   "esp32:esp32:fobe_quill_esp32s3_mesh": {
     "name": "FoBE Quill ESP32S3 Mesh",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -51251,7 +51251,7 @@
 },
   "esp32:esp32:franzininho_wifi_esp32s2": {
     "name": "Franzininho WiFi",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "FlashSize",
@@ -51393,7 +51393,7 @@
 },
   "esp32:esp32:franzininho_wifi_msc_esp32s2": {
     "name": "Franzininho WiFi MSC",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "FlashSize",
@@ -51535,7 +51535,7 @@
 },
   "esp32:esp32:fri3d_2024_esp32s3": {
     "name": "Fri3d Badge 2024 (ESP32-S3-WROOM-1)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -51886,7 +51886,7 @@
 },
   "esp32:esp32:frogboard": {
     "name": "Frog Board ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -52045,7 +52045,7 @@
 },
   "esp32:esp32:gen4-ESP32-S3R8n16": {
     "name": "4D Systems gen4-ESP32 Modules (ESP32-S3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -52458,7 +52458,7 @@
 },
   "esp32:esp32:gpy": {
     "name": "Pycom GPy",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -52549,7 +52549,7 @@
 },
   "esp32:esp32:healthypi4": {
     "name": "ProtoCentral HealthyPi 4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -52659,7 +52659,7 @@
 },
   "esp32:esp32:heltec_capsule_sensor_V3": {
     "name": "Heltec Capsule Sensor (V3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -52934,7 +52934,7 @@
 },
   "esp32:esp32:heltec_ht_de01": {
     "name": "Heltec E-Ink Driver",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -53094,7 +53094,7 @@
 },
   "esp32:esp32:heltec_vision_master_e290": {
     "name": "Heltec Vision Master E290",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -53421,7 +53421,7 @@
 },
   "esp32:esp32:heltec_vision_master_e_213": {
     "name": "Heltec Vision Master E213",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -53748,7 +53748,7 @@
 },
   "esp32:esp32:heltec_vision_master_t190": {
     "name": "Heltec Vision Master T190",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -54075,7 +54075,7 @@
 },
   "esp32:esp32:heltec_wifi_kit_32": {
     "name": "Heltec WiFi Kit 32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -54205,7 +54205,7 @@
 },
   "esp32:esp32:heltec_wifi_kit_32_V3": {
     "name": "Heltec WiFi Kit 32(V3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -54342,7 +54342,7 @@
 },
   "esp32:esp32:heltec_wifi_lora_32": {
     "name": "Heltec WiFi LoRa 32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -54572,7 +54572,7 @@
 },
   "esp32:esp32:heltec_wifi_lora_32_V2": {
     "name": "Heltec WiFi LoRa 32(V2)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -54767,7 +54767,7 @@
 },
   "esp32:esp32:heltec_wifi_lora_32_V3": {
     "name": "Heltec WiFi LoRa 32(V3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -55019,7 +55019,7 @@
 },
   "esp32:esp32:heltec_wifi_lora_32_V4": {
     "name": "Heltec WiFi LoRa 32(V4)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -55535,7 +55535,7 @@
 },
   "esp32:esp32:heltec_wireless_bridge": {
     "name": "Heltec Wireless Bridge",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -55745,7 +55745,7 @@
 },
   "esp32:esp32:heltec_wireless_mini_shell": {
     "name": "Heltec Wireless Mini Shell",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -55948,7 +55948,7 @@
 },
   "esp32:esp32:heltec_wireless_paper": {
     "name": "Heltec Wireless Paper",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -56200,7 +56200,7 @@
 },
   "esp32:esp32:heltec_wireless_shell_V3": {
     "name": "Heltec Wireless Shell (V3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -56452,7 +56452,7 @@
 },
   "esp32:esp32:heltec_wireless_stick": {
     "name": "Heltec Wireless Stick",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -56647,7 +56647,7 @@
 },
   "esp32:esp32:heltec_wireless_stick_V3": {
     "name": "Heltec Wireless Stick(V3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -56899,7 +56899,7 @@
 },
   "esp32:esp32:heltec_wireless_stick_lite": {
     "name": "Heltec Wireless Stick Lite / Wireless Shell",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -57094,7 +57094,7 @@
 },
   "esp32:esp32:heltec_wireless_stick_lite_V3": {
     "name": "Heltec Wireless Stick Lite(V3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -57346,7 +57346,7 @@
 },
   "esp32:esp32:heltec_wireless_tracker": {
     "name": "Heltec Wireless Tracker",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -57673,7 +57673,7 @@
 },
   "esp32:esp32:heltec_wireless_tracker_v2": {
     "name": "Heltec Wireless Tracker(V2)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -58161,7 +58161,7 @@
 },
   "esp32:esp32:honeylemon": {
     "name": "HONEYLemon",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -58252,7 +58252,7 @@
 },
   "esp32:esp32:hornbill32dev": {
     "name": "Hornbill ESP32 Dev",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -58343,7 +58343,7 @@
 },
   "esp32:esp32:hornbill32minima": {
     "name": "Hornbill ESP32 Minima",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -58434,7 +58434,7 @@
 },
   "esp32:esp32:huidu_hd_wf2": {
     "name": "Huidu HD-WF2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -58675,7 +58675,7 @@
 },
   "esp32:esp32:huidu_hd_wf4": {
     "name": "Huidu HD-WF4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -58916,7 +58916,7 @@
 },
   "esp32:esp32:imbrios-logsens-v1p1": {
     "name": "IMBRIOS LOGSENS_V1P1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -59065,7 +59065,7 @@
 },
   "esp32:esp32:intorobot-fig": {
     "name": "IntoRobot Fig",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -59156,7 +59156,7 @@
 },
   "esp32:esp32:ioxesp32": {
     "name": "IOXESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -59298,7 +59298,7 @@
 },
   "esp32:esp32:ioxesp32c6": {
     "name": "IOXESP32-C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -59559,7 +59559,7 @@
 },
   "esp32:esp32:ioxesp32ps": {
     "name": "IOXESP32PS",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -59701,7 +59701,7 @@
 },
   "esp32:esp32:jczn_2432s028r": {
     "name": "ESP32-2432S028R CYD",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -59972,7 +59972,7 @@
 },
   "esp32:esp32:kb32": {
     "name": "KB32-FT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -60252,7 +60252,7 @@
 },
   "esp32:esp32:kits-edu": {
     "name": "KITS ESP32 EDU",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -60347,7 +60347,7 @@
 },
   "esp32:esp32:kodedot": {
     "name": "kode dot",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "DebugLevel",
@@ -60385,7 +60385,7 @@
 },
   "esp32:esp32:lilygo_t3s3": {
     "name": "LilyGo T3-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -60704,7 +60704,7 @@
 },
   "esp32:esp32:lilygo_t_display": {
     "name": "LilyGo T-Display",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -60960,7 +60960,7 @@
 },
   "esp32:esp32:lilygo_t_display_s3": {
     "name": "LilyGo T-Display-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -61156,7 +61156,7 @@
 },
   "esp32:esp32:lilygo_t_eth_lite": {
     "name": "LilyGo T-ETH-Lite",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -61352,7 +61352,7 @@
 },
   "esp32:esp32:lionbit": {
     "name": "Lion:Bit Dev Board",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -61597,7 +61597,7 @@
 },
   "esp32:esp32:lionbits3": {
     "name": "Lion:Bit S3 STEM Dev Board",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -61960,7 +61960,7 @@
 },
   "esp32:esp32:lolin32": {
     "name": "WEMOS LOLIN32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -62109,7 +62109,7 @@
 },
   "esp32:esp32:lolin32-lite": {
     "name": "WEMOS LOLIN32 Lite",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -62258,7 +62258,7 @@
 },
   "esp32:esp32:lolin_c3_mini": {
     "name": "LOLIN C3 Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -62426,7 +62426,7 @@
 },
   "esp32:esp32:lolin_c3_pico": {
     "name": "LOLIN C3 Pico",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -62594,7 +62594,7 @@
 },
   "esp32:esp32:lolin_s2_mini": {
     "name": "LOLIN S2 Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "CDCOnBoot",
@@ -62727,7 +62727,7 @@
 },
   "esp32:esp32:lolin_s2_pico": {
     "name": "LOLIN S2 PICO",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "CDCOnBoot",
@@ -62860,7 +62860,7 @@
 },
   "esp32:esp32:lolin_s3": {
     "name": "LOLIN S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -63114,7 +63114,7 @@
 },
   "esp32:esp32:lolin_s3_mini": {
     "name": "LOLIN S3 Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -63388,7 +63388,7 @@
 },
   "esp32:esp32:lolin_s3_mini_pro": {
     "name": "LOLIN S3 Mini Pro",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -63662,7 +63662,7 @@
 },
   "esp32:esp32:lolin_s3_pro": {
     "name": "LOLIN S3 Pro",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -63916,7 +63916,7 @@
 },
   "esp32:esp32:lopy": {
     "name": "LoPy",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -64007,7 +64007,7 @@
 },
   "esp32:esp32:lopy4": {
     "name": "LoPy4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -64113,7 +64113,7 @@
 },
   "esp32:esp32:m5stack_atom": {
     "name": "M5Atom",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -64366,7 +64366,7 @@
 },
   "esp32:esp32:m5stack_atoms3": {
     "name": "M5AtomS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -64717,7 +64717,7 @@
 },
   "esp32:esp32:m5stack_capsule": {
     "name": "M5Capsule",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -65104,7 +65104,7 @@
 },
   "esp32:esp32:m5stack_cardputer": {
     "name": "M5Cardputer",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -65487,7 +65487,7 @@
 },
   "esp32:esp32:m5stack_core": {
     "name": "M5Core",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -65756,7 +65756,7 @@
 },
   "esp32:esp32:m5stack_core2": {
     "name": "M5Core2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -66040,7 +66040,7 @@
 },
   "esp32:esp32:m5stack_coreink": {
     "name": "M5CoreInk",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -66293,7 +66293,7 @@
 },
   "esp32:esp32:m5stack_cores3": {
     "name": "M5CoreS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -66676,7 +66676,7 @@
 },
   "esp32:esp32:m5stack_dial": {
     "name": "M5Dial",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -67059,7 +67059,7 @@
 },
   "esp32:esp32:m5stack_dinmeter": {
     "name": "M5DinMeter",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -67442,7 +67442,7 @@
 },
   "esp32:esp32:m5stack_fire": {
     "name": "M5Fire",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -67726,7 +67726,7 @@
 },
   "esp32:esp32:m5stack_nanoc6": {
     "name": "M5NanoC6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -67970,7 +67970,7 @@
 },
   "esp32:esp32:m5stack_paper": {
     "name": "M5Paper",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -68254,7 +68254,7 @@
 },
   "esp32:esp32:m5stack_poe_cam": {
     "name": "M5PoECAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -68510,7 +68510,7 @@
 },
   "esp32:esp32:m5stack_stamp_c3": {
     "name": "M5StampC3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -68743,7 +68743,7 @@
 },
   "esp32:esp32:m5stack_stamp_pico": {
     "name": "M5StampPico",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -68996,7 +68996,7 @@
 },
   "esp32:esp32:m5stack_stamp_s3": {
     "name": "M5StampS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -69379,7 +69379,7 @@
 },
   "esp32:esp32:m5stack_station": {
     "name": "M5Station",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -69648,7 +69648,7 @@
 },
   "esp32:esp32:m5stack_stickc": {
     "name": "M5StickC",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -69901,7 +69901,7 @@
 },
   "esp32:esp32:m5stack_stickc_plus": {
     "name": "M5StickCPlus",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -70154,7 +70154,7 @@
 },
   "esp32:esp32:m5stack_stickc_plus2": {
     "name": "M5StickCPlus2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -70430,7 +70430,7 @@
 },
   "esp32:esp32:m5stack_tab5": {
     "name": "M5Tab5",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -70749,7 +70749,7 @@
 },
   "esp32:esp32:m5stack_timer_cam": {
     "name": "M5TimerCAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -71005,7 +71005,7 @@
 },
   "esp32:esp32:m5stack_tough": {
     "name": "M5Tough",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -71289,7 +71289,7 @@
 },
   "esp32:esp32:m5stack_unit_cam": {
     "name": "M5UnitCAM",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -71545,7 +71545,7 @@
 },
   "esp32:esp32:m5stack_unit_cams3": {
     "name": "M5UnitCAMS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -71920,7 +71920,7 @@
 },
   "esp32:esp32:mPython": {
     "name": "Labplus mPython",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -72106,7 +72106,7 @@
 },
   "esp32:esp32:magicbit": {
     "name": "MagicBit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -72197,7 +72197,7 @@
 },
   "esp32:esp32:makergo_c3_supermini": {
     "name": "MakerGO ESP32 C3 SuperMini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -72365,7 +72365,7 @@
 },
   "esp32:esp32:makergo_c6_supermini": {
     "name": "MakerGO ESP32 C6 SuperMini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -72629,7 +72629,7 @@
 },
   "esp32:esp32:mant1s": {
     "name": "Silicognition ManT1S",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -72758,7 +72758,7 @@
 },
   "esp32:esp32:metro_esp-32": {
     "name": "Metro ESP-32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -72868,7 +72868,7 @@
 },
   "esp32:esp32:mgbot-iotik32a": {
     "name": "MGBOT IOTIK 32A",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -73106,7 +73106,7 @@
 },
   "esp32:esp32:mgbot-iotik32b": {
     "name": "MGBOT IOTIK 32B",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -73344,7 +73344,7 @@
 },
   "esp32:esp32:mhetesp32devkit": {
     "name": "MH ET LIVE ESP32DevKIT",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -73454,7 +73454,7 @@
 },
   "esp32:esp32:mhetesp32minikit": {
     "name": "MH ET LIVE ESP32MiniKit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -73568,7 +73568,7 @@
 },
   "esp32:esp32:micros2": {
     "name": "microS2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -73813,7 +73813,7 @@
 },
   "esp32:esp32:namino_arancio": {
     "name": "Namino Arancio",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -74121,7 +74121,7 @@
 },
   "esp32:esp32:namino_bianco": {
     "name": "Namino Bianco",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -74429,7 +74429,7 @@
 },
   "esp32:esp32:namino_rosso": {
     "name": "Namino Rosso",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -74737,7 +74737,7 @@
 },
   "esp32:esp32:nano32": {
     "name": "Nano32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -74828,7 +74828,7 @@
 },
   "esp32:esp32:nano_nora": {
     "name": "Arduino Nano ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -74911,7 +74911,7 @@
 },
   "esp32:esp32:nebulas3": {
     "name": "Nebula S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -75274,7 +75274,7 @@
 },
   "esp32:esp32:nina_w10": {
     "name": "u-blox NINA-W10 series (ESP32)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -75512,7 +75512,7 @@
 },
   "esp32:esp32:node32s": {
     "name": "Node32s",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -75622,7 +75622,7 @@
 },
   "esp32:esp32:nodemcu-32s": {
     "name": "NodeMCU-32S",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -75713,7 +75713,7 @@
 },
   "esp32:esp32:nologo_esp32c3_super_mini": {
     "name": "Nologo ESP32C3 Super Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -75938,7 +75938,7 @@
 },
   "esp32:esp32:nologo_esp32s3_pico": {
     "name": "Nologo ESP32S3 Pico",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -76324,7 +76324,7 @@
 },
   "esp32:esp32:nora_w10": {
     "name": "u-blox NORA-W10 series (ESP32-S3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -76652,7 +76652,7 @@
 },
   "esp32:esp32:odroid_esp32": {
     "name": "ODROID ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -76777,7 +76777,7 @@
 },
   "esp32:esp32:onehorse32dev": {
     "name": "Onehorse ESP32 Dev Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -76868,7 +76868,7 @@
 },
   "esp32:esp32:oroca_edubot": {
     "name": "OROCA EduBot",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -76974,7 +76974,7 @@
 },
   "esp32:esp32:ozobot_drvkit": {
     "name": "Ozobot DRVKit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "USBMode",
@@ -77180,7 +77180,7 @@
 },
   "esp32:esp32:pandabyte_x32": {
     "name": "PandaByte x32 - ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -77491,7 +77491,7 @@
 },
   "esp32:esp32:pandabyte_xc3m": {
     "name": "Pandabyte xC3m - ESP32C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -77701,7 +77701,7 @@
 },
   "esp32:esp32:pandabyte_xc5": {
     "name": "Pandabyte xC5 - ESP32C5",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -78040,7 +78040,7 @@
 },
   "esp32:esp32:pandabyte_xc6": {
     "name": "PandaByte xC6 - ESP32C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -78364,7 +78364,7 @@
 },
   "esp32:esp32:pandabyte_xs3": {
     "name": "PandaByte xS3 - ESP32S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -78778,7 +78778,7 @@
 },
   "esp32:esp32:pico32": {
     "name": "ESP32 PICO-D4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -78877,7 +78877,7 @@
 },
   "esp32:esp32:piranha_esp-32": {
     "name": "Piranha ESP-32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -78987,7 +78987,7 @@
 },
   "esp32:esp32:pocket_32": {
     "name": "Dongsen Tech Pocket 32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -79078,7 +79078,7 @@
 },
   "esp32:esp32:quantum": {
     "name": "Noduino Quantum",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -79169,7 +79169,7 @@
 },
   "esp32:esp32:rakwireless_rak3112": {
     "name": "RAKwireless RAK3112",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -79445,7 +79445,7 @@
 },
   "esp32:esp32:redpill_esp32s3": {
     "name": "RedPill(+) ESP32-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -79725,7 +79725,7 @@
 },
   "esp32:esp32:roboheart_hercules": {
     "name": "RoboHeart Hercules",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -79925,7 +79925,7 @@
 },
   "esp32:esp32:rootmaker": {
     "name": "Root Maker",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -80299,7 +80299,7 @@
 },
   "esp32:esp32:sensebox_eye": {
     "name": "senseBox Eye",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -80606,7 +80606,7 @@
 },
   "esp32:esp32:sensebox_mcu_esp32s2": {
     "name": "senseBox MCU-S2 ESP32-S2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -80884,7 +80884,7 @@
 },
   "esp32:esp32:sensesiot_weizen": {
     "name": "Senses's WEIZEN",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -80975,7 +80975,7 @@
 },
   "esp32:esp32:soldered_nula_deepsleep_esp32s3": {
     "name": "Soldered NULA DeepSleep ESP32S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -81349,7 +81349,7 @@
 },
   "esp32:esp32:soldered_nula_dual_esp32c5": {
     "name": "Soldered NULA Dual ESP32C5",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -81668,7 +81668,7 @@
 },
   "esp32:esp32:soldered_nula_mini_esp32c6": {
     "name": "Soldered NULA Mini ESP32C6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -81932,7 +81932,7 @@
 },
   "esp32:esp32:sonoff_dualr3": {
     "name": "Sonoff DUALR3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -82103,7 +82103,7 @@
 },
   "esp32:esp32:sparkfun_esp32_iot_redboard": {
     "name": "SparkFun ESP32 IoT RedBoard",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -82383,7 +82383,7 @@
 },
   "esp32:esp32:sparkfun_esp32c5_thing_plus": {
     "name": "SparkFun ESP32-C5 Thing Plus",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -82702,7 +82702,7 @@
 },
   "esp32:esp32:sparkfun_esp32c6_qwiic_pocket": {
     "name": "SparkFun ESP32-C6 Qwiic Pocket",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -82994,7 +82994,7 @@
 },
   "esp32:esp32:sparkfun_esp32c6_thing_plus": {
     "name": "SparkFun ESP32-C6 Thing Plus",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -83286,7 +83286,7 @@
 },
   "esp32:esp32:sparkfun_esp32s2_thing_plus": {
     "name": "SparkFun ESP32-S2 Thing Plus",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -83561,7 +83561,7 @@
 },
   "esp32:esp32:sparkfun_esp32s3_thing_plus": {
     "name": "SparkFun ESP32-S3 Thing Plus",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -83912,7 +83912,7 @@
 },
   "esp32:esp32:sparkfun_lora_gateway_1-channel": {
     "name": "SparkFun LoRa Gateway 1-Channel",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -84052,7 +84052,7 @@
 },
   "esp32:esp32:sparkfun_pro_micro_esp32c3": {
     "name": "SparkFun Pro Micro - ESP32C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -84285,7 +84285,7 @@
 },
   "esp32:esp32:sparklemotion": {
     "name": "Adafruit Sparkle Motion (ESP32)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -84506,7 +84506,7 @@
 },
   "esp32:esp32:sparklemotionmini": {
     "name": "Adafruit Sparkle Motion Mini (ESP32)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -84727,7 +84727,7 @@
 },
   "esp32:esp32:sparklemotionstick": {
     "name": "Adafruit Sparkle Motion Stick (ESP32)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -84948,7 +84948,7 @@
 },
   "esp32:esp32:t-beam": {
     "name": "T-Beam",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -85081,7 +85081,7 @@
 },
   "esp32:esp32:tamc_termod_s3": {
     "name": "TAMC Termod S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -85421,7 +85421,7 @@
 },
   "esp32:esp32:tlora_pager": {
     "name": "LilyGo-T-LoRa-Pager",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -85702,7 +85702,7 @@
 },
   "esp32:esp32:ttgo-lora32": {
     "name": "TTGO LoRa32-OLED",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -85812,7 +85812,7 @@
 },
   "esp32:esp32:ttgo-t-oi-plus": {
     "name": "TTGO T-OI PLUS RISC-V ESP32-C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -85999,7 +85999,7 @@
 },
   "esp32:esp32:ttgo-t1": {
     "name": "TTGO T1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -86206,7 +86206,7 @@
 },
   "esp32:esp32:ttgo-t7-v13-mini32": {
     "name": "TTGO T7 V1.3 Mini32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -86405,7 +86405,7 @@
 },
   "esp32:esp32:ttgo-t7-v14-mini32": {
     "name": "TTGO T7 V1.4 Mini32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -86604,7 +86604,7 @@
 },
   "esp32:esp32:turta_iot_node": {
     "name": "Turta IoT Node",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -86672,7 +86672,7 @@
 },
   "esp32:esp32:twatch": {
     "name": "TTGO T-Watch",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -86809,7 +86809,7 @@
 },
   "esp32:esp32:twatch_ultra": {
     "name": "LilyGo T-Watch-Ultra",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -87090,7 +87090,7 @@
 },
   "esp32:esp32:twatchs3": {
     "name": "LilyGo T-Watch-S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -87371,7 +87371,7 @@
 },
   "esp32:esp32:twinaiot": {
     "name": "Twin AIoT Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -87729,7 +87729,7 @@
 },
   "esp32:esp32:uPesy_edu_esp32": {
     "name": "uPesy EDU ESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -87893,7 +87893,7 @@
 },
   "esp32:esp32:uPesy_wroom": {
     "name": "uPesy ESP32 Wroom DevKit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -88057,7 +88057,7 @@
 },
   "esp32:esp32:uPesy_wrover": {
     "name": "uPesy ESP32 Wrover DevKit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -88236,7 +88236,7 @@
 },
   "esp32:esp32:um_bling": {
     "name": "UM BLING",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -88493,7 +88493,7 @@
 },
   "esp32:esp32:um_edges3_d": {
     "name": "UM EdgeS3[D]",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -88746,7 +88746,7 @@
 },
   "esp32:esp32:um_feathers2": {
     "name": "UM FeatherS2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -88991,7 +88991,7 @@
 },
   "esp32:esp32:um_feathers2neo": {
     "name": "UM FeatherS2 Neo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -89216,7 +89216,7 @@
 },
   "esp32:esp32:um_feathers3": {
     "name": "UM FeatherS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -89485,7 +89485,7 @@
 },
   "esp32:esp32:um_feathers3neo": {
     "name": "UM FeatherS3 Neo",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -89766,7 +89766,7 @@
 },
   "esp32:esp32:um_nanos3": {
     "name": "UM NanoS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -90023,7 +90023,7 @@
 },
   "esp32:esp32:um_omgs3": {
     "name": "UM OMGS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -90280,7 +90280,7 @@
 },
   "esp32:esp32:um_pros3": {
     "name": "UM PROS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -90549,7 +90549,7 @@
 },
   "esp32:esp32:um_squixl": {
     "name": "UM SQUIXL",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -90810,7 +90810,7 @@
 },
   "esp32:esp32:um_tinyc6": {
     "name": "UM TinyC6",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -91046,7 +91046,7 @@
 },
   "esp32:esp32:um_tinypico": {
     "name": "UM TinyPICO",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -91186,7 +91186,7 @@
 },
   "esp32:esp32:um_tinys2": {
     "name": "UM TinyS2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -91411,7 +91411,7 @@
 },
   "esp32:esp32:um_tinys3": {
     "name": "UM TinyS3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -91668,7 +91668,7 @@
 },
   "esp32:esp32:unphone7": {
     "name": "unPhone 7",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -91778,7 +91778,7 @@
 },
   "esp32:esp32:unphone8": {
     "name": "unPhone 8",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -92008,7 +92008,7 @@
 },
   "esp32:esp32:unphone9": {
     "name": "unPhone 9",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -92253,7 +92253,7 @@
 },
   "esp32:esp32:upesy_esp32c3_basic": {
     "name": "uPesy ESP32C3 Basic",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -92421,7 +92421,7 @@
 },
   "esp32:esp32:upesy_esp32c3_mini": {
     "name": "uPesy ESP32C3 Mini",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -92589,7 +92589,7 @@
 },
   "esp32:esp32:upesy_esp32s3_basic": {
     "name": "uPesy ESP32S3 Basic",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -92854,7 +92854,7 @@
 },
   "esp32:esp32:vintlabs-devkit-v1": {
     "name": "VintLabs ESP32 Devkit",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -93027,7 +93027,7 @@
 },
   "esp32:esp32:viralink32g01": {
     "name": "ViraLink Gate32-0.1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -93176,7 +93176,7 @@
 },
   "esp32:esp32:viralink32g11": {
     "name": "ViraLink Gate32-1.1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -93325,7 +93325,7 @@
 },
   "esp32:esp32:walter": {
     "name": "DPTechnics Walter",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -93620,7 +93620,7 @@
 },
   "esp32:esp32:watchy": {
     "name": "Watchy",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -93730,7 +93730,7 @@
 },
   "esp32:esp32:waveshare_esp32_c3_zero": {
     "name": "Waveshare ESP32-C3-Zero",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -93990,7 +93990,7 @@
 },
   "esp32:esp32:waveshare_esp32_c6_zero": {
     "name": "Waveshare ESP32-C6-Zero",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -94254,7 +94254,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_lcd_146": {
     "name": "Waveshare ESP32-S3-LCD-1.46",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -94625,7 +94625,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_lcd_147": {
     "name": "Waveshare ESP32-S3-LCD-1.47",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -94996,7 +94996,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_lcd_169": {
     "name": "Waveshare ESP32-S3-LCD-1.69",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -95305,7 +95305,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_lcd_185": {
     "name": "Waveshare ESP32-S3-LCD-1.85",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -95676,7 +95676,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_relay_6ch": {
     "name": "Waveshare ESP32-S3-Relay-6CH",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -96058,7 +96058,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_amoled_143": {
     "name": "Waveshare ESP32-S3-Touch-AMOLED-1.43",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -96367,7 +96367,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_amoled_164": {
     "name": "Waveshare ESP32-S3-Touch-AMOLED-1.64",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -96676,7 +96676,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_amoled_18": {
     "name": "Waveshare ESP32-S3-Touch-AMOLED-1.8",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -96985,7 +96985,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_amoled_191": {
     "name": "Waveshare ESP32-S3-Touch-AMOLED-1.91",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -97294,7 +97294,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_amoled_206": {
     "name": "Waveshare ESP32-S3-Touch-AMOLED-2.06",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -97611,7 +97611,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_amoled_241": {
     "name": "Waveshare ESP32-S3-Touch-AMOLED-2.41",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -97920,7 +97920,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_146": {
     "name": "Waveshare ESP32-S3-Touch-LCD-1.46",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -98291,7 +98291,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_169": {
     "name": "Waveshare ESP32-S3-Touch-LCD-1.69",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -98600,7 +98600,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_185": {
     "name": "Waveshare ESP32-S3-Touch-LCD-1.85",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -98971,7 +98971,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_185_box": {
     "name": "Waveshare ESP32-S3-Touch-LCD-1.85-BOX",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -99342,7 +99342,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_21": {
     "name": "Waveshare ESP32-S3-Touch-LCD-2.1",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -99713,7 +99713,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_28": {
     "name": "Waveshare ESP32-S3-Touch-LCD-2.8",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -100084,7 +100084,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_4": {
     "name": "Waveshare ESP32-S3-Touch-LCD-4",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -100393,7 +100393,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_43": {
     "name": "Waveshare ESP32-S3-Touch-LCD-4.3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -100717,7 +100717,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_43B": {
     "name": "Waveshare ESP32-S3-Touch-LCD-4.3B",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -101026,7 +101026,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_5": {
     "name": "Waveshare ESP32-S3-Touch-LCD-5",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -101335,7 +101335,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_5B": {
     "name": "Waveshare ESP32-S3-Touch-LCD-5B",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -101644,7 +101644,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_touch_lcd_7": {
     "name": "Waveshare ESP32-S3-Touch-LCD-7",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -101968,7 +101968,7 @@
 },
   "esp32:esp32:waveshare_esp32_s3_zero": {
     "name": "Waveshare ESP32-S3-Zero",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -102269,7 +102269,7 @@
 },
   "esp32:esp32:waveshare_esp32s3_touch_lcd_128": {
     "name": "Waveshare ESP32S3 Touch LCD 128",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -102521,7 +102521,7 @@
 },
   "esp32:esp32:waveshare_p4_poe_eth": {
     "name": "Waveshare ESP32-P4-POE-ETH",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -102789,7 +102789,7 @@
 },
   "esp32:esp32:weact_studio_esp32c3": {
     "name": "WeAct Studio ESP32C3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -103014,7 +103014,7 @@
 },
   "esp32:esp32:wesp32": {
     "name": "Silicognition wESP32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -103143,7 +103143,7 @@
 },
   "esp32:esp32:widora-air": {
     "name": "Widora AIR",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -103234,7 +103234,7 @@
 },
   "esp32:esp32:wifiduino32": {
     "name": "WiFiduino32",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -103344,7 +103344,7 @@
 },
   "esp32:esp32:wifiduino32c3": {
     "name": "WiFiduinoV2",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -103582,7 +103582,7 @@
 },
   "esp32:esp32:wifiduino32s3": {
     "name": "WiFiduino32S3",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -103918,7 +103918,7 @@
 },
   "esp32:esp32:wipy3": {
     "name": "WiPy 3.0",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -104009,7 +104009,7 @@
 },
   "esp32:esp32:ws_esp32_s3_matrix": {
     "name": "Waveshare ESP32-S3-Matrix",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -104321,7 +104321,7 @@
 },
   "esp32:esp32:wt32-eth01": {
     "name": "WT32-ETH01 Ethernet Module",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -104470,7 +104470,7 @@
 },
   "esp32:esp32:wt32-sc01-plus": {
     "name": "WT32-SC01 PLUS",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -104727,7 +104727,7 @@
 },
   "esp32:esp32:xteink_x4": {
     "name": "Xteink X4 eReader",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "CPUFreq",
@@ -104894,7 +104894,7 @@
 },
   "esp32:esp32:yb_esp32s3_amp": {
     "name": "YelloByte YB-ESP32-S3-AMP",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -105261,7 +105261,7 @@
 },
   "esp32:esp32:yb_esp32s3_amp_v2": {
     "name": "YelloByte YB-ESP32-S3-AMP (Rev.2)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -105612,7 +105612,7 @@
 },
   "esp32:esp32:yb_esp32s3_amp_v3": {
     "name": "YelloByte YB-ESP32-S3-AMP (Rev.3)",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -105967,7 +105967,7 @@
 },
   "esp32:esp32:yb_esp32s3_dac": {
     "name": "YelloByte YB-ESP32-S3-DAC",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -106334,7 +106334,7 @@
 },
   "esp32:esp32:yb_esp32s3_drv": {
     "name": "YelloByte YB-ESP32-S3-DRV",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",
@@ -106705,7 +106705,7 @@
 },
   "esp32:esp32:yb_esp32s3_eth": {
     "name": "YelloByte YB-ESP32-S3-ETH",
-    "version": "3.3.9",
+    "version": "3.3.10",
     "config_options": [
         {
             "option": "UploadSpeed",

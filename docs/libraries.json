@@ -145059,5 +145059,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "CrossScheduler",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Wyatt Kloos",
+        "maintainer": "Wyatt Kloos",
+        "website": "https://github.com/wk1093/CrossScheduler",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/wk1093/CrossScheduler.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Host",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "soosp",
+        "maintainer": "soosp",
+        "website": "https://github.com/soosp/Host",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, *",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/Host.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
