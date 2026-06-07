@@ -70844,8 +70844,8 @@
     },
     {
         "name": "WaveMix",
-        "version": "0.1.5",
-        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.6",
+        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/WaveMix",
@@ -97019,8 +97019,8 @@
     },
     {
         "name": "PsychicHttp",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Zach Hoeken <hoeken@gmail.com>",
         "maintainer": "Zach Hoeken <hoeken@gmail.com>",
         "website": "https://github.com/hoeken/PsychicHttp",
@@ -97094,8 +97094,8 @@
     },
     {
         "name": "NeumannCorrector",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/NeumannCorrector.git",
@@ -144845,8 +144845,8 @@
     },
     {
         "name": "SafeLED",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Jens D. Madsen",
         "maintainer": "Jens D. Madsen",
         "website": "https://arduino.one/SafeLED",
