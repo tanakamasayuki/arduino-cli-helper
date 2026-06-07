@@ -128986,8 +128986,8 @@
     },
     {
         "name": "AutoPlex7",
-        "version": "2.0.1",
-        "versions": "2.0.1, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "website": "https://github.com/TechTronicsEngineering/AutoPlex7",
@@ -145077,13 +145077,13 @@
     },
     {
         "name": "Host",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.0",
         "author": "soosp",
         "maintainer": "soosp",
         "website": "https://github.com/soosp/Host",
         "category": "Communication",
-        "architectures": "esp32, esp8266, *",
+        "architectures": "esp32, esp8266, avr, *",
         "types": "Contributed",
         "repository": "https://github.com/soosp/Host.git",
         "dependencies": [
