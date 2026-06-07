@@ -144754,8 +144754,8 @@
     },
     {
         "name": "LGFXVirtualCanvas",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.2.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.2.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/LGFXVirtualCanvas",
@@ -145236,6 +145236,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Gershy13/dtc-lookup.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "python esp bridge",
+        "version": "0.3.4",
+        "versions": "0.3.4",
+        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
+        "website": "https://github.com/HamzaYslmn/python-esp-bridge",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/HamzaYslmn/python-esp-bridge.git",
         "dependencies": [
             ""
         ]
