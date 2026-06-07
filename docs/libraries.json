@@ -145254,5 +145254,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "TTP223Row",
+        "version": "1.0.4",
+        "versions": "1.0.4",
+        "author": "Hamidreza Milaninia [ARDUnia]",
+        "maintainer": "Hamidreza Milaninia [ARDUnia]",
+        "website": "https://ardunia.ir",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ardunia/TTP223Row.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AsyncMqttClient",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.1, 0.8.0, 0.7.1, 0.7.0, 0.6.0",
+        "author": "Marvin ROGER",
+        "maintainer": "Marvin ROGER",
+        "website": "https://github.com/marvinroger/async-mqtt-client",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/moinologics/AsyncMqttClient.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
