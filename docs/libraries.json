@@ -91447,8 +91447,8 @@
     },
     {
         "name": "PT2314",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PT2314",
@@ -137279,8 +137279,8 @@
     },
     {
         "name": "Grobot_Animations",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2",
         "author": "Tanmay Wankar",
         "maintainer": "Tanmay Wankar <tanmaywankar4@gmail.com>",
         "website": "https://github.com/tanmaywankar/Grobot_Animations",
@@ -142683,8 +142683,8 @@
     },
     {
         "name": "GC9107_LTSM",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/GC9107_LTSM",
@@ -145242,8 +145242,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.3.4",
-        "versions": "0.3.4",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
