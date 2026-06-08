@@ -5321,8 +5321,8 @@
     },
     {
         "name": "CmdMessenger",
-        "version": "4.0.0",
-        "versions": "4.0.0",
+        "version": "5.0.0",
+        "versions": "5.0.0, 4.0.0",
         "author": "Thijs Elenbaas, Valeriy Kucherenko",
         "maintainer": "Thijs Elenbaas",
         "website": "http://playground.arduino.cc/Code/CmdMessenger",
@@ -97580,8 +97580,8 @@
     },
     {
         "name": "PCA9549",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCA9549",
@@ -142593,8 +142593,8 @@
     },
     {
         "name": "RumiCar",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0",
         "author": "RumiCar-group <info@rumicar.com>",
         "maintainer": "RumiCar-group <info@rumicar.com>",
         "website": "https://github.com/RumiCar-group/RumiCar-lib",
@@ -144251,8 +144251,8 @@
     },
     {
         "name": "XLOT-QuadSwitch",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "XLOT",
         "maintainer": "XLOT",
         "website": "http://www.xlot.tech",
