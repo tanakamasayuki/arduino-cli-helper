@@ -96637,8 +96637,8 @@
     },
     {
         "name": "AM2302-Sensor",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.0.0, 0.1.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.0, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.0.0, 0.1.0",
         "author": "Frank Häfele <mail@frankhaefele.de>",
         "maintainer": "Frank Häfele <mail@frankhaefele.de>",
         "website": "https://github.com/hasenradball/AM2302-Sensor",
@@ -145242,8 +145242,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.5, 0.3.4",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
@@ -145281,6 +145281,21 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": "https://github.com/moinologics/AsyncMqttClient.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "APIOTA",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "APIOTA <support@apiota.net>",
+        "maintainer": "APIOTA <support@apiota.net>",
+        "website": "https://apiota.net",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/devjune-apiota/apiota-esp32.git",
         "dependencies": [
             ""
         ]
