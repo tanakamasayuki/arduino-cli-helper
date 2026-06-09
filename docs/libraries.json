@@ -125623,8 +125623,8 @@
     },
     {
         "name": "Web Server for Arduino Uno R4 WiFi",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "DIYables.io",
         "maintainer": "DIYables.io (diyables.io@gmail.com)",
         "website": "https://diyables.io/stem-v4-iot",
@@ -145242,8 +145242,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.3.5",
-        "versions": "0.3.5, 0.3.4",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
