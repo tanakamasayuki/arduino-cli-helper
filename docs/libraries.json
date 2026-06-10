@@ -34232,8 +34232,8 @@
     },
     {
         "name": "Arduino_ConnectionHandler",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.9.0, 0.8.1, 0.8.0, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0, 0.4.9, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.9.0, 0.8.1, 0.8.0, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0, 0.4.9, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "Ubi de Feo, Cristian Maglie, Andrea Catozzi, Alexander Entinger et al.",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_ConnectionHandler",
@@ -34247,8 +34247,7 @@
             "WiFiNINA",
             "MKRGSM",
             "MKRNB",
-            "MKRWAN",
-            "Blues Wireless Notecard"
+            "MKRWAN"
         ]
     },
     {
@@ -131198,8 +131197,8 @@
     },
     {
         "name": "M5Unit-FINGER",
-        "version": "0.1.0",
-        "versions": "0.1.0, 0.0.2, 0.0.1",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-FINGER",
@@ -140683,8 +140682,8 @@
     },
     {
         "name": "eva-motors",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-motors",
@@ -141031,8 +141030,8 @@
     },
     {
         "name": "M5Unit-NFC",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-NFC",
@@ -145242,8 +145241,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.9.1",
-        "versions": "0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
+        "version": "0.11.0",
+        "versions": "0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
