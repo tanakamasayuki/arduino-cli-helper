@@ -122644,7 +122644,7 @@
 },
   "lang-ship:host:display": {
     "name": "Host Display",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "config_options": [
         {
             "option": "m5gfx_board",
@@ -122784,7 +122784,7 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "config_options": [
         {
             "option": "mode",

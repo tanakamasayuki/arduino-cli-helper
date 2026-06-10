@@ -143561,8 +143561,8 @@
     },
     {
         "name": "CQ01",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "arex.huang",
         "maintainer": "arex.huang<arex@null-lab.com>",
         "website": "https://github.com/emakefun-arduino-library/cq01",
@@ -145287,8 +145287,8 @@
     },
     {
         "name": "APIOTA",
-        "version": "1.2.0",
-        "versions": "1.2.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0",
         "author": "APIOTA <support@apiota.net>",
         "maintainer": "APIOTA <support@apiota.net>",
         "website": "https://apiota.net",
@@ -145326,6 +145326,21 @@
         "architectures": "nrf52",
         "types": "Contributed",
         "repository": "https://github.com/dunknowcoding/ArduinoNRF-Zigbee.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HLK_fingerprint",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "GavinnnTann <gavin3302@gmail.com>",
+        "maintainer": "GavinnnTann <gavin3302@gmail.com>",
+        "website": "https://github.com/GavinnnTann/HLK-ZW-Fingerprint-Sensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GavinnnTann/HLK-ZW-Fingerprint-Sensor.git",
         "dependencies": [
             ""
         ]
