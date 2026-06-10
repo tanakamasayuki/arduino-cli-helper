@@ -111027,8 +111027,8 @@
     },
     {
         "name": "M5Unit-HEART",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0, 0.0.2, 0.0.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-HEART",
@@ -145241,8 +145241,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.11.0",
-        "versions": "0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
+        "version": "0.11.3",
+        "versions": "0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
@@ -145286,8 +145286,8 @@
     },
     {
         "name": "APIOTA",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.1, 1.2.0",
         "author": "APIOTA <support@apiota.net>",
         "maintainer": "APIOTA <support@apiota.net>",
         "website": "https://apiota.net",
