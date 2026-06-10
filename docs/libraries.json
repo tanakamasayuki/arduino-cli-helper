@@ -115649,8 +115649,8 @@
     },
     {
         "name": "ArucoLite",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.0",
         "author": "Paulo Marques",
         "maintainer": "Paulo Marques",
         "website": "https://github.com/pmarques-dev/ArucoLite",
