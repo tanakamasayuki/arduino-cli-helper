@@ -135278,13 +135278,13 @@
     },
     {
         "name": "PZEM004Tv40_R4",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Bharani Dharan Rangaraj <bharanidharanrangaraj@gmail.com>",
         "maintainer": "Bharani Dharan Rangaraj <bharanidharanrangaraj@gmail.com>",
         "website": "https://github.com/bharanidharanrangaraj/PZEM004Tv40_R4",
         "category": "Sensors",
-        "architectures": "renesas_uno",
+        "architectures": "renesas_uno, arduino_avr",
         "types": "Contributed",
         "repository": "https://github.com/bharanidharanrangaraj/PZEM004Tv40_R4.git",
         "dependencies": [
