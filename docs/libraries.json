@@ -145343,5 +145343,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Sitron Labs PAT9130EW Arduino Library",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Sitron Labs",
+        "maintainer": "Sitron Labs <support@sitronlabs.com>",
+        "website": "https://github.com/sitronlabs/SitronLabs_Pixart_PAT9130EW_Arduino_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sitronlabs/SitronLabs_Pixart_PAT9130EW_Arduino_Library.git",
+        "dependencies": [
+            "SPI"
+        ]
     }
 ]
