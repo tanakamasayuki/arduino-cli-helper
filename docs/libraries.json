@@ -145241,8 +145241,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.11.4",
-        "versions": "0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
+        "version": "0.11.5",
+        "versions": "0.11.5, 0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
@@ -145357,6 +145357,36 @@
         "repository": "https://github.com/sitronlabs/SitronLabs_Pixart_PAT9130EW_Arduino_Library.git",
         "dependencies": [
             "SPI"
+        ]
+    },
+    {
+        "name": "NiusThread",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "dunknowcoding (NiusRobotLab)",
+        "maintainer": "dunknowcoding",
+        "website": "https://github.com/dunknowcoding/ArduinoNRF-Thread",
+        "category": "Communication",
+        "architectures": "nrf52",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/ArduinoNRF-Thread.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AudioCodec",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Frank Boesing",
+        "maintainer": "Operator Foundation <info@operatorfoundation.org>",
+        "website": "https://github.com/OperatorFoundation/AudioCodec",
+        "category": "Uncategorized",
+        "architectures": "teensy",
+        "types": "Contributed",
+        "repository": "https://github.com/OperatorFoundation/AudioCodec.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
