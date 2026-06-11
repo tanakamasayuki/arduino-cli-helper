@@ -89049,13 +89049,13 @@
     },
     {
         "name": "Arduino_GigaDisplayTouch",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_GigaDisplayTouch",
         "category": "Sensors",
-        "architectures": "mbed, mbed_portenta, mbed_giga",
+        "architectures": "mbed, mbed_portenta, mbed_giga, zephyr_main",
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_GigaDisplayTouch.git",
         "dependencies": [
@@ -109804,17 +109804,18 @@
     },
     {
         "name": "Guppy",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Ben Green",
         "maintainer": "Ben Green",
         "website": "https://github.com/Kernow-Robotics/Guppy",
         "category": "Device Control",
-        "architectures": "*",
+        "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/Kernow-Robotics/Guppy.git",
         "dependencies": [
-            ""
+            "RF24",
+            "Ticker"
         ]
     },
     {
@@ -125020,8 +125021,8 @@
     },
     {
         "name": "TinySleeper",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Stefano Di Paola <steve.wisec@gmail.com>",
         "maintainer": "Stefano Di Paola <steve.wisec@gmail.com>",
         "website": "https://github.com/wisec/TinySleeper",
@@ -136268,7 +136269,7 @@
     {
         "name": "Ryzobee",
         "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0, 0.0.1",
+        "versions": "1.0.5, 1.0.4, 1.0.0, 0.0.1",
         "author": "Ryzobee Team",
         "maintainer": "Ryzobee Team",
         "website": "https://github.com/Ryzobee/Ryzobee_arduino_esp32",
