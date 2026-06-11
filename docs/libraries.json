@@ -145434,5 +145434,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Time64",
+        "version": "1.6.2",
+        "versions": "1.6.2",
+        "author": "Michael Margolis, Paul Stoffregen, Patrick J. Scruggs",
+        "maintainer": "Patrick J. Scruggs",
+        "website": "https://github.com/pjscruggs/Time64",
+        "category": "Timing",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/pjscruggs/Time64.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
