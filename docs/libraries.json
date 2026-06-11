@@ -128007,8 +128007,8 @@
     },
     {
         "name": "DCT532",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DCT532",
@@ -145400,6 +145400,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/dmdengineeringllc/DMD_AllocTrace.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LGFXScreenBuilder",
+        "version": "0.2.0",
+        "versions": "0.2.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/LGFXScreenBuilder",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/LGFXScreenBuilder.git",
         "dependencies": [
             ""
         ]
