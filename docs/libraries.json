@@ -145286,8 +145286,8 @@
     },
     {
         "name": "APIOTA",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.1, 1.2.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.3, 1.2.1, 1.2.0",
         "author": "APIOTA <support@apiota.net>",
         "maintainer": "APIOTA <support@apiota.net>",
         "website": "https://apiota.net",
@@ -145361,8 +145361,8 @@
     },
     {
         "name": "NiusThread",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Thread",
