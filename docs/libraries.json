@@ -145452,8 +145452,8 @@
     },
     {
         "name": "NiusCrypto",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
+        "version": "0.7.1",
+        "versions": "0.7.1, 0.7.0, 0.6.0, 0.5.1, 0.5.0, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
         "author": "NiusRobotLab",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Crypto",
