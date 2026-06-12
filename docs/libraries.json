@@ -111326,8 +111326,8 @@
     },
     {
         "name": "bb_epaper",
-        "version": "2.1.9",
-        "versions": "2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.7, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.10",
+        "versions": "2.1.10, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.7, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_epaper",
@@ -131047,8 +131047,8 @@
     },
     {
         "name": "KK-Poti",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Kay Kasper",
         "maintainer": "Kay Kasper",
         "website": "https://github.com/kay-bs/KK-Poti",
@@ -145077,8 +145077,8 @@
     },
     {
         "name": "Host",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "soosp",
         "maintainer": "soosp",
         "website": "https://github.com/soosp/Host",
@@ -145452,8 +145452,8 @@
     },
     {
         "name": "NiusCrypto",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0",
         "author": "NiusRobotLab",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Crypto",
