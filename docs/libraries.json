@@ -145555,5 +145555,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SimpleCode",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Marat <maratdadakhanov@gmail.com>",
+        "maintainer": "Marat <maratdadakhanov@gmail.com>",
+        "website": "https://github.com/MaratDevT/SimpleCode",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MaratDevT/SimpleCode.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
