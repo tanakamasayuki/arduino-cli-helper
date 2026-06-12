@@ -145452,8 +145452,8 @@
     },
     {
         "name": "NiusCrypto",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0",
+        "version": "0.5.1",
+        "versions": "0.5.1, 0.5.0, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
         "author": "NiusRobotLab",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Crypto",
@@ -145598,6 +145598,21 @@
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": "https://github.com/lasselukkari/ArduinoJsonLogic.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "RPCToolkit",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nicola Carpanese <https://github.com/n-car>",
+        "maintainer": "Nicola Carpanese <https://github.com/n-car>",
+        "website": "https://github.com/n-car/rpc-arduino-toolkit",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/n-car/rpc-arduino-toolkit.git",
         "dependencies": [
             "ArduinoJson"
         ]
