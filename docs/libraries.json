@@ -145362,8 +145362,8 @@
     },
     {
         "name": "NiusThread",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Thread",
@@ -145446,6 +145446,21 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/pjscruggs/Time64.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NiusCrypto",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0",
+        "author": "NiusRobotLab",
+        "maintainer": "dunknowcoding",
+        "website": "https://github.com/dunknowcoding/ArduinoNRF-Crypto",
+        "category": "Other",
+        "architectures": "nrf52",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/ArduinoNRF-Crypto.git",
         "dependencies": [
             ""
         ]
