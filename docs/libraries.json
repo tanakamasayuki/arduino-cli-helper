@@ -43130,8 +43130,8 @@
     },
     {
         "name": "FastShiftOut",
-        "version": "0.4.2",
-        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.4.3",
+        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/FastShiftOut",
@@ -43160,8 +43160,8 @@
     },
     {
         "name": "FastShiftIn",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/FastShiftIn",
@@ -75470,8 +75470,8 @@
     },
     {
         "name": "M5Unit-UHF-RFID",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-UHF-RFID",
@@ -79579,8 +79579,8 @@
     },
     {
         "name": "FastShiftInOut",
-        "version": "0.2.2",
-        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.3",
+        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/FastShiftInOut",
@@ -140986,8 +140986,8 @@
     },
     {
         "name": "ScioSense_UFC23",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "ScioSense",
         "maintainer": "ScioSense",
         "website": "https://github.com/sciosense/ufc23-arduino",
@@ -145512,8 +145512,8 @@
     },
     {
         "name": "SuperDMZ",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1",
         "author": "SuperDMZ Team <support@superdmz.com>",
         "maintainer": "SuperDMZ Team <support@superdmz.com>",
         "website": "https://github.com/superdmz/SuperDMZ-Arduino",
@@ -145569,6 +145569,37 @@
         "repository": "https://github.com/MaratDevT/SimpleCode.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Fluxgrid",
+        "version": "0.9.2",
+        "versions": "0.9.2, 0.9.1",
+        "author": "Lonely Binary",
+        "maintainer": "Lonely Binary <hello@lonelybinary.cn>",
+        "website": "https://github.com/Lonely-Binary/FluxGrid",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Lonely-Binary/FluxGrid.git",
+        "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "JsonLogic",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Gabriel Kim <gabrielkim13@gmail.com>, json-logic-cpp contributors",
+        "maintainer": "Lasse Lukkari <lasse.lukkari@gmail.com>",
+        "website": "https://github.com/lasselukkari/ArduinoJsonLogic",
+        "category": "Data Processing",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/lasselukkari/ArduinoJsonLogic.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
