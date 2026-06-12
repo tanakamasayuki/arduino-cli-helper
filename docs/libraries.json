@@ -145540,5 +145540,20 @@
         "dependencies": [
             "Time64"
         ]
+    },
+    {
+        "name": "NeoGPS-GarminClock",
+        "version": "4.2.10",
+        "versions": "4.2.10",
+        "author": "SlashDevin, Patrick Scruggs",
+        "maintainer": "Patrick Scruggs",
+        "website": "https://github.com/pjscruggs/NeoGPS-GarminClock",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/pjscruggs/NeoGPS-GarminClock.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
