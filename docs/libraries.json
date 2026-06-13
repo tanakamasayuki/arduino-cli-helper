@@ -128451,8 +128451,8 @@
     },
     {
         "name": "Frugal-IoT",
-        "version": "0.0.20",
-        "versions": "0.0.20, 0.0.19, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.8, 0.0.5, 0.0.4, 0.0.3, 0.0.2",
+        "version": "0.0.22",
+        "versions": "0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.8, 0.0.5, 0.0.4, 0.0.3, 0.0.2",
         "author": "Mitra Ardron",
         "maintainer": "Mitra Ardron <mitra@mitra.biz>",
         "website": "https://github.com/mitra42/frugal-iot",
@@ -128469,7 +128469,8 @@
             "SHT4x",
             "SHT85",
             "OneWire",
-            "DallasTemperature"
+            "DallasTemperature",
+            "hd44780"
         ]
     },
     {
@@ -145573,8 +145574,8 @@
     },
     {
         "name": "Fluxgrid",
-        "version": "0.9.2",
-        "versions": "0.9.2, 0.9.1",
+        "version": "0.9.4",
+        "versions": "0.9.4, 0.9.3, 0.9.2, 0.9.1",
         "author": "Lonely Binary",
         "maintainer": "Lonely Binary <hello@lonelybinary.cn>",
         "website": "https://github.com/Lonely-Binary/FluxGrid",
@@ -145615,6 +145616,21 @@
         "repository": "https://github.com/n-car/rpc-arduino-toolkit.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "Lonely Binary Coin Acceptor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Lonely Binary <office@lonelybinary.com>",
+        "maintainer": "Lonely Binary <office@lonelybinary.com>",
+        "website": "https://github.com/Lonely-Binary/Coin-Acceptor",
+        "category": "Signal Input/Output",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Lonely-Binary/Coin-Acceptor.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
