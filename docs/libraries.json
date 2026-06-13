@@ -136528,8 +136528,8 @@
     },
     {
         "name": "EmbeddedTerminal",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Guido Lehne",
         "maintainer": "Guido Lehne",
         "website": "https://github.com/boeserfrosch/EmbeddedTerminal",
@@ -145674,6 +145674,21 @@
         "architectures": "renesas_uno",
         "types": "Contributed",
         "repository": "https://github.com/HiTECH-Corporation/R4-WifiManager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HW827_PPG",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "Gevindu Wickramaarachchi",
+        "maintainer": "Gevindu Wickramaarachchi",
+        "website": "https://www.github.com/gevindu/HW827_PPG",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/gevindug/HW827_PPG.git",
         "dependencies": [
             ""
         ]
