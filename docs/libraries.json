@@ -145662,5 +145662,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "HiTECH R4 Wifi Manager",
+        "version": "2026.6.13",
+        "versions": "2026.6.13",
+        "author": "HiTECH Corporation",
+        "maintainer": "Nguyen Thai Minh <hitech.ntm0911@gmail.com>",
+        "website": "https://github.com/HiTECH-Corporation/R4-WifiManager",
+        "category": "Communication",
+        "architectures": "renesas_uno",
+        "types": "Contributed",
+        "repository": "https://github.com/HiTECH-Corporation/R4-WifiManager.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
