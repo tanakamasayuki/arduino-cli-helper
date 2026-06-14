@@ -145574,8 +145574,8 @@
     },
     {
         "name": "Fluxgrid",
-        "version": "0.9.4",
-        "versions": "0.9.4, 0.9.3, 0.9.2, 0.9.1",
+        "version": "0.9.5",
+        "versions": "0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1",
         "author": "Lonely Binary",
         "maintainer": "Lonely Binary <hello@lonelybinary.cn>",
         "website": "https://github.com/Lonely-Binary/FluxGrid",
@@ -145691,6 +145691,21 @@
         "repository": "https://github.com/gevindug/HW827_PPG.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "VirtuinoCloud",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Virtuino",
+        "maintainer": "Virtuino <support@virtuino.com>",
+        "website": "https://virtuino.com",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, samd, avr, mbed_rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/iliaslamprou/VirtuinoCloud.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
