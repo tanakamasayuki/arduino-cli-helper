@@ -107034,8 +107034,8 @@
     },
     {
         "name": "MCP4261",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/MCP4261",
@@ -145243,8 +145243,8 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.12.2",
-        "versions": "0.12.2, 0.12.1, 0.12.0, 0.11.6, 0.11.5, 0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
+        "version": "0.14.0",
+        "versions": "0.14.0, 0.13.0, 0.12.2, 0.12.1, 0.12.0, 0.11.6, 0.11.5, 0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
@@ -145318,8 +145318,8 @@
     },
     {
         "name": "NiusZigbee",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.1.2, 0.1.1",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Zigbee",
@@ -145513,8 +145513,8 @@
     },
     {
         "name": "SuperDMZ",
-        "version": "1.1.3",
-        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1",
+        "version": "1.1.4",
+        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1",
         "author": "SuperDMZ Team <support@superdmz.com>",
         "maintainer": "SuperDMZ Team <support@superdmz.com>",
         "website": "https://github.com/superdmz/SuperDMZ-Arduino",
@@ -145706,6 +145706,21 @@
         "repository": "https://github.com/iliaslamprou/VirtuinoCloud.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "UsefullCommands",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Daniil Ryzhikov <daniilr6@icloud.com>",
+        "maintainer": "Daniil Ryzhikov <daniilr6@icloud.com>",
+        "website": "https://github.com/thehiddenguy13/UsefullCommands",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/thehiddenguy13/UsefullCommands.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
