@@ -65434,8 +65434,8 @@
     },
     {
         "name": "float16",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/float16",
@@ -101646,8 +101646,8 @@
     },
     {
         "name": "float16ext",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/float16ext",
@@ -145318,8 +145318,8 @@
     },
     {
         "name": "NiusZigbee",
-        "version": "0.7.2",
-        "versions": "0.7.2, 0.7.1, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
+        "version": "0.7.7",
+        "versions": "0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Zigbee",
@@ -145764,6 +145764,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/dukang1996/DroneCAN_ESP32.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AODV",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Igor Levkov <levkov.igor@gmail.com>",
+        "maintainer": "Igor Levkov <levkov.igor@gmail.com>",
+        "website": "https://github.com/levkovigor/AODV",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/levkovigor/AODV.git",
         "dependencies": [
             ""
         ]
