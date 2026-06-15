@@ -36,6 +36,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "auto update"
+            libs=$(jq 'length' docs/libraries.json)
+            git commit -m "auto update (libraries: ${libs})"
             git push
           fi

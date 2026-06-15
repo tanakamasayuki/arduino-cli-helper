@@ -36,6 +36,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "auto update"
+            boards=$(jq 'length' docs/board_details.json)
+            git commit -m "auto update (boards: ${boards})"
             git push
           fi
