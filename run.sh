@@ -29,7 +29,7 @@ rm arduino-cli_latest_Linux_64bit.tar.gz
 ./arduino-cli core install Seeeduino:samd
 ./arduino-cli core install Seeeduino:stm32
 ./arduino-cli core install STMicroelectronics:stm32
-./arduino-cli core install lang-ship:native
+#./arduino-cli core install lang-ship:native
 ./arduino-cli core install lang-ship:host
 ./arduino-cli core install rp2040:rp2040
 ./arduino-cli core install Seeeduino:stm32
