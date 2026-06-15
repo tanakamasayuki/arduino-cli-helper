@@ -134037,8 +134037,8 @@
     },
     {
         "name": "ProsecCoAP",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.0.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.0, 2.0.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.0",
         "author": "Pasquale Lafiosca <pasquale.lafiosca@yahoo.it>",
         "maintainer": "Pasquale Lafiosca <pasquale.lafiosca@yahoo.it>",
         "website": "https://github.com/decadenza/ProsecCoAP",
@@ -145665,8 +145665,8 @@
     },
     {
         "name": "HiTECH R4 Wifi Manager",
-        "version": "2026.6.14",
-        "versions": "2026.6.14, 2026.6.13",
+        "version": "2026.6.15",
+        "versions": "2026.6.15, 2026.6.14, 2026.6.13",
         "author": "HiTECH Corporation",
         "maintainer": "Nguyen Thai Minh <hitech.ntm0911@gmail.com>",
         "website": "https://github.com/HiTECH-Corporation/R4-WifiManager",
@@ -145749,6 +145749,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/alkonosst/BytePack.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DroneCAN_ESP32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "du_kang_du",
+        "maintainer": "du_kang_du <1996dukang@sina.com>",
+        "website": "https://github.com/dukang1996/DroneCAN_ESP32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dukang1996/DroneCAN_ESP32.git",
         "dependencies": [
             ""
         ]
