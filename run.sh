@@ -15,31 +15,31 @@ rm arduino-cli_latest_Linux_64bit.tar.gz
 ./arduino-cli config add board_manager.additional_urls https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json
 
 ./arduino-cli core update-index
-#./arduino-cli core install arduino:avr
-#./arduino-cli core install arduino:megaavr
-#./arduino-cli core install arduino:renesas_uno
-#./arduino-cli core install esp32:esp32
-#./arduino-cli core install m5stack:esp32
-#./arduino-cli core install esp8266:esp8266
-#./arduino-cli core install SPRESENSE:spresense
-#./arduino-cli core install Seeeduino:imxrt
-#./arduino-cli core install Seeeduino:mbed
-#./arduino-cli core install Seeeduino:nrf52
-#./arduino-cli core install Seeeduino:renesas_uno
-#./arduino-cli core install Seeeduino:samd
-#./arduino-cli core install Seeeduino:stm32
-#./arduino-cli core install STMicroelectronics:stm32
-#./arduino-cli core install lang-ship:native
-#./arduino-cli core install lang-ship:host
-#./arduino-cli core install rp2040:rp2040
-#./arduino-cli core install Seeeduino:stm32
-#./arduino-cli core install STMicroelectronics:stm8
-#./arduino-cli core install UIAP:ch32v
+./arduino-cli core install arduino:avr
+./arduino-cli core install arduino:megaavr
+./arduino-cli core install arduino:renesas_uno
+./arduino-cli core install esp32:esp32
+./arduino-cli core install m5stack:esp32
+./arduino-cli core install esp8266:esp8266
+./arduino-cli core install SPRESENSE:spresense
+./arduino-cli core install Seeeduino:imxrt
+./arduino-cli core install Seeeduino:mbed
+./arduino-cli core install Seeeduino:nrf52
+./arduino-cli core install Seeeduino:renesas_uno
+./arduino-cli core install Seeeduino:samd
+./arduino-cli core install Seeeduino:stm32
+./arduino-cli core install STMicroelectronics:stm32
+./arduino-cli core install lang-ship:native
+./arduino-cli core install lang-ship:host
+./arduino-cli core install rp2040:rp2040
+./arduino-cli core install Seeeduino:stm32
+./arduino-cli core install STMicroelectronics:stm8
+./arduino-cli core install UIAP:ch32v
 
 ./arduino-cli core upgrade
 
 ./arduino-cli board listall
 
 php run.php
-php libraries.php
+# libraries.php は別ワークフロー (libraries.yml, 2時間ごと) に分離
 
