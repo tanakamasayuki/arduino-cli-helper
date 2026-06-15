@@ -48297,7 +48297,7 @@
     {
         "name": "TinyCBOR",
         "version": "0.5.3002",
-        "versions": "0.5.3002, 0.5.3-arduino2, 0.5.3-arduino.2, 0.5.3-arduino1, 0.0.1",
+        "versions": "0.5.3002, 0.5.3-arduino.2, 0.5.3-arduino2, 0.5.3-arduino1, 0.0.1",
         "author": "TOKITA Hiroshi",
         "maintainer": "TOKITA Hiroshi <tokita.hiroshi@gmail.com>",
         "website": "https://github.com/soburi/tinycbor",
@@ -91796,7 +91796,7 @@
     {
         "name": "micro_ros_kaia",
         "version": "2.0.7-iron.5",
-        "versions": "2.0.7-iron.5, 2.0.7-iron.4, 2.0.7-humble.4, 2.0.7-rolling.4, 2.0.7-humble.3, 2.0.7-iron.3, 2.0.7-rolling.3, 2.0.7-humble.2, 2.0.7-rolling.2, 2.0.7-iron.2, 2.0.7-iron.1, 2.0.7-humble.1, 2.0.7-rolling.1, 2.0.7-humble, 2.0.7-rolling, 2.0.7-iron",
+        "versions": "2.0.7-iron.5, 2.0.7-rolling.4, 2.0.7-iron.4, 2.0.7-humble.4, 2.0.7-rolling.3, 2.0.7-iron.3, 2.0.7-humble.3, 2.0.7-rolling.2, 2.0.7-iron.2, 2.0.7-humble.2, 2.0.7-rolling.1, 2.0.7-iron.1, 2.0.7-humble.1, 2.0.7-rolling, 2.0.7-iron, 2.0.7-humble",
         "author": "micro-ROS, Kaia.ai",
         "maintainer": "Ilia O. <iliao@kaia.ai>",
         "website": "https://github.com/kaiaai/micro_ros_arduino_kaiaai/",
@@ -112114,7 +112114,7 @@
     {
         "name": "micro_ros_arduino",
         "version": "3.0.0-iron",
-        "versions": "3.0.0-iron, 2.0.7-iron, 2.0.7-humble, 2.0.6-humble, 2.0.6-rolling, 2.0.5-galactic, 2.0.5-humble, 2.0.5-foxy, 2.0.3-foxy, 2.0.3-galactic, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "versions": "3.0.0-iron, 2.0.7-humble, 2.0.7-iron, 2.0.6-humble, 2.0.6-rolling, 2.0.5-humble, 2.0.5-galactic, 2.0.5-foxy, 2.0.3-galactic, 2.0.3-foxy, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "micro-ROS",
         "maintainer": "Pablo Garrido <pablogarrido@eprosima.com>",
         "website": "https://github.com/micro-ROS/micro_ros_arduino",
@@ -145243,13 +145243,13 @@
     },
     {
         "name": "python esp bridge",
-        "version": "0.14.1",
-        "versions": "0.14.1, 0.14.0, 0.13.0, 0.12.2, 0.12.1, 0.12.0, 0.11.6, 0.11.5, 0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
+        "version": "0.15.0",
+        "versions": "0.15.0, 0.14.1, 0.14.0, 0.13.0, 0.12.2, 0.12.1, 0.12.0, 0.11.6, 0.11.5, 0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/python-esp-bridge",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, nrf52",
         "types": "Contributed",
         "repository": "https://github.com/HamzaYslmn/python-esp-bridge.git",
         "dependencies": [
@@ -145318,8 +145318,8 @@
     },
     {
         "name": "NiusZigbee",
-        "version": "0.3.6",
-        "versions": "0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
+        "version": "0.4.3",
+        "versions": "0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Zigbee",
