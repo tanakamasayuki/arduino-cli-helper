@@ -2,8 +2,8 @@ name: libraries (libraries.php)
 
 on:
   schedule:
-    # 2時間ごと / 毎時0分の混雑を避けて:11に実行 (00:11,02:11,...UTC)
-    - cron: "11 */2 * * *"
+    # 1時間ごと / 毎時0分の混雑を避けて:11に実行 (00:11,01:11,...UTC)
+    - cron: "11 * * * *"
   workflow_dispatch:
 
 permissions:
