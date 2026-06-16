@@ -15929,8 +15929,8 @@
     },
     {
         "name": "FatFs",
-        "version": "4.0.0",
-        "versions": "4.0.0, 2.1.4, 2.0.4, 2.0.3, 2.0.2, 1.4.1",
+        "version": "4.0.4",
+        "versions": "4.0.4, 4.0.0, 2.1.4, 2.0.4, 2.0.3, 2.0.2, 1.4.1",
         "author": "Chan <user5@elm-chan org>, ST",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/FatFs",
@@ -125638,8 +125638,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.3.12",
-        "versions": "1.3.12, 1.3.11, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.3.14",
+        "versions": "1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -142819,8 +142819,8 @@
     },
     {
         "name": "CircuitDigestCloud",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/CircuitDigestCloud",
@@ -145815,8 +145815,8 @@
     },
     {
         "name": "AQ01",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "arex.huang",
         "maintainer": "arex.huang<arex@null-lab.com>",
         "website": "https://github.com/emakefun-arduino-library/aq01",
@@ -145826,6 +145826,36 @@
         "repository": "https://github.com/emakefun-arduino-library/aq01.git",
         "dependencies": [
             "EasyI2c"
+        ]
+    },
+    {
+        "name": "FansElectronics_DMD8266",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fans Electronics, Irfan Indra Kurniawan, S.T",
+        "maintainer": "Irfan Indra Kurniawan, S.T <info@fanselectronics.com>",
+        "website": "https://github.com/Vean/FansElectronics_DMD8266",
+        "category": "Display",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Vean/FansElectronics_DMD8266.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Raphael",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "robiduck",
+        "maintainer": "robiduck",
+        "website": "https://github.com/robiduck/raphael-board",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/robiduck/Raphael.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
