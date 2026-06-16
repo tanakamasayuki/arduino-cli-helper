@@ -5683,8 +5683,8 @@
     },
     {
         "name": "FastLED",
-        "version": "3.10.3",
-        "versions": "3.10.3, 3.10.2, 3.10.1, 3.10.0, 3.9.20, 3.9.19, 3.9.18, 3.9.17, 3.9.16, 3.9.15, 3.9.14, 3.9.13, 3.9.12, 3.9.11, 3.9.10, 3.9.9, 3.9.8, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.7.8, 3.7.7, 3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.10, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.6, 3.1.3, 3.1.0",
+        "version": "3.10.4",
+        "versions": "3.10.4, 3.10.3, 3.10.2, 3.10.1, 3.10.0, 3.9.20, 3.9.19, 3.9.18, 3.9.17, 3.9.16, 3.9.15, 3.9.14, 3.9.13, 3.9.12, 3.9.11, 3.9.10, 3.9.9, 3.9.8, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.7.8, 3.7.7, 3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.10, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.6, 3.1.3, 3.1.0",
         "author": "Daniel Garcia",
         "maintainer": "Daniel Garcia <dgarcia@fastled.io>",
         "website": "https://github.com/FastLED/FastLED",
@@ -57734,8 +57734,8 @@
     },
     {
         "name": "M5GFX",
-        "version": "0.2.22",
-        "versions": "0.2.22, 0.2.21, 0.2.20, 0.2.19, 0.2.18, 0.2.17, 0.2.16, 0.2.15, 0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.0, 0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.13, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.2.23",
+        "versions": "0.2.23, 0.2.22, 0.2.21, 0.2.20, 0.2.19, 0.2.18, 0.2.17, 0.2.16, 0.2.15, 0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.0, 0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.13, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5GFX.git",
@@ -72602,13 +72602,13 @@
     },
     {
         "name": "CPUTemp",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Trent M. Wyatt",
-        "maintainer": "Trent M. Wyatt <ripred@users.github.com>",
+        "maintainer": "Trent M. Wyatt <robotics@trentwyatt.com>",
         "website": "https://github.com/ripred/CPUTemp",
         "category": "Sensors",
-        "architectures": "*",
+        "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/ripred/CPUTemp.git",
         "dependencies": [
@@ -109756,8 +109756,8 @@
     },
     {
         "name": "Iridium9704LaunchPad",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9704_launch_pad/documentation/",
@@ -129490,8 +129490,8 @@
     },
     {
         "name": "JMBase",
-        "version": "1.8.0",
-        "versions": "1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
+        "version": "1.8.1",
+        "versions": "1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
         "author": "Juanjo Martín",
         "maintainer": "Juanjo Martín",
         "website": "https://github.com/juanjomartinf/JMBase",
@@ -130844,8 +130844,8 @@
     },
     {
         "name": "M5Chain",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Chain",
@@ -141290,8 +141290,8 @@
     },
     {
         "name": "GY33_Colour_Sensor",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "You-010",
         "maintainer": "You-010 <276804073+You-010@users.noreply.github.com>",
         "website": "https://github.com/You-010/GY33_Arduino",
@@ -144737,8 +144737,8 @@
     },
     {
         "name": "Iridium9604LaunchPad",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.1, 2.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9604_launch_pad/documentation/",
@@ -145513,8 +145513,8 @@
     },
     {
         "name": "SuperDMZ",
-        "version": "1.1.4",
-        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1",
+        "version": "1.1.14",
+        "versions": "1.1.14, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1",
         "author": "SuperDMZ Team <support@superdmz.com>",
         "maintainer": "SuperDMZ Team <support@superdmz.com>",
         "website": "https://github.com/superdmz/SuperDMZ-Arduino",
@@ -145781,6 +145781,51 @@
         "repository": "https://github.com/levkovigor/AODV.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Devlab_TSL2591",
+        "version": "1.4.5",
+        "versions": "1.4.5",
+        "author": "Devlab, Adafruit",
+        "maintainer": "Devlab",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "HCSR04_ESP_Hardware",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "You-010",
+        "maintainer": "You-010 <276804073+You-010@users.noreply.github.com>",
+        "website": "https://github.com/You-010/HCSR04_ESP_Hardware",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/You-010/HCSR04_ESP_Hardware.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AQ01",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "arex.huang",
+        "maintainer": "arex.huang<arex@null-lab.com>",
+        "website": "https://github.com/emakefun-arduino-library/aq01",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/emakefun-arduino-library/aq01.git",
+        "dependencies": [
+            "EasyI2c"
         ]
     }
 ]
