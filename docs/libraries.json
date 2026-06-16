@@ -145857,5 +145857,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "SparkFun MCP4725 Arduino Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SparkFun Electronics <techsupport@sparkfun.com>",
+        "maintainer": "SparkFun Electronics <https://www.sparkfun.com>",
+        "website": "https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library.git",
+        "dependencies": [
+            "SparkFun Toolkit"
+        ]
+    },
+    {
+        "name": "VN_LCD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Huu-Phuoc Nguyen <huuphuoc.research@gmail.com>",
+        "maintainer": "Huu-Phuoc Nguyen <huuphuoc.research@gmail.com>",
+        "website": "https://github.com/HuuPhuoc2411/VN_LCD",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/HuuPhuoc2411/VN_LCD.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DevLab_ICM20948",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "7Semi, Jonathan Mejorado Lopez",
+        "maintainer": "Jonathan Mejorado Lopez<ventas@uelectronics.com>",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
