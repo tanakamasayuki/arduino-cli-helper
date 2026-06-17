@@ -86738,8 +86738,8 @@
     },
     {
         "name": "GPIO_NXP_Arduino",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.4.3, 0.4.2, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.4.3, 0.4.2, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/GPIO_NXP_Arduino",
@@ -145964,6 +145964,21 @@
         "dependencies": [
             "Adafruit BusIO",
             "Adafruit SSD1306"
+        ]
+    },
+    {
+        "name": "IoTDataHub",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
+        "author": "Emmanuel SHYIRAMBERE",
+        "maintainer": "Emmanuel SHYIRAMBERE",
+        "website": "https://github.com/iotpioneers/iotdatahub-library",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, rp2040, samd, nrf52, avr, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/iotpioneers/iotdatahub-library.git",
+        "dependencies": [
+            "PubSubClient"
         ]
     }
 ]
