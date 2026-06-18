@@ -82562,8 +82562,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -85916,8 +85916,8 @@
     },
     {
         "name": "LEDDrivers_NXP_Arduino",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/LEDDriver_NXP_Arduino",
@@ -145890,8 +145890,8 @@
     },
     {
         "name": "DevLab_ICM20948",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "7Semi, Jonathan Mejorado Lopez",
         "maintainer": "Jonathan Mejorado Lopez<ventas@uelectronics.com>",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library",
