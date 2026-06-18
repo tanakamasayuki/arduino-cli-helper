@@ -54797,8 +54797,8 @@
     },
     {
         "name": "SoapESP32",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.4.3",
+        "versions": "1.4.3, 1.4.1, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "Thomas Jentzsch",
         "maintainer": "Thomas Jentzsch <yellobyte@bluewin.ch>",
         "website": "https://github.com/yellobyte/SoapESP32",
@@ -126922,8 +126922,8 @@
     },
     {
         "name": "BC7215AC_Universal_Aircon_Control",
-        "version": "7.1.0",
-        "versions": "7.1.0, 7.0.2, 7.0.0, 5.4.0, 4.1.0",
+        "version": "7.2.0",
+        "versions": "7.2.0, 7.1.0, 7.0.2, 7.0.0, 5.4.0, 4.1.0",
         "author": "Bitcode",
         "maintainer": "Bitcode <support@bitcode.com.cn>",
         "website": "https://github.com/bitcode-tech/bc7215ac",
@@ -129355,8 +129355,8 @@
     },
     {
         "name": "logic",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/logic",
@@ -135704,8 +135704,8 @@
     },
     {
         "name": "moddoMOUSE",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.2.0, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0, 0.2.0, 0.1.0",
         "author": "moddo inc.",
         "maintainer": "moddo inc. <info@moddo.io>",
         "website": "https://github.com/moddoio/moddoMOUSE-Arduino",
@@ -140621,8 +140621,8 @@
     },
     {
         "name": "ESP32_Multitasking_Network_Suite",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
@@ -140634,7 +140634,8 @@
             "LightweightSTL",
             "ThreadSafePing",
             "ThreadSafeFS",
-            "cronDaemon"
+            "cronDaemon",
+            "wolfssl"
         ]
     },
     {
@@ -145992,6 +145993,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tkhoi0821-svg/GrayKazu.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EspNowLink",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "EspNowLink Contributors",
+        "maintainer": "EspNowLink Contributors",
+        "website": "https://github.com/figamore/EspNowLink",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/figamore/EspNowLink.git",
         "dependencies": [
             ""
         ]
