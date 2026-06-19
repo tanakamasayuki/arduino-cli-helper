@@ -145319,8 +145319,8 @@
     },
     {
         "name": "NiusZigbee",
-        "version": "0.7.7",
-        "versions": "0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Zigbee",
@@ -146025,6 +146025,37 @@
         "repository": "https://github.com/Sakuhano/JoystickProtocol.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "XPoint",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
+        "maintainer": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
+        "website": "https://github.com/dstroy0/XPoint",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dstroy0/XPoint.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PCMFlowDevice",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/PCMFlowDevice",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/PCMFlowDevice.git",
+        "dependencies": [
+            "PCMFlow",
+            "M5Unified"
         ]
     }
 ]
