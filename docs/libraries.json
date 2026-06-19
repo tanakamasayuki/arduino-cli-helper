@@ -112592,8 +112592,8 @@
     },
     {
         "name": "SparkFun LG290P Quadband RTK GNSS Arduino Library",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.2",
+        "versions": "3.0.2, 3.0.1, 3.0.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library",
@@ -133962,12 +133962,12 @@
     },
     {
         "name": "WuaLeds_AW20216S",
-        "version": "0.1.1",
-        "versions": "0.1.1",
-        "author": "Matias Cazanave (https://matiascazanave.my.canva.site/)",
-        "maintainer": "Matias Cazanave <matias@wualeds.com>",
+        "version": "0.2.5",
+        "versions": "0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
+        "author": "Matias Cazanave (https://matiascazanave.my.canva.site/), Manuel Polo <mrmx@wualabs.com>",
+        "maintainer": "Manuel Polo <mrmx@wualabs.com>, Matias Cazanave <matias@wualabs.com>",
         "website": "https://github.com/WuaLeds/Wualeds_AW20216S",
-        "category": "Communication",
+        "category": "Display",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/WuaLeds/Wualeds_AW20216S.git",
@@ -146008,6 +146008,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/figamore/EspNowLink.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "JoystickProtocol",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sakuhano",
+        "maintainer": "Sakuhano <your.email@example.com>",
+        "website": "https://github.com/Sakuhano/JoystickProtocol",
+        "category": "Uncategorized",
+        "architectures": "ESP32, MEGA2560",
+        "types": "Contributed",
+        "repository": "https://github.com/Sakuhano/JoystickProtocol.git",
         "dependencies": [
             ""
         ]
