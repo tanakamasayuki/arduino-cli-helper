@@ -110261,8 +110261,8 @@
     },
     {
         "name": "Multitasker",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Jens D. Madsen",
         "maintainer": "Jens D. Madsen",
         "website": "https://arduino.one/multitasker",
