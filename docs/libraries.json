@@ -146180,5 +146180,22 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MyOTA",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Vic P.",
+        "maintainer": "Vic P. <vic4key@gmail.com>",
+        "website": "https://github.com/vic4key/MyOTA",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/vic4key/MyOTA.git",
+        "dependencies": [
+            "ElegantOTA",
+            "Async TCP",
+            "ESP Async WebServer"
+        ]
     }
 ]
