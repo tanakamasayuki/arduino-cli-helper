@@ -146150,5 +146150,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "M5GuruguruAvatar",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "nananauno",
+        "maintainer": "nananauno",
+        "website": "https://github.com/nananauno/M5GuruguruAvatar",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nananauno/M5GuruguruAvatar.git",
+        "dependencies": [
+            "M5Unified"
+        ]
     }
 ]
