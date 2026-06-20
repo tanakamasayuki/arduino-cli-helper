@@ -146135,5 +146135,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "EasyIR",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
+        "author": "OneDevelopmentPL",
+        "maintainer": "Iwo Wolanin <iwowolanin@gmail.com>",
+        "website": "https://github.com/OneDevelopmentPL/EasyIR",
+        "category": "Signal Input/Output",
+        "architectures": "avr, esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/OneDevelopmentPL/EasyIR.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
