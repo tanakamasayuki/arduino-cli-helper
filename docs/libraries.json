@@ -101463,8 +101463,8 @@
     },
     {
         "name": "PowerFeather-SDK",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.9.9, 0.9.8, 0.9.7, 0.9.6, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1, 0.9.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.0, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.9.9, 0.9.8, 0.9.7, 0.9.6, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1, 0.9.0",
         "author": "PowerFeather",
         "maintainer": "PowerFeather",
         "website": "https://github.com/PowerFeather/powerfeather-sdk",
@@ -131552,8 +131552,8 @@
     },
     {
         "name": "SerialWeb",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.1, 1.0.5, 1.0.3, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.1.1, 2.1.0, 2.0.1, 1.0.5, 1.0.3, 1.0.0",
         "author": "00kenno <irongolem0100@gmail.com>",
         "maintainer": "TORICA_Electronics",
         "website": "https://github.com/TORICA-Org/SerialWeb",
@@ -139888,8 +139888,8 @@
     },
     {
         "name": "JW_MatrixButtons",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2",
         "author": "JW Control",
         "maintainer": "JW Control <jw.control.peru@gmail.com>",
         "website": "https://github.com/JW-Control/JW_MatrixButtons",
@@ -146119,6 +146119,21 @@
             "Arduino-Audio-Driver",
             "SD",
             "Wire"
+        ]
+    },
+    {
+        "name": "DeterministicESPAsyncWebServer",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
+        "maintainer": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
+        "website": "https://github.com/dstroy0/DeterministicESPAsyncWebServer",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dstroy0/DeterministicESPAsyncWebServer.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
