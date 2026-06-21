@@ -146212,5 +146212,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "FOTA-Client-ESP32",
+        "version": "1.0.5",
+        "versions": "1.0.5",
+        "author": "NodeWave EA <info@nodewave.net>",
+        "maintainer": "Yebei-Gideon <yebei@nodewave.net>",
+        "website": "https://github.com/NodeWave-EA/FOTA-Client-ESP32",
+        "category": "Communication",
+        "architectures": "esp32, esp32s2, esp32s3, esp32c3, esp32c6, esp32h2, esp32c2",
+        "types": "Contributed",
+        "repository": "https://github.com/NodeWave-EA/FOTA-Client-ESP32.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
