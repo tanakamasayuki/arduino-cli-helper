@@ -7657,11 +7657,11 @@
     },
     {
         "name": "Button",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Michael Adams <arduino@michaeladams.org>",
-        "maintainer": "Michael Adams <arduino@michaeladams.org>",
-        "website": "http://utrainia.com/",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
+        "author": "Michael Adams <github@michaeladams.org>",
+        "maintainer": "Michael Adams <github@michaeladams.org>",
+        "website": "https://github.com/madleech/Button",
         "category": "Signal Input/Output",
         "architectures": "*",
         "types": "Contributed",
@@ -146196,6 +146196,21 @@
             "ElegantOTA",
             "Async TCP",
             "ESP Async WebServer"
+        ]
+    },
+    {
+        "name": "UMOZ",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.0, 1.0.0",
+        "author": "Moaaz Yahia Shrif",
+        "maintainer": "Moaaz <[EMAIL_ADDRESS]>",
+        "website": "https://github.com/Moaaz-i/UMOZ",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Moaaz-i/UMOZ.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
