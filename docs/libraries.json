@@ -90208,8 +90208,8 @@
     },
     {
         "name": "uNeurai",
-        "version": "0.0.6",
-        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
+        "version": "0.0.7",
+        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
         "author": "Asimov",
         "maintainer": "Asimov <web@neurai.org>",
         "website": "https://github.com/NeuraiProject/uNeurai",
@@ -109159,8 +109159,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.7",
-        "versions": "1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.8",
+        "versions": "1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
