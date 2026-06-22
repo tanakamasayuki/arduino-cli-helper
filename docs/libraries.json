@@ -75608,8 +75608,8 @@
     },
     {
         "name": "ellipse",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ellipse",
@@ -99281,8 +99281,8 @@
     },
     {
         "name": "Alfredo-NoU3",
-        "version": "1.0.12",
-        "versions": "1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.13.0",
+        "versions": "1.13.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alfredo Systems",
         "maintainer": "Jacob Williams (jrw4561@gmail.com)",
         "website": "https://github.com/AlfredoSystems/Alfredo_NoU3",
@@ -99291,8 +99291,7 @@
         "types": "Contributed",
         "repository": "https://github.com/AlfredoSystems/Alfredo-NoU3.git",
         "dependencies": [
-            "Adafruit Sensor Calibration",
-            "Adafruit AHRS"
+            ""
         ]
     },
     {
@@ -109756,8 +109755,8 @@
     },
     {
         "name": "Iridium9704LaunchPad",
-        "version": "2.0.4",
-        "versions": "2.0.4, 2.0.3, 2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9704_launch_pad/documentation/",
@@ -115552,8 +115551,8 @@
     },
     {
         "name": "PDLS_Common",
-        "version": "10.0.5",
-        "versions": "10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.0.9, 9.0.8, 9.0.7, 9.0.6, 9.0.4, 9.0.3",
+        "version": "10.0.7",
+        "versions": "10.0.7, 10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.0.9, 9.0.8, 9.0.7, 9.0.6, 9.0.4, 9.0.3",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -115567,8 +115566,8 @@
     },
     {
         "name": "PDLS_Basic",
-        "version": "10.0.5",
-        "versions": "10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
+        "version": "10.0.7",
+        "versions": "10.0.7, 10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -126620,8 +126619,8 @@
     },
     {
         "name": "ESP32_MCPWM",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Little Man Builds",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/littlemanbuilds/ESP32_MCPWM",
@@ -135385,8 +135384,8 @@
     },
     {
         "name": "OptaButton",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "panchocoquito",
         "maintainer": "panchocoquito",
         "website": "https://github.com/panchocoquito/OptaButton",
@@ -135735,7 +135734,7 @@
     {
         "name": "RoboServo",
         "version": "1.1.2",
-        "versions": "1.1.2, 1.1.0, 0.2.0",
+        "versions": "1.1.2, 1.1.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0",
         "author": "dunknowcoding",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/RoboServo",
@@ -140760,8 +140759,8 @@
     },
     {
         "name": "INA Series Sensor",
-        "version": "0.5.3",
-        "versions": "0.5.3, 0.5.2, 0.5.0, 0.2.5, 0.2.1",
+        "version": "0.5.4",
+        "versions": "0.5.4, 0.5.3, 0.5.2, 0.5.0, 0.2.5, 0.2.1",
         "author": "dunknowcoding",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/INA_series_sensor",
@@ -144693,8 +144692,8 @@
     },
     {
         "name": "DiFinders",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "dunknowcoding",
         "maintainer": "dunknowcoding <NiusRobotLab>",
         "website": "https://github.com/dunknowcoding/DiFinders",
@@ -144738,8 +144737,8 @@
     },
     {
         "name": "Iridium9604LaunchPad",
-        "version": "2.0.4",
-        "versions": "2.0.4, 2.0.3, 2.0.1, 2.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.1, 2.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9604_launch_pad/documentation/",
@@ -145320,7 +145319,7 @@
     {
         "name": "NiusZigbee",
         "version": "1.0.0",
-        "versions": "1.0.0, 0.12.0, 0.11.0, 0.10.0, 0.9.0, 0.8.0, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
+        "versions": "1.0.0, 0.16.0, 0.15.0, 0.14.0, 0.12.0, 0.11.0, 0.10.0, 0.9.0, 0.8.0, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.1.2, 0.1.1",
         "author": "dunknowcoding (NiusRobotLab)",
         "maintainer": "dunknowcoding",
         "website": "https://github.com/dunknowcoding/ArduinoNRF-Zigbee",
@@ -145921,8 +145920,8 @@
     },
     {
         "name": "M5SWITCH8",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/M5SWITCH8",
@@ -146291,8 +146290,8 @@
     },
     {
         "name": "UWB_DW1000_DW3000",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Igor Levkov <levkov.igor@gmail.com>",
         "maintainer": "Igor Levkov <levkov.igor@gmail.com>",
         "website": "https://github.com/levkovigor/UWB_DW1000_DW3000",
@@ -146315,6 +146314,21 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/MyTechWaifu/MTW_TinyLoopScheduler.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UnitCMSISDAP",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Cesar Bautista, Unit Electronics",
+        "maintainer": "Unit Electronics <ventas@uelectronics.com>",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library",
+        "category": "Device Control",
+        "architectures": "mcs51",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library.git",
         "dependencies": [
             ""
         ]
