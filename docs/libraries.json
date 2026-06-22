@@ -146153,8 +146153,8 @@
     },
     {
         "name": "M5GuruguruAvatar",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "nananauno",
         "maintainer": "nananauno",
         "website": "https://github.com/nananauno/M5GuruguruAvatar",
@@ -146226,6 +146226,37 @@
         "repository": "https://github.com/NodeWave-EA/FOTA-Client-ESP32.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "Adafruit_SSD1306_72x40",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Hans Schou",
+        "maintainer": "Hans Schou <hans.schou@gmail.com>",
+        "website": "https://github.com/fun6400/Adafruit_SSD1306_72x40",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/fun6400/Adafruit_SSD1306_72x40.git",
+        "dependencies": [
+            "Adafruit SSD1306",
+            "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "PipeGIF",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Hans Schou",
+        "maintainer": "Hans Schou <h.ansschou@gmail.com>",
+        "website": "https://github.com/fun6400/PipeGIF",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/fun6400/PipeGIF.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
