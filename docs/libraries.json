@@ -98305,8 +98305,8 @@
     },
     {
         "name": "PxServ",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "mustafa_kok",
         "maintainer": "PxServ",
         "website": "https://docs.pxserv.net/tr/arduino-kutuphanesi",
@@ -98315,7 +98315,7 @@
         "types": "Contributed",
         "repository": "https://github.com/pxsty0/pxserv.arduino.git",
         "dependencies": [
-            "Arduino_JSON"
+            "ArduinoJson"
         ]
     },
     {
