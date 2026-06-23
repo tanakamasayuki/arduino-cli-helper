@@ -74709,8 +74709,8 @@
     },
     {
         "name": "M5Unit-ENV",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-ENV",
@@ -82273,8 +82273,8 @@
     },
     {
         "name": "ROBLEX",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.1.1, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 1.0.0",
         "author": "ROBLEX",
         "maintainer": "Judiviga <juandivillamizar@yahoo.com>",
         "website": "https://github.com/Judiviga/ROBLEX",
@@ -109159,8 +109159,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.8",
-        "versions": "1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.9",
+        "versions": "1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
@@ -141290,8 +141290,8 @@
     },
     {
         "name": "GY33_Colour_Sensor",
-        "version": "1.1.3",
-        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "You-010",
         "maintainer": "You-010 <276804073+You-010@users.noreply.github.com>",
         "website": "https://github.com/You-010/GY33_Arduino",
@@ -145078,8 +145078,8 @@
     },
     {
         "name": "Host",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "soosp",
         "maintainer": "soosp",
         "website": "https://github.com/soosp/Host",
@@ -146260,8 +146260,8 @@
     },
     {
         "name": "OtaHub",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Chamara Gayan <support@otahub.dev>",
         "maintainer": "Chamara Gayan <support@otahub.dev>",
         "website": "https://otahub.dev",
@@ -146320,8 +146320,8 @@
     },
     {
         "name": "UnitCMSISDAP",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Cesar Bautista, Unit Electronics",
         "maintainer": "Unit Electronics <ventas@uelectronics.com>",
         "website": "https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library",
@@ -146329,6 +146329,21 @@
         "architectures": "mcs51",
         "types": "Contributed",
         "repository": "https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "VL53L4CD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Pololu",
+        "maintainer": "Pololu <inbox@pololu.com>",
+        "website": "https://github.com/pololu/vl53l4cd-arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/pololu/vl53l4cd-arduino.git",
         "dependencies": [
             ""
         ]
