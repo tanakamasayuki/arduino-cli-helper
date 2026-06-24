@@ -145650,8 +145650,8 @@
     },
     {
         "name": "ZenoPCB",
-        "version": "0.3.0",
-        "versions": "0.3.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0",
         "author": "ZENOPCB ELECTRONICS TECHNOLOGY CO., LTD <infor@zenopcb.vn>",
         "maintainer": "ZENOPCB ELECTRONICS TECHNOLOGY CO., LTD <infor@zenopcb.vn>",
         "website": "https://github.com/zenopcb/zenopcb-iot-platform",
