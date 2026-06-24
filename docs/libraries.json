@@ -146122,8 +146122,8 @@
     },
     {
         "name": "DeterministicESPAsyncWebServer",
-        "version": "1.2.0",
-        "versions": "1.2.0, 0.1.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.0, 0.1.0",
         "author": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
         "maintainer": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
         "website": "https://github.com/dstroy0/DeterministicESPAsyncWebServer",
@@ -146350,8 +146350,8 @@
     },
     {
         "name": "GamepadInput",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/gamepad_input_arduino_lib",
@@ -146419,6 +146419,36 @@
         "architectures": "avr, esp32, stm32",
         "types": "Contributed",
         "repository": "https://github.com/argeorun/BACnetMSTP-ArduinoLib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "segDisplay",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Qmaker",
+        "maintainer": "Qmaker <andresavalosgallegos@gmail.com>",
+        "website": "https://github.com/Qmaker-programmer/segDisplay",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Qmaker-programmer/segDisplay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESPNowHub",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Zeev Elias",
+        "maintainer": "Zeev Elias",
+        "website": "https://github.com/zeevje/ESPNowHub",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/zeevje/ESPNowHub.git",
         "dependencies": [
             ""
         ]
