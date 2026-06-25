@@ -46182,8 +46182,8 @@
     },
     {
         "name": "DABShield",
-        "version": "2.1.2",
-        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.4.0, 1.3.0, 1.2.0, 1.1.3, 1.1.2",
+        "version": "2.1.3",
+        "versions": "2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.4.0, 1.3.0, 1.2.0, 1.1.3, 1.1.2",
         "author": "Adrian Verity <adrian@dabshield.com>",
         "maintainer": "Adrian Verity <adrian@dabshield.com>",
         "website": "http://dabshield.com/",
@@ -115633,8 +115633,8 @@
     },
     {
         "name": "CC1101",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Mateusz Furga <matfurga@gmail.com>",
         "maintainer": "Mateusz Furga <matfurga@gmail.com>",
         "website": "https://github.com/mfurga/cc1101",
@@ -143168,8 +143168,8 @@
     },
     {
         "name": "Statechart",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "maintainer": "Maximiliano Ramirez <maximiliano.ramirezbravo@gmail.com>",
         "website": "https://github.com/alkonosst/Statechart/",
