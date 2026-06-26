@@ -90208,8 +90208,8 @@
     },
     {
         "name": "uNeurai",
-        "version": "0.0.7",
-        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
+        "version": "0.0.8",
+        "versions": "0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
         "author": "Asimov",
         "maintainer": "Asimov <web@neurai.org>",
         "website": "https://github.com/NeuraiProject/uNeurai",
@@ -129151,11 +129151,11 @@
     },
     {
         "name": "probot",
-        "version": "0.2.7",
-        "versions": "0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.2, 0.2.0, 0.1.5, 0.1.4, 0.1.2",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.2, 0.2.0, 0.1.5, 0.1.4, 0.1.2",
         "author": "Tuna Gül",
         "maintainer": "Tuna Gül <tunagul54@gmail.com>",
-        "website": "https://github.com/nfrproducts/probot-lib",
+        "website": "https://github.com/probot-studio/probot-core",
         "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
@@ -146600,6 +146600,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Nerdsiah/NeoStreaming.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Lucarne",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Techalchemy",
+        "maintainer": "Puparia",
+        "website": "https://github.com/Pupariaa/Lucarne",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Pupariaa/Lucarne.git",
         "dependencies": [
             ""
         ]
