@@ -142443,8 +142443,8 @@
     },
     {
         "name": "MakeabilityLab",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Jon E. Froehlich <jonf@cs.washington.edu>",
         "maintainer": "Jon E. Froehlich <jonf@cs.washington.edu>",
         "website": "https://github.com/makeabilitylab/makelab-arduino-lib",
@@ -144738,8 +144738,8 @@
     },
     {
         "name": "Iridium9604LaunchPad",
-        "version": "2.0.5",
-        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.1, 2.0.0",
+        "version": "2.0.6",
+        "versions": "2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.1, 2.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9604_launch_pad/documentation/",
@@ -146570,6 +146570,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/IsraEB/TEA5767Radio.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "easy_stack",
+        "version": "1.1.2",
+        "versions": "1.1.2",
+        "author": "gooderfreed <gooderfreed@gmail.com>",
+        "maintainer": "gooderfreed <gooderfreed@gmail.com>",
+        "website": "https://github.com/easymem/easy_stack",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/EasyMem/easy_stack.git",
         "dependencies": [
             ""
         ]
