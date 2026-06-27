@@ -146693,5 +146693,20 @@
         "dependencies": [
             "Adafruit BusIO"
         ]
+    },
+    {
+        "name": "ByteBuffer",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "cyfney-anka",
+        "maintainer": "cyfney-anka@qq.com",
+        "website": "https://github.com/CodexPad/byte_buffer_arduino_lib",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/CodexPad/byte_buffer_arduino_lib.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
