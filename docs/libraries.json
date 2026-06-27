@@ -109159,8 +109159,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.15",
-        "versions": "1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.16",
+        "versions": "1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
@@ -140605,8 +140605,8 @@
     },
     {
         "name": "QMan",
-        "version": "1.0.6-beta",
-        "versions": "1.0.6-beta, 1.0.4-beta, 1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
+        "version": "1.0.7-beta",
+        "versions": "1.0.7-beta, 1.0.6-beta, 1.0.4-beta, 1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-beta",
         "author": "Ilia Vinokurov",
         "maintainer": "Ilia Vinokurov <ilvin@mail.ru>",
         "website": "https://github.com/IlVin/QMan",
@@ -145079,8 +145079,8 @@
     },
     {
         "name": "Host",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "soosp",
         "maintainer": "soosp",
         "website": "https://github.com/soosp/Host",
