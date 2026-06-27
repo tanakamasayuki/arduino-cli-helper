@@ -146276,8 +146276,8 @@
     },
     {
         "name": "RobustFrame",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/robust_frame_arduino_lib",
@@ -146286,7 +146286,7 @@
         "types": "Contributed",
         "repository": "https://github.com/CodexPad/robust_frame_arduino_lib.git",
         "dependencies": [
-            ""
+            "ByteBuffer"
         ]
     },
     {
