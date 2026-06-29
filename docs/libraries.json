@@ -109159,8 +109159,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.16",
-        "versions": "1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.17",
+        "versions": "1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
@@ -120702,8 +120702,8 @@
     },
     {
         "name": "RockBLOCK-9704",
-        "version": "0.1.31",
-        "versions": "0.1.31, 0.1.30, 0.1.29, 0.1.28, 0.1.27, 0.1.26, 0.1.25, 0.1.24, 0.1.23, 0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.18",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.1.31, 0.1.30, 0.1.29, 0.1.28, 0.1.27, 0.1.26, 0.1.25, 0.1.24, 0.1.23, 0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.18",
         "author": "Ground Control",
         "maintainer": "help@groundcontrol.com",
         "website": "https://github.com/rock7/RockBLOCK-9704",
@@ -135823,8 +135823,8 @@
     },
     {
         "name": "nikki.esp32",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.1, 1.2.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dev Nikki",
         "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
         "website": "https://github.com/nikki-build/nikki.esp32",
@@ -139278,8 +139278,8 @@
     },
     {
         "name": "nikki.unoR4",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Dev Nikki",
         "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
         "website": "https://github.com/nikki-build/nikki.unoR4",
@@ -144927,8 +144927,8 @@
     },
     {
         "name": "ESP32_CAN_NG",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "TechOverflow, Collin Kidder, Outlandnish",
         "maintainer": "TechOverflow <fusion.tindie@gmail.com>",
         "website": "https://github.com/TechOverflow/esp32_can",
@@ -146772,8 +146772,8 @@
     },
     {
         "name": "LionArray",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionArray",
@@ -146828,6 +146828,37 @@
         "repository": "https://github.com/H-Kurosaki/UARDECS_PICO.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "LionRtosTask",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "leva <leva.the.lion@gmail.com>",
+        "maintainer": "leva <leva.the.lion@gmail.com>",
+        "website": "https://github.com/blah188/LionRtosTask",
+        "category": "Timing",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/blah188/LionRtosTask.git",
+        "dependencies": [
+            "LionArray"
+        ]
+    },
+    {
+        "name": "LionLogger",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "leva <leva.the.lion@gmail.com>",
+        "maintainer": "leva <leva.the.lion@gmail.com>",
+        "website": "https://github.com/blah188/LionLogger",
+        "category": "Data Storage",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/blah188/LionLogger.git",
+        "dependencies": [
+            "LionArray",
+            "LionRtosTask"
         ]
     }
 ]
