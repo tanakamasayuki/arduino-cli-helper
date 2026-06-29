@@ -137279,8 +137279,8 @@
     },
     {
         "name": "Grobot_Animations",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2",
         "author": "Tanmay Wankar",
         "maintainer": "Tanmay Wankar <tanmaywankar4@gmail.com>",
         "website": "https://github.com/tanmaywankar/Grobot_Animations",
@@ -139262,8 +139262,8 @@
     },
     {
         "name": "nikki.esp8266",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Dev Nikki",
         "maintainer": "Dev Nikki <dev.nikki.build@gmail.com>",
         "website": "https://github.com/nikki-build/nikki.esp8266",
@@ -146859,6 +146859,21 @@
         "dependencies": [
             "LionArray",
             "LionRtosTask"
+        ]
+    },
+    {
+        "name": "PCBCUPID QMC6309",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Karthik Elumalai <codingkarthik2@gmail.com>",
+        "maintainer": "PCBCUPID <hello@pcbcupid.com>",
+        "website": "https://github.com/pcbcupid/PCBCUPID-QMC6309",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/pcbcupid/PCBCUPID-QMC6309.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
