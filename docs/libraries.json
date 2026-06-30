@@ -41595,8 +41595,8 @@
     },
     {
         "name": "ACS712",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.10, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.10, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.3, 0.1.2",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>, Pete Thompson <pete.thompson@yahoo.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/ACS712",
@@ -58274,8 +58274,8 @@
     },
     {
         "name": "fixed",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/fixed",
@@ -58319,8 +58319,8 @@
     },
     {
         "name": "BitPack",
-        "version": "1.3.7",
-        "versions": "1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.0.0",
+        "version": "1.3.8",
+        "versions": "1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BitPack",
@@ -79474,8 +79474,8 @@
     },
     {
         "name": "ILI9341_T4",
-        "version": "1.7.0",
-        "versions": "1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0",
+        "version": "1.7.1",
+        "versions": "1.7.1, 1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0",
         "author": "Arvind Singh",
         "maintainer": "Arvind Singh",
         "website": "https://github.com/vindar/ILI9341_T4",
@@ -82562,8 +82562,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.1",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.1, 2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -98595,8 +98595,8 @@
     },
     {
         "name": "GyverShift",
-        "version": "1.1.5",
-        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.6",
+        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverShift",
@@ -123007,8 +123007,8 @@
     },
     {
         "name": "RGBLED",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/RGBLED",
@@ -123870,8 +123870,8 @@
     },
     {
         "name": "GVector",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GVector",
@@ -124398,8 +124398,8 @@
     },
     {
         "name": "DFRobot_SFA40",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "DFRobot",
         "maintainer": "fary<feng.yang@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_SFA40",
@@ -125169,8 +125169,8 @@
     },
     {
         "name": "uButton",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/uButton",
@@ -132534,8 +132534,8 @@
     },
     {
         "name": "uEncoder",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/uEncoder",
@@ -138121,8 +138121,8 @@
     },
     {
         "name": "GyverMotor2",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverMotor2",
@@ -146933,6 +146933,52 @@
         "repository": "https://github.com/kokofixcomputers/ESP32BLECombo.git",
         "dependencies": [
             "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "LILYGO T-Keyboard-S3-Pro Library",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "lbuque",
+        "maintainer": "lbuque <1102390310@qq.com>",
+        "website": "https://github.com/Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library.git",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library.git",
+        "dependencies": [
+            "LovyanGFX",
+            "ButtonSense"
+        ]
+    },
+    {
+        "name": "GP8403",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/GP8403",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/GP8403.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CKC_AIoT-lib",
+        "version": "1.3.6",
+        "versions": "1.3.6",
+        "author": "PLGdevo <PLGgroup27@gmail.com>",
+        "maintainer": "PLGdevo <PLGgroup27@gmail.com>",
+        "website": "https://github.com/PLGdevo/CKC_LIB",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PLGdevo/CKC_LIB.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
