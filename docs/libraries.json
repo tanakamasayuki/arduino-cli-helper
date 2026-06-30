@@ -57764,8 +57764,8 @@
     },
     {
         "name": "GyverNTC",
-        "version": "1.5.5",
-        "versions": "1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.5.6",
+        "versions": "1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverNTC",
@@ -122752,8 +122752,8 @@
     },
     {
         "name": "uPID",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/uPID",
@@ -147016,6 +147016,23 @@
             "LionArray",
             "LionLogger",
             "LionTask"
+        ]
+    },
+    {
+        "name": "FlareDom",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "author": "Moaaz",
+        "maintainer": "Moaaz",
+        "website": "https://github.com/Moaaz-i/FlareDom",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Moaaz-i/FlareDom.git",
+        "dependencies": [
+            "ESPAsyncWebServer",
+            "ESPAsyncTCP",
+            "AsyncTCP"
         ]
     }
 ]
