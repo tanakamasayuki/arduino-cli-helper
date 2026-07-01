@@ -16126,8 +16126,8 @@
     },
     {
         "name": "BlueRobotics Keller LD Library",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.1.1, 1.0.0",
         "author": "BlueRobotics",
         "maintainer": "BlueRobotics <info@bluerobotics.com>",
         "website": "https://github.com/bluerobotics/BlueRobotics_KellerLD_Library",
@@ -71489,8 +71489,8 @@
     },
     {
         "name": "GyverJoy",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverJoy",
@@ -122797,8 +122797,8 @@
     },
     {
         "name": "UART_RF",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/UART_RF",
