@@ -146410,8 +146410,8 @@
     },
     {
         "name": "BACnetMSTP",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "George Arun <argeorun@gmail.com>",
         "maintainer": "George Arun <argeorun@gmail.com>",
         "website": "https://github.com/argeorun/BACnetMSTP-ArduinoLib",
@@ -146605,8 +146605,8 @@
     },
     {
         "name": "Lucarne",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Techalchemy",
         "maintainer": "Puparia",
         "website": "https://github.com/Pupariaa/Lucarne",
@@ -147094,6 +147094,21 @@
         "dependencies": [
             "RobustFrame",
             "GamepadInput"
+        ]
+    },
+    {
+        "name": "AERL C Framework",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "Applied Electronics and Robotics Laboratory LLP",
+        "maintainer": "AERL <info@aerl.space>",
+        "website": "https://github.com/AERL-Official/AERL-C-Framework",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AERL-Official/AERL-C-Framework.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
