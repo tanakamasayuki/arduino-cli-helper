@@ -57719,8 +57719,8 @@
     },
     {
         "name": "Psychrometer",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/Psychrometer",
@@ -147037,8 +147037,8 @@
     },
     {
         "name": "ezTime2",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Dag0d",
         "maintainer": "Dag0d",
         "website": "https://github.com/Dag0d/ezTime2",
@@ -147078,6 +147078,22 @@
         "repository": "https://github.com/tanakamasayuki/EspUsbDevice.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "GamepadCodec",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "chenliang@null-lab.com",
+        "maintainer": "chenliang@null-lab.com",
+        "website": "https://github.com/CodexPad/gamepad_codec_arduino_lib",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/CodexPad/gamepad_codec_arduino_lib.git",
+        "dependencies": [
+            "RobustFrame",
+            "GamepadInput"
         ]
     }
 ]
