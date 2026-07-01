@@ -57944,8 +57944,8 @@
     },
     {
         "name": "SoftServo",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/SoftServo",
@@ -96417,8 +96417,8 @@
     },
     {
         "name": "GyverSegment",
-        "version": "1.4.13",
-        "versions": "1.4.13, 1.4.12, 1.4.11, 1.4.9, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.4.14",
+        "versions": "1.4.14, 1.4.13, 1.4.12, 1.4.11, 1.4.9, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverSegment",
@@ -105429,8 +105429,8 @@
     },
     {
         "name": "pgm_utils",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/pgm_utils",
@@ -109370,8 +109370,8 @@
     },
     {
         "name": "Looper",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/Looper",
@@ -124718,8 +124718,8 @@
     },
     {
         "name": "GyverPing",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverPing",
@@ -147107,6 +147107,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/AERL-Official/AERL-C-Framework.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NiusCam",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "dunknowcoding",
+        "maintainer": "dunknowcoding",
+        "website": "https://github.com/dunknowcoding/NiusCam",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/NiusCam.git",
         "dependencies": [
             ""
         ]
