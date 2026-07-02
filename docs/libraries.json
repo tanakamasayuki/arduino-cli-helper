@@ -33265,17 +33265,17 @@
     },
     {
         "name": "UARDECS Library",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.0, 1.2.1",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.0, 1.2.1",
         "author": "H.kurosaki,K.yasuba",
-        "maintainer": "uecs.org <kurosaki@affrc.go.jp>",
-        "website": "http://uecs.org/arduino/uardecs.html",
+        "maintainer": "uecs.org <kurosaki@uecs.jp>",
+        "website": "https://github.com/H-Kurosaki/UARDECS",
         "category": "Communication",
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/H-Kurosaki/UARDECS.git",
         "dependencies": [
-            ""
+            "Ethernet2"
         ]
     },
     {
@@ -33552,17 +33552,17 @@
     },
     {
         "name": "UARDECS_MEGA Library",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.2.1",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.1",
         "author": "H.kurosaki,K.yasuba",
-        "maintainer": "uecs.org <kurosaki@affrc.go.jp>",
-        "website": "http://uecs.org/arduino/uardecs.html",
+        "maintainer": "uecs.org <kurosaki@uecs.jp>",
+        "website": "https://github.com/H-Kurosaki/UARDECS_MEGA",
         "category": "Communication",
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/H-Kurosaki/UARDECS_MEGA.git",
         "dependencies": [
-            ""
+            "Ethernet2"
         ]
     },
     {
@@ -58319,8 +58319,8 @@
     },
     {
         "name": "BitPack",
-        "version": "1.3.8",
-        "versions": "1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.0.0",
+        "version": "1.3.9",
+        "versions": "1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/BitPack",
@@ -146455,8 +146455,8 @@
     },
     {
         "name": "ESP32IRPulseKit",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32IRPulseKit",
@@ -147169,6 +147169,51 @@
         "repository": "https://github.com/PTSolns/I2Connect_AHT20.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Soldered-position-sensor-AS5600-breakout-Arduino-library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "www.soldered.com",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-Position-sensor-AS5600-breakout-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "WiStalker",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "1e1",
+        "maintainer": "1e1",
+        "website": "https://github.com/1e1/arduino-macaddress-detector",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/1e1/arduino-macaddress-detector.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LionFastLcd",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "leva <leva.the.lion@gmail.com>",
+        "maintainer": "leva <leva.the.lion@gmail.com>",
+        "website": "https://github.com/blah188/LionFastLcd",
+        "category": "Display",
+        "architectures": "esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/blah188/LionFastLcd.git",
+        "dependencies": [
+            "LionArray"
         ]
     }
 ]
