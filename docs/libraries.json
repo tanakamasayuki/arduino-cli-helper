@@ -142819,8 +142819,8 @@
     },
     {
         "name": "CircuitDigestCloud",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/CircuitDigestCloud",
@@ -147128,8 +147128,8 @@
     },
     {
         "name": "XC_GUI",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Gigasitron Xcross",
         "maintainer": "Gigasitron <inquiry@gigasitron.com>",
         "website": "https://github.com/Gigasitron-xcross/XC_GUI",
@@ -147214,6 +147214,40 @@
         "repository": "https://github.com/blah188/LionFastLcd.git",
         "dependencies": [
             "LionArray"
+        ]
+    },
+    {
+        "name": "PCBCUPID-Cypher",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Abhishek N <an5600580@gmail.com>",
+        "maintainer": "PCBCUPID <hello@pcbcupid.com>",
+        "website": "https://github.com/pcbcupid/PCBCUPID-Cypher",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/pcbcupid/PCBCUPID-CYPHER.git",
+        "dependencies": [
+            "Wire",
+            "SPI",
+            "SD_MMC",
+            "Adafruit GFX Library",
+            "Adafruit ST7735 and ST7789 Library"
+        ]
+    },
+    {
+        "name": "Soldered L86 M33 GNSS Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.solde.red/333201",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
