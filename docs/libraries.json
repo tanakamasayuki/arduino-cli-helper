@@ -146043,8 +146043,8 @@
     },
     {
         "name": "PCMFlowDevice",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/PCMFlowDevice",
@@ -147122,6 +147122,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/dunknowcoding/NiusCam.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "XC_GUI",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Gigasitron Xcross",
+        "maintainer": "Gigasitron <inquiry@gigasitron.com>",
+        "website": "https://github.com/Gigasitron-xcross/XC_GUI",
+        "category": "Display",
+        "architectures": "stm32, rp2040, esp32, samd",
+        "types": "Contributed",
+        "repository": "https://github.com/Gigasitron-xcross/XC_GUI.git",
         "dependencies": [
             ""
         ]
