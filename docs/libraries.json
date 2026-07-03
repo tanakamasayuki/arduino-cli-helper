@@ -22971,8 +22971,8 @@
     },
     {
         "name": "WS2812FX",
-        "version": "1.4.6",
-        "versions": "1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.6, 1.0.5, 1.0.4, 1.0.3",
+        "version": "1.4.7",
+        "versions": "1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.6, 1.0.5, 1.0.4, 1.0.3",
         "author": "Harm Aldick",
         "maintainer": "Harm Aldick",
         "website": "https://github.com/kitesurfer1404/WS2812FX",
@@ -33189,21 +33189,6 @@
         ]
     },
     {
-        "name": "Virtuino library for all ESP8266 and ESP32 boards",
-        "version": "1.7.2",
-        "versions": "1.7.2",
-        "author": "Ilias Lamprou <iliaslampr@gmail.com>",
-        "maintainer": "Ilias Lamprou <iliaslampr@gmail.com>",
-        "website": "https://github.com/iliaslamprou/virtuinoESP",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/iliaslamprou/virtuinoESP.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "NeuralNetwork",
         "version": "4.1.9",
         "versions": "4.1.9, 4.1.8, 4.1.7, 4.1.0, 4.0.0, 3.1.7, 3.1.6, 3.0.0, 2.4.4, 2.4.1, 2.4.0, 2.3.7, 2.3.6, 2.3.3, 2.3.1, 2.3.0, 2.2.0, 2.1.7, 2.1.1, 2.0.0, 1.8.1, 1.7.9, 1.7.0, 1.0.2, 1.0.1, 1.0.0",
@@ -33229,21 +33214,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/boxtec/Witty.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "Virtuino library for STM32 boards",
-        "version": "1.6.3",
-        "versions": "1.6.3",
-        "author": "<iliaslampr@gmail.com>",
-        "maintainer": "<iliaslampr@gmail.com>",
-        "website": "https://github.com/iliaslamprou/virtuino_stm32",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/iliaslamprou/virtuino_stm32.git",
         "dependencies": [
             ""
         ]
@@ -33968,21 +33938,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mprograms/SimpleRotary.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "Virtuino",
-        "version": "1.8.0",
-        "versions": "1.8.0, 1.7.1",
-        "author": "Ilias Lamprou <iliaslampr@gmail.com>",
-        "maintainer": "Ilias Lamprou <iliaslampr@gmail.com>",
-        "website": "https://github.com/iliaslamprou/virtuino",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/iliaslamprou/virtuino.git",
         "dependencies": [
             ""
         ]
@@ -75162,8 +75117,8 @@
     },
     {
         "name": "SparseMatrix",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SparseMatrix",
@@ -75396,7 +75351,7 @@
     {
         "name": "pfodParser",
         "version": "5.1.0",
-        "versions": "5.1.0, 5.0.4, 5.0.3, 5.0.2, 4.1.2, 4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
+        "versions": "5.1.0, 5.0.4, 5.0.3, 4.1.2, 4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
         "author": "Matthew Ford",
         "maintainer": "Matthew Ford",
         "website": "https://github.com/drmpf/pfodParser",
@@ -118275,22 +118230,6 @@
         ]
     },
     {
-        "name": "firmnginKit",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4",
-        "author": "Asya Syarif <asya.syarif94@gmail.com>",
-        "maintainer": "Asya Syarif <asya.syarif94@gmail.com>",
-        "website": "https://github.com/firmngin/kit",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/firmngin/firmnginKit.git",
-        "dependencies": [
-            "PubSubClient",
-            "ArduinoJson"
-        ]
-    },
-    {
         "name": "YouveBeenNotified",
         "version": "1.1.6",
         "versions": "1.1.6, 1.1.5, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
@@ -121336,13 +121275,13 @@
     },
     {
         "name": "MistMaker",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "shuang cai, David Yang",
         "maintainer": "shuangcai64@gmail.com",
         "website": "https://github.com/Dav1dyang/Programmable-Mist-Maker",
         "category": "Signal Input/Output",
-        "architectures": "*",
+        "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/owochel/MistMaker.git",
         "dependencies": [
@@ -129503,8 +129442,8 @@
     },
     {
         "name": "DlmsCosemLib",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Zeppelin500 <mbusinolib@gmail.com>",
         "maintainer": "Zeppelin500 <mbusinolib@gmail.com>",
         "website": "https://github.com/Zeppelin500/DlmsCosemLib.git",
@@ -139593,21 +139532,6 @@
         ]
     },
     {
-        "name": "circuit_kit_library",
-        "version": "0.0.2",
-        "versions": "0.0.2",
-        "author": "opilat",
-        "maintainer": "opilat <ondrej.pilat@ozobot.com>",
-        "website": "https://github.com/ozobot/circuit_kit_library",
-        "category": "Other",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/ozobot/drvkit_library.git",
-        "dependencies": [
-            "Wire"
-        ]
-    },
-    {
         "name": "HX712",
         "version": "0.1.0",
         "versions": "0.1.0",
@@ -142820,7 +142744,7 @@
     {
         "name": "CircuitDigestCloud",
         "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "versions": "2.1.0, 2.0.0, 1.2.0",
         "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/CircuitDigestCloud",
@@ -146012,21 +145936,6 @@
         ]
     },
     {
-        "name": "JoystickProtocol",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Sakuhano",
-        "maintainer": "Sakuhano <your.email@example.com>",
-        "website": "https://github.com/Sakuhano/JoystickProtocol",
-        "category": "Uncategorized",
-        "architectures": "ESP32, MEGA2560",
-        "types": "Contributed",
-        "repository": "https://github.com/Sakuhano/JoystickProtocol.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "XPoint",
         "version": "0.1.0",
         "versions": "0.1.0",
@@ -146120,8 +146029,8 @@
     },
     {
         "name": "DeterministicESPAsyncWebServer",
-        "version": "4.86.1",
-        "versions": "4.86.1, 4.86.0, 4.85.0, 4.84.0, 4.83.0, 4.82.1, 4.82.0, 4.81.0, 4.80.0, 4.79.0, 4.78.0, 4.77.0, 4.76.0, 4.75.0, 4.74.0, 4.73.0, 4.72.0, 4.71.1, 4.71.0, 4.70.0, 4.69.0, 4.68.0, 4.67.0, 4.66.0, 4.65.0, 4.64.1, 4.64.0, 4.63.0, 4.62.0, 4.61.0, 4.60.0, 4.59.18, 4.59.17, 4.59.16, 4.59.15, 4.59.14, 4.59.13, 4.59.12, 4.59.11, 4.59.10, 4.59.9, 4.59.8, 4.59.7, 4.59.6, 4.59.5, 4.59.4, 4.59.3, 4.59.2, 4.59.1, 4.59.0, 4.58.0, 4.57.0, 4.56.0, 4.55.0, 4.54.0, 4.53.0, 4.52.0, 4.51.0, 4.50.0, 4.49.9, 4.49.8, 4.49.7, 4.49.6, 4.49.5, 4.49.4, 4.49.3, 4.49.2, 4.49.1, 4.49.0, 4.48.0, 4.47.0, 4.46.0, 4.45.0, 4.44.0, 4.43.0, 4.42.0, 4.41.0, 4.40.0, 4.39.0, 4.38.0, 4.37.0, 4.36.0, 4.35.0, 4.34.0, 4.33.0, 4.32.0, 4.31.0, 4.30.0, 4.29.0, 4.28.0, 4.27.0, 4.26.0, 4.25.0, 4.24.0, 4.23.0, 4.22.0, 4.21.0, 4.20.0, 4.19.0, 4.18.0, 4.17.0, 4.16.0, 4.15.0, 4.14.0, 4.13.3, 4.13.2, 4.13.1, 4.13.0, 4.12.0, 4.11.7, 4.11.6, 4.11.5, 4.11.4, 4.11.3, 4.11.2, 4.11.1, 4.11.0, 4.10.0, 4.9.2, 4.9.1, 4.9.0, 4.8.2, 4.8.1, 4.8.0, 4.7.0, 4.6.1, 4.6.0, 4.5.0, 4.4.2, 4.4.1, 4.4.0, 4.3.0, 4.2.0, 4.1.1, 4.1.0, 4.0.0, 3.14.0, 3.13.0, 3.12.0, 3.11.0, 3.10.0, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.8.4, 3.8.3, 3.8.2, 3.8.1, 3.8.0, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.36.0, 2.35.0, 2.34.0, 2.33.2, 2.33.1, 2.33.0, 2.32.0, 2.31.0, 2.30.0, 2.29.1, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.0, 2.24.0, 2.23.0, 2.22.0, 2.21.0, 2.20.0, 2.19.0, 2.18.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.12.0, 2.11.0, 2.10.0, 2.9.0, 2.8.0, 2.7.0, 2.6.0, 2.5.0, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.0, 0.1.0",
+        "version": "4.90.0",
+        "versions": "4.90.0, 4.89.0, 4.88.0, 4.87.0, 4.86.1, 4.86.0, 4.85.0, 4.84.0, 4.83.0, 4.82.1, 4.82.0, 4.81.0, 4.80.0, 4.79.0, 4.78.0, 4.77.0, 4.76.0, 4.75.0, 4.74.0, 4.73.0, 4.72.0, 4.71.1, 4.71.0, 4.70.0, 4.69.0, 4.68.0, 4.67.0, 4.66.0, 4.65.0, 4.64.1, 4.64.0, 4.63.0, 4.62.0, 4.61.0, 4.60.0, 4.59.18, 4.59.17, 4.59.16, 4.59.15, 4.59.14, 4.59.13, 4.59.12, 4.59.11, 4.59.10, 4.59.9, 4.59.8, 4.59.7, 4.59.6, 4.59.5, 4.59.4, 4.59.3, 4.59.2, 4.59.1, 4.59.0, 4.58.0, 4.57.0, 4.56.0, 4.55.0, 4.54.0, 4.53.0, 4.52.0, 4.51.0, 4.50.0, 4.49.9, 4.49.8, 4.49.7, 4.49.6, 4.49.5, 4.49.4, 4.49.3, 4.49.2, 4.49.1, 4.49.0, 4.48.0, 4.47.0, 4.46.0, 4.45.0, 4.44.0, 4.43.0, 4.42.0, 4.41.0, 4.40.0, 4.39.0, 4.38.0, 4.37.0, 4.36.0, 4.35.0, 4.34.0, 4.33.0, 4.32.0, 4.31.0, 4.30.0, 4.29.0, 4.28.0, 4.27.0, 4.26.0, 4.25.0, 4.24.0, 4.23.0, 4.22.0, 4.21.0, 4.20.0, 4.19.0, 4.18.0, 4.17.0, 4.16.0, 4.15.0, 4.14.0, 4.13.3, 4.13.2, 4.13.1, 4.13.0, 4.12.0, 4.11.7, 4.11.6, 4.11.5, 4.11.4, 4.11.3, 4.11.2, 4.11.1, 4.11.0, 4.10.0, 4.9.2, 4.9.1, 4.9.0, 4.8.2, 4.8.1, 4.8.0, 4.7.0, 4.6.1, 4.6.0, 4.5.0, 4.4.2, 4.4.1, 4.4.0, 4.3.0, 4.2.0, 4.1.1, 4.1.0, 4.0.0, 3.14.0, 3.13.0, 3.12.0, 3.11.0, 3.10.0, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.8.4, 3.8.3, 3.8.2, 3.8.1, 3.8.0, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.36.0, 2.35.0, 2.34.0, 2.33.2, 2.33.1, 2.33.0, 2.32.0, 2.31.0, 2.30.0, 2.29.1, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.0, 2.24.0, 2.23.0, 2.22.0, 2.21.0, 2.20.0, 2.19.0, 2.18.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.12.0, 2.11.0, 2.10.0, 2.9.0, 2.8.0, 2.7.0, 2.6.0, 2.5.0, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.0, 0.1.0",
         "author": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
         "maintainer": "Douglas Quigg (dstroy0) <dquigg123@gmail.com>",
         "website": "https://github.com/dstroy0/DeterministicESPAsyncWebServer",
@@ -146193,21 +146102,6 @@
             "ElegantOTA",
             "Async TCP",
             "ESP Async WebServer"
-        ]
-    },
-    {
-        "name": "UMOZ",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.0.0, 1.2.0, 1.0.0",
-        "author": "Moaaz Yahia Shrif",
-        "maintainer": "Moaaz <[EMAIL_ADDRESS]>",
-        "website": "https://github.com/Moaaz-i/UMOZ",
-        "category": "Timing",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/Moaaz-i/UMOZ.git",
-        "dependencies": [
-            ""
         ]
     },
     {
@@ -146589,7 +146483,7 @@
     {
         "name": "NeoStreaming",
         "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "versions": "1.0.2, 1.0.0",
         "author": "Nerdsiah",
         "maintainer": "Nerdsiah",
         "website": "https://github.com/Nerdsiah/NeoStreaming",
@@ -146965,21 +146859,6 @@
         ]
     },
     {
-        "name": "CKC_AIoT-lib",
-        "version": "1.3.6",
-        "versions": "1.3.6",
-        "author": "PLGdevo <PLGgroup27@gmail.com>",
-        "maintainer": "PLGdevo <PLGgroup27@gmail.com>",
-        "website": "https://github.com/PLGdevo/CKC_LIB",
-        "category": "Communication",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/PLGdevo/CKC_LIB.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "LionWifi",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -147157,8 +147036,8 @@
     },
     {
         "name": "PTSolns_I2Connect_AHT20",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "PTSolns",
         "maintainer": "PTSolns <support@ptsolns.com>",
         "website": "https://github.com/PTSolns/I2Connect_AHT20",
@@ -147278,8 +147157,8 @@
     },
     {
         "name": "SensorRoxoOBR",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
         "author": "Wesley Oliveira <wesleycooliveira@gmail.com>",
         "maintainer": "Wesley Oliveira <wesleycooliveira@gmail.com>",
         "website": "https://github.com",
@@ -147338,8 +147217,8 @@
     },
     {
         "name": "DigitalOutput",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.2, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/DigitalOutput",
@@ -147349,6 +147228,82 @@
         "repository": "https://github.com/soosp/DigitalOutput.git",
         "dependencies": [
             "Adafruit-MCP23017-Arduino-Library"
+        ]
+    },
+    {
+        "name": "firmngin",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.0",
+        "author": "Asya Syarif <asya.syarif94@gmail.com>",
+        "maintainer": "Asya Syarif <asya.syarif94@gmail.com>",
+        "website": "https://github.com/firmngin/firmnginKit",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/firmngin/Firmngin-Arduino.git",
+        "dependencies": [
+            "PubSubClient"
+        ]
+    },
+    {
+        "name": "drvkit_library",
+        "version": "0.0.5",
+        "versions": "0.0.5, 0.0.2",
+        "author": "opilat",
+        "maintainer": "opilat <ondrej.pilat@ozobot.com>",
+        "website": "https://github.com/ozobot/drvkit_library",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ozobot/drvkit_library.git",
+        "dependencies": [
+            "CRC32",
+            "AT24C"
+        ]
+    },
+    {
+        "name": "JoystickButton",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sakuhano",
+        "maintainer": "Sakuhano",
+        "website": "https://github.com/Sakuhano/JoystickButton",
+        "category": "Uncategorized",
+        "architectures": "ESP32, MEGA2560",
+        "types": "Contributed",
+        "repository": "https://github.com/Sakuhano/JoystickButton.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MicroTaskX",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.1.1, 3.1.0, 3.0.0, 2.6.0, 2.5.1",
+        "author": "Moaaz Yahia Shrif",
+        "maintainer": "Moaaz Yahia Shrif <famile.sherif@gmail.com>",
+        "website": "https://github.com/Moaaz-i/MicroTaskX",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Moaaz-i/MicroTaskX.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CKC AIOT",
+        "version": "1.3.9",
+        "versions": "1.3.9",
+        "author": "PLGdevo <PLGgroup27@gmail.com>",
+        "maintainer": "PLGdevo <PLGgroup27@gmail.com>",
+        "website": "https://github.com/PLGdevo/CKC_LIB",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PLGdevo/CKC_LIB.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
