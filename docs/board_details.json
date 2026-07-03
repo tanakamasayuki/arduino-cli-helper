@@ -135663,6 +135663,21 @@
                     "value_label": "ESP USB Bridge"
                 }
             ]
+        },
+        {
+            "option": "ChipVariant",
+            "option_label": "Chip Variant",
+            "values": [
+                {
+                    "value": "prev3",
+                    "value_label": "Before v3.00",
+                    "selected": true
+                },
+                {
+                    "value": "postv3",
+                    "value_label": "v3.00 or newer"
+                }
+            ]
         }
     ],
     "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
