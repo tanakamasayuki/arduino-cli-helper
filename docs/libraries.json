@@ -42344,8 +42344,8 @@
     },
     {
         "name": "AvrHeap",
-        "version": "0.2.7",
-        "versions": "0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.2.9",
+        "versions": "0.2.9, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/avrheap",
@@ -146104,8 +146104,8 @@
     },
     {
         "name": "PCBCUPID_PLAYERS",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Karthik Elumalai <codingkarthik2@gmail.com>",
         "maintainer": "PCBCUPID <hello@pcbcupid.com>",
         "website": "https://github.com/pcbcupid/PCBCUPID-PLAYER",
@@ -146114,8 +146114,6 @@
         "types": "Contributed",
         "repository": "https://github.com/pcbcupid/PCBCUPID-PLAYER.git",
         "dependencies": [
-            "AudioTools",
-            "Arduino-Audio-Driver",
             "SD",
             "Wire"
         ]
@@ -147002,20 +147000,21 @@
     },
     {
         "name": "LionDallas",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionDallas",
         "category": "Sensors",
-        "architectures": "esp8266",
+        "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": "https://github.com/blah188/LionDallas.git",
         "dependencies": [
             "OneWire",
             "LionArray",
             "LionLogger",
-            "LionTask"
+            "LionTask",
+            "LionRtosTask"
         ]
     },
     {
@@ -147335,6 +147334,21 @@
         "repository": "https://github.com/Sensirion/arduino-i2c-stc42.git",
         "dependencies": [
             "Sensirion Core"
+        ]
+    },
+    {
+        "name": "DigitalOutput",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.2, 0.1.0",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/DigitalOutput",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/DigitalOutput.git",
+        "dependencies": [
+            "Adafruit-MCP23017-Arduino-Library"
         ]
     }
 ]
