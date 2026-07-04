@@ -146860,8 +146860,8 @@
     },
     {
         "name": "LionWifi",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionWifi",
@@ -147006,8 +147006,8 @@
     },
     {
         "name": "XC_GUI",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Gigasitron Xcross",
         "maintainer": "Gigasitron <inquiry@gigasitron.com>",
         "website": "https://github.com/Gigasitron-xcross/XC_GUI",
