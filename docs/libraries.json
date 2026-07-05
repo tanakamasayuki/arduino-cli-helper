@@ -93178,8 +93178,8 @@
     },
     {
         "name": "Countimer",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "inflop <infloper@gmail.com>",
         "maintainer": "inflop <infloper@gmail.com>",
         "website": "https://github.com/inflop/Countimer",
