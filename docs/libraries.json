@@ -144538,13 +144538,13 @@
     },
     {
         "name": "HttpDigestAuth",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/HttpDigestAuth",
         "category": "Communication",
-        "architectures": "esp32, esp8266",
+        "architectures": "esp32, esp8266, atmelavr",
         "types": "Contributed",
         "repository": "https://github.com/soosp/HttpDigestAuth.git",
         "dependencies": [
@@ -146945,8 +146945,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -147457,6 +147457,21 @@
         "repository": "https://github.com/habuenav/quickMap.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Breath",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Holman Buenaventura",
+        "maintainer": "Holman Buenaventura",
+        "website": "https://github.com/habuenav/Breath",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/habuenav/Breath.git",
+        "dependencies": [
+            "quickMap"
         ]
     }
 ]
