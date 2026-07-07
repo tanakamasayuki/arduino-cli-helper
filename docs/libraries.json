@@ -29457,8 +29457,8 @@
     },
     {
         "name": "StepperDriver",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.2, 1.4.1, 1.3.1, 1.3.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.2, 1.0.1, 0.1.0",
+        "version": "1.5.1",
+        "versions": "1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.3.1, 1.3.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.2, 1.0.1, 0.1.0",
         "author": "Laurentiu Badea",
         "maintainer": "Laurentiu Badea",
         "website": "https://github.com/laurb9/StepperDriver",
@@ -146945,8 +146945,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -147006,8 +147006,8 @@
     },
     {
         "name": "XC_GUI",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Gigasitron Xcross",
         "maintainer": "Gigasitron <inquiry@gigasitron.com>",
         "website": "https://github.com/Gigasitron-xcross/XC_GUI",
@@ -147401,8 +147401,8 @@
     },
     {
         "name": "planterm",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Timo Derstappen",
         "maintainer": "Timo Derstappen <teemow@gmail.com>",
         "website": "https://github.com/teemow/planterm",
