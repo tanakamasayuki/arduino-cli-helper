@@ -100252,8 +100252,8 @@
     },
     {
         "name": "Sitron Labs WK2132 Arduino Library",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.0",
         "author": "Sitron Labs",
         "maintainer": "Sitron Labs <support@sitronlabs.com>",
         "website": "https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library",
@@ -147440,6 +147440,21 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/soosp/EEPROMPreferences.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "quickMap",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Holman Buenaventura <habuenav@hotmail.com>",
+        "maintainer": "Holman Buenaventura <habuenav@hotmail.com>",
+        "website": "https://github.com/habuenav/quickMap",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/habuenav/quickMap.git",
         "dependencies": [
             ""
         ]
