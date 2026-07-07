@@ -146527,8 +146527,8 @@
     },
     {
         "name": "RisalDash",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Shaxzod Ahmedov",
         "maintainer": "Shaxzod Ahmedov <ahmedov.shaxzod@gmail.com>",
         "website": "https://dash.risal.io",
