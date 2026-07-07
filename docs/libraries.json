@@ -147476,8 +147476,8 @@
     },
     {
         "name": "KenwoodXS",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.0.0",
         "author": "Gaweł Bartosik",
         "maintainer": "Gaweł Bartosik",
         "website": "https://github.com/gaweueu/KenwoodXS",
