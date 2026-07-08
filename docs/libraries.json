@@ -135990,8 +135990,8 @@
     },
     {
         "name": "IskakINO_LiquidCrystal_I2C",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
         "author": "Iskak Fatoni",
         "maintainer": "Iskak Fatoni",
         "website": "https://github.com/iskakfatoni/IskakINO_LiquidCrystal_I2C",
@@ -144373,8 +144373,8 @@
     },
     {
         "name": "midi2cpp",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0",
         "author": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/midi2cpp",
@@ -146945,8 +146945,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -147386,8 +147386,8 @@
     },
     {
         "name": "RobotShield",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "SunFounder",
         "maintainer": "SunFounder",
         "website": "https://github.com/sunfounder/robot-shield-arduino/tree/v1",
@@ -147485,6 +147485,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/gaweueu/KenwoodXS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BMx280PIO_RP2040",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "angeloINTJ",
+        "maintainer": "angeloINTJ",
+        "website": "https://github.com/angeloINTJ/BMx280PIO_RP2040",
+        "category": "Sensors",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/angeloINTJ/BMx280PIO_RP2040.git",
         "dependencies": [
             ""
         ]
