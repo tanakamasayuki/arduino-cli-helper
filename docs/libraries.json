@@ -100282,8 +100282,8 @@
     },
     {
         "name": "SparkFun ADS1219 Arduino Library",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "SparkFun Electronics",
         "maintainer": "SparkFun Electronics",
         "website": "https://github.com/sparkfun/SparkFun_ADS1219_Arduino_Library",
@@ -147530,6 +147530,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/vic4key/MyButtons.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RCArmDrive",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "nthnsdev <pythonprint990@gmail.com>",
+        "maintainer": "nthnsdev <pythonprint990@gmail.com>",
+        "website": "https://github.com/nthnsdev/RCArmDrive",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nthnsdev/RCArmDrive.git",
         "dependencies": [
             ""
         ]
