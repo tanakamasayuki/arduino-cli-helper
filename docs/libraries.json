@@ -98260,12 +98260,12 @@
     },
     {
         "name": "PxServ",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "mustafa_kok",
         "maintainer": "PxServ",
         "website": "https://docs.pxserv.net/tr/arduino-kutuphanesi",
-        "category": "Uncategorized",
+        "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/pxsty0/pxserv.arduino.git",
@@ -147559,6 +147559,21 @@
         "dependencies": [
             "ProtoCentral MAX30001",
             "ProtoCentral AFE4490 PPG and SpO2 boards library"
+        ]
+    },
+    {
+        "name": "Ultra1602Ultimate",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Moaaz Yahia Sherif",
+        "maintainer": "Moaaz Yahia Sherif",
+        "website": "https://github.com/moaaz-i/Ultra1602Ultimate",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Moaaz-i/Ultra1602Ultimate.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
