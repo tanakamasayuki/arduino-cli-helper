@@ -128925,8 +128925,8 @@
     },
     {
         "name": "AutoPlex7",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 1.0.6, 1.0.5, 1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "website": "https://github.com/TechTronicsEngineering/AutoPlex7",
@@ -147491,8 +147491,8 @@
     },
     {
         "name": "BMx280PIO_RP2040",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "angeloINTJ",
         "maintainer": "angeloINTJ",
         "website": "https://github.com/angeloINTJ/BMx280PIO_RP2040",
