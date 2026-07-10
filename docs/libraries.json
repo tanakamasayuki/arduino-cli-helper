@@ -9593,8 +9593,8 @@
     },
     {
         "name": "EDB",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.7, 1.0.4, 1.0.3, 1.0.2",
         "author": "James Whiddon <jwhiddon@gmail.com>",
         "maintainer": "James Whiddon <jwhiddon@gmail.com>",
         "website": "https://github.com/jwhiddon/EDB",
@@ -143723,8 +143723,8 @@
     },
     {
         "name": "WCB_Client",
-        "version": "1.9.0",
-        "versions": "1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.9.2",
+        "versions": "1.9.2, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Greg Hulette",
         "maintainer": "Greg Hulette",
         "website": "https://github.com/greghulette/WCBClient",
@@ -147605,6 +147605,21 @@
         "dependencies": [
             "Arduino_CloudUtils",
             "Arduino_SecureElement"
+        ]
+    },
+    {
+        "name": "HM01B0_CPUfree_Camera",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "HRK.yas",
+        "maintainer": "HRK YAS <support@github.com>",
+        "website": "https://github.com/HRK-yas/HM01B0_CPUfree_Camera",
+        "category": "Sensors",
+        "architectures": "rp2350",
+        "types": "Contributed",
+        "repository": "https://github.com/HRK-Yas/HM01B0_CPUfree_Camera.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
