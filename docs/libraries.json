@@ -53207,8 +53207,8 @@
     },
     {
         "name": "Embedded Template Library ETL",
-        "version": "20.48.0",
-        "versions": "20.48.0, 20.44.2, 20.44.1, 20.43.4, 20.43.3, 20.43.2, 20.43.1, 20.40.0, 20.39.4, 20.38.17, 20.38.11, 20.22.0, 20.11.5, 20.11.4, 20.2.2, 19.3.9, 19.3.8, 19.3.6",
+        "version": "20.48.1",
+        "versions": "20.48.1, 20.48.0, 20.44.2, 20.44.1, 20.43.4, 20.43.3, 20.43.2, 20.43.1, 20.40.0, 20.39.4, 20.38.17, 20.38.11, 20.22.0, 20.11.5, 20.11.4, 20.2.2, 19.3.9, 19.3.8, 19.3.6",
         "author": "John Wellbelove <john.wellbelove@etlcpp.com>",
         "maintainer": "John Wellbelove <john.wellbelove@etlcpp.com>",
         "website": "https://www.etlcpp.com/",
