@@ -109108,8 +109108,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.55",
-        "versions": "1.2.55, 1.2.54, 1.2.53, 1.2.52, 1.2.51, 1.2.50, 1.2.49, 1.2.48, 1.2.47, 1.2.46, 1.2.45, 1.2.44, 1.2.43, 1.2.42, 1.2.41, 1.2.40, 1.2.39, 1.2.38, 1.2.37, 1.2.36, 1.2.35, 1.2.34, 1.2.33, 1.2.32, 1.2.31, 1.2.30, 1.2.29, 1.2.28, 1.2.27, 1.2.26, 1.2.25, 1.2.24, 1.2.23, 1.2.22, 1.2.21, 1.2.20, 1.2.19, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.58",
+        "versions": "1.2.58, 1.2.57, 1.2.56, 1.2.55, 1.2.54, 1.2.53, 1.2.52, 1.2.51, 1.2.50, 1.2.49, 1.2.48, 1.2.47, 1.2.46, 1.2.45, 1.2.44, 1.2.43, 1.2.42, 1.2.41, 1.2.40, 1.2.39, 1.2.38, 1.2.37, 1.2.36, 1.2.35, 1.2.34, 1.2.33, 1.2.32, 1.2.31, 1.2.30, 1.2.29, 1.2.28, 1.2.27, 1.2.26, 1.2.25, 1.2.24, 1.2.23, 1.2.22, 1.2.21, 1.2.20, 1.2.19, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
@@ -147486,8 +147486,8 @@
     },
     {
         "name": "BMx280PIO_RP2040",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Ângelo Moisés Alves",
         "maintainer": "Ângelo Moisés Alves",
         "website": "https://github.com/angeloINTJ/BMx280PIO_RP2040",
@@ -147496,7 +147496,7 @@
         "types": "Contributed",
         "repository": "https://github.com/angeloINTJ/BMx280PIO_RP2040.git",
         "dependencies": [
-            "WirePIO"
+            "TwoWirePIO_RP2040"
         ]
     },
     {
@@ -147725,6 +147725,21 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/angeloINTJ/TwoWirePIO_RP2040.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GL55xxSensor",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "kaeff",
+        "maintainer": "kaeff",
+        "website": "https://github.com/KarlEffinger/GL55xxSensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/KarlEffinger/GL55xxSensor.git",
         "dependencies": [
             ""
         ]
