@@ -143557,8 +143557,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.3.5",
-        "versions": "1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.3.6",
+        "versions": "1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
@@ -143722,8 +143722,8 @@
     },
     {
         "name": "WCB_Client",
-        "version": "1.9.3",
-        "versions": "1.9.3, 1.9.2, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.9.4",
+        "versions": "1.9.4, 1.9.3, 1.9.2, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Greg Hulette",
         "maintainer": "Greg Hulette",
         "website": "https://github.com/greghulette/WCBClient",
