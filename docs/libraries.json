@@ -147743,5 +147743,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MyDisplayLogging",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Vic P.",
+        "maintainer": "Vic P.",
+        "website": "https://github.com/vic4key/MyDisplayLogging",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/vic4key/MyDisplayLogging.git",
+        "dependencies": [
+            "U8g2"
+        ]
     }
 ]
