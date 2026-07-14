@@ -121986,8 +121986,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.1.9",
-        "versions": "1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.1.10",
+        "versions": "1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
@@ -136836,8 +136836,8 @@
     },
     {
         "name": "TLV320DAC3101",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Thomas Jentzsch",
         "maintainer": "Thomas Jentzsch <yellobyte@bluewin.ch>",
         "website": "https://github.com/yellobyte/TLV320DAC3101",
@@ -147908,6 +147908,36 @@
         "repository": "https://github.com/rgot-org/CoVACIEL-ESP32.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "tarfs",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Viacheslav Logunov <vvb333007@gmail.com>",
+        "maintainer": "Viacheslav Logunov <vvb333007@gmail.com>",
+        "website": "https://github.com/vvb333007/tarfs",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/vvb333007/tarfs.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ScalpelSpace Bus",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "ScalpelSpace",
+        "maintainer": "ScalpelSpace <info@scalpelspace.com>",
+        "website": "https://github.com/scalpelspace/scalpelspace_bus",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/scalpelspace/scalpelspace_bus.git",
+        "dependencies": [
+            "ACAN2517"
         ]
     }
 ]
