@@ -65034,8 +65034,8 @@
     },
     {
         "name": "AIS 4G board",
-        "version": "1.3.6",
-        "versions": "1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.3.7",
+        "versions": "1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1",
         "author": "AIS",
         "maintainer": "Gravitech Thai",
         "website": "https://business.ais.co.th/solution/ais_4g_board.html",
@@ -147881,8 +147881,8 @@
     },
     {
         "name": "JMCMotorControl",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "LAGARI A <lagariscience@gmail.com>",
         "maintainer": "LAGARI A <lagariscience@gmail.com>",
         "website": "https://github.com/ailagari/JMCMotorControl",
