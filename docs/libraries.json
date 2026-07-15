@@ -80686,8 +80686,8 @@
     },
     {
         "name": "MAGELLAN",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
         "author": "AIS IoT Alliance Program",
         "maintainer": "MAGELLAN POC devices team <aisiot2020@gmail.com>",
         "website": "https://github.com/AIS-DeviceInnovation/Magellan",
@@ -125570,8 +125570,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.3.17",
-        "versions": "1.3.17, 1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.3.18",
+        "versions": "1.3.18, 1.3.17, 1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -138585,8 +138585,8 @@
     },
     {
         "name": "Spell_IoT",
-        "version": "1.1.8",
-        "versions": "1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
+        "version": "1.1.9",
+        "versions": "1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
         "author": "M.Karthickraja",
         "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Spell_Iot",
@@ -147951,6 +147951,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/supratikd/HW290.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "I2C_MPRLS",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/I2C_MPRLS",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/I2C_MPRLS.git",
         "dependencies": [
             ""
         ]
