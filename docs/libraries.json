@@ -147969,5 +147969,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "UNOQ_STM32_HAL",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sri Ranga Raj B",
+        "maintainer": "Sri Ranga Raj B <your-email@example.com>",
+        "website": "https://github.com/srirangaraj-b/UNOQ_STM32_HAL",
+        "category": "Device Control",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/srirangaraj-b/UNOQ_STM32_HAL.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
