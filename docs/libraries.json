@@ -147897,8 +147897,8 @@
     },
     {
         "name": "CoVACIEL-ESP32",
-        "version": "1.0.3",
-        "versions": "1.0.3",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3",
         "author": "Francois Riotte",
         "maintainer": "FR",
         "website": "https://github.com/rgot-org/CoVACIEL-ESP32",
@@ -148041,6 +148041,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sbarabe/SBK_Button.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RingFileLogger",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Al-Zhilin <alekseyzh5@gmail.com>",
+        "maintainer": "Al-Zhilin <alekseyzh6@gmail.com>",
+        "website": "https://github.com/Al-Zhilin/RingFileLogger",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Al-Zhilin/RingFileLogger.git",
         "dependencies": [
             ""
         ]
