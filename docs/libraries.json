@@ -135196,8 +135196,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -143707,8 +143707,8 @@
     },
     {
         "name": "WCB_Client",
-        "version": "1.9.5",
-        "versions": "1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.9.6",
+        "versions": "1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Greg Hulette",
         "maintainer": "Greg Hulette",
         "website": "https://github.com/greghulette/WCBClient",
@@ -147957,8 +147957,8 @@
     },
     {
         "name": "I2C_MPRLS",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/I2C_MPRLS",
@@ -147987,8 +147987,8 @@
     },
     {
         "name": "SBK_AvrBuzzer",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Samuel Barabe",
         "maintainer": "Samuel Barabe",
         "website": "https://github.com/sbarabe/SBK_AvrBuzzer",
@@ -148032,8 +148032,8 @@
     },
     {
         "name": "SBK_Button",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Samuel Barabe",
         "maintainer": "Samuel Barabe",
         "website": "https://github.com/sbarabe/SBK_Button",
@@ -148058,6 +148058,42 @@
         "repository": "https://github.com/Al-Zhilin/RingFileLogger.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "NetworkProfile",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Péter Soós",
+        "maintainer": "Péter Soós",
+        "website": "https://github.com/soosp/NetworkProfile",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/NetworkProfile.git",
+        "dependencies": [
+            "Host",
+            "EEPROMPreferences",
+            "Preferences"
+        ]
+    },
+    {
+        "name": "NetworkManager",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Péter Soós <https://github.com/soosp>",
+        "maintainer": "Péter Soós <https://github.com/soosp>",
+        "website": "https://github.com/soosp/NetworkManager",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/NetworkManager.git",
+        "dependencies": [
+            "Host",
+            "NetworkProfile",
+            "Preferences",
+            "EEPROMPreferences",
+            "Ethernet"
         ]
     }
 ]
