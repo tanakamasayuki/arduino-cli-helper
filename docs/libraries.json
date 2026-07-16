@@ -72156,8 +72156,8 @@
     },
     {
         "name": "TapatioElectronics",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.0.1, 1.0.1, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.1, 2.0.1, 1.0.1, 1.0.0",
         "author": "Miguel Angel Delgado Lopez",
         "maintainer": "Miguel Delgado <Miguel.delgadolop@gmail.com>",
         "website": "https://github.com/MdelgadoL83/TapatioElectronics",
@@ -121986,8 +121986,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.1.11",
-        "versions": "1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.1.12",
+        "versions": "1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
