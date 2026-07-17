@@ -148017,8 +148017,8 @@
     },
     {
         "name": "WcbCmd",
-        "version": "0.4.0",
-        "versions": "0.4.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0",
         "author": "Greg Hulette",
         "maintainer": "Greg Hulette",
         "website": "https://github.com/greghulette/WcbCmd",
