@@ -106002,8 +106002,8 @@
     },
     {
         "name": "GDXLib",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 1.0.6",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 1.0.6",
         "author": "Vernier",
         "maintainer": "support@vernier.com",
         "website": "https://github.com/VernierST/GDXLib",
@@ -148107,6 +148107,21 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/Nesara-Thejan/MPU6050_Nexa.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RedLab_I2CMatrixKeypad",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alexandre Engelhardt",
+        "maintainer": "Alexandre Engelhardt",
+        "website": "https://github.com/ZipionLive/RedLab_I2CMatrixKeypad",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ZipionLive/RedLab_I2CMatrixKeypad.git",
         "dependencies": [
             ""
         ]
