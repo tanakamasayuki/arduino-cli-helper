@@ -144582,8 +144582,8 @@
     },
     {
         "name": "note-emu",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0",
         "author": "Mat McGowan",
         "maintainer": "Mat McGowan <mat.mcgowan+git@gmail.com>",
         "website": "https://github.com/m-mcgowan/note-emu",
