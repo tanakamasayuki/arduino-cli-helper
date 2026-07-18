@@ -142723,8 +142723,8 @@
     },
     {
         "name": "CircuitDigestCloud",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.0",
         "author": "Jobit Joseph, Circuit Digest",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/Circuit-Digest/CircuitDigestCloud",
