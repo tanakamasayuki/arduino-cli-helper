@@ -148229,5 +148229,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Alash DS1302 RTC",
+        "version": "1.0.8",
+        "versions": "1.0.8",
+        "author": "Alash-electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash-electronics <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/Alash_DS1302",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/Alash_DS1302.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashSerialTerminal",
+        "version": "1.0.9",
+        "versions": "1.0.9",
+        "author": "Alash-electronics",
+        "maintainer": "Alash-electronics",
+        "website": "https://github.com/Alash-electronics/AlashSerialTerminal",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashSerialTerminal.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
