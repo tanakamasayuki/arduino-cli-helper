@@ -148259,5 +148259,65 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "I2C_LiquidCrystal_RUS",
+        "version": "1.0.9",
+        "versions": "1.0.9",
+        "author": "Aiten Bexultan",
+        "maintainer": "Alash Electronics <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS",
+        "category": "Display",
+        "architectures": "avr, esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashUartMP3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alash Engineer <alash.electronics@gmail.com>",
+        "maintainer": "Alash Engineer <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashUartMP3",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashUartMP3.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashLEDMatrix8x8",
+        "version": "1.0.7",
+        "versions": "1.0.7",
+        "author": "Aiten Bexultan",
+        "maintainer": "Alash engineering",
+        "website": "https://github.com/Alash-electronics/AlashLEDMatrix8x8",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashLEDMatrix8x8.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashKeypadMatrix",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8",
+        "author": "Aiten Bexultan",
+        "maintainer": "Alash Education",
+        "website": "https://github.com/Alash-electronics/AlashKeypadMatrix",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashKeypadMatrix.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
