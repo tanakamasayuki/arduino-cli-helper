@@ -132742,8 +132742,8 @@
     },
     {
         "name": "LightweightNeuralNetwork",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan.jurca@gmail.com>",
         "website": "https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network",
@@ -148392,6 +148392,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/PTSolns/I2Connect_EEPROM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ModbusResponder",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Levi Monte",
+        "maintainer": "Levi Monte",
+        "website": "https://github.com/LeviMonte/ArduinoRemoteIO",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/LeviMonte/ArduinoRemoteIO.git",
         "dependencies": [
             ""
         ]
