@@ -148001,8 +148001,8 @@
     },
     {
         "name": "note-cpp",
-        "version": "0.3.3",
-        "versions": "0.3.3, 0.3.2",
+        "version": "0.3.4",
+        "versions": "0.3.4, 0.3.3, 0.3.2",
         "author": "Mat McGowan",
         "maintainer": "Mat McGowan",
         "website": "https://github.com/m-mcgowan/note-cpp",
