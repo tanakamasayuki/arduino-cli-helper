@@ -148458,8 +148458,8 @@
     },
     {
         "name": "dv_iir_filter8",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "David Vandensteen",
         "maintainer": "David Vandensteen <dvandensteen@gmail.com>",
         "website": "https://github.com/David-Vandensteen/dv-iir-filter8",
@@ -148467,6 +148467,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/David-Vandensteen/dv-iir-filter8.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CMozGlow",
+        "version": "1.2.1",
+        "versions": "1.2.1",
+        "author": "TinkerTailor.ca (CMozMaker)",
+        "maintainer": "TinkerTailor.ca <hello@tinkertailor.ca>",
+        "website": "https://tinkertailor.ca",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/cmoz/CMozGlow.git",
         "dependencies": [
             ""
         ]
