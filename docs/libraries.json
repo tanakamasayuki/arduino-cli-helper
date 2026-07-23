@@ -148473,11 +148473,11 @@
     },
     {
         "name": "CMozGlow",
-        "version": "1.2.1",
-        "versions": "1.2.1",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1",
         "author": "TinkerTailor.ca (CMozMaker)",
         "maintainer": "TinkerTailor.ca <hello@tinkertailor.ca>",
-        "website": "https://tinkertailor.ca",
+        "website": "https://github.com/cmoz/CMozGlow",
         "category": "Display",
         "architectures": "esp32",
         "types": "Contributed",
@@ -148527,6 +148527,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/mvoss96/SimpleWifiManager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Soldered PCA9685 PWM Servo Driver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-PCA9685-PWM-Servo-Driver-Arduino-Library.git",
         "dependencies": [
             ""
         ]
