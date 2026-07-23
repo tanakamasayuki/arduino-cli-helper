@@ -129222,8 +129222,8 @@
     },
     {
         "name": "PedroRobot",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Almtzr",
         "maintainer": "Almtzr",
         "website": "https://github.com/almtzr/Pedro",
@@ -145191,8 +145191,8 @@
     },
     {
         "name": "APIOTA",
-        "version": "1.4.3",
-        "versions": "1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.3, 1.2.1, 1.2.0",
+        "version": "1.4.4",
+        "versions": "1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.3, 1.2.1, 1.2.0",
         "author": "APIOTA <support@apiota.net>",
         "maintainer": "APIOTA <support@apiota.net>",
         "website": "https://apiota.net",
@@ -148045,8 +148045,8 @@
     },
     {
         "name": "NetworkProfile",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/NetworkProfile",
