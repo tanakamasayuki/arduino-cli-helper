@@ -57899,8 +57899,8 @@
     },
     {
         "name": "SoftServo",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.3, 2.0.2, 2.0.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/SoftServo",
@@ -98686,8 +98686,8 @@
     },
     {
         "name": "ArduProf",
-        "version": "2.3.2",
-        "versions": "2.3.2, 2.3.1, 2.3.0, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "2.4.1",
+        "versions": "2.4.1, 2.3.2, 2.3.1, 2.3.0, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.1.0, 2.0.0, 1.4.0, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Team Professional",
         "maintainer": "Team Professional <teamprof.net@gmail.com>",
         "website": "https://github.com/teamprof/arduprof",
@@ -148512,6 +148512,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mvoss96/bthome-cpp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SimpleWifiManager",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.3, 0.1.2, 0.1.0",
+        "author": "Marcus Voss",
+        "maintainer": "Marcus Voss",
+        "website": "https://github.com/mvoss96/SimpleWifiManager",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mvoss96/SimpleWifiManager.git",
         "dependencies": [
             ""
         ]
