@@ -148,7 +148,7 @@
 },
   "STMicroelectronics:stm32:3dprinter": {
     "name": "3D printer boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -164,28 +164,12 @@
                     "value_label": "Big Tree Tech EBB42 V1.1"
                 },
                 {
-                    "value": "REMRAM_V1",
-                    "value_label": "RemRam v1"
-                },
-                {
-                    "value": "RUMBA32",
-                    "value_label": "RUMBA32"
-                },
-                {
-                    "value": "ST3DP001_EVAL",
-                    "value_label": "STEVAL-3DP001V1"
-                },
-                {
-                    "value": "PRNTR_V1",
-                    "value_label": "PRNTR v1"
-                },
-                {
-                    "value": "PRNTR_V2",
-                    "value_label": "PRNTR v2"
-                },
-                {
                     "value": "EEXTR_F030_V1",
                     "value_label": "EExtruder F030 V1"
+                },
+                {
+                    "value": "FYSETC_S6",
+                    "value_label": "FYSETC_S6"
                 },
                 {
                     "value": "MALYANM200_F103CB",
@@ -200,12 +184,28 @@
                     "value_label": "Malyan M300"
                 },
                 {
-                    "value": "VAKE_V1",
-                    "value_label": "VAkE v1.0"
+                    "value": "PRNTR_V1",
+                    "value_label": "PRNTR v1"
                 },
                 {
-                    "value": "FYSETC_S6",
-                    "value_label": "FYSETC_S6"
+                    "value": "PRNTR_V2",
+                    "value_label": "PRNTR v2"
+                },
+                {
+                    "value": "REMRAM_V1",
+                    "value_label": "RemRam v1"
+                },
+                {
+                    "value": "RUMBA32",
+                    "value_label": "RUMBA32"
+                },
+                {
+                    "value": "ST3DP001_EVAL",
+                    "value_label": "STEVAL-3DP001V1"
+                },
+                {
+                    "value": "VAKE_V1",
+                    "value_label": "VAkE v1.0"
                 }
             ]
         },
@@ -403,20 +403,24 @@
 },
   "STMicroelectronics:stm32:Blues": {
     "name": "Blues boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "SWAN_R5",
-                    "value_label": "Swan R5",
+                    "value": "CYGNET",
+                    "value_label": "Cygnet",
                     "selected": true
                 },
                 {
-                    "value": "CYGNET",
-                    "value_label": "Cygnet"
+                    "value": "HERON",
+                    "value_label": "Heron"
+                },
+                {
+                    "value": "SWAN_R5",
+                    "value_label": "Swan R5"
                 }
             ]
         },
@@ -486,13 +490,21 @@
             "option_label": "Optimize",
             "values": [
                 {
-                    "value": "osstd",
-                    "value_label": "Smallest (-Os default)",
+                    "value": "ogstd",
+                    "value_label": "Debug (-Og)",
                     "selected": true
+                },
+                {
+                    "value": "osstd",
+                    "value_label": "Smallest (-Os default)"
                 },
                 {
                     "value": "oslto",
                     "value_label": "Smallest (-Os) with LTO"
+                },
+                {
+                    "value": "o0std",
+                    "value_label": "No Optimization (-O0)"
                 },
                 {
                     "value": "o1std",
@@ -517,14 +529,6 @@
                 {
                     "value": "o3lto",
                     "value_label": "Fastest (-O3) with LTO"
-                },
-                {
-                    "value": "ogstd",
-                    "value_label": "Debug (-Og)"
-                },
-                {
-                    "value": "o0std",
-                    "value_label": "No Optimization (-O0)"
                 }
             ]
         },
@@ -533,8 +537,8 @@
             "option_label": "Debug symbols and core logs",
             "values": [
                 {
-                    "value": "none",
-                    "value_label": "None",
+                    "value": "enable_all",
+                    "value_label": "Core Logs and Symbols Enabled (-g)",
                     "selected": true
                 },
                 {
@@ -546,8 +550,8 @@
                     "value_label": "Core logs Enabled"
                 },
                 {
-                    "value": "enable_all",
-                    "value_label": "Core Logs and Symbols Enabled (-g)"
+                    "value": "none",
+                    "value_label": "None"
                 }
             ]
         },
@@ -583,33 +587,33 @@
             "option_label": "Upload method",
             "values": [
                 {
-                    "value": "swdMethod",
-                    "value_label": "STM32CubeProgrammer (SWD)",
+                    "value": "OpenOCDSTLink",
+                    "value_label": "OpenOCD STLink (SWD)",
                     "selected": true
                 },
                 {
-                    "value": "jlinkMethod",
-                    "value_label": "STM32CubeProgrammer (J-Link)"
+                    "value": "OpenOCDDapLink",
+                    "value_label": "OpenOCD DapLink (SWD)"
                 },
                 {
-                    "value": "serialMethod",
-                    "value_label": "STM32CubeProgrammer (Serial)"
+                    "value": "swdMethod",
+                    "value_label": "STM32CubeProgrammer (SWD)"
                 },
                 {
                     "value": "dfuMethod",
                     "value_label": "STM32CubeProgrammer (DFU)"
                 },
                 {
+                    "value": "serialMethod",
+                    "value_label": "STM32CubeProgrammer (Serial)"
+                },
+                {
+                    "value": "jlinkMethod",
+                    "value_label": "STM32CubeProgrammer (J-Link)"
+                },
+                {
                     "value": "bmpMethod",
                     "value_label": "BMP (Black Magic Probe)"
-                },
-                {
-                    "value": "OpenOCDSTLink",
-                    "value_label": "OpenOCD STLink (SWD)"
-                },
-                {
-                    "value": "OpenOCDDapLink",
-                    "value_label": "OpenOCD DapLink (SWD)"
                 }
             ]
         }
@@ -618,7 +622,7 @@
 },
   "STMicroelectronics:stm32:Disco": {
     "name": "Discovery",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -642,12 +646,12 @@
                     "value_label": "B-L4S5I-IOT01A"
                 },
                 {
-                    "value": "STDES_MB2095",
-                    "value_label": "STDES-MB2095"
-                },
-                {
                     "value": "B_U585I_IOT02A",
                     "value_label": "B-U585I-IOT02A"
+                },
+                {
+                    "value": "STDES_MB2095",
+                    "value_label": "STDES-MB2095"
                 },
                 {
                     "value": "STM32C0116_DK",
@@ -688,6 +692,10 @@
                 {
                     "value": "DISCO_F429ZI",
                     "value_label": "STM32F429ZI-DISCO"
+                },
+                {
+                    "value": "DISCO_F723IE",
+                    "value_label": "STM32F723E-DISCOVERY"
                 },
                 {
                     "value": "DISCO_F746NG",
@@ -917,7 +925,7 @@
 },
   "STMicroelectronics:stm32:ELV_Modular_System": {
     "name": "ELV Modular System boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1070,20 +1078,20 @@
 },
   "STMicroelectronics:stm32:ESC_board": {
     "name": "Electronic speed controllers",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "WRAITH32_V1",
-                    "value_label": "Wraith V1 ESC",
+                    "value": "STORM32_V1_31_RC",
+                    "value_label": "STorM32 BGC v1.31 RC",
                     "selected": true
                 },
                 {
-                    "value": "STORM32_V1_31_RC",
-                    "value_label": "STorM32 BGC v1.31 RC"
+                    "value": "WRAITH32_V1",
+                    "value_label": "Wraith V1 ESC"
                 }
             ]
         },
@@ -1281,7 +1289,7 @@
 },
   "STMicroelectronics:stm32:Elecgator": {
     "name": "Elecgator boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1488,7 +1496,7 @@
 },
   "STMicroelectronics:stm32:Eval": {
     "name": "Eval",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1699,7 +1707,7 @@
 },
   "STMicroelectronics:stm32:Garatronic": {
     "name": "Garatronic-McHobby",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1715,12 +1723,12 @@
                     "value_label": "PYBSTICK26 Lite"
                 },
                 {
-                    "value": "PYBSTICK26_STD",
-                    "value_label": "PYBSTICK26 STD-Programmez"
-                },
-                {
                     "value": "PYBSTICK26_PRO",
                     "value_label": "PYBSTICK26 Pro"
+                },
+                {
+                    "value": "PYBSTICK26_STD",
+                    "value_label": "PYBSTICK26 STD-Programmez"
                 }
             ]
         },
@@ -1879,7 +1887,7 @@
 },
   "STMicroelectronics:stm32:GenC0": {
     "name": "Generic STM32C0 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -1895,12 +1903,12 @@
                     "value_label": "Generic C011F4Px"
                 },
                 {
-                    "value": "GENERIC_C011F6PX",
-                    "value_label": "Generic C011F6Px"
-                },
-                {
                     "value": "GENERIC_C011F4UX",
                     "value_label": "Generic C011F4Ux"
+                },
+                {
+                    "value": "GENERIC_C011F6PX",
+                    "value_label": "Generic C011F6Px"
                 },
                 {
                     "value": "GENERIC_C011F6UX",
@@ -1919,12 +1927,12 @@
                     "value_label": "Generic C031C4Tx"
                 },
                 {
-                    "value": "GENERIC_C031C6TX",
-                    "value_label": "Generic C031C6Tx"
-                },
-                {
                     "value": "GENERIC_C031C4UX",
                     "value_label": "Generic C031C4Ux"
+                },
+                {
+                    "value": "GENERIC_C031C6TX",
+                    "value_label": "Generic C031C6Tx"
                 },
                 {
                     "value": "GENERIC_C031C6UX",
@@ -2165,9 +2173,197 @@
     ],
     "package_url": "https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json"
 },
+  "STMicroelectronics:stm32:GenC5": {
+    "name": "Generic STM32C5 series",
+    "version": "3.0.0",
+    "config_options": [
+        {
+            "option": "pnum",
+            "option_label": "Board part number",
+            "values": [
+                {
+                    "value": "GENERIC_C552RCTX",
+                    "value_label": "Generic C552RCTx",
+                    "selected": true
+                },
+                {
+                    "value": "GENERIC_C552RETX",
+                    "value_label": "Generic C552RETx"
+                },
+                {
+                    "value": "GENERIC_C562RETX",
+                    "value_label": "Generic C562RETx"
+                }
+            ]
+        },
+        {
+            "option": "xserial",
+            "option_label": "U(S)ART support",
+            "values": [
+                {
+                    "value": "generic",
+                    "value_label": "Enabled (generic 'Serial')",
+                    "selected": true
+                },
+                {
+                    "value": "none",
+                    "value_label": "Enabled (no generic 'Serial')"
+                },
+                {
+                    "value": "disabled",
+                    "value_label": "Disabled (no Serial support)"
+                }
+            ]
+        },
+        {
+            "option": "usb",
+            "option_label": "USB support (if available)",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "CDCgen",
+                    "value_label": "CDC (generic 'Serial' supersede U(S)ART)"
+                },
+                {
+                    "value": "CDC",
+                    "value_label": "CDC (no generic 'Serial')"
+                },
+                {
+                    "value": "HID",
+                    "value_label": "HID (keyboard and mouse)"
+                }
+            ]
+        },
+        {
+            "option": "opt",
+            "option_label": "Optimize",
+            "values": [
+                {
+                    "value": "osstd",
+                    "value_label": "Smallest (-Os default)",
+                    "selected": true
+                },
+                {
+                    "value": "oslto",
+                    "value_label": "Smallest (-Os) with LTO"
+                },
+                {
+                    "value": "o1std",
+                    "value_label": "Fast (-O1)"
+                },
+                {
+                    "value": "o1lto",
+                    "value_label": "Fast (-O1) with LTO"
+                },
+                {
+                    "value": "o2std",
+                    "value_label": "Faster (-O2)"
+                },
+                {
+                    "value": "o2lto",
+                    "value_label": "Faster (-O2) with LTO"
+                },
+                {
+                    "value": "o3std",
+                    "value_label": "Fastest (-O3)"
+                },
+                {
+                    "value": "o3lto",
+                    "value_label": "Fastest (-O3) with LTO"
+                },
+                {
+                    "value": "ogstd",
+                    "value_label": "Debug (-Og)"
+                }
+            ]
+        },
+        {
+            "option": "dbg",
+            "option_label": "Debug symbols and core logs",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "enable",
+                    "value_label": "Symbols Enabled (-g)"
+                }
+            ]
+        },
+        {
+            "option": "rtlib",
+            "option_label": "C Runtime Library",
+            "values": [
+                {
+                    "value": "nano",
+                    "value_label": "Newlib Nano (default)",
+                    "selected": true
+                },
+                {
+                    "value": "nanofp",
+                    "value_label": "Newlib Nano + Float Printf"
+                },
+                {
+                    "value": "nanofs",
+                    "value_label": "Newlib Nano + Float Scanf"
+                },
+                {
+                    "value": "nanofps",
+                    "value_label": "Newlib Nano + Float Printf/Scanf"
+                },
+                {
+                    "value": "full",
+                    "value_label": "Newlib Standard"
+                }
+            ]
+        },
+        {
+            "option": "upload_method",
+            "option_label": "Upload method",
+            "values": [
+                {
+                    "value": "swdMethod",
+                    "value_label": "STM32CubeProgrammer (SWD)",
+                    "selected": true
+                },
+                {
+                    "value": "jlinkMethod",
+                    "value_label": "STM32CubeProgrammer (J-Link)"
+                },
+                {
+                    "value": "serialMethod",
+                    "value_label": "STM32CubeProgrammer (Serial)"
+                },
+                {
+                    "value": "dfuMethod",
+                    "value_label": "STM32CubeProgrammer (DFU)"
+                },
+                {
+                    "value": "bmpMethod",
+                    "value_label": "BMP (Black Magic Probe)"
+                },
+                {
+                    "value": "OpenOCDSTLink",
+                    "value_label": "OpenOCD STLink (SWD)"
+                },
+                {
+                    "value": "OpenOCDDapLink",
+                    "value_label": "OpenOCD DapLink (SWD)"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json"
+},
   "STMicroelectronics:stm32:GenF0": {
     "name": "Generic STM32F0 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -2271,12 +2467,12 @@
                     "value_label": "Generic F042C4Tx"
                 },
                 {
-                    "value": "GENERIC_F042C6TX",
-                    "value_label": "Generic F042C6Tx"
-                },
-                {
                     "value": "GENERIC_F042C4UX",
                     "value_label": "Generic F042C4Ux"
+                },
+                {
+                    "value": "GENERIC_F042C6TX",
+                    "value_label": "Generic F042C6Tx"
                 },
                 {
                     "value": "GENERIC_F042C6UX",
@@ -2383,12 +2579,12 @@
                     "value_label": "Generic F071C8Tx"
                 },
                 {
-                    "value": "GENERIC_F071CBTX",
-                    "value_label": "Generic F071CBTx"
-                },
-                {
                     "value": "GENERIC_F071C8UX",
                     "value_label": "Generic F071C8Ux"
+                },
+                {
+                    "value": "GENERIC_F071CBTX",
+                    "value_label": "Generic F071CBTx"
                 },
                 {
                     "value": "GENERIC_F071CBUX",
@@ -2407,12 +2603,12 @@
                     "value_label": "Generic F071V8Hx"
                 },
                 {
-                    "value": "GENERIC_F071VBHX",
-                    "value_label": "Generic F071VBHx"
-                },
-                {
                     "value": "GENERIC_F071V8TX",
                     "value_label": "Generic F071V8Tx"
+                },
+                {
+                    "value": "GENERIC_F071VBHX",
+                    "value_label": "Generic F071VBHx"
                 },
                 {
                     "value": "GENERIC_F071VBTX",
@@ -2423,12 +2619,12 @@
                     "value_label": "Generic F072C8Tx"
                 },
                 {
-                    "value": "GENERIC_F072CBTX",
-                    "value_label": "Generic F072CBTx"
-                },
-                {
                     "value": "GENERIC_F072C8UX",
                     "value_label": "Generic F072C8Ux"
+                },
+                {
+                    "value": "GENERIC_F072CBTX",
+                    "value_label": "Generic F072CBTx"
                 },
                 {
                     "value": "GENERIC_F072CBUX",
@@ -2443,10 +2639,6 @@
                     "value_label": "Generic F072R8Tx"
                 },
                 {
-                    "value": "GENERIC_F072RBTX",
-                    "value_label": "Generic F072RBTx"
-                },
-                {
                     "value": "GENERIC_F072RBHX",
                     "value_label": "Generic F072RBHx"
                 },
@@ -2455,16 +2647,20 @@
                     "value_label": "Generic F072RBIx"
                 },
                 {
+                    "value": "GENERIC_F072RBTX",
+                    "value_label": "Generic F072RBTx"
+                },
+                {
                     "value": "GENERIC_F072V8HX",
                     "value_label": "Generic F072V8Hx"
                 },
                 {
-                    "value": "GENERIC_F072VBHX",
-                    "value_label": "Generic F072VBHx"
-                },
-                {
                     "value": "GENERIC_F072V8TX",
                     "value_label": "Generic F072V8Tx"
+                },
+                {
+                    "value": "GENERIC_F072VBHX",
+                    "value_label": "Generic F072VBHx"
                 },
                 {
                     "value": "GENERIC_F072VBTX",
@@ -2503,12 +2699,12 @@
                     "value_label": "Generic F091CBTx"
                 },
                 {
-                    "value": "GENERIC_F091CCTX",
-                    "value_label": "Generic F091CCTx"
-                },
-                {
                     "value": "GENERIC_F091CBUX",
                     "value_label": "Generic F091CBUx"
+                },
+                {
+                    "value": "GENERIC_F091CCTX",
+                    "value_label": "Generic F091CCTx"
                 },
                 {
                     "value": "GENERIC_F091CCUX",
@@ -2519,12 +2715,12 @@
                     "value_label": "Generic F091RBTx"
                 },
                 {
-                    "value": "GENERIC_F091RCTX",
-                    "value_label": "Generic F091RCTx"
-                },
-                {
                     "value": "GENERIC_F091RCHX",
                     "value_label": "Generic F091RCHx"
+                },
+                {
+                    "value": "GENERIC_F091RCTX",
+                    "value_label": "Generic F091RCTx"
                 },
                 {
                     "value": "GENERIC_F091RCYX",
@@ -2535,12 +2731,12 @@
                     "value_label": "Generic F091VBTx"
                 },
                 {
-                    "value": "GENERIC_F091VCTX",
-                    "value_label": "Generic F091VCTx"
-                },
-                {
                     "value": "GENERIC_F091VCHX",
                     "value_label": "Generic F091VCHx"
+                },
+                {
+                    "value": "GENERIC_F091VCTX",
+                    "value_label": "Generic F091VCTx"
                 },
                 {
                     "value": "GENERIC_F098CCTX",
@@ -2751,52 +2947,20 @@
 },
   "STMicroelectronics:stm32:GenF1": {
     "name": "Generic STM32F1 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "BLUEPILL_F103C6",
-                    "value_label": "BluePill F103C6 (32K)",
-                    "selected": true
-                },
-                {
-                    "value": "BLUEPILL_F103C8",
-                    "value_label": "BluePill F103C8"
-                },
-                {
-                    "value": "BLUEPILL_F103CB",
-                    "value_label": "BluePill F103CB (or C8 with 128k)"
-                },
-                {
                     "value": "BLACKPILL_F103C8",
-                    "value_label": "BlackPill F103C8"
+                    "value_label": "BlackPill F103C8",
+                    "selected": true
                 },
                 {
                     "value": "BLACKPILL_F103CB",
                     "value_label": "BlackPill F103CB (or C8 with 128k)"
-                },
-                {
-                    "value": "DATABOARD",
-                    "value_label": "Databoard"
-                },
-                {
-                    "value": "VCCGND_F103ZET6_MINI",
-                    "value_label": "VCCGND F103ZET6 Mini"
-                },
-                {
-                    "value": "VCCGND_F103ZET6",
-                    "value_label": "VCCGND F103ZET6"
-                },
-                {
-                    "value": "HY_TINYSTM103TB",
-                    "value_label": "HY-TinySTM103TB"
-                },
-                {
-                    "value": "MAPLEMINI_F103CB",
-                    "value_label": "Maple Mini F103CB"
                 },
                 {
                     "value": "BLUEBUTTON_F103R8T",
@@ -2813,6 +2977,38 @@
                 {
                     "value": "BLUEBUTTON_F103RET",
                     "value_label": "Blue Button F103RET"
+                },
+                {
+                    "value": "BLUEPILL_F103C6",
+                    "value_label": "BluePill F103C6 (32K)"
+                },
+                {
+                    "value": "BLUEPILL_F103C8",
+                    "value_label": "BluePill F103C8"
+                },
+                {
+                    "value": "BLUEPILL_F103CB",
+                    "value_label": "BluePill F103CB (or C8 with 128k)"
+                },
+                {
+                    "value": "DATABOARD",
+                    "value_label": "Databoard"
+                },
+                {
+                    "value": "HY_TINYSTM103TB",
+                    "value_label": "HY-TinySTM103TB"
+                },
+                {
+                    "value": "MAPLEMINI_F103CB",
+                    "value_label": "Maple Mini F103CB"
+                },
+                {
+                    "value": "VCCGND_F103ZET6_MINI",
+                    "value_label": "VCCGND F103ZET6 Mini"
+                },
+                {
+                    "value": "VCCGND_F103ZET6",
+                    "value_label": "VCCGND F103ZET6"
                 },
                 {
                     "value": "GENERIC_F100C4TX",
@@ -2939,12 +3135,12 @@
                     "value_label": "Generic F103R4Hx"
                 },
                 {
-                    "value": "GENERIC_F103R6HX",
-                    "value_label": "Generic F103R6Hx"
-                },
-                {
                     "value": "GENERIC_F103R4TX",
                     "value_label": "Generic F103R4Tx"
+                },
+                {
+                    "value": "GENERIC_F103R6HX",
+                    "value_label": "Generic F103R6Hx"
                 },
                 {
                     "value": "GENERIC_F103R6TX",
@@ -2955,12 +3151,12 @@
                     "value_label": "Generic F103R8Hx"
                 },
                 {
-                    "value": "GENERIC_F103RBHX",
-                    "value_label": "Generic F103RBHx"
-                },
-                {
                     "value": "GENERIC_F103R8TX",
                     "value_label": "Generic F103R8Tx"
+                },
+                {
+                    "value": "GENERIC_F103RBHX",
+                    "value_label": "Generic F103RBHx"
                 },
                 {
                     "value": "GENERIC_F103RBTX",
@@ -2971,20 +3167,20 @@
                     "value_label": "Generic F103RCTx"
                 },
                 {
-                    "value": "GENERIC_F103RDTX",
-                    "value_label": "Generic F103RDTx"
-                },
-                {
-                    "value": "GENERIC_F103RETX",
-                    "value_label": "Generic F103RETx"
-                },
-                {
                     "value": "GENERIC_F103RCYX",
                     "value_label": "Generic F103RCYx"
                 },
                 {
+                    "value": "GENERIC_F103RDTX",
+                    "value_label": "Generic F103RDTx"
+                },
+                {
                     "value": "GENERIC_F103RDYX",
                     "value_label": "Generic F103RDYx"
+                },
+                {
+                    "value": "GENERIC_F103RETX",
+                    "value_label": "Generic F103RETx"
                 },
                 {
                     "value": "GENERIC_F103REYX",
@@ -3019,40 +3215,40 @@
                     "value_label": "Generic F103V8Hx"
                 },
                 {
-                    "value": "GENERIC_F103VBHX",
-                    "value_label": "Generic F103VBHx"
-                },
-                {
                     "value": "GENERIC_F103V8TX",
                     "value_label": "Generic F103V8Tx"
                 },
                 {
-                    "value": "GENERIC_F103VBTX",
-                    "value_label": "Generic F103VBTx"
+                    "value": "GENERIC_F103VBHX",
+                    "value_label": "Generic F103VBHx"
                 },
                 {
                     "value": "GENERIC_F103VBIX",
                     "value_label": "Generic F103VBIx"
                 },
                 {
+                    "value": "GENERIC_F103VBTX",
+                    "value_label": "Generic F103VBTx"
+                },
+                {
                     "value": "GENERIC_F103VCHX",
                     "value_label": "Generic F103VCHx"
-                },
-                {
-                    "value": "GENERIC_F103VDHX",
-                    "value_label": "Generic F103VDHx"
-                },
-                {
-                    "value": "GENERIC_F103VEHX",
-                    "value_label": "Generic F103VEHx"
                 },
                 {
                     "value": "GENERIC_F103VCTX",
                     "value_label": "Generic F103VCTx"
                 },
                 {
+                    "value": "GENERIC_F103VDHX",
+                    "value_label": "Generic F103VDHx"
+                },
+                {
                     "value": "GENERIC_F103VDTX",
                     "value_label": "Generic F103VDTx"
+                },
+                {
+                    "value": "GENERIC_F103VEHX",
+                    "value_label": "Generic F103VEHx"
                 },
                 {
                     "value": "GENERIC_F103VETX",
@@ -3071,20 +3267,20 @@
                     "value_label": "Generic F103ZCHx"
                 },
                 {
-                    "value": "GENERIC_F103ZDHX",
-                    "value_label": "Generic F103ZDHx"
-                },
-                {
-                    "value": "GENERIC_F103ZEHX",
-                    "value_label": "Generic F103ZEHx"
-                },
-                {
                     "value": "GENERIC_F103ZCTX",
                     "value_label": "Generic F103ZCTx"
                 },
                 {
+                    "value": "GENERIC_F103ZDHX",
+                    "value_label": "Generic F103ZDHx"
+                },
+                {
                     "value": "GENERIC_F103ZDTX",
                     "value_label": "Generic F103ZDTx"
+                },
+                {
+                    "value": "GENERIC_F103ZEHX",
+                    "value_label": "Generic F103ZEHx"
                 },
                 {
                     "value": "GENERIC_F103ZETX",
@@ -3095,12 +3291,12 @@
                     "value_label": "Generic F103ZFHx"
                 },
                 {
-                    "value": "GENERIC_F103ZGHX",
-                    "value_label": "Generic F103ZGHx"
-                },
-                {
                     "value": "GENERIC_F103ZFTX",
                     "value_label": "Generic F103ZFTx"
+                },
+                {
+                    "value": "GENERIC_F103ZGHX",
+                    "value_label": "Generic F103ZGHx"
                 },
                 {
                     "value": "GENERIC_F103ZGTX",
@@ -3318,7 +3514,7 @@
 },
   "STMicroelectronics:stm32:GenF2": {
     "name": "Generic STM32F2 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -3338,24 +3534,24 @@
                     "value_label": "Generic F205RETx"
                 },
                 {
+                    "value": "GENERIC_F205REYX",
+                    "value_label": "Generic F205REYx"
+                },
+                {
                     "value": "GENERIC_F205RFTX",
                     "value_label": "Generic F205RFTx"
+                },
+                {
+                    "value": "GENERIC_F205RGEX",
+                    "value_label": "Generic F205RGEx"
                 },
                 {
                     "value": "GENERIC_F205RGTX",
                     "value_label": "Generic F205RGTx"
                 },
                 {
-                    "value": "GENERIC_F205REYX",
-                    "value_label": "Generic F205REYx"
-                },
-                {
                     "value": "GENERIC_F205RGYX",
                     "value_label": "Generic F205RGYx"
-                },
-                {
-                    "value": "GENERIC_F205RGEX",
-                    "value_label": "Generic F205RGEx"
                 },
                 {
                     "value": "GENERIC_F205VBTX",
@@ -3398,28 +3594,28 @@
                     "value_label": "Generic F207ICHx"
                 },
                 {
-                    "value": "GENERIC_F207IEHX",
-                    "value_label": "Generic F207IEHx"
-                },
-                {
-                    "value": "GENERIC_F207IFHX",
-                    "value_label": "Generic F207IFHx"
-                },
-                {
-                    "value": "GENERIC_F207IGHX",
-                    "value_label": "Generic F207IGHx"
-                },
-                {
                     "value": "GENERIC_F207ICTX",
                     "value_label": "Generic F207ICTx"
+                },
+                {
+                    "value": "GENERIC_F207IEHX",
+                    "value_label": "Generic F207IEHx"
                 },
                 {
                     "value": "GENERIC_F207IETX",
                     "value_label": "Generic F207IETx"
                 },
                 {
+                    "value": "GENERIC_F207IFHX",
+                    "value_label": "Generic F207IFHx"
+                },
+                {
                     "value": "GENERIC_F207IFTX",
                     "value_label": "Generic F207IFTx"
+                },
+                {
+                    "value": "GENERIC_F207IGHX",
+                    "value_label": "Generic F207IGHx"
                 },
                 {
                     "value": "GENERIC_F207IGTX",
@@ -3486,12 +3682,12 @@
                     "value_label": "Generic F217IEHx"
                 },
                 {
-                    "value": "GENERIC_F217IGHX",
-                    "value_label": "Generic F217IGHx"
-                },
-                {
                     "value": "GENERIC_F217IETX",
                     "value_label": "Generic F217IETx"
+                },
+                {
+                    "value": "GENERIC_F217IGHX",
+                    "value_label": "Generic F217IGHx"
                 },
                 {
                     "value": "GENERIC_F217IGTX",
@@ -3713,20 +3909,20 @@
 },
   "STMicroelectronics:stm32:GenF3": {
     "name": "Generic STM32F3 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "BLACKPILL_F303CC",
-                    "value_label": "RobotDyn BlackPill F303CC",
+                    "value": "OLIMEXINO_STM32F3",
+                    "value_label": "OLIMEXINO-STM32F3",
                     "selected": true
                 },
                 {
-                    "value": "OLIMEXINO_STM32F3",
-                    "value_label": "OLIMEXINO-STM32F3"
+                    "value": "BLACKPILL_F303CC",
+                    "value_label": "RobotDyn BlackPill F303CC"
                 },
                 {
                     "value": "GENERIC_F301C6TX",
@@ -3819,6 +4015,22 @@
                 {
                     "value": "GENERIC_F303VCTX",
                     "value_label": "Generic F303VCTx"
+                },
+                {
+                    "value": "GENERIC_F303VDHX",
+                    "value_label": "Generic F303VDHx"
+                },
+                {
+                    "value": "GENERIC_F303VDTX",
+                    "value_label": "Generic F303VDTx"
+                },
+                {
+                    "value": "GENERIC_F303VEHX",
+                    "value_label": "Generic F303VEHx"
+                },
+                {
+                    "value": "GENERIC_F303VETX",
+                    "value_label": "Generic F303VETx"
                 },
                 {
                     "value": "GENERIC_F318C8TX",
@@ -4104,16 +4316,20 @@
 },
   "STMicroelectronics:stm32:GenF4": {
     "name": "Generic STM32F4 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "BLACK_F407VE",
-                    "value_label": "Black F407VE",
+                    "value": "FEATHER_F405",
+                    "value_label": "Adafruit Feather STM32F405",
                     "selected": true
+                },
+                {
+                    "value": "BLACK_F407VE",
+                    "value_label": "Black F407VE"
                 },
                 {
                     "value": "BLACK_F407VG",
@@ -4128,18 +4344,6 @@
                     "value_label": "Black F407ZG"
                 },
                 {
-                    "value": "BLUE_F407VE_MINI",
-                    "value_label": "Blue F407VE mini"
-                },
-                {
-                    "value": "DIYMORE_F407VGT",
-                    "value_label": "DIYMORE STM32F407VGT"
-                },
-                {
-                    "value": "FK407M1",
-                    "value_label": "FK407M1 STM32F407VET"
-                },
-                {
                     "value": "BLACKPILL_F401CC",
                     "value_label": "BlackPill F401CC"
                 },
@@ -4152,12 +4356,20 @@
                     "value_label": "BlackPill F411CE"
                 },
                 {
+                    "value": "BLUE_F407VE_MINI",
+                    "value_label": "Blue F407VE mini"
+                },
+                {
                     "value": "CoreBoard_F401RC",
                     "value_label": "Core board F401RCT6"
                 },
                 {
-                    "value": "FEATHER_F405",
-                    "value_label": "Adafruit Feather STM32F405"
+                    "value": "DIYMORE_F407VGT",
+                    "value_label": "DIYMORE STM32F407VGT"
+                },
+                {
+                    "value": "FK407M1",
+                    "value_label": "FK407M1 STM32F407VET"
                 },
                 {
                     "value": "THUNDERPACK_F411",
@@ -4172,12 +4384,16 @@
                     "value_label": "Generic F401CBUx"
                 },
                 {
-                    "value": "GENERIC_F401CCUX",
-                    "value_label": "Generic F401CCUx"
-                },
-                {
                     "value": "GENERIC_F401CBYX",
                     "value_label": "Generic F401CBYx"
+                },
+                {
+                    "value": "GENERIC_F401CCFX",
+                    "value_label": "Generic F401CCFx"
+                },
+                {
+                    "value": "GENERIC_F401CCUX",
+                    "value_label": "Generic F401CCUx"
                 },
                 {
                     "value": "GENERIC_F401CCYX",
@@ -4188,20 +4404,16 @@
                     "value_label": "Generic F401CDUx"
                 },
                 {
-                    "value": "GENERIC_F401CEUX",
-                    "value_label": "Generic F401CEUx"
-                },
-                {
                     "value": "GENERIC_F401CDYX",
                     "value_label": "Generic F401CDYx"
                 },
                 {
-                    "value": "GENERIC_F401CEYX",
-                    "value_label": "Generic F401CEYx"
+                    "value": "GENERIC_F401CEUX",
+                    "value_label": "Generic F401CEUx"
                 },
                 {
-                    "value": "GENERIC_F401CCFX",
-                    "value_label": "Generic F401CCFx"
+                    "value": "GENERIC_F401CEYX",
+                    "value_label": "Generic F401CEYx"
                 },
                 {
                     "value": "GENERIC_F401RBTX",
@@ -4292,12 +4504,12 @@
                     "value_label": "Generic F410R8Ix"
                 },
                 {
-                    "value": "GENERIC_F410RBIX",
-                    "value_label": "Generic F410RBIx"
-                },
-                {
                     "value": "GENERIC_F410R8TX",
                     "value_label": "Generic F410R8Tx"
+                },
+                {
+                    "value": "GENERIC_F410RBIX",
+                    "value_label": "Generic F410RBIx"
                 },
                 {
                     "value": "GENERIC_F410RBTX",
@@ -4316,12 +4528,12 @@
                     "value_label": "Generic F411CCUx"
                 },
                 {
-                    "value": "GENERIC_F411CEUX",
-                    "value_label": "Generic F411CEUx"
-                },
-                {
                     "value": "GENERIC_F411CCYX",
                     "value_label": "Generic F411CCYx"
+                },
+                {
+                    "value": "GENERIC_F411CEUX",
+                    "value_label": "Generic F411CEUx"
                 },
                 {
                     "value": "GENERIC_F411CEYX",
@@ -4356,20 +4568,20 @@
                     "value_label": "Generic F412RETx"
                 },
                 {
-                    "value": "GENERIC_F412RGTX",
-                    "value_label": "Generic F412RGTx"
-                },
-                {
                     "value": "GENERIC_F412REYX",
                     "value_label": "Generic F412REYx"
                 },
                 {
-                    "value": "GENERIC_F412RGYX",
-                    "value_label": "Generic F412RGYx"
-                },
-                {
                     "value": "GENERIC_F412REYXP",
                     "value_label": "Generic F412REYxP"
+                },
+                {
+                    "value": "GENERIC_F412RGTX",
+                    "value_label": "Generic F412RGTx"
+                },
+                {
+                    "value": "GENERIC_F412RGYX",
+                    "value_label": "Generic F412RGYx"
                 },
                 {
                     "value": "GENERIC_F412RGYXP",
@@ -4380,12 +4592,12 @@
                     "value_label": "Generic F412ZEJx"
                 },
                 {
-                    "value": "GENERIC_F412ZGJX",
-                    "value_label": "Generic F412ZGJx"
-                },
-                {
                     "value": "GENERIC_F412ZETX",
                     "value_label": "Generic F412ZETx"
+                },
+                {
+                    "value": "GENERIC_F412ZGJX",
+                    "value_label": "Generic F412ZGJx"
                 },
                 {
                     "value": "GENERIC_F412ZGTX",
@@ -4412,12 +4624,12 @@
                     "value_label": "Generic F413ZGJx"
                 },
                 {
-                    "value": "GENERIC_F413ZHJX",
-                    "value_label": "Generic F413ZHJx"
-                },
-                {
                     "value": "GENERIC_F413ZGTX",
                     "value_label": "Generic F413ZGTx"
+                },
+                {
+                    "value": "GENERIC_F413ZHJX",
+                    "value_label": "Generic F413ZHJx"
                 },
                 {
                     "value": "GENERIC_F413ZHTX",
@@ -4516,12 +4728,12 @@
                     "value_label": "Generic F439ZGTx"
                 },
                 {
-                    "value": "GENERIC_F439ZITX",
-                    "value_label": "Generic F439ZITx"
-                },
-                {
                     "value": "GENERIC_F439ZGYX",
                     "value_label": "Generic F439ZGYx"
+                },
+                {
+                    "value": "GENERIC_F439ZITX",
+                    "value_label": "Generic F439ZITx"
                 },
                 {
                     "value": "GENERIC_F439ZIYX",
@@ -4771,7 +4983,7 @@
 },
   "STMicroelectronics:stm32:GenF7": {
     "name": "Generic STM32F7 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -4903,12 +5115,12 @@
                     "value_label": "Generic F765IGKx"
                 },
                 {
-                    "value": "GENERIC_F765IIKX",
-                    "value_label": "Generic F765IIKx"
-                },
-                {
                     "value": "GENERIC_F765IGTX",
                     "value_label": "Generic F765IGTx"
+                },
+                {
+                    "value": "GENERIC_F765IIKX",
+                    "value_label": "Generic F765IIKx"
                 },
                 {
                     "value": "GENERIC_F765IITX",
@@ -4943,12 +5155,12 @@
                     "value_label": "Generic F767IGKx"
                 },
                 {
-                    "value": "GENERIC_F767IIKX",
-                    "value_label": "Generic F767IIKx"
-                },
-                {
                     "value": "GENERIC_F767IGTX",
                     "value_label": "Generic F767IGTx"
+                },
+                {
+                    "value": "GENERIC_F767IIKX",
+                    "value_label": "Generic F767IIKx"
                 },
                 {
                     "value": "GENERIC_F767IITX",
@@ -5198,7 +5410,7 @@
 },
   "STMicroelectronics:stm32:GenFlight": {
     "name": "Generic Flight Controllers",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -5429,7 +5641,7 @@
 },
   "STMicroelectronics:stm32:GenG0": {
     "name": "Generic STM32G0 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -5473,68 +5685,24 @@
                     "value_label": "Generic G031C4Tx"
                 },
                 {
-                    "value": "GENERIC_G031C6TX",
-                    "value_label": "Generic G031C6Tx"
-                },
-                {
-                    "value": "GENERIC_G031C8TX",
-                    "value_label": "Generic G031C8Tx"
-                },
-                {
                     "value": "GENERIC_G031C4UX",
                     "value_label": "Generic G031C4Ux"
+                },
+                {
+                    "value": "GENERIC_G031C6TX",
+                    "value_label": "Generic G031C6Tx"
                 },
                 {
                     "value": "GENERIC_G031C6UX",
                     "value_label": "Generic G031C6Ux"
                 },
                 {
+                    "value": "GENERIC_G031C8TX",
+                    "value_label": "Generic G031C8Tx"
+                },
+                {
                     "value": "GENERIC_G031C8UX",
                     "value_label": "Generic G031C8Ux"
-                },
-                {
-                    "value": "GENERIC_G031G4UX",
-                    "value_label": "Generic G031G4Ux"
-                },
-                {
-                    "value": "GENERIC_G031G6UX",
-                    "value_label": "Generic G031G6Ux"
-                },
-                {
-                    "value": "GENERIC_G031G8UX",
-                    "value_label": "Generic G031G8Ux"
-                },
-                {
-                    "value": "GENERIC_G041G6UX",
-                    "value_label": "Generic G041G6Ux"
-                },
-                {
-                    "value": "GENERIC_G041G8UX",
-                    "value_label": "Generic G041G8Ux"
-                },
-                {
-                    "value": "GENERIC_G041C6TX",
-                    "value_label": "Generic G041C6Tx"
-                },
-                {
-                    "value": "GENERIC_G041C8TX",
-                    "value_label": "Generic G041C8Tx"
-                },
-                {
-                    "value": "GENERIC_G041C6UX",
-                    "value_label": "Generic G041C6Ux"
-                },
-                {
-                    "value": "GENERIC_G041C8UX",
-                    "value_label": "Generic G041C8Ux"
-                },
-                {
-                    "value": "GENERIC_G031J4MX",
-                    "value_label": "Generic G031J4Mx"
-                },
-                {
-                    "value": "GENERIC_G031J6MX",
-                    "value_label": "Generic G031J6Mx"
                 },
                 {
                     "value": "GENERIC_G031F4PX",
@@ -5549,32 +5717,68 @@
                     "value_label": "Generic G031F8Px"
                 },
                 {
-                    "value": "GENERIC_G031Y8YX",
-                    "value_label": "Generic G031Y8Yx"
+                    "value": "GENERIC_G031G4UX",
+                    "value_label": "Generic G031G4Ux"
+                },
+                {
+                    "value": "GENERIC_G031G6UX",
+                    "value_label": "Generic G031G6Ux"
+                },
+                {
+                    "value": "GENERIC_G031G8UX",
+                    "value_label": "Generic G031G8Ux"
+                },
+                {
+                    "value": "GENERIC_G031J4MX",
+                    "value_label": "Generic G031J4Mx"
+                },
+                {
+                    "value": "GENERIC_G031J6MX",
+                    "value_label": "Generic G031J6Mx"
                 },
                 {
                     "value": "GENERIC_G031K4TX",
                     "value_label": "Generic G031K4Tx"
                 },
                 {
-                    "value": "GENERIC_G031K6TX",
-                    "value_label": "Generic G031K6Tx"
-                },
-                {
-                    "value": "GENERIC_G031K8TX",
-                    "value_label": "Generic G031K8Tx"
-                },
-                {
                     "value": "GENERIC_G031K4UX",
                     "value_label": "Generic G031K4Ux"
+                },
+                {
+                    "value": "GENERIC_G031K6TX",
+                    "value_label": "Generic G031K6Tx"
                 },
                 {
                     "value": "GENERIC_G031K6UX",
                     "value_label": "Generic G031K6Ux"
                 },
                 {
+                    "value": "GENERIC_G031K8TX",
+                    "value_label": "Generic G031K8Tx"
+                },
+                {
                     "value": "GENERIC_G031K8UX",
                     "value_label": "Generic G031K8Ux"
+                },
+                {
+                    "value": "GENERIC_G031Y8YX",
+                    "value_label": "Generic G031Y8Yx"
+                },
+                {
+                    "value": "GENERIC_G041C6TX",
+                    "value_label": "Generic G041C6Tx"
+                },
+                {
+                    "value": "GENERIC_G041C6UX",
+                    "value_label": "Generic G041C6Ux"
+                },
+                {
+                    "value": "GENERIC_G041C8TX",
+                    "value_label": "Generic G041C8Tx"
+                },
+                {
+                    "value": "GENERIC_G041C8UX",
+                    "value_label": "Generic G041C8Ux"
                 },
                 {
                     "value": "GENERIC_G041F6PX",
@@ -5585,6 +5789,14 @@
                     "value_label": "Generic G041F8Px"
                 },
                 {
+                    "value": "GENERIC_G041G6UX",
+                    "value_label": "Generic G041G6Ux"
+                },
+                {
+                    "value": "GENERIC_G041G8UX",
+                    "value_label": "Generic G041G8Ux"
+                },
+                {
                     "value": "GENERIC_G041J6MX",
                     "value_label": "Generic G041J6Mx"
                 },
@@ -5593,12 +5805,12 @@
                     "value_label": "Generic G041K6Tx"
                 },
                 {
-                    "value": "GENERIC_G041K8TX",
-                    "value_label": "Generic G041K8Tx"
-                },
-                {
                     "value": "GENERIC_G041K6UX",
                     "value_label": "Generic G041K6Ux"
+                },
+                {
+                    "value": "GENERIC_G041K8TX",
+                    "value_label": "Generic G041K8Tx"
                 },
                 {
                     "value": "GENERIC_G041K8UX",
@@ -5633,32 +5845,16 @@
                     "value_label": "Generic G051C6Tx"
                 },
                 {
-                    "value": "GENERIC_G051C8TX",
-                    "value_label": "Generic G051C8Tx"
-                },
-                {
                     "value": "GENERIC_G051C6UX",
                     "value_label": "Generic G051C6Ux"
                 },
                 {
+                    "value": "GENERIC_G051C8TX",
+                    "value_label": "Generic G051C8Tx"
+                },
+                {
                     "value": "GENERIC_G051C8UX",
                     "value_label": "Generic G051C8Ux"
-                },
-                {
-                    "value": "GENERIC_G061C6TX",
-                    "value_label": "Generic G061C6Tx"
-                },
-                {
-                    "value": "GENERIC_G061C8TX",
-                    "value_label": "Generic G061C8Tx"
-                },
-                {
-                    "value": "GENERIC_G061C6UX",
-                    "value_label": "Generic G061C6Ux"
-                },
-                {
-                    "value": "GENERIC_G061C8UX",
-                    "value_label": "Generic G061C8Ux"
                 },
                 {
                     "value": "GENERIC_G051F6PX",
@@ -5673,6 +5869,46 @@
                     "value_label": "Generic G051F8Yx"
                 },
                 {
+                    "value": "GENERIC_G051G6UX",
+                    "value_label": "Generic G051G6Ux"
+                },
+                {
+                    "value": "GENERIC_G051G8UX",
+                    "value_label": "Generic G051G8Ux"
+                },
+                {
+                    "value": "GENERIC_G051K6TX",
+                    "value_label": "Generic G051K6Tx"
+                },
+                {
+                    "value": "GENERIC_G051K6UX",
+                    "value_label": "Generic G051K6Ux"
+                },
+                {
+                    "value": "GENERIC_G051K8TX",
+                    "value_label": "Generic G051K8Tx"
+                },
+                {
+                    "value": "GENERIC_G051K8UX",
+                    "value_label": "Generic G051K8Ux"
+                },
+                {
+                    "value": "GENERIC_G061C6TX",
+                    "value_label": "Generic G061C6Tx"
+                },
+                {
+                    "value": "GENERIC_G061C6UX",
+                    "value_label": "Generic G061C6Ux"
+                },
+                {
+                    "value": "GENERIC_G061C8TX",
+                    "value_label": "Generic G061C8Tx"
+                },
+                {
+                    "value": "GENERIC_G061C8UX",
+                    "value_label": "Generic G061C8Ux"
+                },
+                {
                     "value": "GENERIC_G061F6PX",
                     "value_label": "Generic G061F6Px"
                 },
@@ -5685,14 +5921,6 @@
                     "value_label": "Generic G061F8Yx"
                 },
                 {
-                    "value": "GENERIC_G051G6UX",
-                    "value_label": "Generic G051G6Ux"
-                },
-                {
-                    "value": "GENERIC_G051G8UX",
-                    "value_label": "Generic G051G8Ux"
-                },
-                {
                     "value": "GENERIC_G061G6UX",
                     "value_label": "Generic G061G6Ux"
                 },
@@ -5701,32 +5929,16 @@
                     "value_label": "Generic G061G8Ux"
                 },
                 {
-                    "value": "GENERIC_G051K6TX",
-                    "value_label": "Generic G051K6Tx"
-                },
-                {
-                    "value": "GENERIC_G051K8TX",
-                    "value_label": "Generic G051K8Tx"
-                },
-                {
-                    "value": "GENERIC_G051K6UX",
-                    "value_label": "Generic G051K6Ux"
-                },
-                {
-                    "value": "GENERIC_G051K8UX",
-                    "value_label": "Generic G051K8Ux"
-                },
-                {
                     "value": "GENERIC_G061K6TX",
                     "value_label": "Generic G061K6Tx"
                 },
                 {
-                    "value": "GENERIC_G061K8TX",
-                    "value_label": "Generic G061K8Tx"
-                },
-                {
                     "value": "GENERIC_G061K6UX",
                     "value_label": "Generic G061K6Ux"
+                },
+                {
+                    "value": "GENERIC_G061K8TX",
+                    "value_label": "Generic G061K8Tx"
                 },
                 {
                     "value": "GENERIC_G061K8UX",
@@ -5735,30 +5947,6 @@
                 {
                     "value": "GENERIC_G070CBTX",
                     "value_label": "Generic G070CBTx"
-                },
-                {
-                    "value": "GENERIC_G071EBYX",
-                    "value_label": "Generic G071EBYx"
-                },
-                {
-                    "value": "GENERIC_G081EBYX",
-                    "value_label": "Generic G081EBYx"
-                },
-                {
-                    "value": "GENERIC_G071G6UX",
-                    "value_label": "Generic G071G6Ux"
-                },
-                {
-                    "value": "GENERIC_G071G8UX",
-                    "value_label": "Generic G071G8Ux"
-                },
-                {
-                    "value": "GENERIC_G071GBUX",
-                    "value_label": "Generic G071GBUx"
-                },
-                {
-                    "value": "GENERIC_G081GBUX",
-                    "value_label": "Generic G081GBUx"
                 },
                 {
                     "value": "GENERIC_G070KBTX",
@@ -5773,28 +5961,44 @@
                     "value_label": "Generic G071C6Tx"
                 },
                 {
-                    "value": "GENERIC_G071C8TX",
-                    "value_label": "Generic G071C8Tx"
-                },
-                {
-                    "value": "GENERIC_G071CBTX",
-                    "value_label": "Generic G071CBTx"
-                },
-                {
                     "value": "GENERIC_G071C6UX",
                     "value_label": "Generic G071C6Ux"
+                },
+                {
+                    "value": "GENERIC_G071C8TX",
+                    "value_label": "Generic G071C8Tx"
                 },
                 {
                     "value": "GENERIC_G071C8UX",
                     "value_label": "Generic G071C8Ux"
                 },
                 {
+                    "value": "GENERIC_G071CBTX",
+                    "value_label": "Generic G071CBTx"
+                },
+                {
                     "value": "GENERIC_G071CBUX",
                     "value_label": "Generic G071CBUx"
                 },
                 {
+                    "value": "GENERIC_G071EBYX",
+                    "value_label": "Generic G071EBYx"
+                },
+                {
+                    "value": "GENERIC_G071G6UX",
+                    "value_label": "Generic G071G6Ux"
+                },
+                {
+                    "value": "GENERIC_G071G8UX",
+                    "value_label": "Generic G071G8Ux"
+                },
+                {
                     "value": "GENERIC_G071G8UXN",
                     "value_label": "Generic G071G8UxN"
+                },
+                {
+                    "value": "GENERIC_G071GBUX",
+                    "value_label": "Generic G071GBUx"
                 },
                 {
                     "value": "GENERIC_G071GBUXN",
@@ -5805,32 +6009,24 @@
                     "value_label": "Generic G071K6Tx"
                 },
                 {
-                    "value": "GENERIC_G071K8TX",
-                    "value_label": "Generic G071K8Tx"
-                },
-                {
-                    "value": "GENERIC_G071KBTX",
-                    "value_label": "Generic G071KBTx"
-                },
-                {
                     "value": "GENERIC_G071K6UX",
                     "value_label": "Generic G071K6Ux"
+                },
+                {
+                    "value": "GENERIC_G071K8TX",
+                    "value_label": "Generic G071K8Tx"
                 },
                 {
                     "value": "GENERIC_G071K8UX",
                     "value_label": "Generic G071K8Ux"
                 },
                 {
+                    "value": "GENERIC_G071KBTX",
+                    "value_label": "Generic G071KBTx"
+                },
+                {
                     "value": "GENERIC_G071KBUX",
                     "value_label": "Generic G071KBUx"
-                },
-                {
-                    "value": "GENERIC_G081KBTX",
-                    "value_label": "Generic G081KBTx"
-                },
-                {
-                    "value": "GENERIC_G081KBUX",
-                    "value_label": "Generic G081KBUx"
                 },
                 {
                     "value": "GENERIC_G071R6TX",
@@ -5841,12 +6037,12 @@
                     "value_label": "Generic G071R8Tx"
                 },
                 {
-                    "value": "GENERIC_G071RBTX",
-                    "value_label": "Generic G071RBTx"
-                },
-                {
                     "value": "GENERIC_G071RBIX",
                     "value_label": "Generic G071RBIx"
+                },
+                {
+                    "value": "GENERIC_G071RBTX",
+                    "value_label": "Generic G071RBTx"
                 },
                 {
                     "value": "GENERIC_G081CBTX",
@@ -5857,8 +6053,24 @@
                     "value_label": "Generic G081CBUx"
                 },
                 {
+                    "value": "GENERIC_G081EBYX",
+                    "value_label": "Generic G081EBYx"
+                },
+                {
+                    "value": "GENERIC_G081GBUX",
+                    "value_label": "Generic G081GBUx"
+                },
+                {
                     "value": "GENERIC_G081GBUXN",
                     "value_label": "Generic G081GBUxN"
+                },
+                {
+                    "value": "GENERIC_G081KBTX",
+                    "value_label": "Generic G081KBTx"
+                },
+                {
+                    "value": "GENERIC_G081KBUX",
+                    "value_label": "Generic G081KBUx"
                 },
                 {
                     "value": "GENERIC_G081RBIX",
@@ -5885,20 +6097,20 @@
                     "value_label": "Generic G0B1CBTx"
                 },
                 {
-                    "value": "GENERIC_G0B1CCTX",
-                    "value_label": "Generic G0B1CCTx"
-                },
-                {
-                    "value": "GENERIC_G0B1CETX",
-                    "value_label": "Generic G0B1CETx"
-                },
-                {
                     "value": "GENERIC_G0B1CBUX",
                     "value_label": "Generic G0B1CBUx"
                 },
                 {
+                    "value": "GENERIC_G0B1CCTX",
+                    "value_label": "Generic G0B1CCTx"
+                },
+                {
                     "value": "GENERIC_G0B1CCUX",
                     "value_label": "Generic G0B1CCUx"
+                },
+                {
+                    "value": "GENERIC_G0B1CETX",
+                    "value_label": "Generic G0B1CETx"
                 },
                 {
                     "value": "GENERIC_G0B1CEUX",
@@ -5909,40 +6121,24 @@
                     "value_label": "Generic G0B1KBTx"
                 },
                 {
-                    "value": "GENERIC_G0B1KCTX",
-                    "value_label": "Generic G0B1KCTx"
-                },
-                {
-                    "value": "GENERIC_G0B1KETX",
-                    "value_label": "Generic G0B1KETx"
-                },
-                {
                     "value": "GENERIC_G0B1KBUX",
                     "value_label": "Generic G0B1KBUx"
+                },
+                {
+                    "value": "GENERIC_G0B1KCTX",
+                    "value_label": "Generic G0B1KCTx"
                 },
                 {
                     "value": "GENERIC_G0B1KCUX",
                     "value_label": "Generic G0B1KCUx"
                 },
                 {
+                    "value": "GENERIC_G0B1KETX",
+                    "value_label": "Generic G0B1KETx"
+                },
+                {
                     "value": "GENERIC_G0B1KEUX",
                     "value_label": "Generic G0B1KEUx"
-                },
-                {
-                    "value": "GENERIC_G0C1KCTX",
-                    "value_label": "Generic G0C1KCTx"
-                },
-                {
-                    "value": "GENERIC_G0C1KETX",
-                    "value_label": "Generic G0C1KETx"
-                },
-                {
-                    "value": "GENERIC_G0C1KCUX",
-                    "value_label": "Generic G0C1KCUx"
-                },
-                {
-                    "value": "GENERIC_G0C1KEUX",
-                    "value_label": "Generic G0C1KEUx"
                 },
                 {
                     "value": "GENERIC_G0B1MBTX",
@@ -5957,20 +6153,8 @@
                     "value_label": "Generic G0B1METx"
                 },
                 {
-                    "value": "GENERIC_G0C1MCTX",
-                    "value_label": "Generic G0C1MCTx"
-                },
-                {
-                    "value": "GENERIC_G0C1METX",
-                    "value_label": "Generic G0C1METx"
-                },
-                {
                     "value": "GENERIC_G0B1NEYX",
                     "value_label": "Generic G0B1NEYx"
-                },
-                {
-                    "value": "GENERIC_G0C1NEYX",
-                    "value_label": "Generic G0C1NEYx"
                 },
                 {
                     "value": "GENERIC_G0B1RBTX",
@@ -5989,56 +6173,68 @@
                     "value_label": "Generic G0B1VBIx"
                 },
                 {
-                    "value": "GENERIC_G0B1VCIX",
-                    "value_label": "Generic G0B1VCIx"
-                },
-                {
-                    "value": "GENERIC_G0B1VEIX",
-                    "value_label": "Generic G0B1VEIx"
-                },
-                {
                     "value": "GENERIC_G0B1VBTX",
                     "value_label": "Generic G0B1VBTx"
+                },
+                {
+                    "value": "GENERIC_G0B1VCIX",
+                    "value_label": "Generic G0B1VCIx"
                 },
                 {
                     "value": "GENERIC_G0B1VCTX",
                     "value_label": "Generic G0B1VCTx"
                 },
                 {
+                    "value": "GENERIC_G0B1VEIX",
+                    "value_label": "Generic G0B1VEIx"
+                },
+                {
                     "value": "GENERIC_G0B1VETX",
                     "value_label": "Generic G0B1VETx"
-                },
-                {
-                    "value": "GENERIC_G0C1VCIX",
-                    "value_label": "Generic G0C1VCIx"
-                },
-                {
-                    "value": "GENERIC_G0C1VEIX",
-                    "value_label": "Generic G0C1VEIx"
-                },
-                {
-                    "value": "GENERIC_G0C1VCTX",
-                    "value_label": "Generic G0C1VCTx"
-                },
-                {
-                    "value": "GENERIC_G0C1VETX",
-                    "value_label": "Generic G0C1VETx"
                 },
                 {
                     "value": "GENERIC_G0C1CCTX",
                     "value_label": "Generic G0C1CCTx"
                 },
                 {
-                    "value": "GENERIC_G0C1CETX",
-                    "value_label": "Generic G0C1CETx"
-                },
-                {
                     "value": "GENERIC_G0C1CCUX",
                     "value_label": "Generic G0C1CCUx"
                 },
                 {
+                    "value": "GENERIC_G0C1CETX",
+                    "value_label": "Generic G0C1CETx"
+                },
+                {
                     "value": "GENERIC_G0C1CEUX",
                     "value_label": "Generic G0C1CEUx"
+                },
+                {
+                    "value": "GENERIC_G0C1KCTX",
+                    "value_label": "Generic G0C1KCTx"
+                },
+                {
+                    "value": "GENERIC_G0C1KCUX",
+                    "value_label": "Generic G0C1KCUx"
+                },
+                {
+                    "value": "GENERIC_G0C1KETX",
+                    "value_label": "Generic G0C1KETx"
+                },
+                {
+                    "value": "GENERIC_G0C1KEUX",
+                    "value_label": "Generic G0C1KEUx"
+                },
+                {
+                    "value": "GENERIC_G0C1MCTX",
+                    "value_label": "Generic G0C1MCTx"
+                },
+                {
+                    "value": "GENERIC_G0C1METX",
+                    "value_label": "Generic G0C1METx"
+                },
+                {
+                    "value": "GENERIC_G0C1NEYX",
+                    "value_label": "Generic G0C1NEYx"
                 },
                 {
                     "value": "GENERIC_G0C1RCTX",
@@ -6047,6 +6243,22 @@
                 {
                     "value": "GENERIC_G0C1RETX",
                     "value_label": "Generic G0C1RETx"
+                },
+                {
+                    "value": "GENERIC_G0C1VCIX",
+                    "value_label": "Generic G0C1VCIx"
+                },
+                {
+                    "value": "GENERIC_G0C1VCTX",
+                    "value_label": "Generic G0C1VCTx"
+                },
+                {
+                    "value": "GENERIC_G0C1VEIX",
+                    "value_label": "Generic G0C1VEIx"
+                },
+                {
+                    "value": "GENERIC_G0C1VETX",
+                    "value_label": "Generic G0C1VETx"
                 }
             ]
         },
@@ -6229,7 +6441,7 @@
 },
   "STMicroelectronics:stm32:GenG4": {
     "name": "Generic STM32G4 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -6245,20 +6457,20 @@
                     "value_label": "Generic G431C6Tx"
                 },
                 {
-                    "value": "GENERIC_G431C8TX",
-                    "value_label": "Generic G431C8Tx"
-                },
-                {
-                    "value": "GENERIC_G431CBTX",
-                    "value_label": "Generic G431CBTx"
-                },
-                {
                     "value": "GENERIC_G431C6UX",
                     "value_label": "Generic G431C6Ux"
                 },
                 {
+                    "value": "GENERIC_G431C8TX",
+                    "value_label": "Generic G431C8Tx"
+                },
+                {
                     "value": "GENERIC_G431C8UX",
                     "value_label": "Generic G431C8Ux"
+                },
+                {
+                    "value": "GENERIC_G431CBTX",
+                    "value_label": "Generic G431CBTx"
                 },
                 {
                     "value": "GENERIC_G431CBUX",
@@ -6269,20 +6481,20 @@
                     "value_label": "Generic G431K6Tx"
                 },
                 {
-                    "value": "GENERIC_G431K8TX",
-                    "value_label": "Generic G431K8Tx"
-                },
-                {
-                    "value": "GENERIC_G431KBTX",
-                    "value_label": "Generic G431KBTx"
-                },
-                {
                     "value": "GENERIC_G431K6UX",
                     "value_label": "Generic G431K6Ux"
                 },
                 {
+                    "value": "GENERIC_G431K8TX",
+                    "value_label": "Generic G431K8Tx"
+                },
+                {
                     "value": "GENERIC_G431K8UX",
                     "value_label": "Generic G431K8Ux"
+                },
+                {
+                    "value": "GENERIC_G431KBTX",
+                    "value_label": "Generic G431KBTx"
                 },
                 {
                     "value": "GENERIC_G431KBUX",
@@ -6305,20 +6517,20 @@
                     "value_label": "Generic G431R6Ix"
                 },
                 {
-                    "value": "GENERIC_G431R8IX",
-                    "value_label": "Generic G431R8Ix"
-                },
-                {
-                    "value": "GENERIC_G431RBIX",
-                    "value_label": "Generic G431RBIx"
-                },
-                {
                     "value": "GENERIC_G431R6TX",
                     "value_label": "Generic G431R6Tx"
                 },
                 {
+                    "value": "GENERIC_G431R8IX",
+                    "value_label": "Generic G431R8Ix"
+                },
+                {
                     "value": "GENERIC_G431R8TX",
                     "value_label": "Generic G431R8Tx"
+                },
+                {
+                    "value": "GENERIC_G431RBIX",
+                    "value_label": "Generic G431RBIx"
                 },
                 {
                     "value": "GENERIC_G431RBTX",
@@ -6349,16 +6561,16 @@
                     "value_label": "Generic G441CBUx"
                 },
                 {
-                    "value": "GENERIC_G441MBTX",
-                    "value_label": "Generic G441MBTx"
-                },
-                {
                     "value": "GENERIC_G441KBTX",
                     "value_label": "Generic G441KBTx"
                 },
                 {
                     "value": "GENERIC_G441KBUX",
                     "value_label": "Generic G441KBUx"
+                },
+                {
+                    "value": "GENERIC_G441MBTX",
+                    "value_label": "Generic G441MBTx"
                 },
                 {
                     "value": "GENERIC_G441RBIX",
@@ -6409,20 +6621,20 @@
                     "value_label": "Generic G471VCHx"
                 },
                 {
-                    "value": "GENERIC_G471VEHX",
-                    "value_label": "Generic G471VEHx"
-                },
-                {
                     "value": "GENERIC_G471VCIX",
                     "value_label": "Generic G471VCIx"
                 },
                 {
-                    "value": "GENERIC_G471VEIX",
-                    "value_label": "Generic G471VEIx"
-                },
-                {
                     "value": "GENERIC_G471VCTX",
                     "value_label": "Generic G471VCTx"
+                },
+                {
+                    "value": "GENERIC_G471VEHX",
+                    "value_label": "Generic G471VEHx"
+                },
+                {
+                    "value": "GENERIC_G471VEIX",
+                    "value_label": "Generic G471VEIx"
                 },
                 {
                     "value": "GENERIC_G471VETX",
@@ -6477,18 +6689,6 @@
                     "value_label": "Generic G473PEIx"
                 },
                 {
-                    "value": "GENERIC_G473RBTX",
-                    "value_label": "Generic G473RBTx"
-                },
-                {
-                    "value": "GENERIC_G473RCTX",
-                    "value_label": "Generic G473RCTx"
-                },
-                {
-                    "value": "GENERIC_G473RETX",
-                    "value_label": "Generic G473RETx"
-                },
-                {
                     "value": "GENERIC_G473QBTX",
                     "value_label": "Generic G473QBTx"
                 },
@@ -6505,24 +6705,40 @@
                     "value_label": "Generic G473QETxZ"
                 },
                 {
+                    "value": "GENERIC_G473RBTX",
+                    "value_label": "Generic G473RBTx"
+                },
+                {
+                    "value": "GENERIC_G473RCTX",
+                    "value_label": "Generic G473RCTx"
+                },
+                {
+                    "value": "GENERIC_G473RETX",
+                    "value_label": "Generic G473RETx"
+                },
+                {
+                    "value": "GENERIC_G473RETXZ",
+                    "value_label": "Generic G473RETxZ"
+                },
+                {
                     "value": "GENERIC_G473VBHX",
                     "value_label": "Generic G473VBHx"
-                },
-                {
-                    "value": "GENERIC_G473VCHX",
-                    "value_label": "Generic G473VCHx"
-                },
-                {
-                    "value": "GENERIC_G473VEHX",
-                    "value_label": "Generic G473VEHx"
                 },
                 {
                     "value": "GENERIC_G473VBTX",
                     "value_label": "Generic G473VBTx"
                 },
                 {
+                    "value": "GENERIC_G473VCHX",
+                    "value_label": "Generic G473VCHx"
+                },
+                {
                     "value": "GENERIC_G473VCTX",
                     "value_label": "Generic G473VCTx"
+                },
+                {
+                    "value": "GENERIC_G473VEHX",
+                    "value_label": "Generic G473VEHx"
                 },
                 {
                     "value": "GENERIC_G473VETX",
@@ -6577,22 +6793,6 @@
                     "value_label": "Generic G474PEIx"
                 },
                 {
-                    "value": "GENERIC_G474RBTX",
-                    "value_label": "Generic G474RBTx"
-                },
-                {
-                    "value": "GENERIC_G474RCTX",
-                    "value_label": "Generic G474RCTx"
-                },
-                {
-                    "value": "GENERIC_G474RETX",
-                    "value_label": "Generic G474RETx"
-                },
-                {
-                    "value": "GENERIC_G473RETXZ",
-                    "value_label": "Generic G473RETxZ"
-                },
-                {
                     "value": "GENERIC_G474QBTX",
                     "value_label": "Generic G474QBTx"
                 },
@@ -6605,24 +6805,36 @@
                     "value_label": "Generic G474QETx"
                 },
                 {
+                    "value": "GENERIC_G474RBTX",
+                    "value_label": "Generic G474RBTx"
+                },
+                {
+                    "value": "GENERIC_G474RCTX",
+                    "value_label": "Generic G474RCTx"
+                },
+                {
+                    "value": "GENERIC_G474RETX",
+                    "value_label": "Generic G474RETx"
+                },
+                {
                     "value": "GENERIC_G474VBHX",
                     "value_label": "Generic G474VBHx"
-                },
-                {
-                    "value": "GENERIC_G474VCHX",
-                    "value_label": "Generic G474VCHx"
-                },
-                {
-                    "value": "GENERIC_G474VEHX",
-                    "value_label": "Generic G474VEHx"
                 },
                 {
                     "value": "GENERIC_G474VBTX",
                     "value_label": "Generic G474VBTx"
                 },
                 {
+                    "value": "GENERIC_G474VCHX",
+                    "value_label": "Generic G474VCHx"
+                },
+                {
                     "value": "GENERIC_G474VCTX",
                     "value_label": "Generic G474VCTx"
+                },
+                {
+                    "value": "GENERIC_G474VEHX",
+                    "value_label": "Generic G474VEHx"
                 },
                 {
                     "value": "GENERIC_G474VETX",
@@ -6645,12 +6857,12 @@
                     "value_label": "Generic G483PEIx"
                 },
                 {
-                    "value": "GENERIC_G483RETX",
-                    "value_label": "Generic G483RETx"
-                },
-                {
                     "value": "GENERIC_G483QETX",
                     "value_label": "Generic G483QETx"
+                },
+                {
+                    "value": "GENERIC_G483RETX",
+                    "value_label": "Generic G483RETx"
                 },
                 {
                     "value": "GENERIC_G483VEHX",
@@ -6713,12 +6925,12 @@
                     "value_label": "Generic G491MCSx"
                 },
                 {
-                    "value": "GENERIC_G491MESX",
-                    "value_label": "Generic G491MESx"
-                },
-                {
                     "value": "GENERIC_G491MCTX",
                     "value_label": "Generic G491MCTx"
+                },
+                {
+                    "value": "GENERIC_G491MESX",
+                    "value_label": "Generic G491MESx"
                 },
                 {
                     "value": "GENERIC_G491METX",
@@ -6729,12 +6941,12 @@
                     "value_label": "Generic G491RCIx"
                 },
                 {
-                    "value": "GENERIC_G491REIX",
-                    "value_label": "Generic G491REIx"
-                },
-                {
                     "value": "GENERIC_G491RCTX",
                     "value_label": "Generic G491RCTx"
+                },
+                {
+                    "value": "GENERIC_G491REIX",
+                    "value_label": "Generic G491REIx"
                 },
                 {
                     "value": "GENERIC_G491RETX",
@@ -6757,10 +6969,6 @@
                     "value_label": "Generic G491VETx"
                 },
                 {
-                    "value": "GENERIC_G4A1REIX",
-                    "value_label": "Generic G4A1REIx"
-                },
-                {
                     "value": "GENERIC_G4A1CETX",
                     "value_label": "Generic G4A1CETx"
                 },
@@ -6775,6 +6983,10 @@
                 {
                     "value": "GENERIC_G4A1METX",
                     "value_label": "Generic G4A1METx"
+                },
+                {
+                    "value": "GENERIC_G4A1REIX",
+                    "value_label": "Generic G4A1REIx"
                 },
                 {
                     "value": "GENERIC_G4A1RETX",
@@ -6988,7 +7200,7 @@
 },
   "STMicroelectronics:stm32:GenH5": {
     "name": "Generic STM32H5 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -7020,8 +7232,16 @@
                     "value_label": "Generic H562RGTx"
                 },
                 {
+                    "value": "GENERIC_H562RGVX",
+                    "value_label": "Generic H562RGVx"
+                },
+                {
                     "value": "GENERIC_H562RITX",
                     "value_label": "Generic H562RITx"
+                },
+                {
+                    "value": "GENERIC_H562RIVX",
+                    "value_label": "Generic H562RIVx"
                 },
                 {
                     "value": "GENERIC_H563IIKXQ",
@@ -7032,8 +7252,16 @@
                     "value_label": "Generic H563RGTx"
                 },
                 {
+                    "value": "GENERIC_H563RGVX",
+                    "value_label": "Generic H563RGVx"
+                },
+                {
                     "value": "GENERIC_H563RITX",
                     "value_label": "Generic H563RITx"
+                },
+                {
+                    "value": "GENERIC_H563RIVX",
+                    "value_label": "Generic H563RIVx"
                 },
                 {
                     "value": "GENERIC_H563ZGTX",
@@ -7050,6 +7278,10 @@
                 {
                     "value": "GENERIC_H573RITX",
                     "value_label": "Generic H573RITx"
+                },
+                {
+                    "value": "GENERIC_H573RIVX",
+                    "value_label": "Generic H573RIVx"
                 },
                 {
                     "value": "GENERIC_H573ZITX",
@@ -7247,24 +7479,24 @@
 },
   "STMicroelectronics:stm32:GenH7": {
     "name": "Generic STM32H7 Series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "DAISY_SEED",
-                    "value_label": "Daisy Seed",
-                    "selected": true
-                },
-                {
                     "value": "DAISY_PATCH_SM",
-                    "value_label": "Daisy Patch SM"
+                    "value_label": "Daisy Patch SM",
+                    "selected": true
                 },
                 {
                     "value": "DAISY_PETAL_SM",
                     "value_label": "Daisy Petal SM"
+                },
+                {
+                    "value": "DAISY_SEED",
+                    "value_label": "Daisy Seed"
                 },
                 {
                     "value": "DevEBoxH743VITX",
@@ -7339,12 +7571,12 @@
                     "value_label": "Generic H742IGKx"
                 },
                 {
-                    "value": "GENERIC_H742IIKX",
-                    "value_label": "Generic H742IIKx"
-                },
-                {
                     "value": "GENERIC_H742IGTX",
                     "value_label": "Generic H742IGTx"
+                },
+                {
+                    "value": "GENERIC_H742IIKX",
+                    "value_label": "Generic H742IIKx"
                 },
                 {
                     "value": "GENERIC_H742IITX",
@@ -7355,12 +7587,12 @@
                     "value_label": "Generic H742VGHx"
                 },
                 {
-                    "value": "GENERIC_H742VIHX",
-                    "value_label": "Generic H742VIHx"
-                },
-                {
                     "value": "GENERIC_H742VGTX",
                     "value_label": "Generic H742VGTx"
+                },
+                {
+                    "value": "GENERIC_H742VIHX",
+                    "value_label": "Generic H742VIHx"
                 },
                 {
                     "value": "GENERIC_H742VITX",
@@ -7403,12 +7635,12 @@
                     "value_label": "Generic H743VGHx"
                 },
                 {
-                    "value": "GENERIC_H743VIHX",
-                    "value_label": "Generic H743VIHx"
-                },
-                {
                     "value": "GENERIC_H743VGTX",
                     "value_label": "Generic H743VGTx"
+                },
+                {
+                    "value": "GENERIC_H743VIHX",
+                    "value_label": "Generic H743VIHx"
                 },
                 {
                     "value": "GENERIC_H743VITX",
@@ -7539,12 +7771,12 @@
                     "value_label": "Generic H7A3VGHx"
                 },
                 {
-                    "value": "GENERIC_H7A3VIHX",
-                    "value_label": "Generic H7A3VIHx"
-                },
-                {
                     "value": "GENERIC_H7A3VGTX",
                     "value_label": "Generic H7A3VGTx"
+                },
+                {
+                    "value": "GENERIC_H7A3VIHX",
+                    "value_label": "Generic H7A3VIHx"
                 },
                 {
                     "value": "GENERIC_H7A3VITX",
@@ -7774,7 +8006,7 @@
 },
   "STMicroelectronics:stm32:GenL0": {
     "name": "Generic STM32L0 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -7830,12 +8062,12 @@
                     "value_label": "Generic L011F3Px"
                 },
                 {
-                    "value": "GENERIC_L011F4PX",
-                    "value_label": "Generic L011F4Px"
-                },
-                {
                     "value": "GENERIC_L011F3UX",
                     "value_label": "Generic L011F3Ux"
+                },
+                {
+                    "value": "GENERIC_L011F4PX",
+                    "value_label": "Generic L011F4Px"
                 },
                 {
                     "value": "GENERIC_L011F4UX",
@@ -7866,16 +8098,12 @@
                     "value_label": "Generic L011K4Ux"
                 },
                 {
-                    "value": "GENERIC_L021F4PX",
-                    "value_label": "Generic L021F4Px"
-                },
-                {
-                    "value": "GENERIC_L021K4TX",
-                    "value_label": "Generic L021K4Tx"
-                },
-                {
                     "value": "GENERIC_L021D4PX",
                     "value_label": "Generic L021D4Px"
+                },
+                {
+                    "value": "GENERIC_L021F4PX",
+                    "value_label": "Generic L021F4Px"
                 },
                 {
                     "value": "GENERIC_L021F4UX",
@@ -7886,6 +8114,10 @@
                     "value_label": "Generic L021G4Ux"
                 },
                 {
+                    "value": "GENERIC_L021K4TX",
+                    "value_label": "Generic L021K4Tx"
+                },
+                {
                     "value": "GENERIC_L021K4UX",
                     "value_label": "Generic L021K4Ux"
                 },
@@ -7894,12 +8126,12 @@
                     "value_label": "Generic L031C4Tx"
                 },
                 {
-                    "value": "GENERIC_L031C6TX",
-                    "value_label": "Generic L031C6Tx"
-                },
-                {
                     "value": "GENERIC_L031C4UX",
                     "value_label": "Generic L031C4Ux"
+                },
+                {
+                    "value": "GENERIC_L031C6TX",
+                    "value_label": "Generic L031C6Tx"
                 },
                 {
                     "value": "GENERIC_L031C6UX",
@@ -8002,12 +8234,12 @@
                     "value_label": "Generic L052C6Tx"
                 },
                 {
-                    "value": "GENERIC_L052C8TX",
-                    "value_label": "Generic L052C8Tx"
-                },
-                {
                     "value": "GENERIC_L052C6UX",
                     "value_label": "Generic L052C6Ux"
+                },
+                {
+                    "value": "GENERIC_L052C8TX",
+                    "value_label": "Generic L052C8Tx"
                 },
                 {
                     "value": "GENERIC_L052C8UX",
@@ -8026,12 +8258,12 @@
                     "value_label": "Generic L052R6Hx"
                 },
                 {
-                    "value": "GENERIC_L052R8HX",
-                    "value_label": "Generic L052R8Hx"
-                },
-                {
                     "value": "GENERIC_L052R6TX",
                     "value_label": "Generic L052R6Tx"
+                },
+                {
+                    "value": "GENERIC_L052R8HX",
+                    "value_label": "Generic L052R8Hx"
                 },
                 {
                     "value": "GENERIC_L052R8TX",
@@ -8042,24 +8274,24 @@
                     "value_label": "Generic L052T6Yx"
                 },
                 {
-                    "value": "GENERIC_L052T8YX",
-                    "value_label": "Generic L052T8Yx"
-                },
-                {
                     "value": "GENERIC_L052T8FX",
                     "value_label": "Generic L052T8Fx"
+                },
+                {
+                    "value": "GENERIC_L052T8YX",
+                    "value_label": "Generic L052T8Yx"
                 },
                 {
                     "value": "GENERIC_L053C6TX",
                     "value_label": "Generic L053C6Tx"
                 },
                 {
-                    "value": "GENERIC_L053C8TX",
-                    "value_label": "Generic L053C8Tx"
-                },
-                {
                     "value": "GENERIC_L053C6UX",
                     "value_label": "Generic L053C6Ux"
+                },
+                {
+                    "value": "GENERIC_L053C8TX",
+                    "value_label": "Generic L053C8Tx"
                 },
                 {
                     "value": "GENERIC_L053C8UX",
@@ -8070,12 +8302,12 @@
                     "value_label": "Generic L053R6Hx"
                 },
                 {
-                    "value": "GENERIC_L053R8HX",
-                    "value_label": "Generic L053R8Hx"
-                },
-                {
                     "value": "GENERIC_L053R6TX",
                     "value_label": "Generic L053R6Tx"
+                },
+                {
+                    "value": "GENERIC_L053R8HX",
+                    "value_label": "Generic L053R8Hx"
                 },
                 {
                     "value": "GENERIC_L053R8TX",
@@ -8170,28 +8402,28 @@
                     "value_label": "Generic L072RZTx"
                 },
                 {
-                    "value": "GENERIC_L072VBIX",
-                    "value_label": "Generic L072VBIx"
-                },
-                {
-                    "value": "GENERIC_L072VZIX",
-                    "value_label": "Generic L072VZIx"
-                },
-                {
-                    "value": "GENERIC_L072VBTX",
-                    "value_label": "Generic L072VBTx"
-                },
-                {
-                    "value": "GENERIC_L072VZTX",
-                    "value_label": "Generic L072VZTx"
-                },
-                {
                     "value": "GENERIC_L072V8IX",
                     "value_label": "Generic L072V8Ix"
                 },
                 {
                     "value": "GENERIC_L072V8TX",
                     "value_label": "Generic L072V8Tx"
+                },
+                {
+                    "value": "GENERIC_L072VBIX",
+                    "value_label": "Generic L072VBIx"
+                },
+                {
+                    "value": "GENERIC_L072VBTX",
+                    "value_label": "Generic L072VBTx"
+                },
+                {
+                    "value": "GENERIC_L072VZIX",
+                    "value_label": "Generic L072VZIx"
+                },
+                {
+                    "value": "GENERIC_L072VZTX",
+                    "value_label": "Generic L072VZTx"
                 },
                 {
                     "value": "GENERIC_L073CBTX",
@@ -8214,12 +8446,12 @@
                     "value_label": "Generic L073CZYx"
                 },
                 {
-                    "value": "GENERIC_L073RBTX",
-                    "value_label": "Generic L073RBTx"
-                },
-                {
                     "value": "GENERIC_L073RBHX",
                     "value_label": "Generic L073RBHx"
+                },
+                {
+                    "value": "GENERIC_L073RBTX",
+                    "value_label": "Generic L073RBTx"
                 },
                 {
                     "value": "GENERIC_L073RZHX",
@@ -8234,28 +8466,28 @@
                     "value_label": "Generic L073RZTx"
                 },
                 {
-                    "value": "GENERIC_L073VBIX",
-                    "value_label": "Generic L073VBIx"
-                },
-                {
-                    "value": "GENERIC_L073VZIX",
-                    "value_label": "Generic L073VZIx"
-                },
-                {
-                    "value": "GENERIC_L073VBTX",
-                    "value_label": "Generic L073VBTx"
-                },
-                {
-                    "value": "GENERIC_L073VZTX",
-                    "value_label": "Generic L073VZTx"
-                },
-                {
                     "value": "GENERIC_L073V8IX",
                     "value_label": "Generic L073V8Ix"
                 },
                 {
                     "value": "GENERIC_L073V8TX",
                     "value_label": "Generic L073V8Tx"
+                },
+                {
+                    "value": "GENERIC_L073VBIX",
+                    "value_label": "Generic L073VBIx"
+                },
+                {
+                    "value": "GENERIC_L073VBTX",
+                    "value_label": "Generic L073VBTx"
+                },
+                {
+                    "value": "GENERIC_L073VZIX",
+                    "value_label": "Generic L073VZIx"
+                },
+                {
+                    "value": "GENERIC_L073VZTX",
+                    "value_label": "Generic L073VZTx"
                 },
                 {
                     "value": "GENERIC_L082CZUX",
@@ -8310,28 +8542,28 @@
                     "value_label": "Generic L083RZTx"
                 },
                 {
-                    "value": "GENERIC_L083VBIX",
-                    "value_label": "Generic L083VBIx"
-                },
-                {
-                    "value": "GENERIC_L083VZIX",
-                    "value_label": "Generic L083VZIx"
-                },
-                {
-                    "value": "GENERIC_L083VBTX",
-                    "value_label": "Generic L083VBTx"
-                },
-                {
-                    "value": "GENERIC_L083VZTX",
-                    "value_label": "Generic L083VZTx"
-                },
-                {
                     "value": "GENERIC_L083V8IX",
                     "value_label": "Generic L083V8Ix"
                 },
                 {
                     "value": "GENERIC_L083V8TX",
                     "value_label": "Generic L083V8Tx"
+                },
+                {
+                    "value": "GENERIC_L083VBIX",
+                    "value_label": "Generic L083VBIx"
+                },
+                {
+                    "value": "GENERIC_L083VBTX",
+                    "value_label": "Generic L083VBTx"
+                },
+                {
+                    "value": "GENERIC_L083VZIX",
+                    "value_label": "Generic L083VZIx"
+                },
+                {
+                    "value": "GENERIC_L083VZTX",
+                    "value_label": "Generic L083VZTx"
                 }
             ]
         },
@@ -8514,7 +8746,7 @@
 },
   "STMicroelectronics:stm32:GenL1": {
     "name": "Generic STM32L1 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -8534,48 +8766,52 @@
                     "value_label": "Generic L151C6Tx"
                 },
                 {
-                    "value": "GENERIC_L151C8TX",
-                    "value_label": "Generic L151C8Tx"
-                },
-                {
-                    "value": "GENERIC_L151CBTX",
-                    "value_label": "Generic L151CBTx"
-                },
-                {
                     "value": "GENERIC_L151C6TXA",
                     "value_label": "Generic L151C6TxA"
-                },
-                {
-                    "value": "GENERIC_L151C8TXA",
-                    "value_label": "Generic L151C8TxA"
-                },
-                {
-                    "value": "GENERIC_L151CBTXA",
-                    "value_label": "Generic L151CBTxA"
                 },
                 {
                     "value": "GENERIC_L151C6UX",
                     "value_label": "Generic L151C6Ux"
                 },
                 {
-                    "value": "GENERIC_L151C8UX",
-                    "value_label": "Generic L151C8Ux"
-                },
-                {
-                    "value": "GENERIC_L151CBUX",
-                    "value_label": "Generic L151CBUx"
-                },
-                {
                     "value": "GENERIC_L151C6UXA",
                     "value_label": "Generic L151C6UxA"
+                },
+                {
+                    "value": "GENERIC_L151C8TX",
+                    "value_label": "Generic L151C8Tx"
+                },
+                {
+                    "value": "GENERIC_L151C8TXA",
+                    "value_label": "Generic L151C8TxA"
+                },
+                {
+                    "value": "GENERIC_L151C8UX",
+                    "value_label": "Generic L151C8Ux"
                 },
                 {
                     "value": "GENERIC_L151C8UXA",
                     "value_label": "Generic L151C8UxA"
                 },
                 {
+                    "value": "GENERIC_L151CBTX",
+                    "value_label": "Generic L151CBTx"
+                },
+                {
+                    "value": "GENERIC_L151CBTXA",
+                    "value_label": "Generic L151CBTxA"
+                },
+                {
+                    "value": "GENERIC_L151CBUX",
+                    "value_label": "Generic L151CBUx"
+                },
+                {
                     "value": "GENERIC_L151CBUXA",
                     "value_label": "Generic L151CBUxA"
+                },
+                {
+                    "value": "GENERIC_L151RETX",
+                    "value_label": "Generic L151RETx"
                 },
                 {
                     "value": "GENERIC_L151ZDTX",
@@ -8586,52 +8822,48 @@
                     "value_label": "Generic L152C6Tx"
                 },
                 {
-                    "value": "GENERIC_L152C8TX",
-                    "value_label": "Generic L152C8Tx"
-                },
-                {
-                    "value": "GENERIC_L152CBTX",
-                    "value_label": "Generic L152CBTx"
-                },
-                {
                     "value": "GENERIC_L152C6TXA",
                     "value_label": "Generic L152C6TxA"
-                },
-                {
-                    "value": "GENERIC_L152C8TXA",
-                    "value_label": "Generic L152C8TxA"
-                },
-                {
-                    "value": "GENERIC_L152CBTXA",
-                    "value_label": "Generic L152CBTxA"
                 },
                 {
                     "value": "GENERIC_L152C6UX",
                     "value_label": "Generic L152C6Ux"
                 },
                 {
-                    "value": "GENERIC_L152C8UX",
-                    "value_label": "Generic L152C8Ux"
-                },
-                {
-                    "value": "GENERIC_L152CBUX",
-                    "value_label": "Generic L152CBUx"
-                },
-                {
                     "value": "GENERIC_L152C6UXA",
                     "value_label": "Generic L152C6UxA"
+                },
+                {
+                    "value": "GENERIC_L152C8TX",
+                    "value_label": "Generic L152C8Tx"
+                },
+                {
+                    "value": "GENERIC_L152C8TXA",
+                    "value_label": "Generic L152C8TxA"
+                },
+                {
+                    "value": "GENERIC_L152C8UX",
+                    "value_label": "Generic L152C8Ux"
                 },
                 {
                     "value": "GENERIC_L152C8UXA",
                     "value_label": "Generic L152C8UxA"
                 },
                 {
-                    "value": "GENERIC_L152CBUXA",
-                    "value_label": "Generic L152CBUxA"
+                    "value": "GENERIC_L152CBTX",
+                    "value_label": "Generic L152CBTx"
                 },
                 {
-                    "value": "GENERIC_L151RETX",
-                    "value_label": "Generic L151RETx"
+                    "value": "GENERIC_L152CBTXA",
+                    "value_label": "Generic L152CBTxA"
+                },
+                {
+                    "value": "GENERIC_L152CBUX",
+                    "value_label": "Generic L152CBUx"
+                },
+                {
+                    "value": "GENERIC_L152CBUXA",
+                    "value_label": "Generic L152CBUxA"
                 },
                 {
                     "value": "GENERIC_L152RETX",
@@ -8830,7 +9062,7 @@
 },
   "STMicroelectronics:stm32:GenL4": {
     "name": "Generic STM32L4 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -8894,20 +9126,20 @@
                     "value_label": "Generic L431RBIx"
                 },
                 {
-                    "value": "GENERIC_L431RCIX",
-                    "value_label": "Generic L431RCIx"
-                },
-                {
                     "value": "GENERIC_L431RBTX",
                     "value_label": "Generic L431RBTx"
                 },
                 {
-                    "value": "GENERIC_L431RCTX",
-                    "value_label": "Generic L431RCTx"
-                },
-                {
                     "value": "GENERIC_L431RBYX",
                     "value_label": "Generic L431RBYx"
+                },
+                {
+                    "value": "GENERIC_L431RCIX",
+                    "value_label": "Generic L431RCIx"
+                },
+                {
+                    "value": "GENERIC_L431RCTX",
+                    "value_label": "Generic L431RCTx"
                 },
                 {
                     "value": "GENERIC_L431RCYX",
@@ -8922,20 +9154,16 @@
                     "value_label": "Generic L432KCUx"
                 },
                 {
-                    "value": "GENERIC_L442KCUX",
-                    "value_label": "Generic L442KCUx"
-                },
-                {
                     "value": "GENERIC_L433CBTX",
                     "value_label": "Generic L433CBTx"
                 },
                 {
-                    "value": "GENERIC_L433CCTX",
-                    "value_label": "Generic L433CCTx"
-                },
-                {
                     "value": "GENERIC_L433CBUX",
                     "value_label": "Generic L433CBUx"
+                },
+                {
+                    "value": "GENERIC_L433CCTX",
+                    "value_label": "Generic L433CCTx"
                 },
                 {
                     "value": "GENERIC_L433CCUX",
@@ -8946,24 +9174,40 @@
                     "value_label": "Generic L433RBIx"
                 },
                 {
-                    "value": "GENERIC_L433RCIX",
-                    "value_label": "Generic L433RCIx"
-                },
-                {
                     "value": "GENERIC_L433RBTX",
                     "value_label": "Generic L433RBTx"
-                },
-                {
-                    "value": "GENERIC_L433RCTX",
-                    "value_label": "Generic L433RCTx"
                 },
                 {
                     "value": "GENERIC_L433RBYX",
                     "value_label": "Generic L433RBYx"
                 },
                 {
+                    "value": "GENERIC_L433RCIX",
+                    "value_label": "Generic L433RCIx"
+                },
+                {
+                    "value": "GENERIC_L433RCTX",
+                    "value_label": "Generic L433RCTx"
+                },
+                {
+                    "value": "GENERIC_L433RCTXP",
+                    "value_label": "Generic L433RCTxP"
+                },
+                {
                     "value": "GENERIC_L433RCYX",
                     "value_label": "Generic L433RCYx"
+                },
+                {
+                    "value": "GENERIC_L442KCUX",
+                    "value_label": "Generic L442KCUx"
+                },
+                {
+                    "value": "GENERIC_L443CCTX",
+                    "value_label": "Generic L443CCTx"
+                },
+                {
+                    "value": "GENERIC_L443CCUX",
+                    "value_label": "Generic L443CCUx"
                 },
                 {
                     "value": "GENERIC_L443RCIX",
@@ -8978,44 +9222,32 @@
                     "value_label": "Generic L443RCYx"
                 },
                 {
-                    "value": "GENERIC_L433RCTXP",
-                    "value_label": "Generic L433RCTxP"
-                },
-                {
-                    "value": "GENERIC_L443CCTX",
-                    "value_label": "Generic L443CCTx"
-                },
-                {
-                    "value": "GENERIC_L443CCUX",
-                    "value_label": "Generic L443CCUx"
-                },
-                {
                     "value": "GENERIC_L452RCIX",
                     "value_label": "Generic L452RCIx"
-                },
-                {
-                    "value": "GENERIC_L452REIX",
-                    "value_label": "Generic L452REIx"
                 },
                 {
                     "value": "GENERIC_L452RCTX",
                     "value_label": "Generic L452RCTx"
                 },
                 {
-                    "value": "GENERIC_L452RETX",
-                    "value_label": "Generic L452RETx"
-                },
-                {
                     "value": "GENERIC_L452RCYX",
                     "value_label": "Generic L452RCYx"
                 },
                 {
-                    "value": "GENERIC_L452REYX",
-                    "value_label": "Generic L452REYx"
+                    "value": "GENERIC_L452REIX",
+                    "value_label": "Generic L452REIx"
+                },
+                {
+                    "value": "GENERIC_L452RETX",
+                    "value_label": "Generic L452RETx"
                 },
                 {
                     "value": "GENERIC_L452RETXP",
                     "value_label": "Generic L452RETxP"
+                },
+                {
+                    "value": "GENERIC_L452REYX",
+                    "value_label": "Generic L452REYx"
                 },
                 {
                     "value": "GENERIC_L462REIX",
@@ -9126,12 +9358,12 @@
                     "value_label": "Generic L4R5ZITx"
                 },
                 {
-                    "value": "GENERIC_L4R5ZIYX",
-                    "value_label": "Generic L4R5ZIYx"
-                },
-                {
                     "value": "GENERIC_L4R5ZITXP",
                     "value_label": "Generic L4R5ZITxP"
+                },
+                {
+                    "value": "GENERIC_L4R5ZIYX",
+                    "value_label": "Generic L4R5ZIYx"
                 },
                 {
                     "value": "GENERIC_L4R7VITX",
@@ -9385,7 +9617,7 @@
 },
   "STMicroelectronics:stm32:GenL5": {
     "name": "Generic STM32L5 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -9616,7 +9848,7 @@
 },
   "STMicroelectronics:stm32:GenU0": {
     "name": "Generic STM32U0 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -9856,7 +10088,7 @@
 },
   "STMicroelectronics:stm32:GenU3": {
     "name": "Generic STM32U3 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10072,7 +10304,7 @@
 },
   "STMicroelectronics:stm32:GenU5": {
     "name": "Generic STM32U5 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10343,16 +10575,20 @@
 },
   "STMicroelectronics:stm32:GenWB": {
     "name": "Generic STM32WB series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "GENERIC_WB15CCUX",
-                    "value_label": "Generic WB15CCUx",
+                    "value": "WEACT_WB55CGU6",
+                    "value_label": "WeAct STM32WB55CGU6",
                     "selected": true
+                },
+                {
+                    "value": "GENERIC_WB15CCUX",
+                    "value_label": "Generic WB15CCUx"
                 },
                 {
                     "value": "GENERIC_WB55CCUX",
@@ -10365,10 +10601,6 @@
                 {
                     "value": "GENERIC_WB55CGUX",
                     "value_label": "Generic WB55CGUx"
-                },
-                {
-                    "value": "GENERIC_WB5MMGHX",
-                    "value_label": "Generic WB5MMGHx"
                 },
                 {
                     "value": "GENERIC_WB55RCVX",
@@ -10409,6 +10641,10 @@
                 {
                     "value": "GENERIC_WB55VYYX",
                     "value_label": "Generic WB55VYYx"
+                },
+                {
+                    "value": "GENERIC_WB5MMGHX",
+                    "value_label": "Generic WB5MMGHx"
                 }
             ]
         },
@@ -10610,7 +10846,7 @@
 },
   "STMicroelectronics:stm32:GenWB0": {
     "name": "Generic STM32WB0 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10775,7 +11011,7 @@
 },
   "STMicroelectronics:stm32:GenWBA": {
     "name": "Generic STM32WBA series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -10940,7 +11176,7 @@
 },
   "STMicroelectronics:stm32:GenWL": {
     "name": "Generic STM32WL series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11169,7 +11405,7 @@
 },
   "STMicroelectronics:stm32:GenWL3": {
     "name": "Generic STM32WL3 series",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11342,7 +11578,7 @@
 },
   "STMicroelectronics:stm32:IotContinuum": {
     "name": "IoT continuum boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11511,7 +11747,7 @@
 },
   "STMicroelectronics:stm32:LoRa": {
     "name": "LoRa boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11523,12 +11759,28 @@
                     "selected": true
                 },
                 {
+                    "value": "ELEKTOR_F072C8",
+                    "value_label": "Elektor LoRa Node Core F072C8 (64kB)"
+                },
+                {
+                    "value": "ELEKTOR_F072CB",
+                    "value_label": "Elektor LoRa Node Core F072CB (128kB)"
+                },
+                {
                     "value": "GENERIC_NODE_SE_TTI",
                     "value_label": "Generic Node SE (TTI)"
                 },
                 {
                     "value": "LORA_E5_MINI",
                     "value_label": "LoRa-E5 mini"
+                },
+                {
+                    "value": "WE_OCEANUS1_EV",
+                    "value_label": "Oceanus-I EV"
+                },
+                {
+                    "value": "WE_OCEANUS1",
+                    "value_label": "Oceanus-I Module"
                 },
                 {
                     "value": "RAK3172_MODULE",
@@ -11549,22 +11801,6 @@
                 {
                     "value": "RHF76_052",
                     "value_label": "RHF76 052"
-                },
-                {
-                    "value": "ELEKTOR_F072C8",
-                    "value_label": "Elektor LoRa Node Core F072C8 (64kB)"
-                },
-                {
-                    "value": "ELEKTOR_F072CB",
-                    "value_label": "Elektor LoRa Node Core F072CB (128kB)"
-                },
-                {
-                    "value": "WE_OCEANUS1",
-                    "value_label": "Oceanus-I Module"
-                },
-                {
-                    "value": "WE_OCEANUS1_EV",
-                    "value_label": "Oceanus-I EV"
                 }
             ]
         },
@@ -11724,7 +11960,7 @@
 },
   "STMicroelectronics:stm32:Midatronics": {
     "name": "Midatronics boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -11939,7 +12175,7 @@
 },
   "STMicroelectronics:stm32:Nucleo_144": {
     "name": "Nucleo-144",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12246,7 +12482,7 @@
 },
   "STMicroelectronics:stm32:Nucleo_32": {
     "name": "Nucleo-32",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12489,7 +12725,7 @@
 },
   "STMicroelectronics:stm32:Nucleo_64": {
     "name": "Nucleo-64",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -12507,6 +12743,10 @@
                 {
                     "value": "NUCLEO_C092RC",
                     "value_label": "Nucleo C092RC"
+                },
+                {
+                    "value": "NUCLEO_C562RE",
+                    "value_label": "Nucleo C562RE"
                 },
                 {
                     "value": "NUCLEO_F030R8",
@@ -12860,7 +13100,7 @@
 },
   "STMicroelectronics:stm32:STM32MP1": {
     "name": "STM32MP1 series coprocessor",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -13028,7 +13268,7 @@
 },
   "STMicroelectronics:stm32:STeaMi": {
     "name": "STeaMi Board",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
@@ -13181,20 +13421,20 @@
 },
   "STMicroelectronics:stm32:SparkFun": {
     "name": "SparkFun Boards",
-    "version": "2.12.0",
+    "version": "3.0.0",
     "config_options": [
         {
             "option": "pnum",
             "option_label": "Board part number",
             "values": [
                 {
-                    "value": "SFE_MMPB_STM32WB5MMG",
-                    "value_label": "SparkFun MicroMod STM32WB5MMG",
+                    "value": "MICROMOD_F405",
+                    "value_label": "SparkFun MicroMod STM32F405",
                     "selected": true
                 },
                 {
-                    "value": "MICROMOD_F405",
-                    "value_label": "SparkFun MicroMod STM32F405"
+                    "value": "SFE_MMPB_STM32WB5MMG",
+                    "value_label": "SparkFun MicroMod STM32WB5MMG"
                 }
             ]
         },
