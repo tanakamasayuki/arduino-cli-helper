@@ -148653,8 +148653,8 @@
     },
     {
         "name": "Blifi",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Akila Indunil",
         "maintainer": "Akila Indunil (https://github.com/akilaid)",
         "website": "https://github.com/akilaid/esp32-blifi-arduino",
@@ -148677,6 +148677,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/David-Vandensteen/dv-every-interval.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "dv_average_accumulator8",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "David Vandensteen",
+        "maintainer": "David Vandensteen <dvandensteen@gmail.com>",
+        "website": "https://github.com/David-Vandensteen/dv-average-accumulator8",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/David-Vandensteen/dv-average-accumulator8.git",
         "dependencies": [
             ""
         ]
