@@ -148653,8 +148653,8 @@
     },
     {
         "name": "Blifi",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Akila Indunil",
         "maintainer": "Akila Indunil (https://github.com/akilaid)",
         "website": "https://github.com/akilaid/esp32-blifi-arduino",
