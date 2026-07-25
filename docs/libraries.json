@@ -130520,8 +130520,8 @@
     },
     {
         "name": "SuperCANBus",
-        "version": "1.0.5",
-        "versions": "1.0.5",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.5",
         "author": "Juan Pablo Risso <juano23@gmail.com>",
         "maintainer": "Juan Pablo Risso <juano23@gmail.com>",
         "website": "https://github.com/juano2310/SuperCANBus",
@@ -148488,9 +148488,9 @@
     },
     {
         "name": "XiaoMiaoLED",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Your C.HAIBARA(Cloud Power Electric Industries)",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "C.HAIBARA(Cloud Power Electric Industries)",
         "maintainer": "hinyhiny（CEPI）",
         "website": "https://github.com/hinyhiny/XiaoMiaoLED",
         "category": "Device Control",
@@ -148692,6 +148692,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/David-Vandensteen/dv-average-accumulator8.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PT2258_RT",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/PT2258",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/PT2258.git",
         "dependencies": [
             ""
         ]
