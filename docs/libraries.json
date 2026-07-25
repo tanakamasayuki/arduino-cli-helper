@@ -146762,8 +146762,8 @@
     },
     {
         "name": "SyntropicOS",
-        "version": "2026.7.1",
-        "versions": "2026.7.1, 2026.7.0, 2026.6.2, 2026.6.1",
+        "version": "2026.7.2",
+        "versions": "2026.7.2, 2026.7.1, 2026.7.0, 2026.6.2, 2026.6.1",
         "author": "Charles Galant <cgalant@gmail.com>",
         "maintainer": "Charles Galant <cgalant@gmail.com>",
         "website": "https://github.com/outlookhazy/SyntropicOS",
@@ -148503,8 +148503,8 @@
     },
     {
         "name": "bthome-cpp",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
         "author": "mvoss96",
         "maintainer": "mvoss96",
         "website": "https://github.com/mvoss96/bthome-cpp",
