@@ -148817,5 +148817,50 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ADPD188BI",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Juarendra Ramadhani <jrjuarendra@gmail.com>",
+        "maintainer": "Juarendra Ramadhani <jrjuarendra@gmail.com>",
+        "website": "https://github.com/juarendra/ADPD188BI-Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/juarendra/ADPD188BI-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "D6F-W04A1",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Juarendra Ramadhani <jrjuarendra@gmail.com>",
+        "maintainer": "Juarendra Ramadhani <jrjuarendra@gmail.com>",
+        "website": "https://github.com/juarendra/D6F-W04A1-Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/juarendra/D6F-W04A1-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LU9685",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Nima Baghdadi",
+        "maintainer": "Nima Baghdadi",
+        "website": "https://github.com/eleboys/LU9685",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/eleboys/LU9685.git",
+        "dependencies": [
+            "Wire"
+        ]
     }
 ]
