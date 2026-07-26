@@ -148503,8 +148503,8 @@
     },
     {
         "name": "bthome-cpp",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0",
         "author": "mvoss96",
         "maintainer": "mvoss96",
         "website": "https://github.com/mvoss96/bthome-cpp",
@@ -148709,6 +148709,23 @@
         "repository": "https://github.com/RobTillaart/PT2258.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ZorozOLED",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Engr Zoroz",
+        "maintainer": "Engr Zoroz <umairnaveed990@gmail.com>",
+        "website": "https://github.com/Engrzoroz/ZOROZ_OLED",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Engrzoroz/ZOROZ_OLED.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SH110X",
+            "Adafruit SSD1306"
         ]
     }
 ]
