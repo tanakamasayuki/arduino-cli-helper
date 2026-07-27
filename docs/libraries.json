@@ -65359,8 +65359,8 @@
     },
     {
         "name": "pressure",
-        "version": "0.3.3",
-        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.3.4",
+        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/pressure.git",
@@ -93844,13 +93844,13 @@
     },
     {
         "name": "Arduino_GigaDisplay",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
-        "website": "https://www.arduino.cc/",
+        "website": "https://github.com/arduino-libraries/Arduino_GigaDisplay",
         "category": "Device Control",
-        "architectures": "mbed_giga",
+        "architectures": "mbed_giga, mbed_portenta, zephyr_main",
         "types": "Arduino",
         "repository": "https://github.com/arduino-libraries/Arduino_GigaDisplay.git",
         "dependencies": [
@@ -93858,7 +93858,8 @@
             "Arduino_GigaDisplayTouch",
             "ArduinoGraphics",
             "Arduino_GigaDisplay_GFX",
-            "lvgl"
+            "lvgl",
+            "Arducam_dvp"
         ]
     },
     {
@@ -99965,8 +99966,8 @@
     },
     {
         "name": "map2bits",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/map2bits",
@@ -110467,8 +110468,8 @@
     },
     {
         "name": "Vibration",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.1",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/Vibration",
@@ -133968,8 +133969,8 @@
     },
     {
         "name": "ProsecCoAP",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.0.0, 3.0.0, 2.0.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.0",
+        "version": "5.1.0",
+        "versions": "5.1.0, 5.0.0, 4.0.0, 3.0.0, 2.0.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.0",
         "author": "Pasquale Lafiosca",
         "maintainer": "Pasquale Lafiosca",
         "website": "https://github.com/decadenza/ProsecCoAP",
@@ -148336,8 +148337,8 @@
     },
     {
         "name": "Plynx",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "Plynx, derived from Blynk library by Volodymyr Shymanskyy",
         "maintainer": "Plynx (NickP005)",
         "website": "http://plynx.cc",
@@ -148850,8 +148851,8 @@
     },
     {
         "name": "LU9685",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0",
         "author": "Nima Baghdadi",
         "maintainer": "Nima Baghdadi",
         "website": "https://github.com/eleboys/LU9685",
@@ -148921,6 +148922,21 @@
         "repository": "https://github.com/Xinyuan-LilyGO/LilyGo-display-library.git",
         "dependencies": [
             "LovyanGFX"
+        ]
+    },
+    {
+        "name": "Pico_USB_Disp",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Hideto Kikuchi / PJラボ (@pcjpnet)",
+        "maintainer": "Hideto Kikuchi / PJラボ (@pcjpnet)",
+        "website": "https://github.com/htlabnet/Pico_USB_Disp",
+        "category": "Display",
+        "architectures": "rp2040, esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/htlabnet/Pico_USB_Disp.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
