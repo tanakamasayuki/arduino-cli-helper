@@ -148654,8 +148654,8 @@
     },
     {
         "name": "Blifi",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Akila Indunil",
         "maintainer": "Akila Indunil (https://github.com/akilaid)",
         "website": "https://github.com/akilaid/esp32-blifi-arduino",
@@ -149001,12 +149001,12 @@
     },
     {
         "name": "SmartSensorFilter",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Tawfique Elahey<angelbracket072@gmail.com>",
-        "maintainer": "Tawfique Elahey<angelbracket072@gmail.com>",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Tawfique Elahey <angelbracket072@gmail.com>",
+        "maintainer": "Tawfique Elahey <angelbracket072@gmail.com>",
         "website": "https://github.com/tawfique02/SmartSensorFilter",
-        "category": "Uncategorized",
+        "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tawfique02/SmartSensorFilter.git",
@@ -149025,6 +149025,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/PiezoSonic/PSI.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MKE I2C MP3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MakerEDU",
+        "maintainer": "MakerEDU",
+        "website": "https://github.com/khuuxuanngoc/Hub_ArduinoLib",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib.git",
         "dependencies": [
             ""
         ]
