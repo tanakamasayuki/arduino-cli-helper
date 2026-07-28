@@ -149043,5 +149043,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ResistiveTouchScreen",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Philip Fletcher <philip.fletcher@stutchbury.com>",
+        "maintainer": "Philip Fletcher <philip.fletcher@stutchbury.com>",
+        "website": "https://github.com/Stutchbury/ResistiveTouchScreen",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Stutchbury/ResistiveTouchScreen.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NourGrid",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "NourGrid Team <nourgrid.iot@gmail.com>",
+        "maintainer": "NourGrid Team <nourgrid.iot@gmail.com>",
+        "website": "https://github.com/noureddine-akouchah/nourgrid-arduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/noureddine-akouchah/nourgrid-arduino.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
