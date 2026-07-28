@@ -78214,8 +78214,8 @@
     },
     {
         "name": "RAK13006-MCP2518 library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "RAKWireless <rakwireless.com>",
         "maintainer": "RAKWireless <rakwireless.com>",
         "website": "https://github.com/RAKWireless/RAK13006-MCP2518",
@@ -93844,8 +93844,8 @@
     },
     {
         "name": "Arduino_GigaDisplay",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_GigaDisplay",
@@ -93859,7 +93859,7 @@
             "ArduinoGraphics",
             "Arduino_GigaDisplay_GFX",
             "lvgl",
-            "Arducam_dvp"
+            "arducam_dvp"
         ]
     },
     {
@@ -109243,8 +109243,8 @@
     },
     {
         "name": "stackchan-arduino",
-        "version": "0.0.7",
-        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.8",
+        "versions": "0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Takao Akaki",
         "maintainer": "Takao Akaki<takaoakaki@gmail.com>",
         "website": "https://github.com/stack-chan/stackchan-arduino",
@@ -148654,8 +148654,8 @@
     },
     {
         "name": "Blifi",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Akila Indunil",
         "maintainer": "Akila Indunil (https://github.com/akilaid)",
         "website": "https://github.com/akilaid/esp32-blifi-arduino",
