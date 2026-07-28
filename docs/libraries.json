@@ -144352,8 +144352,8 @@
     },
     {
         "name": "midi2cpp",
-        "version": "0.6.1",
-        "versions": "0.6.1, 0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.1, 0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0",
         "author": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "maintainer": "Saulo Verissimo <sauloverissimo@gmail.com>",
         "website": "https://github.com/sauloverissimo/midi2cpp",
@@ -148995,6 +148995,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/chon-group/neck2arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SmartSensorFilter",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tawfique Elahey<angelbracket072@gmail.com>",
+        "maintainer": "Tawfique Elahey<angelbracket072@gmail.com>",
+        "website": "https://github.com/tawfique02/SmartSensorFilter",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tawfique02/SmartSensorFilter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PSI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "PiezoSonic(Nakata Takumi)",
+        "maintainer": "PiezoSonic",
+        "website": "https://github.com/PiezoSonic/PSI",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PiezoSonic/PSI.git",
         "dependencies": [
             ""
         ]
