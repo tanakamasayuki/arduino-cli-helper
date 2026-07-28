@@ -141463,8 +141463,8 @@
     },
     {
         "name": "at_client",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
         "author": "Atsign Foundation",
         "maintainer": "Atsign Foundation <info@atsign.com>",
         "website": "https://github.com/atsign-foundation/at_client_arduino",
