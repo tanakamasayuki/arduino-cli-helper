@@ -148337,8 +148337,8 @@
     },
     {
         "name": "Plynx",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Plynx, derived from Blynk library by Volodymyr Shymanskyy",
         "maintainer": "Plynx (NickP005)",
         "website": "http://plynx.cc",
@@ -149046,12 +149046,12 @@
     },
     {
         "name": "ResistiveTouchScreen",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Philip Fletcher <philip.fletcher@stutchbury.com>",
         "maintainer": "Philip Fletcher <philip.fletcher@stutchbury.com>",
         "website": "https://github.com/Stutchbury/ResistiveTouchScreen",
-        "category": "Signal Input/Output",
+        "category": "Display",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Stutchbury/ResistiveTouchScreen.git",
@@ -149092,6 +149092,21 @@
             "Adafruit_LSM6DS",
             "Adafruit_ADS1X15",
             "BasicLinearAlgebra"
+        ]
+    },
+    {
+        "name": "AlfredoDShot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alfredo Systems",
+        "maintainer": "Jacob Williams (jrw4561@gmail.com)",
+        "website": "https://github.com/AlfredoSystems/AlfredoDShot",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/AlfredoSystems/AlfredoDShot.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
