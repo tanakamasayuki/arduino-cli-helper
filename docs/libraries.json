@@ -124742,12 +124742,12 @@
     },
     {
         "name": "microdsp",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Aneesh Arnav Chikkala  <aneesharnavchikkala@gmail.com>",
-        "maintainer": "Aneesh Arnav Chikkala  <aneesharnavchikkala@gmail.com>",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
+        "author": "Aneesh Arnav Chikkala <aneesharnavchikkala@gmail.com>",
+        "maintainer": "Aneesh Arnav Chikkala <aneesharnavchikkala@gmail.com>",
         "website": "https://github.com/aneesharnavch/microdsp",
-        "category": "Other",
+        "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/aneesharnavch/microdsp.git",
@@ -147546,8 +147546,8 @@
     },
     {
         "name": "NiusWireless",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.1.0",
         "author": "dunknowcoding",
         "maintainer": "NiusRobotLab",
         "website": "https://github.com/dunknowcoding/NiusWireless",
@@ -147896,8 +147896,8 @@
     },
     {
         "name": "tarfs",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Viacheslav Logunov <vvb333007@gmail.com>",
         "maintainer": "Viacheslav Logunov <vvb333007@gmail.com>",
         "website": "https://github.com/vvb333007/tarfs",
@@ -149120,6 +149120,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/krulkip/PN532Toolkit.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "VL53L5CX",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Amit Kumar <amitkrcontact@gmail.com>, STMicroelectronics",
+        "maintainer": "Amit Kumar <amitkrcontact@gmail.com>",
+        "website": "https://github.com/amitxgit/VL53L5CX-Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/amitxgit/VL53L5CX-Arduino.git",
         "dependencies": [
             ""
         ]
