@@ -145793,8 +145793,8 @@
     },
     {
         "name": "DevLab_ICM20948",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.0.3, 1.0.2, 1.0.1",
         "author": "7Semi, Jonathan Mejorado Lopez",
         "maintainer": "Jonathan Mejorado Lopez<ventas@uelectronics.com>",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library",
@@ -146908,8 +146908,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "1.2.7",
-        "versions": "1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -147409,8 +147409,8 @@
     },
     {
         "name": "quickMap",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Holman Buenaventura <habuenav@hotmail.com>",
         "maintainer": "Holman Buenaventura <habuenav@hotmail.com>",
         "website": "https://github.com/habuenav/quickMap",
@@ -148412,8 +148412,8 @@
     },
     {
         "name": "AzureIoT",
-        "version": "1.2.9",
-        "versions": "1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.10",
+        "versions": "1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dr. Husaini <mhusaini@syncmind.my>",
         "maintainer": "Dr. Husaini <mhusaini@syncmind.my>",
         "website": "https://github.com/vedacool/Arduino-Azure-IoT-Central",
@@ -149509,6 +149509,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/EnviroDIY/EpochTime.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FarmSense",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "nawawimegahertz",
+        "maintainer": "nawawimegahertz",
+        "website": "https://github.com/nawawimegahertz/FarmSense",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nawawimegahertz/FarmSense.git",
         "dependencies": [
             ""
         ]
