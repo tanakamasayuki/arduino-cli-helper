@@ -70873,8 +70873,8 @@
     },
     {
         "name": "XboxSeriesXControllerESP32_asukiaaa",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Asuki Kono",
         "maintainer": "Asuki Kono",
         "website": "https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32",
@@ -130474,8 +130474,8 @@
     },
     {
         "name": "BLE Serial - NUS",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_BLESerial",
@@ -130485,7 +130485,8 @@
         "repository": "https://github.com/uutzinger/Arduino_BLESerial.git",
         "dependencies": [
             "NimBLE-Arduino",
-            "UUtzinger_RingBuffer"
+            "UUtzinger_RingBuffer",
+            "UUtzinger_logger"
         ]
     },
     {
@@ -138206,13 +138207,13 @@
     },
     {
         "name": "UUtzinger_logger",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/logger",
-        "category": "Uncategorized",
-        "architectures": "",
+        "category": "Other",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/uutzinger/logger.git",
         "dependencies": [
@@ -149524,6 +149525,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/nawawimegahertz/FarmSense.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "millisRTC",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tamas Jozsi",
+        "maintainer": "Bozont Labs",
+        "website": "https://github.com/bozont/millisRTC",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bozont/millisRTC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EspBle",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/EspBle",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/EspBle.git",
         "dependencies": [
             ""
         ]
