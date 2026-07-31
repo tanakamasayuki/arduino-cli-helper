@@ -138161,8 +138161,8 @@
     },
     {
         "name": "MAX30001",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.1, 1.0.2, 1.0.1",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.4.0, 1.3.1, 1.0.2, 1.0.1",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_MAX30001G",
