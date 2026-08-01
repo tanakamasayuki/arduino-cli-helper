@@ -149046,8 +149046,8 @@
     },
     {
         "name": "ResistiveTouchScreen",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Philip Fletcher <philip.fletcher@stutchbury.com>",
         "maintainer": "Philip Fletcher <philip.fletcher@stutchbury.com>",
         "website": "https://github.com/Stutchbury/ResistiveTouchScreen",
@@ -149605,6 +149605,21 @@
             "Adafruit GFX Library",
             "Adafruit ST7735 and ST7789 Library",
             "Adafruit ADS1X15"
+        ]
+    },
+    {
+        "name": "dv_dual_hold_state",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "David Vandensteen",
+        "maintainer": "David Vandensteen <dvandensteen@gmail.com>",
+        "website": "https://github.com/David-Vandensteen/dv-dual-hold-state",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/David-Vandensteen/dv-dual-hold-state.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
