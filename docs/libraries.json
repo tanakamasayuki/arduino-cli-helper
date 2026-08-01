@@ -140602,8 +140602,8 @@
     },
     {
         "name": "eva-motors",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-motors",
@@ -147425,8 +147425,8 @@
     },
     {
         "name": "Breath",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Holman Buenaventura",
         "maintainer": "Holman Buenaventura",
         "website": "https://github.com/habuenav/Breath",
@@ -149546,8 +149546,8 @@
     },
     {
         "name": "EspBle",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspBle",
