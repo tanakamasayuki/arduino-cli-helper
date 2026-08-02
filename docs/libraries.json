@@ -11755,8 +11755,8 @@
     },
     {
         "name": "ArduinoMqtt",
-        "version": "1.6.0",
-        "versions": "1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.6.1",
+        "versions": "1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Oleg Kovalenko <monstrenyatko@gmail.com>",
         "maintainer": "Oleg Kovalenko <monstrenyatko@gmail.com>",
         "website": "https://github.com/monstrenyatko/ArduinoMqtt",
@@ -44098,8 +44098,8 @@
     },
     {
         "name": "tcMenu",
-        "version": "4.5.0",
-        "versions": "4.5.0, 4.4.0, 4.3.1, 4.3.0, 4.2.1, 4.1.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.5.0, 2.4.0, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.1.3, 2.1.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.1.0",
+        "version": "4.5.9",
+        "versions": "4.5.9, 4.5.0, 4.4.0, 4.3.1, 4.3.0, 4.2.1, 4.1.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.5.0, 2.4.0, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.1.3, 2.1.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.1.0",
         "author": "davetcc",
         "maintainer": "www.thecoderscorner.com",
         "website": "https://github.com/TcMenu/tcMenuLib",
@@ -147546,8 +147546,8 @@
     },
     {
         "name": "NiusWireless",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.2, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.2, 0.1.0",
         "author": "dunknowcoding",
         "maintainer": "NiusRobotLab",
         "website": "https://github.com/dunknowcoding/NiusWireless",
