@@ -121985,8 +121985,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
@@ -130474,8 +130474,8 @@
     },
     {
         "name": "BLE Serial - NUS",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_BLESerial",
@@ -138207,8 +138207,8 @@
     },
     {
         "name": "UUtzinger_logger",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.1, 2.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.1, 2.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/logger",
@@ -149635,6 +149635,21 @@
         "repository": "https://github.com/moomdate/StripePromptPay.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "SynapseDebugger",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Krishay Kondapalli",
+        "maintainer": "Krishay Kondapalli",
+        "website": "https://github.com/Kkmit13/synapse",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, samd, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Kkmit13/synapse-arduino.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
