@@ -110146,8 +110146,8 @@
     },
     {
         "name": "ESP-NOW MIDI",
-        "version": "0.14.0",
-        "versions": "0.14.0, 0.13.1, 0.13.0, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
+        "version": "0.15.0",
+        "versions": "0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/grantler-instruments/ESP-NOW-MIDI",
@@ -115499,8 +115499,8 @@
     },
     {
         "name": "PDLS_Common",
-        "version": "10.0.8",
-        "versions": "10.0.8, 10.0.7, 10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.0.9, 9.0.8, 9.0.7, 9.0.6, 9.0.4, 9.0.3",
+        "version": "10.0.9",
+        "versions": "10.0.9, 10.0.8, 10.0.7, 10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.0.9, 9.0.8, 9.0.7, 9.0.6, 9.0.4, 9.0.3",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -115514,8 +115514,8 @@
     },
     {
         "name": "PDLS_Basic",
-        "version": "10.0.8",
-        "versions": "10.0.8, 10.0.7, 10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
+        "version": "10.0.9",
+        "versions": "10.0.9, 10.0.8, 10.0.7, 10.0.5, 10.0.4, 10.0.3, 10.0.2, 10.0.1, 10.0.0, 9.2.2, 9.2.1, 9.2.0, 9.1.2, 9.1.1, 9.1.0, 9.0.7, 9.0.5, 9.0.4, 9.0.3, 9.0.2",
         "author": "Rei Vilo",
         "maintainer": "Rei Vilo",
         "website": "https://docs.pervasivedisplays.com/knowledge/",
@@ -122151,8 +122151,8 @@
     },
     {
         "name": "SBK_BarDrive",
-        "version": "2.0.4",
-        "versions": "2.0.4, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.4, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Samuel Barabé <smartbuildskits@gmail.com>",
         "maintainer": "Samuel Barabé <smartbuildskits@gmail.com>",
         "website": "https://github.com/sbarabe/SBK_BarDrive",
@@ -149809,6 +149809,36 @@
         "dependencies": [
             "Adafruit SSD1306",
             "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "ADRF6655",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "kinny",
+        "maintainer": "kinny <[email protected]>",
+        "website": "https://github.com/Kinshuk-2005/ADRF6655",
+        "category": "Signal Input/Output",
+        "architectures": "esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Kinshuk-2005/ADRF6655.git",
+        "dependencies": [
+            "SPI"
+        ]
+    },
+    {
+        "name": "LogicPins",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Cristian Camilo Cañaveral Avilés",
+        "maintainer": "Cristian Camilo Cañaveral Avilés <camilo.canavi@gmail.com>",
+        "website": "https://github.com/canavix/LogicPins",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Canavix/LogicPins.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
