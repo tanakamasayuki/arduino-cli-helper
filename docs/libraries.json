@@ -149782,8 +149782,8 @@
     },
     {
         "name": "EEPROM24CXX",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Alen KrishnaV.U",
         "maintainer": "Alen Krishna V.U <alenkrishnavu@gmail.com>",
         "website": "https://github.com/AlenKrishna2012/EEPROM24CXX",
