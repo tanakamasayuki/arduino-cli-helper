@@ -109704,8 +109704,8 @@
     },
     {
         "name": "Iridium9704LaunchPad",
-        "version": "2.0.7",
-        "versions": "2.0.7, 2.0.5, 2.0.4, 2.0.3, 2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
+        "version": "2.0.8",
+        "versions": "2.0.8, 2.0.7, 2.0.5, 2.0.4, 2.0.3, 2.0.1, 2.0.0, 1.2.4, 1.2.0, 1.0.10, 1.0.7, 1.0.4, 1.0.2, 1.0.0",
         "author": "iridium.com",
         "maintainer": "iridium.com",
         "website": "https://iridium.gitlab.io/9704_launch_pad/documentation/",
@@ -135196,8 +135196,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -149837,6 +149837,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Canavix/LogicPins.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UpdateOTW",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Ítalo Coelho",
+        "maintainer": "Ítalo Coelho",
+        "website": "https://github.com/italo-coelho/UpdateOTW",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/italo-coelho/UpdateOTW.git",
         "dependencies": [
             ""
         ]
