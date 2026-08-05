@@ -146909,8 +146909,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -148413,8 +148413,8 @@
     },
     {
         "name": "AzureIoT",
-        "version": "1.4.2",
-        "versions": "1.4.2, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.5.1",
+        "versions": "1.5.1, 1.5.0, 1.4.2, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dr. Husaini <mhusaini@syncmind.my>",
         "maintainer": "Dr. Husaini <mhusaini@syncmind.my>",
         "website": "https://github.com/vedacool/Arduino-Azure-IoT-Central",
