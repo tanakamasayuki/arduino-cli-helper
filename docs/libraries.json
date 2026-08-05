@@ -149843,8 +149843,8 @@
     },
     {
         "name": "UpdateOTW",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1",
         "author": "Ítalo Coelho",
         "maintainer": "Ítalo Coelho",
         "website": "https://github.com/italo-coelho/UpdateOTW",
@@ -149882,6 +149882,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/forgevolt/SoundEngine.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESPNowUtilities",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Christoph Streit <christoph.streit@gmail.com>",
+        "maintainer": "Christoph Streit <christoph.streit@gmail.com>",
+        "website": "https://github.com/forgevolt/ESPNowUtilities",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/forgevolt/ESPNowUtilities.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32 BLE Keyboard",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Gaurav Sharma",
+        "maintainer": "Gaurav Sharma <ss3573509@gmail.com>",
+        "website": "https://github.com/gsgaurav0/ESP32-BLE-Keyboard",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/gsgaurav0/ESP32-HID-Keyboard.git",
         "dependencies": [
             ""
         ]
