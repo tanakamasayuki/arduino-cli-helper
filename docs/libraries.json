@@ -68000,8 +68000,8 @@
     },
     {
         "name": "uICAL",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.6",
+        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Source Simian <sourcesimian@users.noreply.github.com>",
         "maintainer": "Source Simian <sourcesimian@users.noreply.github.com>",
         "website": "https://github.com/sourcesimian/uICAL/blob/master/README.md",
