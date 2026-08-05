@@ -138009,8 +138009,8 @@
     },
     {
         "name": "Panzer_Robotics_Library",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "ASNProject",
         "maintainer": "ASNProject <asnproject02@gmail.com>",
         "website": "https://github.com/ASNProject/panzer_robotics_library",
@@ -144659,8 +144659,8 @@
     },
     {
         "name": "LGFXVirtualCanvas",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.2.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.2.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/LGFXVirtualCanvas",
