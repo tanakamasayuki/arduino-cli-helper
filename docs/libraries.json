@@ -148444,8 +148444,8 @@
     },
     {
         "name": "NessoLink",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0",
         "author": "Ugur Sayar <ugursayar@gmail.com>",
         "maintainer": "Ugur Sayar <ugursayar@gmail.com>",
         "website": "https://github.com/ugursayar/NessoLink",
