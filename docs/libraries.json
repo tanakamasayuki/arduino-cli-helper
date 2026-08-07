@@ -97078,8 +97078,8 @@
     },
     {
         "name": "roo_display",
-        "version": "3.1.2",
-        "versions": "3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "3.2.0",
+        "versions": "3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_display",
@@ -149948,6 +149948,21 @@
             "BH1750",
             "Adafruit NeoPixel",
             "ESP32Servo"
+        ]
+    },
+    {
+        "name": "IT7259_Touch",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "youStupid Project",
+        "maintainer": "youStupid Project <noreply@example.com>",
+        "website": "https://example.com/it7259_touch",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/FT-tele/IT7259_Touch_driver.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
