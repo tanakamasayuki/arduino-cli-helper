@@ -149813,8 +149813,8 @@
     },
     {
         "name": "ADRF6655",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "kinny",
         "maintainer": "kinny <[email protected]>",
         "website": "https://github.com/Kinshuk-2005/ADRF6655",
@@ -149823,7 +149823,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Kinshuk-2005/ADRF6655.git",
         "dependencies": [
-            "SPI"
+            ""
         ]
     },
     {
@@ -149929,6 +149929,24 @@
         "repository": "https://github.com/xXMarifFXx/N-R_ESP32.git",
         "dependencies": [
             "PubSubClient"
+        ]
+    },
+    {
+        "name": "RadioCore_Kit",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Heltec Automation",
+        "maintainer": "Heltec Automation <support@heltec.cn>",
+        "website": "https://github.com/HelTecAutomation/RadioCore_Library",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/HelTecAutomation/RadioCore_Library.git",
+        "dependencies": [
+            "Adafruit BME280 Library",
+            "BH1750",
+            "Adafruit NeoPixel",
+            "ESP32Servo"
         ]
     }
 ]
