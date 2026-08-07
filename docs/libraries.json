@@ -103207,8 +103207,8 @@
     },
     {
         "name": "LilyGo-EPD47",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "LilyGO",
         "maintainer": "LilyGO",
         "website": "https://github.com/Xinyuan-LilyGO/LilyGo-EPD47",
@@ -103218,7 +103218,8 @@
         "repository": "https://github.com/Xinyuan-LilyGO/LilyGo-EPD47.git",
         "dependencies": [
             "SensorLib",
-            "Button2"
+            "Button2",
+            "ArduinoJson"
         ]
     },
     {
