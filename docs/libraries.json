@@ -115582,8 +115582,8 @@
     },
     {
         "name": "CC1101",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.0, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Mateusz Furga <matfurga@gmail.com>",
         "maintainer": "Mateusz Furga <matfurga@gmail.com>",
         "website": "https://github.com/mfurga/cc1101",
@@ -135182,8 +135182,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.5.1",
+        "versions": "1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
