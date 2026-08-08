@@ -145058,8 +145058,8 @@
     },
     {
         "name": "GT7 UDP Telemetry Parser",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0",
         "author": "MacManley",
         "maintainer": "MacManley",
         "website": "https://github.com/MacManley/gt7-udp",
@@ -149826,8 +149826,8 @@
     },
     {
         "name": "Carbonara_DRV8874",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Carbonara Individuals",
         "maintainer": "Daniel Principe (turtlerock0010@gmail.com)",
         "website": "https://github.com/Carbonara-Individuals/Carbonara_DRV8874",
