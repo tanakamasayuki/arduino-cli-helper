@@ -149979,5 +149979,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "BACnet-Arduino",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "author": "NitrofMtl <https://github.com/NitrofMtl>",
+        "maintainer": "NitrofMtl <https://github.com/NitrofMtl>",
+        "website": "https://github.com/NitrofMtl/BACnet-Arduino",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/NitrofMtl/BACnet-Arduino.git",
+        "dependencies": [
+            "WeeklyAlarm"
+        ]
     }
 ]
