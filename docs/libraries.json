@@ -10974,13 +10974,13 @@
     },
     {
         "name": "AutoAnalogAudio",
-        "version": "1.54.0",
-        "versions": "1.54.0, 1.53.0, 1.52.0, 1.51.1, 1.51.0, 1.50.1, 1.50.0, 1.45.0, 1.44.0, 1.43.0, 1.42.0, 1.41.0, 1.40.0, 1.31.0, 1.5.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.55.1",
+        "versions": "1.55.1, 1.54.0, 1.53.0, 1.52.0, 1.51.1, 1.51.0, 1.50.1, 1.50.0, 1.45.0, 1.44.0, 1.43.0, 1.42.0, 1.41.0, 1.40.0, 1.31.0, 1.5.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://github.com/TMRh20/AutoAnalogAudio",
         "category": "Signal Input/Output",
-        "architectures": "avr, sam, esp32, nrf52",
+        "architectures": "avr, sam, esp32, nrf52, renesas",
         "types": "Contributed",
         "repository": "https://github.com/TMRh20/AutoAnalogAudio.git",
         "dependencies": [
@@ -149993,6 +149993,36 @@
         "repository": "https://github.com/NitrofMtl/BACnet-Arduino.git",
         "dependencies": [
             "WeeklyAlarm"
+        ]
+    },
+    {
+        "name": "BAVA Protocol",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Nishanth Raj",
+        "maintainer": "Nishanth Raj <jpnishanthraj@gmail.com>",
+        "website": "https://github.com/NishanthRaj707/bavaprotocol",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/NishanthRaj707/bavaarduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NobroRTOSCore",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "dunknowcoding (YouTube NiusRobotLab)",
+        "maintainer": "dunknowcoding (YouTube NiusRobotLab)",
+        "website": "https://github.com/dunknowcoding/NobroRTOS",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/dunknowcoding/NobroRTOS.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
