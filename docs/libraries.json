@@ -149952,8 +149952,8 @@
     },
     {
         "name": "SoftTimerAdvance",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Hompain",
         "maintainer": "Hompain",
         "website": "https://github.com/HOMPAIN/SoftTimerAdvance",
@@ -150126,6 +150126,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/tanakamasayuki/ESP32KeyBridge.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DS3502",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/DS3502",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/DS3502.git",
         "dependencies": [
             ""
         ]
