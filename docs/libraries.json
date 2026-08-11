@@ -59374,8 +59374,8 @@
     },
     {
         "name": "ClockForSeg_Lib",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "jihoonkimtech <jihoonkimtech@naver.com>",
         "maintainer": "jihoonkimtech <jihoonkimtech@naver.com>",
         "website": "https://github.com/jihoonkimtech/ClockForSeg_Lib",
@@ -150113,6 +150113,21 @@
         "repository": "https://github.com/Studio-Poetics/ST77916_QSPI.git",
         "dependencies": [
             "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "ESP32KeyBridge",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/ESP32KeyBridge",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/ESP32KeyBridge.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
