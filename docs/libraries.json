@@ -125133,8 +125133,8 @@
     },
     {
         "name": "NezaIR",
-        "version": "2.4.0",
-        "versions": "2.4.0, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.0, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Emmanuel Mugwaneza",
         "maintainer": "Emmanuel Mugwaneza <nezaemmy1@gmail.com>",
         "website": "https://github.com/Nezaemmy/NezaIR",
@@ -142694,8 +142694,8 @@
     },
     {
         "name": "BLECommands",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Andrey Rodin",
         "maintainer": "Andrey Rodin <andrey.val.rodin@gmail.com>",
         "website": "https://github.com/andrey-val-rodin/BleCommands.Arduino/",
@@ -150234,6 +150234,21 @@
         "repository": "https://github.com/alloyrobotics/alloy-logger-arduino.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "MakerEdu I2C Motor Driver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MakerEdu.vn",
+        "maintainer": "MakerEdu.vn",
+        "website": "https://github.com/makereduvn/MKE-M18-BD62130-I2C-MOTOR-DRIVER-MODULE",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
