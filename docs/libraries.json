@@ -149886,8 +149886,8 @@
     },
     {
         "name": "N-R_ESP32",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "xXMarifFXx",
         "maintainer": "xXMarifFXx",
         "website": "https://github.com/xXMarifFXx/N-R_ESP32",
@@ -150188,6 +150188,37 @@
         "repository": "https://github.com/lovnishverma/NIELIT-ESP32-Practicals.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ScreenManager",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Philip Fletcher <philip.fletcher@stutchbury.com>",
+        "maintainer": "Philip Fletcher <philip.fletcher@stutchbury.com>",
+        "website": "https://github.com/Stutchbury/ScreenManager",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Stutchbury/ScreenManager.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Hyperwisor-IOT",
+        "version": "3.0.0",
+        "versions": "3.0.0, 1.0.0",
+        "author": "NIKOLAINDUSTRY",
+        "maintainer": "NIKOLAINDUSTRY <support@nikolaindustry.com>",
+        "website": "https://github.com/nikolaindustry/hyperwisor-iot-arduino-library",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/nikolaindustry/hyperwisor-iot-arduino-library.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
         ]
     }
 ]
