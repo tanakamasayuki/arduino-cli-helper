@@ -148747,8 +148747,8 @@
     },
     {
         "name": "VIA_Arduino",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.5.0-experimental",
+        "versions": "0.5.0-experimental, 0.1.0",
         "author": "Juarendra Ramadhani <jrjuarendra@gmail.com>",
         "maintainer": "Juarendra Ramadhani <jrjuarendra@gmail.com>",
         "website": "https://github.com/juarendra/VIA-Arduino",
@@ -150247,6 +150247,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DS3501",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/DS3501",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/DS3501.git",
         "dependencies": [
             ""
         ]
