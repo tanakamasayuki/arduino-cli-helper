@@ -146895,8 +146895,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -150219,6 +150219,21 @@
         "dependencies": [
             "ArduinoJson",
             "WebSockets"
+        ]
+    },
+    {
+        "name": "AlloyLogger",
+        "version": "0.5.0",
+        "versions": "0.5.0",
+        "author": "Hugh Phan",
+        "maintainer": "Hugh Phan <hugh@usealloy.ai>",
+        "website": "https://github.com/alloyrobotics/alloy-logger-arduino",
+        "category": "Communication",
+        "architectures": "esp32, renesas_uno",
+        "types": "Contributed",
+        "repository": "https://github.com/alloyrobotics/alloy-logger-arduino.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
