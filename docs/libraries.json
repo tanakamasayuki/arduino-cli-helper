@@ -149886,8 +149886,8 @@
     },
     {
         "name": "N-R_ESP32",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "xXMarifFXx",
         "maintainer": "xXMarifFXx",
         "website": "https://github.com/xXMarifFXx/N-R_ESP32",
@@ -150307,6 +150307,37 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/zernovtechno/Vendista.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OTAWIFIAsyncBar",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Zaju",
+        "maintainer": "Zaju",
+        "website": "https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar/",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar.git",
+        "dependencies": [
+            "AsyncTCP",
+            "ESP Async WebServer"
+        ]
+    },
+    {
+        "name": "microStore",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Aneesh Arnav Chikkala <aneesharnavchikkala@gmail.com>",
+        "maintainer": "Aneesh Arnav Chikkala <aneesharnavchikkala@gmail.com>",
+        "website": "https://github.com/aneesharnavch/microstore",
+        "category": "Data Storage",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/aneesharnavch/microstore.git",
         "dependencies": [
             ""
         ]
