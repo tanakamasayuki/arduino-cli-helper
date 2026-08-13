@@ -82516,8 +82516,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "2.7.7",
-        "versions": "2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
+        "version": "2.7.8",
+        "versions": "2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -107483,8 +107483,8 @@
     },
     {
         "name": "esp32_idf5_https_server_compat",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0",
         "author": "Frank Hessel <frank@fhessel.de>, Jack Jansen <Jack.Jansen@cwi.nl>",
         "maintainer": "Jack Jansen <Jack.Jansen@cwi.nl>",
         "website": "https://github.com/jackjansen/esp32_idf5_https_server_compat",
@@ -107493,7 +107493,7 @@
         "types": "Contributed",
         "repository": "https://github.com/jackjansen/esp32_idf5_https_server_compat.git",
         "dependencies": [
-            "esp32_idf5_https_server"
+            "ESP32_IDF5_HTTPS_Server"
         ]
     },
     {
@@ -128336,8 +128336,8 @@
     },
     {
         "name": "Alteriom PainlessMesh",
-        "version": "1.9.21",
-        "versions": "1.9.21, 1.9.20, 1.9.19, 1.9.18, 1.9.17, 1.9.16, 1.9.15, 1.9.14, 1.9.13, 1.9.12, 1.9.11, 1.9.10, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
+        "version": "1.10.0",
+        "versions": "1.10.0, 1.9.21, 1.9.20, 1.9.19, 1.9.18, 1.9.17, 1.9.16, 1.9.15, 1.9.14, 1.9.13, 1.9.12, 1.9.11, 1.9.10, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
         "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
         "maintainer": "Alteriom",
         "website": "https://github.com/Alteriom/painlessMesh",
@@ -129193,8 +129193,8 @@
     },
     {
         "name": "QuectelEC200U",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.5.0, 2.7.0, 2.6.0, 2.5.0, 2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.5.0, 2.7.0, 2.6.0, 2.5.0, 2.0.0, 1.9.0, 1.8.0, 1.7.0, 1.6.0, 1.5.1",
         "author": "misternegative21",
         "maintainer": "MisterNegative21 <misternegative21@gmail.com>",
         "website": "https://github.com/MISTERNEGATIVE21/QuectelEC200U",
@@ -150338,6 +150338,36 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/aneesharnavch/microstore.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "microInput",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Aneesh Arnav Chikkala <aneesharnavchikkala@gmail.com>",
+        "maintainer": "Aneesh Arnav Chikkala <aneesharnavchikkala@gmail.com>",
+        "website": "https://github.com/microinput/microinput",
+        "category": "Signal Input/Output",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/aneesharnavch/microinput.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "INA226_USI",
+        "version": "0.6.6",
+        "versions": "0.6.6",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/INA226_USI",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/INA226_USI.git",
         "dependencies": [
             ""
         ]
