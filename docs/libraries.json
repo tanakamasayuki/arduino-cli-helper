@@ -150162,9 +150162,9 @@
     },
     {
         "name": "NIELIT Arduino UNO Practicals",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
-        "author": "Lovnish Verma",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "author": "Dr. Sarwan Singh, Lovnish Verma",
         "maintainer": "Lovnish Verma",
         "website": "https://github.com/LovnishVerma/NIELIT-Arduino-UNO-Practicals",
         "category": "Other",
@@ -150177,9 +150177,9 @@
     },
     {
         "name": "NIELIT ESP32 Practicals",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.0",
-        "author": "Lovnish Verma",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "author": "Dr. Sarwan Singh, Lovnish Verma",
         "maintainer": "Lovnish Verma",
         "website": "https://github.com/LovnishVerma/NIELIT-ESP32-Practicals",
         "category": "Other",
@@ -150368,6 +150368,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/INA226_USI.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Quadrature_Encoder",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Ahmed Idrees <ahmed.idrees.me@gmail.com>",
+        "maintainer": "Ahmed Idrees <ahmed.idrees.me@gmail.com>",
+        "website": "https://github.com/ahmed-Idrees/QuadratureEncoder",
+        "category": "Sensors",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ahmed-Idrees/QuadratureEncoder.git",
         "dependencies": [
             ""
         ]
