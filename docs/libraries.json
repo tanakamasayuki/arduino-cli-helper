@@ -150431,5 +150431,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MLX90316",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/MLX90316",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/MLX90316.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
