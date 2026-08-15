@@ -150496,8 +150496,8 @@
     },
     {
         "name": "LD2402",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "wed",
         "maintainer": "wed <samuelfong1301@gmail.com>",
         "website": "https://github.com/wedsamuel1230/LD2402",
