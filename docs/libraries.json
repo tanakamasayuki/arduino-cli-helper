@@ -150462,5 +150462,20 @@
         "dependencies": [
             "WebSockets"
         ]
+    },
+    {
+        "name": "AyresTimer",
+        "version": "4.1.0",
+        "versions": "4.1.0",
+        "author": "Daniel Cristian Salgado (AyresNet)",
+        "maintainer": "Daniel Cristian Salgado (AyresNet)",
+        "website": "https://github.com/ayresnet/AyresTimer",
+        "category": "Timing",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ayresnet/AyresTimer.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
