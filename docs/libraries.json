@@ -78489,8 +78489,8 @@
     },
     {
         "name": "iotsa",
-        "version": "2.8.1",
-        "versions": "2.8.1, 2.8.0, 2.7.0, 2.6.0, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.2.0, 2.1.0, 2.0.0, 1.8.1, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.2.1, 1.2.0, 1.1.0",
+        "version": "2.9.1",
+        "versions": "2.9.1, 2.8.1, 2.8.0, 2.7.0, 2.6.0, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.2.0, 2.1.0, 2.0.0, 1.8.1, 1.8.0, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.2.1, 1.2.0, 1.1.0",
         "author": "Jack Jansen <Jack.Jansen@cwi.nl>",
         "maintainer": "Jack Jansen <Jack.Jansen@cwi.nl>",
         "website": "https://github.com/cwi-dis/iotsa",
@@ -78501,12 +78501,12 @@
         "dependencies": [
             "Adafruit NeoPixel",
             "ArduinoJson",
-            "ArduinoJWT",
+            "cmArduinoJWT",
             "CoAP simple library",
+            "Ds1302",
             "ESP32Encoder",
             "NimBLE-Arduino",
-            "esp32_idf5_https_server_compat",
-            "LittleFS_esp32"
+            "esp32_idf5_https_server_compat"
         ]
     },
     {
