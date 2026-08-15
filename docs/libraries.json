@@ -150493,5 +150493,35 @@
             "ArduinoJson",
             "PubSubClient"
         ]
+    },
+    {
+        "name": "LD2402",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "wed",
+        "maintainer": "wed <samuelfong1301@gmail.com>",
+        "website": "https://github.com/wedsamuel1230/LD2402",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/wedsamuel1230/LD2402.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "3DM_Xrenderer",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SUNSET",
+        "maintainer": "SUNSETDEVER<973879601@qq.com>",
+        "website": "https://github.com/SUNSETDEVER/3DM_Xrenderer",
+        "category": "Display",
+        "architectures": "esp32, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/SUNSETDEVER/3DM_Xrenderer.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
