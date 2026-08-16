@@ -150523,5 +150523,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Waveshare_TFT_Touch",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tedd OKANO",
+        "maintainer": "Tedd OKANO",
+        "website": "https://github.com/teddokano/Waveshare_TFT_Touch_Arduino",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/teddokano/Waveshare_TFT_Touch_Arduino.git",
+        "dependencies": [
+            "SD"
+        ]
     }
 ]
