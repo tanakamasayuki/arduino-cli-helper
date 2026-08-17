@@ -150450,8 +150450,8 @@
     },
     {
         "name": "Pardalote",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Scott Mitchell",
         "maintainer": "Scott Mitchell",
         "website": "https://github.com/ScottMit/Pardalote",
@@ -150572,7 +150572,7 @@
     {
         "name": "TinyPrinter",
         "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1",
+        "versions": "1.1.0, 1.0.2, 1.0.1",
         "author": "Ramiz Mammadli",
         "maintainer": "Ramiz Mammadli",
         "website": "https://github.com/ramo828/TinyPrinter",
@@ -150627,6 +150627,23 @@
         "repository": "https://github.com/m5stack/M5Unit-8Servos2-I2C.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "BlynkEdgent",
+        "version": "0.9.0",
+        "versions": "0.9.0",
+        "author": "Blynk",
+        "maintainer": "Volodymyr Shymanskyy <vshymanskyi@gmail.com>",
+        "website": "https://blynk.io",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, samd",
+        "types": "Contributed",
+        "repository": "https://github.com/Blynk-Technologies/Edgent-Arduino.git",
+        "dependencies": [
+            "Blynk",
+            "ArduinoJson",
+            "ArduinoHttpClient"
         ]
     }
 ]
