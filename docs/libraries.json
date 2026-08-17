@@ -150556,8 +150556,8 @@
     },
     {
         "name": "ESP32IoTSDK",
-        "version": "0.1.1",
-        "versions": "0.1.1",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1",
         "author": "Vishal",
         "maintainer": "Vishal",
         "website": "https://github.com/vishal-95-um/esp32-iot-management",
@@ -150644,6 +150644,36 @@
             "Blynk",
             "ArduinoJson",
             "ArduinoHttpClient"
+        ]
+    },
+    {
+        "name": "ESP32_ST7789_Fast",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Awulokune",
+        "maintainer": "Awulokune",
+        "website": "https://github.com/Awulokune/ESP32_ST7789_Fast",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Awulokune/ESP32_ST7789_Fast.git",
+        "dependencies": [
+            "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "loxdb",
+        "version": "1.5.4",
+        "versions": "1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1",
+        "author": "Vanderhell",
+        "maintainer": "Vanderhell <Vanderhell@gmail.com>",
+        "website": "https://github.com/Vanderhell/loxdb",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Vanderhell/loxdb.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
