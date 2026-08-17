@@ -150511,8 +150511,8 @@
     },
     {
         "name": "3DM_Xrenderer",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.0",
         "author": "SUNSET",
         "maintainer": "SUNSETDEVER<973879601@qq.com>",
         "website": "https://github.com/SUNSETDEVER/3DM_Xrenderer",
@@ -150610,6 +150610,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/virgilvox/bellows-embedded.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "M5Unit8Servos2",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Unit-8Servos2-I2C",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Unit-8Servos2-I2C.git",
         "dependencies": [
             ""
         ]
