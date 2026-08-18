@@ -37872,8 +37872,8 @@
     },
     {
         "name": "Adafruit TFTLCD Library",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/TFTLCD-Library",
@@ -146076,8 +146076,8 @@
     },
     {
         "name": "FOTA-Client-ESP32",
-        "version": "1.0.5",
-        "versions": "1.0.5",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.5",
         "author": "NodeWave EA <info@nodewave.net>",
         "maintainer": "Yebei-Gideon <yebei@nodewave.net>",
         "website": "https://github.com/NodeWave-EA/FOTA-Client-ESP32",
@@ -146815,8 +146815,8 @@
     },
     {
         "name": "LionWifi",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionWifi",
@@ -150693,6 +150693,21 @@
         "repository": "https://github.com/FMazz97/CS123x.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "LighthouseReckoning",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Fynn Jannis Schulz <fynnsscp009@gmail.com>",
+        "maintainer": "Fynn Jannis Schulz <fynnsscp009@gmail.com>",
+        "website": "https://github.com/TidalImpact/LighthouseReckoning",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/TidalImpact/LighthouseReckoning.git",
+        "dependencies": [
+            "RadioLib"
         ]
     }
 ]
