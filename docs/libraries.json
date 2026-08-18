@@ -137710,8 +137710,8 @@
     },
     {
         "name": "MKE_ONE",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0",
         "author": "MakerEdu.vn",
         "maintainer": "MakerEdu.vn",
         "website": "https://www.makerlab.vn/arduinolibraries",
@@ -137734,7 +137734,11 @@
             "MKL_RTClib",
             "IRremote",
             "Makerlabvn_I2C_Line_Follower_Sensor",
-            "Blynk"
+            "Blynk",
+            "Adafruit NeoPixel",
+            "TinyGPSPlus",
+            "MakerEdu I2C Motor Driver",
+            "MKE I2C MP3"
         ]
     },
     {
@@ -150541,8 +150545,8 @@
     },
     {
         "name": "PicoCamera",
-        "version": "0.2.0",
-        "versions": "0.2.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0",
         "author": "umeko",
         "maintainer": "umeko <umeko@stu.xmu.edu.cn>",
         "website": "https://github.com/umeiko/PicoCamera",
