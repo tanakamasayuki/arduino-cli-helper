@@ -65034,8 +65034,8 @@
     },
     {
         "name": "AIS 4G board",
-        "version": "1.3.7",
-        "versions": "1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1",
         "author": "AIS",
         "maintainer": "Gravitech Thai",
         "website": "https://business.ais.co.th/solution/ais_4g_board.html",
@@ -80685,8 +80685,8 @@
     },
     {
         "name": "MAGELLAN",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1",
         "author": "AIS IoT Alliance Program",
         "maintainer": "MAGELLAN POC devices team <aisiot2020@gmail.com>",
         "website": "https://github.com/AIS-DeviceInnovation/Magellan",
@@ -150728,6 +150728,61 @@
         "repository": "https://github.com/TidalImpact/LighthouseReckoning.git",
         "dependencies": [
             "RadioLib"
+        ]
+    },
+    {
+        "name": "IskakINO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Iskak Fatoni",
+        "maintainer": "Iskak Fatoni",
+        "website": "https://github.com/iskakfatoni/IskakINO",
+        "category": "Other",
+        "architectures": "avr, esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/iskakfatoni/IskakINO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Simple-AstroTracker-Arduino",
+        "version": "0.7.1",
+        "versions": "0.7.1",
+        "author": "NachtRaveVL <nachtravevl@gmail.com>",
+        "maintainer": "NachtRaveVL <nachtravevl@gmail.com>",
+        "website": "https://github.com/NachtRaveVL/Simple-AstroTracker-Arduino",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/NachtRaveVL/Simple-AstroTracker-Arduino.git",
+        "dependencies": [
+            "ArduinoJson",
+            "ArxContainer",
+            "ArxSmartPtr",
+            "I2C_EEPROM",
+            "IoAbstraction",
+            "RTClib",
+            "TaskManagerIO",
+            "tcMenu",
+            "Time"
+        ]
+    },
+    {
+        "name": "Simple-Homestead-Arduino",
+        "version": "0.7.1",
+        "versions": "0.7.1",
+        "author": "NachtRaveVL <nachtravevl@gmail.com>",
+        "maintainer": "NachtRaveVL <nachtravevl@gmail.com>",
+        "website": "https://github.com/NachtRaveVL/Simple-Homestead-Arduino",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/NachtRaveVL/Simple-Homestead-Arduino.git",
+        "dependencies": [
+            "IoAbstraction",
+            "TaskManagerIO",
+            "tcMenu"
         ]
     }
 ]
