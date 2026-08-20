@@ -138752,12 +138752,12 @@
     },
     {
         "name": "eva-core-sk",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-core-sk",
-        "category": "Other",
+        "category": "Timing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/agusevtec/eva-core-sk.git",
@@ -140595,12 +140595,12 @@
     },
     {
         "name": "eva-motors",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-motors",
-        "category": "Other",
+        "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/agusevtec/eva-motors.git",
@@ -150870,6 +150870,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/m5stack/M5Faces.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MAX98389",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Matthew Davison <m.davison23@imperial.ac.uk>",
+        "maintainer": "Matthew Davison <m.davison23@imperial.ac.uk>",
+        "website": "https://github.com/davisonaudio/MAX98389_Arduino_Library",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/davisonaudio/MAX98389.git",
         "dependencies": [
             ""
         ]
