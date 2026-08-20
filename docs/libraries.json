@@ -150903,5 +150903,21 @@
         "dependencies": [
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "KeyValueDatabase",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Bojan Jurca",
+        "maintainer": "Bojan Jurca <bojan@gmail.com>",
+        "website": "https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32.git",
+        "dependencies": [
+            "LightweightSTL",
+            "ThreadSafeFS"
+        ]
     }
 ]
