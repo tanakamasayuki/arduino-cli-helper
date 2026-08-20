@@ -137730,8 +137730,8 @@
     },
     {
         "name": "MKE_ONE",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0",
         "author": "MakerEdu.vn",
         "maintainer": "MakerEdu.vn",
         "website": "https://www.makerlab.vn/arduinolibraries",
@@ -137740,25 +137740,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Khuuxuanngoc/makereduvnlib.git",
         "dependencies": [
-            "Makerlabvn_I2C_Motor_Driver",
-            "kxnTask",
-            "OneButton",
-            "LiquidCrystal I2C",
-            "DFRobotDFPlayerMini",
-            "Dabble",
-            "HCSR04 ultrasonic MKL",
-            "BlynkGate",
-            "Makerlabvn_SimpleMotor",
-            "MKL_DHT sensor library",
-            "MKL_DS18B20",
-            "MKL_RTClib",
-            "IRremote",
-            "Makerlabvn_I2C_Line_Follower_Sensor",
-            "Blynk",
-            "Adafruit NeoPixel",
-            "TinyGPSPlus",
-            "MakerEdu I2C Motor Driver",
-            "MKE I2C MP3"
+            ""
         ]
     },
     {
@@ -143672,8 +143654,8 @@
     },
     {
         "name": "DIYables TFT SPI",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "DIYables.io",
         "maintainer": "DIYables.io (diyables.io@gmail.com)",
         "website": "https://diyables.io/tft-spi",
@@ -150858,6 +150840,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/codewitch-honey-crisis/htcw_multibutton.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi I2C Relay",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-I2C-Relay-Arduino-Library",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-I2C-Relay-Arduino-Library.git",
         "dependencies": [
             ""
         ]
