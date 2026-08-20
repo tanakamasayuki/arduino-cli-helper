@@ -150831,5 +150831,35 @@
         "dependencies": [
             "NimBLE-Arduino"
         ]
+    },
+    {
+        "name": "Adafruit TMF8801",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_TMF8801",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_TMF8801.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "htcw_multibutton",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "honey the codewitch",
+        "maintainer": "honey the codewitch",
+        "website": "https://github.com/codewitch-honey-crisis/htcw_multibutton",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/codewitch-honey-crisis/htcw_multibutton.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
