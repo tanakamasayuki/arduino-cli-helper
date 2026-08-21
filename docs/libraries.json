@@ -150607,8 +150607,8 @@
     },
     {
         "name": "Bellows",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Moheeb Zara",
         "maintainer": "Moheeb Zara",
         "website": "https://github.com/virgilvox/bellowsjs",
