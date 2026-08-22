@@ -150684,8 +150684,8 @@
     },
     {
         "name": "CS123x",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "FMazz97",
         "maintainer": "FMazz97",
         "website": "https://github.com/FMazz97/CS123x",
