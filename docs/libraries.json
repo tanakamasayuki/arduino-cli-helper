@@ -150784,8 +150784,8 @@
     },
     {
         "name": "AzDeck",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Azat",
         "maintainer": "Azat <aztechell@gmail.com>",
         "website": "https://github.com/aztechell/azdeck-lib",
