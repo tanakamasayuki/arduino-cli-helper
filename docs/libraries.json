@@ -138627,8 +138627,8 @@
     },
     {
         "name": "M5_Encoder",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.2",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.2",
         "author": "Thomas O Fredericks",
         "maintainer": "https://github.com/thomasfredericks",
         "website": "https://github.com/thomasfredericks/M5_Encoder",
