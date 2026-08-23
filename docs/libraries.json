@@ -145471,8 +145471,8 @@
     },
     {
         "name": "Fluxgrid",
-        "version": "0.18.0",
-        "versions": "0.18.0, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1",
+        "version": "0.18.1",
+        "versions": "0.18.1, 0.18.0, 0.9.5, 0.9.4, 0.9.3, 0.9.2, 0.9.1",
         "author": "Lonely Binary",
         "maintainer": "Lonely Binary <hello@lonelybinary.cn>",
         "website": "https://github.com/Lonely-Binary/FluxGrid",
