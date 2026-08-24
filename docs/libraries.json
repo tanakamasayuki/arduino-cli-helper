@@ -108795,8 +108795,8 @@
     },
     {
         "name": "CodeCell",
-        "version": "2.0.6",
-        "versions": "2.0.6, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
+        "version": "2.0.7",
+        "versions": "2.0.7, 2.0.6, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "website": "https://microbots.io/CodeCell",
@@ -140531,8 +140531,8 @@
     },
     {
         "name": "ESP32_Multitasking_Network_Suite",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
@@ -150997,6 +150997,21 @@
         "dependencies": [
             "PCMFlow",
             "EspBle"
+        ]
+    },
+    {
+        "name": "PAC1xxx",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "website": "https://github.com/jobitjoseph/PAC1xxx",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jobitjoseph/PAC1xxx.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
