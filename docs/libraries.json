@@ -136857,8 +136857,8 @@
     },
     {
         "name": "libsdi12",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.5.1",
+        "versions": "0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Phillip Weinstock",
         "maintainer": "Phillip Weinstock",
         "website": "https://github.com/phillipweinstock/libsdi12",
@@ -151027,6 +151027,22 @@
         "repository": "https://github.com/ebm9991/GroveI2CStepper.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ZoneStarIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ZoneStar <support@zonestar.tech>",
+        "maintainer": "ZoneStar <support@zonestar.tech>",
+        "website": "https://github.com/sheesourav0/zonestar-iot-arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/sheesourav0/zonestar-iot-arduino.git",
+        "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
         ]
     }
 ]
