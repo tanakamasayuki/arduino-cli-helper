@@ -708,8 +708,8 @@
     },
     {
         "name": "Arduino_JSON",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "http://github.com/arduino-libraries/Arduino_JSON",
@@ -34757,8 +34757,8 @@
     },
     {
         "name": "Arduino_LPS22HB",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "http://github.com/arduino-libraries/Arduino_LPS22HB",
@@ -150981,6 +150981,22 @@
         "dependencies": [
             "ACANFD_SAME",
             "CANMessageSignal"
+        ]
+    },
+    {
+        "name": "PCMFlowBluetooth",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "TANAKA Masayuki",
+        "maintainer": "TANAKA Masayuki",
+        "website": "https://github.com/tanakamasayuki/PCMFlowBluetooth",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tanakamasayuki/PCMFlowBluetooth.git",
+        "dependencies": [
+            "PCMFlow",
+            "EspBle"
         ]
     }
 ]
