@@ -51490,8 +51490,8 @@
     },
     {
         "name": "Mbed BLE HID",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1",
         "author": "Thibault Coppex",
         "maintainer": "Thibault Coppex <tcoppex@pm.me>",
         "website": "https://github.com/tcoppex/mbed-ble-hid",
@@ -129690,13 +129690,13 @@
     },
     {
         "name": "FastRGB",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Ben Stokman",
         "maintainer": "Ben Stokman <ben.stokman@protonmail.com>",
         "website": "https://git.benstokman.me/benjistokman/FastRGB",
         "category": "Display",
-        "architectures": "all",
+        "architectures": "avr, renesas_uno",
         "types": "Contributed",
         "repository": "https://github.com/benjistokman/FastRGB.git",
         "dependencies": [
@@ -135643,8 +135643,8 @@
     },
     {
         "name": "moddoMOUSE",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0, 0.2.0, 0.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0, 0.2.0, 0.1.0",
         "author": "moddo inc.",
         "maintainer": "moddo inc. <info@moddo.io>",
         "website": "https://github.com/moddoio/moddoMOUSE-Arduino",
@@ -136857,8 +136857,8 @@
     },
     {
         "name": "libsdi12",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Phillip Weinstock",
         "maintainer": "Phillip Weinstock",
         "website": "https://github.com/phillipweinstock/libsdi12",
@@ -151010,6 +151010,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/jobitjoseph/PAC1xxx.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GroveI2CStepper",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "EBM",
+        "maintainer": "EBM",
+        "website": "https://wiki.seeedstudio.com/Grove-Mini_I2C_Motor_Driver_v1.0/",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ebm9991/GroveI2CStepper.git",
         "dependencies": [
             ""
         ]
