@@ -78474,8 +78474,8 @@
     },
     {
         "name": "Arduino_BMI270_BMM150",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_BMI270_BMM150",
@@ -81729,8 +81729,8 @@
     },
     {
         "name": "Arduino_HS300x",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "http://github.com/arduino-libraries/Arduino_HS300x",
@@ -89023,8 +89023,8 @@
     },
     {
         "name": "Arduino_GigaDisplayTouch",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://github.com/arduino-libraries/Arduino_GigaDisplayTouch",
