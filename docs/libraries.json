@@ -151074,5 +151074,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "LTR390UVSensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "mumanchu <info@muman.ch>",
+        "maintainer": "mumanchu <info@muman.ch>",
+        "website": "https://github.com/mumanchu/LTR390UVSensor",
+        "category": "Uncategorized",
+        "architectures": "stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/LTR390UVSensor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
