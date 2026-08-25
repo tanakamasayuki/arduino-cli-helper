@@ -151089,5 +151089,35 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Adafruit GP8403",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_GP8403",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_GP8403.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "Adafruit TSL2585",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_TSL2585",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_TSL2585.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
     }
 ]
