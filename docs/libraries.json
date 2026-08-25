@@ -119478,8 +119478,8 @@
     },
     {
         "name": "M5Unit-KMeterISO",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-KMeterISO",
@@ -151043,6 +151043,21 @@
         "dependencies": [
             "PubSubClient",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "PTSolns_I2Connect_ICP_20100",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "PTSolns",
+        "maintainer": "PTSolns <support@ptsolns.com>",
+        "website": "https://github.com/PTSolns/I2Connect_ICP-20100",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PTSolns/I2Connect_ICP-20100.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
