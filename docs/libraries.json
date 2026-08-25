@@ -149941,8 +149941,8 @@
     },
     {
         "name": "GroeiAcademie FrameWork",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Alex Peeters, GROEI ACADEMIE BV",
         "maintainer": "Alex Peeters <info@groeiacademie.be>",
         "website": "https://groeiacademie.be/",
