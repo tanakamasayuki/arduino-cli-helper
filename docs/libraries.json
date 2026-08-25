@@ -151001,9 +151001,9 @@
     },
     {
         "name": "PAC1xxx",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Jobit Joseph",
         "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
         "website": "https://github.com/jobitjoseph/PAC1xxx",
         "category": "Sensors",
