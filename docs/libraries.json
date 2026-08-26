@@ -151119,5 +151119,20 @@
         "dependencies": [
             "Adafruit BusIO"
         ]
+    },
+    {
+        "name": "TS20",
+        "version": "0.5.0",
+        "versions": "0.5.0",
+        "author": "Tod Kurt <tod@todbot.com>",
+        "maintainer": "Tod Kurt <tod@todbot.com>",
+        "website": "https://github.com/todbot/TS20_Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/todbot/TS20_Arduino.git",
+        "dependencies": [
+            "Adafruit NeoPixel"
+        ]
     }
 ]
