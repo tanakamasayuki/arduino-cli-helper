@@ -151134,5 +151134,25 @@
         "dependencies": [
             "Adafruit NeoPixel"
         ]
+    },
+    {
+        "name": "RoboS3",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
+        "author": "João Augusto Carvalho Araújo",
+        "maintainer": "João Augusto Carvalho Araújo",
+        "website": "https://github.com/joaoaugustocz/RoboS3",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/joaoaugustocz/RoboS3.git",
+        "dependencies": [
+            "QTRSensors",
+            "HCSR04",
+            "Adafruit TCS34725",
+            "Adafruit BusIO",
+            "MPU6050",
+            "PIDEasy"
+        ]
     }
 ]
