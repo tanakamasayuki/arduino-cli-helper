@@ -119493,8 +119493,8 @@
     },
     {
         "name": "DCF77RX",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
         "author": "dac1e",
         "maintainer": "dac1e <1692-586@onlinehome.de>",
         "website": "https://github.com/dac1e/DCF77RX",
@@ -151153,6 +151153,22 @@
             "Adafruit BusIO",
             "MPU6050",
             "PIDEasy"
+        ]
+    },
+    {
+        "name": "MLBScoreboard",
+        "version": "0.1.1",
+        "versions": "0.1.1",
+        "author": "5ne",
+        "maintainer": "5ne",
+        "website": "https://github.com/5ne/MLBScoreboard-Arduino-Library",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/5ne/MLBScoreboard-Arduino-Library.git",
+        "dependencies": [
+            "InkplateLibrary",
+            "ArduinoJson"
         ]
     }
 ]
