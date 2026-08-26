@@ -147174,8 +147174,8 @@
     },
     {
         "name": "DigitalOutput",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/DigitalOutput",
@@ -151169,6 +151169,21 @@
         "dependencies": [
             "InkplateLibrary",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "ProtoCentral tinyGSR",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ProtoCentral Electronics <support@protocentral.com>",
+        "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
+        "website": "https://github.com/Protocentral/protocentral_tinygsr_arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Protocentral/protocentral_tinygsr_arduino.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
