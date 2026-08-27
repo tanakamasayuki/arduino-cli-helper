@@ -53082,9 +53082,9 @@
     },
     {
         "name": "ProtoCentral Pulse Express SpO2 Heartrate and BPT sensor",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.3, 1.0.1",
-        "author": "Protocentral Electronics <support@protocentral.com>",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.0.0, 1.0.3, 1.0.1",
+        "author": "Ashwin Whitchurch, Protocentral Electronics <support@protocentral.com>",
         "maintainer": "Protocentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral-pulse-express",
         "category": "Sensors",
@@ -54273,8 +54273,8 @@
     },
     {
         "name": "ESP32-BLE-Gamepad",
-        "version": "0.7.3",
-        "versions": "0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.9, 0.6.8, 0.6.7, 0.6.5, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.4, 0.5.2, 0.5.1, 0.5.0, 0.4.4, 0.4.3, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.1, 0.3.0, 0.2.0, 0.1.9",
+        "version": "0.7.5-rc0",
+        "versions": "0.7.5-rc0, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.9, 0.6.8, 0.6.7, 0.6.5, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.4, 0.5.2, 0.5.1, 0.5.0, 0.4.4, 0.4.3, 0.4.1, 0.4.0, 0.3.4, 0.3.3, 0.3.1, 0.3.0, 0.2.0, 0.1.9",
         "author": "lemmingDev",
         "maintainer": "lemmingDev",
         "website": "https://github.com/lemmingDev/ESP32-BLE-Gamepad",
@@ -83613,8 +83613,8 @@
     },
     {
         "name": "PL ADXL355",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.2",
+        "versions": "1.4.2, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "plasmapper",
         "maintainer": "plasmapper",
         "website": "https://github.com/plasmapper/adxl355-arduino",
@@ -98462,8 +98462,8 @@
     },
     {
         "name": "MAVLink",
-        "version": "2.0.32",
-        "versions": "2.0.32, 2.0.31, 2.0.30, 2.0.29, 2.0.28, 2.0.27, 2.0.26, 2.0.25, 2.0.24, 2.0.23, 2.0.22, 2.0.21, 2.0.20, 2.0.19, 2.0.18, 2.0.17, 2.0.16, 2.0.15, 2.0.14, 2.0.13, 2.0.12, 2.0.11, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
+        "version": "2.0.33",
+        "versions": "2.0.33, 2.0.32, 2.0.31, 2.0.30, 2.0.29, 2.0.28, 2.0.27, 2.0.26, 2.0.25, 2.0.24, 2.0.23, 2.0.22, 2.0.21, 2.0.20, 2.0.19, 2.0.18, 2.0.17, 2.0.16, 2.0.15, 2.0.14, 2.0.13, 2.0.12, 2.0.11, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
         "author": "Oleg Kalachev <okalachev@gmail.com",
         "maintainer": "Oleg Kalachev <okalachev@gmail.com>",
         "website": "https://github.com/okalachev/mavlink-arduino",
@@ -150428,8 +150428,8 @@
     },
     {
         "name": "M5Stamp_UWB",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Stamp-UWB",
@@ -150686,8 +150686,8 @@
     },
     {
         "name": "CS123x",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "FMazz97",
         "maintainer": "FMazz97",
         "website": "https://github.com/FMazz97/CS123x",
@@ -150771,12 +150771,12 @@
     },
     {
         "name": "eva-boxy",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-boxy",
-        "category": "Other",
+        "category": "Display",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/agusevtec/eva-boxy.git",
@@ -150908,8 +150908,8 @@
     },
     {
         "name": "KeyValueDatabase",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32",
@@ -151219,8 +151219,8 @@
     },
     {
         "name": "TecnovaIoT",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Tecnova",
         "maintainer": "Tecnova <https://github.com/pipe1391/TecnovaIoT/issues>",
         "website": "https://github.com/pipe1391/TecnovaIoT",
@@ -151267,6 +151267,21 @@
             "ESP Async TCP",
             "NetworkProfile",
             "Preferences"
+        ]
+    },
+    {
+        "name": "DevLabDDP",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "UNIT Electronics",
+        "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
