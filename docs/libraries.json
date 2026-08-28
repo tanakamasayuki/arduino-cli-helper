@@ -107372,8 +107372,8 @@
     },
     {
         "name": "Settings",
-        "version": "1.4.2",
-        "versions": "1.4.2, 1.4.1, 1.4.0, 1.3.17, 1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.24, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.3",
+        "versions": "1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.17, 1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.24, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/Settings",
@@ -120150,8 +120150,8 @@
     },
     {
         "name": "Module-Audio",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/Module-Audio.git",
@@ -135203,8 +135203,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.5.2",
-        "versions": "1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.5.3",
+        "versions": "1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -141456,8 +141456,8 @@
     },
     {
         "name": "at_client",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.0",
+        "version": "0.1.6",
+        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "Atsign Foundation",
         "maintainer": "Atsign Foundation <info@atsign.com>",
         "website": "https://github.com/atsign-foundation/at_client_arduino",
@@ -142671,8 +142671,8 @@
     },
     {
         "name": "PIDEasy-Improved",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.6, 1.0.1, 1.0.0",
         "author": "Kaleo S. Mendonça",
         "maintainer": "<kaleosoaresmendonca@gmail.com>",
         "website": "https://github.com/kwlew/PIDEasy-Improved",
@@ -151137,8 +151137,8 @@
     },
     {
         "name": "RoboS3",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "João Augusto Carvalho Araújo",
         "maintainer": "João Augusto Carvalho Araújo",
         "website": "https://github.com/joaoaugustocz/RoboS3",
@@ -151219,8 +151219,8 @@
     },
     {
         "name": "TecnovaIoT",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Tecnova",
         "maintainer": "Tecnova <https://github.com/pipe1391/TecnovaIoT/issues>",
         "website": "https://github.com/pipe1391/TecnovaIoT",
@@ -151282,6 +151282,21 @@
         "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "DevLab_TEMT6000",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "UNIT Electronics MX",
+        "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library.git",
+        "dependencies": [
+            "DevLabDDP"
         ]
     }
 ]
