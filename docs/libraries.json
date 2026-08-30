@@ -139491,8 +139491,8 @@
     },
     {
         "name": "HDrive",
-        "version": "2.0.2",
-        "versions": "2.0.2, 1.1.0, 1.0.1",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 1.1.0, 1.0.1",
         "author": "Jesús Amezquita, Kame Electronics",
         "maintainer": "Jesús Amezquita <l25290382@cdguzman.tecnm.mx>",
         "website": "https://github.com/JesRex700/HDrive",
@@ -148874,8 +148874,8 @@
     },
     {
         "name": "LC29H_GNSS",
-        "version": "0.2.9",
-        "versions": "0.2.9, 0.2.6, 0.2.5, 0.2.4, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.13",
+        "versions": "0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.6, 0.2.5, 0.2.4, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "LC29H_GNSS Contributors",
         "maintainer": "LC29H_GNSS Contributors <maintainers@users.noreply.github.com>",
         "website": "https://github.com/bnorth12/LC29H_GNSS-Library",
@@ -151122,8 +151122,8 @@
     },
     {
         "name": "TS20",
-        "version": "0.5.0",
-        "versions": "0.5.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0",
         "author": "Tod Kurt <tod@todbot.com>",
         "maintainer": "Tod Kurt <tod@todbot.com>",
         "website": "https://github.com/todbot/TS20_Arduino",
@@ -151132,7 +151132,7 @@
         "types": "Contributed",
         "repository": "https://github.com/todbot/TS20_Arduino.git",
         "dependencies": [
-            "Adafruit NeoPixel"
+            ""
         ]
     },
     {
@@ -151234,8 +151234,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
@@ -151301,8 +151301,8 @@
     },
     {
         "name": "WiFiOTA",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Aleksei Grishov",
         "maintainer": "Aleksei Grishov",
         "website": "https://github.com/GrishovAleksei/WiFiOTA.git",
@@ -151311,7 +151311,6 @@
         "types": "Contributed",
         "repository": "https://github.com/GrishovAleksei/WiFiOTA.git",
         "dependencies": [
-            "WiFiS3",
             "ArduinoOTA"
         ]
     },
@@ -151350,8 +151349,8 @@
     },
     {
         "name": "HomeAssistantDiscovery",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/HomeAssistantDiscovery",
