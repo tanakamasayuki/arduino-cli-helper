@@ -97098,8 +97098,8 @@
     },
     {
         "name": "roo_display",
-        "version": "3.2.1",
-        "versions": "3.2.1, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "3.2.2",
+        "versions": "3.2.2, 3.2.1, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_display",
@@ -108322,18 +108322,20 @@
     },
     {
         "name": "roo_wifi",
-        "version": "1.1.4",
-        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.5",
+        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_wifi",
         "category": "Communication",
-        "architectures": "*",
+        "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_wifi.git",
         "dependencies": [
             "roo_collections",
-            "roo_prefs"
+            "roo_prefs",
+            "roo_backport",
+            "roo_scheduler"
         ]
     },
     {
@@ -124172,8 +124174,8 @@
     },
     {
         "name": "OBD2 K-Line",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.1.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Muki01",
         "maintainer": "Muki01 <muksin.muksin04@gmail.com>",
         "website": "https://github.com/muki01/OBD2_KLine_Library",
@@ -129308,8 +129310,8 @@
     },
     {
         "name": "roo_locale",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_locale",
@@ -151234,8 +151236,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
@@ -151378,6 +151380,21 @@
             "Adafruit SSD1306",
             "PubSubClient",
             "WiFi"
+        ]
+    },
+    {
+        "name": "shark_pid",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Tran Nguyen Binh <trannguyenbinh.shark@gmail.com>",
+        "maintainer": "Tran Nguyen Binh <trannguyenbinh.shark@gmail.com>",
+        "website": "https://github.com/nguyenbinh-shark/shark_pid",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nguyenbinh-shark/shark_pid.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
