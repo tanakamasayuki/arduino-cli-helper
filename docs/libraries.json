@@ -148011,8 +148011,8 @@
     },
     {
         "name": "SBK_Button",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Samuel Barabe",
         "maintainer": "Samuel Barabe",
         "website": "https://github.com/sbarabe/SBK_Button",
@@ -151410,6 +151410,21 @@
         "repository": "https://github.com/fun6400/BLEThermalPrinterYHK.git",
         "dependencies": [
             "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "ESP32WiFiPortal",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Tran Nguyen Hien",
+        "maintainer": "Tran Nguyen Hien",
+        "website": "https://github.com/NguyenHien-8/ESP32WiFiPortal",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/NguyenHien-8/ESP32WiFiPortal.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
