@@ -55269,13 +55269,13 @@
     },
     {
         "name": "MIDIcontroller",
-        "version": "3.1.3",
-        "versions": "3.1.3, 2.5.4, 2.5.3, 2.4.3, 2.4.2, 2.4.0, 2.3.4, 2.3.3, 2.3.2",
+        "version": "3.3.0",
+        "versions": "3.3.0, 3.1.3, 2.5.4, 2.5.3, 2.4.3, 2.4.2, 2.4.0, 2.3.4, 2.3.3, 2.3.2",
         "author": "Josh Nishikawa <joshnishikawa@gmail.com>",
         "maintainer": "Josh Nishikawa <joshnishikawa@gmail.com>",
         "website": "https://github.com/joshnishikawa/MIDIcontroller",
         "category": "Sensors",
-        "architectures": "avr",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/joshnishikawa/MIDIcontroller.git",
         "dependencies": [
@@ -97098,8 +97098,8 @@
     },
     {
         "name": "roo_display",
-        "version": "3.2.0",
-        "versions": "3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "3.2.1",
+        "versions": "3.2.1, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_display",
@@ -151301,8 +151301,8 @@
     },
     {
         "name": "WiFiOTA",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Aleksei Grishov",
         "maintainer": "Aleksei Grishov",
         "website": "https://github.com/GrishovAleksei/WiFiOTA.git",
@@ -151360,6 +151360,24 @@
         "repository": "https://github.com/soosp/HomeAssistantDiscovery.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "MiniMicroKit-PTL",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "GelectronLAB",
+        "maintainer": "GelectronLAB <gunaneg011@gmail.com>",
+        "website": "https://github.com/GUNANAG38/MiniMicroKit-PTL",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/GUNANAG38/MiniMicroKit_PTL.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SSD1306",
+            "PubSubClient",
+            "WiFi"
         ]
     }
 ]
