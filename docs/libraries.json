@@ -70843,8 +70843,8 @@
     },
     {
         "name": "Meshtastic",
-        "version": "0.0.7",
-        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
         "author": "Meshtastic",
         "maintainer": "Meshtastic <meshtastic@meshtastic.org>",
         "website": "http://meshtastic.org",
@@ -149877,21 +149877,6 @@
         ]
     },
     {
-        "name": "ESP32 BLE Keyboard",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Gaurav Sharma",
-        "maintainer": "Gaurav Sharma <ss3573509@gmail.com>",
-        "website": "https://github.com/gsgaurav0/ESP32-BLE-Keyboard",
-        "category": "Communication",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/gsgaurav0/ESP32-HID-Keyboard.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "N-R_ESP32",
         "version": "1.1.4",
         "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
@@ -150382,21 +150367,6 @@
         ]
     },
     {
-        "name": "Quadrature_Encoder",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Ahmed Idrees <ahmed.idrees.me@gmail.com>",
-        "maintainer": "Ahmed Idrees <ahmed.idrees.me@gmail.com>",
-        "website": "https://github.com/ahmed-Idrees/QuadratureEncoder",
-        "category": "Sensors",
-        "architectures": "avr, esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/ahmed-Idrees/QuadratureEncoder.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "ErovoutikaErobot",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -150549,8 +150519,8 @@
     },
     {
         "name": "PicoCamera",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.0",
         "author": "umeko",
         "maintainer": "umeko <umeko@stu.xmu.edu.cn>",
         "website": "https://github.com/umeiko/PicoCamera",
@@ -151442,15 +151412,60 @@
     },
     {
         "name": "Pyintel Lux",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Pyintel <dev@pyintel.cc>",
         "maintainer": "Pyintel <dev@pyintel.cc>",
-        "website": "https://github.com/pyintel/pyintel-lux",
+        "website": "https://github.com/Pyintel/pyintel-lux-arduino",
         "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/Pyintel/pyintel-lux.git",
+        "repository": "https://github.com/Pyintel/pyintel-lux-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "IMU406",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "StrayerSQH",
+        "maintainer": "StrayerSQH",
+        "website": "https://github.com/StrayerSQH/IMU406",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/StrayerSQH/IMU406.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32 HID Keyboard",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Gaurav Sharma",
+        "maintainer": "Gaurav Sharma <ss3573509@gmail.com>",
+        "website": "https://github.com/gsgaurav0/ESP32-HID-Keyboard",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/gsgaurav0/ESP32-HID-Keyboard.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Quadrature Encoder",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Ahmed Idrees",
+        "maintainer": "Ahmed Idrees <ahmed.idrees.me@gmail.com>",
+        "website": "https://github.com/ahmed-Idrees/QuadratureEncoder",
+        "category": "Sensors",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ahmed-Idrees/QuadratureEncoder.git",
         "dependencies": [
             ""
         ]
