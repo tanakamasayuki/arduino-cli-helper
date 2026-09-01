@@ -151427,8 +151427,8 @@
     },
     {
         "name": "IMU406",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "StrayerSQH",
         "maintainer": "StrayerSQH",
         "website": "https://github.com/StrayerSQH/IMU406",
@@ -151498,6 +151498,22 @@
         "repository": "https://github.com/algomusic/M16.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Poom",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Poom",
+        "maintainer": "Michelle Mendez <jupiter@stellar-iot.com>",
+        "website": "https://github.com/The-POOM/poom-arduino",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/The-POOM/poom-arduino.git",
+        "dependencies": [
+            "Adafruit SH110X",
+            "Adafruit NeoPixel"
         ]
     }
 ]
