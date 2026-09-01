@@ -51295,8 +51295,8 @@
     },
     {
         "name": "CanAirIO Air Quality Sensors Library",
-        "version": "0.7.6",
-        "versions": "0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.9, 0.6.8, 0.6.7, 0.6.6, 0.6.4, 0.6.3, 0.6.1, 0.6.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.2.9, 0.2.8, 0.2.7, 0.2.5, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.8, 0.1.5, 0.1.4, 0.1.3, 0.1.2",
+        "version": "0.7.7",
+        "versions": "0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.9, 0.6.8, 0.6.7, 0.6.6, 0.6.4, 0.6.3, 0.6.1, 0.6.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.2.9, 0.2.8, 0.2.7, 0.2.5, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.8, 0.1.5, 0.1.4, 0.1.3, 0.1.2",
         "author": "@hpsaturn, CanAirIO project <info@canair.io>",
         "maintainer": "Antonio Vanegas <hpsaturn@gmail.com>",
         "website": "https://github.com/kike-canaries/canairio_sensorlib",
@@ -51320,7 +51320,10 @@
             "Adafruit BME680 Library",
             "S8_UART",
             "Sensirion I2C SCD4x",
-            "DFRobot_MultiGasSensor"
+            "Sensirion Gas Index Algorithm",
+            "DFRobot_MultiGasSensor",
+            "NoiseSensor",
+            "NoiseSensorI2CSlave"
         ]
     },
     {
@@ -118805,8 +118808,8 @@
     },
     {
         "name": "AutomationTimers",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.1",
         "author": "C. M. Bulliner",
         "maintainer": "C. M. Bulliner <chrisbulliner@gmail.com>",
         "website": "https://github.com/CMB27/AutomationTimers",
@@ -126995,13 +126998,13 @@
     },
     {
         "name": "Universal_Button",
-        "version": "1.7.0",
-        "versions": "1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/LittleManBuilds/Universal_Button",
         "category": "Signal Input/Output",
-        "architectures": "avr, megaavr, sam, samd, esp32, esp8266, stm32, teensy, rp2040",
+        "architectures": "avr, megaavr, samd, esp32, esp8266, stm32, teensy, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/littlemanbuilds/Universal_Button.git",
         "dependencies": [
@@ -144883,8 +144886,8 @@
     },
     {
         "name": "SwitchBank",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/LittleManBuilds/SwitchBank",
@@ -150111,8 +150114,8 @@
     },
     {
         "name": "ESP32KeyBridge",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/ESP32KeyBridge",
@@ -150504,8 +150507,8 @@
     },
     {
         "name": "Waveshare_TFT_Touch",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/Waveshare_TFT_Touch_Arduino",
