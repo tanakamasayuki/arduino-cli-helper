@@ -125667,7 +125667,7 @@
 },
   "lang-ship:host:display": {
     "name": "Host Display",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "config_options": [
         {
             "option": "m5gfx_board",
@@ -125807,7 +125807,7 @@
 },
   "lang-ship:host:host": {
     "name": "Host",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "config_options": [
         {
             "option": "mode",
@@ -138282,13 +138282,13 @@
             "option_label": "Flash Size",
             "values": [
                 {
-                    "value": "4M",
-                    "value_label": "4MB (32Mb)",
+                    "value": "8M",
+                    "value_label": "8MB (64Mb)",
                     "selected": true
                 },
                 {
-                    "value": "8M",
-                    "value_label": "8MB (64Mb)"
+                    "value": "4M",
+                    "value_label": "4MB (32Mb)"
                 },
                 {
                     "value": "2M",
@@ -138305,17 +138305,17 @@
             "option_label": "Partition Scheme",
             "values": [
                 {
-                    "value": "default",
-                    "value_label": "Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)",
+                    "value": "default_8MB",
+                    "value_label": "8M with spiffs (3MB APP/1.5MB SPIFFS)",
                     "selected": true
+                },
+                {
+                    "value": "default",
+                    "value_label": "Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)"
                 },
                 {
                     "value": "defaultffat",
                     "value_label": "Default 4MB with ffat (1.2MB APP/1.5MB FATFS)"
-                },
-                {
-                    "value": "default_8MB",
-                    "value_label": "8M with spiffs (3MB APP/1.5MB SPIFFS)"
                 },
                 {
                     "value": "minimal",
@@ -138435,13 +138435,13 @@
             "option_label": "PSRAM",
             "values": [
                 {
-                    "value": "disabled",
-                    "value_label": "Disabled",
+                    "value": "enabled",
+                    "value_label": "Enabled",
                     "selected": true
                 },
                 {
-                    "value": "enabled",
-                    "value_label": "Enabled"
+                    "value": "disabled",
+                    "value_label": "Disabled"
                 }
             ]
         },
