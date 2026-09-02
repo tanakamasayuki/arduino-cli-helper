@@ -138755,8 +138755,8 @@
     },
     {
         "name": "eva-core-sk",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-core-sk",
@@ -140534,8 +140534,8 @@
     },
     {
         "name": "ESP32_Multitasking_Network_Suite",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
