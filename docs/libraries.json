@@ -117072,8 +117072,8 @@
     },
     {
         "name": "ME310G1",
-        "version": "0.1.17",
-        "versions": "0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "0.1.18",
+        "versions": "0.1.18, 0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "CodeZoo",
         "maintainer": "Rooney <rooney.jang@codezoo.co.kr>",
         "website": "https://github.com/codezoo-ltd/arduino-ME310G1-library",
@@ -122175,8 +122175,8 @@
     },
     {
         "name": "SBK_BarDrive",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.5, 2.0.4, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.5, 2.0.4, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Samuel Barabé <smartbuildskits@gmail.com>",
         "maintainer": "Samuel Barabé <smartbuildskits@gmail.com>",
         "website": "https://github.com/sbarabe/SBK_BarDrive",
@@ -128344,8 +128344,8 @@
     },
     {
         "name": "VLCB",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.2.0, 2.1.0, 2.0.0, 1.1.0, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.1, 3.0.0, 2.2.0, 2.1.0, 2.0.0, 1.1.0, 1.0.0",
         "author": "Sven Rosvall <sven@rosvall.ie>",
         "maintainer": "Sven Rosvall <sven@rosvall.ie>",
         "website": "https://github.com/SvenRosvall/VLCB-Arduino",
@@ -146638,8 +146638,8 @@
     },
     {
         "name": "OzkLed",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.0",
         "author": "Hamza Ozkan",
         "maintainer": "Hamza Özkan <info@hamzaozkan.com.tr>",
         "website": "https://github.com/hmz06967/ozkled",
@@ -151190,8 +151190,8 @@
     },
     {
         "name": "cyfney-cpp",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.0",
         "author": "anka",
         "maintainer": "anka",
         "website": "https://github.com/cyfney/cyfney-cpp-arduino",
@@ -151681,6 +151681,21 @@
         "architectures": "mbed, mbed_portenta, mbed_giga, mbed_nano, renesas_uno, samd, rp2040, esp32",
         "types": "Contributed",
         "repository": "https://github.com/pbosetti/ArduinoDriver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Biovo1020A",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nahom Yirga",
+        "maintainer": "Nahom Yirga <nahomyirga787@gmail.com>",
+        "website": "https://github.com/nahomyirga787-spec/Biovo1020A",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nahomyirga787-spec/Biovo1020A.git",
         "dependencies": [
             ""
         ]
