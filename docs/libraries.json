@@ -118387,8 +118387,8 @@
     },
     {
         "name": "TMC51X0",
-        "version": "4.0.3",
-        "versions": "4.0.3, 4.0.1, 4.0.0, 3.0.0, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.1, 2.0.0, 1.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.3, 4.0.1, 4.0.0, 3.0.0, 2.4.1, 2.4.0, 2.3.0, 2.2.1, 2.2.0, 2.1.1, 2.0.0, 1.0.0",
         "author": "Peter Polidoro <peter@polidoro.io>",
         "maintainer": "Peter Polidoro <peter@polidoro.io>",
         "website": "https://github.com/janelia-arduino/TMC51X0",
@@ -124615,8 +124615,8 @@
     },
     {
         "name": "SensorCurrent",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 2.1.0, 2.0.0",
         "author": "Nicolas Fourgheon <boby15000@hotmail.com>",
         "maintainer": "Nicolas Fourgheon <boby15000@hotmail.com>",
         "website": "https://github.com/boby15000/SensorCurrent",
@@ -148440,8 +148440,8 @@
     },
     {
         "name": "NessoLink",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.1.2, 1.1.1, 1.1.0",
         "author": "Ugur Sayar <ugursayar@gmail.com>",
         "maintainer": "Ugur Sayar <ugursayar@gmail.com>",
         "website": "https://github.com/ugursayar/NessoLink",
@@ -151289,8 +151289,8 @@
     },
     {
         "name": "Roberto MPU6050",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.0",
         "author": "Roberto",
         "maintainer": "Roberto <roberto@pucheta.dev>",
         "website": "https://github.com/pucheta/Roberto_MPU6050",
@@ -151610,6 +151610,36 @@
         "repository": "https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library.git",
         "dependencies": [
             "SparkFun Toolkit"
+        ]
+    },
+    {
+        "name": "YostLabs 3-Space Sensors",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Yost Labs <techsupport@yostlabs.com>",
+        "maintainer": "Andy Riedlinger <andy@yostlabs.com>",
+        "website": "https://github.com/YostLabs/3Space-Arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/YostLabs/3Space-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DAC8568",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Sukanta Das <das.sukanta2praha@gmail.com>",
+        "maintainer": "Sukanta Das <das.sukanta2praha@gmail.com>",
+        "website": "https://github.com/sukanta0011/DAC8568",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sukanta0011/DAC8568.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
