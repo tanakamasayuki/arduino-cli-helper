@@ -84550,8 +84550,8 @@
     },
     {
         "name": "Simple-SolarTracker-Arduino",
-        "version": "0.7.1",
-        "versions": "0.7.1, 0.6.0",
+        "version": "0.7.2",
+        "versions": "0.7.2, 0.7.1, 0.6.0",
         "author": "NachtRaveVL <nachtravevl@gmail.com>",
         "maintainer": "NachtRaveVL <nachtravevl@gmail.com>",
         "website": "https://github.com/NachtRaveVL/Simple-SolarTracker-Arduino",
@@ -84595,8 +84595,8 @@
     },
     {
         "name": "Simple-Hydroponics-Arduino",
-        "version": "0.7.1",
-        "versions": "0.7.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0",
+        "version": "0.7.2",
+        "versions": "0.7.2, 0.7.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0",
         "author": "NachtRaveVL <nachtravevl@gmail.com>",
         "maintainer": "NachtRaveVL <nachtravevl@gmail.com>",
         "website": "https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino",
@@ -117072,8 +117072,8 @@
     },
     {
         "name": "ME310G1",
-        "version": "0.1.16",
-        "versions": "0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "0.1.17",
+        "versions": "0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "CodeZoo",
         "maintainer": "Rooney <rooney.jang@codezoo.co.kr>",
         "website": "https://github.com/codezoo-ltd/arduino-ME310G1-library",
@@ -138755,8 +138755,8 @@
     },
     {
         "name": "eva-core-sk",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-core-sk",
@@ -150727,8 +150727,8 @@
     },
     {
         "name": "Simple-Homestead-Arduino",
-        "version": "0.7.1",
-        "versions": "0.7.1",
+        "version": "0.7.2",
+        "versions": "0.7.2, 0.7.1",
         "author": "NachtRaveVL <nachtravevl@gmail.com>",
         "maintainer": "NachtRaveVL <nachtravevl@gmail.com>",
         "website": "https://github.com/NachtRaveVL/Simple-Homestead-Arduino",
@@ -150737,9 +150737,37 @@
         "types": "Contributed",
         "repository": "https://github.com/NachtRaveVL/Simple-Homestead-Arduino.git",
         "dependencies": [
+            "Adafruit BusIO",
+            "Adafruit FT6206 Library",
+            "Adafruit GFX Library",
+            "Adafruit GPS Library",
+            "Adafruit ILI9341",
+            "Adafruit ST7735 and ST7789 Library",
+            "Adafruit TouchScreen",
+            "Adafruit Unified Sensor",
+            "ArduinoJson",
+            "ArxContainer",
+            "ArxSmartPtr",
+            "DHT sensor library",
+            "I2C_EEPROM",
             "IoAbstraction",
+            "LiquidCrystalIO",
+            "MQTT",
+            "OneWire",
+            "RTClib",
+            "SimpleCollections",
+            "SD",
+            "SolarCalculator",
             "TaskManagerIO",
-            "tcMenu"
+            "tcUnicodeHelper",
+            "tcMenu",
+            "TFT_eSPI",
+            "Time",
+            "U8g2",
+            "WiFiEspAT",
+            "WiFiNINA_Generic",
+            "WiFi101",
+            "XPT2046_Touchscreen"
         ]
     },
     {
@@ -151638,6 +151666,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sukanta0011/DAC8568.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UsbIo",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Paolo Bosetti",
+        "maintainer": "Paolo Bosetti <paolo.bosetti@me.com>",
+        "website": "https://github.com/pbosetti/ArduinoDriver",
+        "category": "Communication",
+        "architectures": "mbed, mbed_portenta, mbed_giga, mbed_nano, renesas_uno, samd, rp2040, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/pbosetti/ArduinoDriver.git",
         "dependencies": [
             ""
         ]
