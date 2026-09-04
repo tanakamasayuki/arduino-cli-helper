@@ -45927,8 +45927,8 @@
     },
     {
         "name": "HX711",
-        "version": "0.6.4",
-        "versions": "0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.6.5",
+        "versions": "0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HX711",
@@ -94939,8 +94939,8 @@
     },
     {
         "name": "STM32duino X-NUCLEO-IKS4A1",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/X-NUCLEO-IKS4A1",
@@ -151534,8 +151534,8 @@
     },
     {
         "name": "Poom",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Poom",
         "maintainer": "Michelle Mendez <jupiter@stellar-iot.com>",
         "website": "https://github.com/The-POOM/poom-arduino",
@@ -151673,8 +151673,8 @@
     },
     {
         "name": "UsbIo",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Paolo Bosetti",
         "maintainer": "Paolo Bosetti <paolo.bosetti@me.com>",
         "website": "https://github.com/pbosetti/ArduinoDriver",
@@ -151713,6 +151713,25 @@
         "types": "Contributed",
         "repository": "https://github.com/Microeden/MicroedenConnect.git",
         "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "MyDot",
+        "version": "1.0.4",
+        "versions": "1.0.4",
+        "author": "Microeden",
+        "maintainer": "Microeden <info@microeden.io>",
+        "website": "https://github.com/Microeden/MyDotLib",
+        "category": "Communication",
+        "architectures": "esp32, samd, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/Microeden/MyDotLib.git",
+        "dependencies": [
+            "Adafruit NeoPixel",
+            "Adafruit SSD1306",
+            "Adafruit BME680 Library",
             "PubSubClient",
             "ArduinoJson"
         ]
