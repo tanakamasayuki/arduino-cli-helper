@@ -151700,5 +151700,21 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "MicroedenConnect",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Microeden",
+        "maintainer": "Microeden <info@microeden.io>",
+        "website": "https://github.com/Microeden/MicroedenConnect",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Microeden/MicroedenConnect.git",
+        "dependencies": [
+            "PubSubClient",
+            "ArduinoJson"
+        ]
     }
 ]
