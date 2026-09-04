@@ -49,8 +49,9 @@ php run.php
 - `<safe-fqbn>` はファイル名として安全な形に変換しています（英数字・`._-` 以外は `_` に置換）。
 
 ## すべての details の集約出力
-- 取得したすべての FQBN についての details から、`name` と `config_options` のみを抽出し、
-  `fqbn` をキーにしたマップを生成します。
+- 取得したすべての FQBN についての details から、`name` / `version` / `config_options` /
+  `package_url` / `usb_ids` を抽出し、`fqbn` をキーにしたマップを生成します。
+  （`package_url` と `usb_ids` は値がある場合のみ出力します）
 - 保存先（常に上書き）
   - 整形済み: `storage/formatted/board_details.json`
 - 標準出力: 上記の集約JSONを出力します。
@@ -62,7 +63,8 @@ php run.php
     "name": "Arduino Uno",
     "config_options": [
       { "option": "Clock", "values": [ {"value": "16MHz", "is_default": true} ] }
-    ]
+    ],
+    "usb_ids": [ { "vid": "0x2341", "pid": "0x0043" } ]
   },
   "arduino:avr:pro": {
     "name": "Arduino Pro or Pro Mini",
@@ -71,6 +73,14 @@ php run.php
 }
 ```
 
+### `usb_ids`（USB VID/PID）
+- `board details` の `identification_properties` から USB の VID/PID の組を抽出したものです。
+- USB で識別できないボードには `identification_properties` 自体が無いため、その場合 `usb_ids` キーは出力されません。
+- `identification_properties` には `{"board": "uno"}` のような非USB識別子も混在しますが、これは除外します。
+- 値は `0x` + 大文字4桁（例: `0x303A`）に正規化し、重複する組は除去します。
+- 一部のコアは boards.txt の記述ミス（`upload_port.vid.0=` / 正しくは `upload_port.0.vid=`）により
+  プロパティ名が `vid.0` / `pid.0` になりますが、これも拾うようにしています。
+
 ## HTMLビューア（検索/フィルタ）
 - ファイル: `web/index.html`
 - 内容: `storage/formatted/board_details.json` を読み込み、`fqbn` と `name` の一覧を表示。
@@ -78,6 +88,9 @@ php run.php
   - リスト項目をクリックすると検索欄にその `fqbn` が入力されます。
   - 検索欄の文字列が `fqbn` に完全一致した場合、一覧はその1件のみ表示され、
     直下に `config_options` をラジオボタンで選択できるUIが表示されます（該当が無い場合は非表示）。
+  - `usb_ids` を持つボードは一覧に `USB 0x2341:0x0043` の行が表示され、
+    検索欄に VID/PID を入れて絞り込めます（`0x2341` / `2341` / `2341:0043` / `0x2341:0x0043` などを受け付けます）。
+    完全一致で1件表示にしたときは、`Package URL` の下に `USB VID/PID:` 行が表示されます。
 
 ### 表示方法
 1) まずデータ生成: `php run.php`

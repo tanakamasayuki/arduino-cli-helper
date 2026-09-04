@@ -187,6 +187,43 @@ $normalizePackageUrl = function ($url, $fqbn) {
     }
     return '';
 };
+
+// Extract USB VID/PID pairs from `board details` identification_properties.
+// Notes on the source data:
+//  - Boards without USB identification have no identification_properties at all.
+//  - The same array also carries non-USB identifiers such as {"board": "uno"}; skipped here.
+//  - A few cores mistype boards.txt (e.g. `upload_port.vid.0=` instead of `upload_port.0.vid=`),
+//    which surfaces as property keys "vid.0"/"pid.0"; those are accepted too.
+$extractUsbIds = function ($node) {
+    $out = array();
+    $seen = array();
+    if (!is_array($node) || !isset($node['identification_properties']) || !is_array($node['identification_properties'])) {
+        return $out;
+    }
+    $normId = function ($s) {
+        if (!is_string($s)) return null;
+        $t = preg_replace('/^0X/', '', strtoupper(trim($s)));
+        if ($t === null || !preg_match('/^[0-9A-F]{1,4}$/', $t)) return null;
+        return '0x' . str_pad($t, 4, '0', STR_PAD_LEFT);
+    };
+    foreach ($node['identification_properties'] as $ent) {
+        if (!is_array($ent) || !isset($ent['properties']) || !is_array($ent['properties'])) continue;
+        $vid = null;
+        $pid = null;
+        foreach ($ent['properties'] as $k => $v) {
+            $lk = strtolower((string)$k);
+            if ($vid === null && preg_match('/^vid(\.\d+)?$/', $lk)) $vid = $normId($v);
+            if ($pid === null && preg_match('/^pid(\.\d+)?$/', $lk)) $pid = $normId($v);
+        }
+        if ($vid === null || $pid === null) continue;
+        $key = $vid . ':' . $pid;
+        if (isset($seen[$key])) continue;
+        $seen[$key] = true;
+        $out[] = array('vid' => $vid, 'pid' => $pid);
+    }
+    return $out;
+};
+
 foreach ($fqbnList as $fqbn) {
     $fqbnArg = $fqbn;
     $cmdParts2 = array_map(function($p) { return escapeshellarg($p); }, array_merge(array($arduinoCli), $detailsArgsBase, array($fqbnArg)));
@@ -237,6 +274,7 @@ $proc2 = proc_open($cmd2, $descriptorSpecDetails, $pipes2, $baseDir);
         $versionVal = null;
         $configOptions = array();
         $packageUrl = null;
+        $usbIds = array();
         if (is_array($decoded2)) {
             if (array_key_exists('name', $decoded2) && is_string($decoded2['name'])) {
                 $nameVal = $decoded2['name'];
@@ -252,8 +290,9 @@ $proc2 = proc_open($cmd2, $descriptorSpecDetails, $pipes2, $baseDir);
             } else {
                 $packageUrl = $normalizePackageUrl($extractPackageUrl($decoded2), $fqbn);
             }
+            $usbIds = $extractUsbIds($decoded2);
         }
-        // Build compact entry. Only include package_url when a valid URL exists.
+        // Build compact entry. Only include package_url / usb_ids when present.
         $entry = array(
             'name' => $nameVal,
             'version' => $versionVal,
@@ -261,6 +300,9 @@ $proc2 = proc_open($cmd2, $descriptorSpecDetails, $pipes2, $baseDir);
         );
         if (is_string($packageUrl) && $packageUrl !== '') {
             $entry['package_url'] = $packageUrl;
+        }
+        if (is_array($usbIds) && count($usbIds) > 0) {
+            $entry['usb_ids'] = $usbIds;
         }
         $keyJson = json_encode($fqbn);
         $entryJson = json_encode($entry, $jsonFlags);

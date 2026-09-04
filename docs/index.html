@@ -17,6 +17,7 @@
     li { padding: 8px 10px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 8px; }
     .name { font-weight: 600; }
     .fqbn { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; opacity: .9; }
+    .usb { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; opacity: .7; font-size: .88rem; }
     .empty { opacity: .7; font-style: italic; }
     .error { color: #b00020; }
   </style>
@@ -26,7 +27,7 @@
   <h1>Arduino CLI Boards Selector</h1>
   <p><a href="sourcebackup.html">Open Source Backup ZIP Extractor</a></p>
   <div class="controls">
-    <input id="q" class="textbox" type="search" placeholder="Filter (name or FQBN)" autocomplete="off" />
+    <input id="q" class="textbox" type="search" placeholder="Filter (name, FQBN or USB VID/PID)" autocomplete="off" />
     <div id="status">Loading...</div>
   </div>
   <ul id="list" aria-live="polite"></ul>
@@ -42,14 +43,49 @@
       const status = document.getElementById('status');
       const list = document.getElementById('list');
 
-      /** @type {{fqbn:string,name:string,search:string,el:HTMLLIElement}[]} */
+      /** @type {{fqbn:string,name:string,search:string,usb:string,el:HTMLLIElement}[]} */
       let items = [];
-      /** @type {Record<string, {name?:string, version?:string, config_options?: any[], package_url?: string}>} */
+      /** @type {Record<string, {name?:string, version?:string, config_options?: any[], package_url?: string, usb_ids?: {vid:string,pid:string}[]}>} */
       let dataMap = {};
       /** @type {Array<any>|null} */
       let libsCache = null;
       /** @type {Map<string,string|true>} */
       const selectedLibs = new Map();
+
+      /** usb_ids of a board entry, defensively filtered. */
+      function usbIdsOf(detail) {
+        const ids = (detail && Array.isArray(detail.usb_ids)) ? detail.usb_ids : [];
+        return ids.filter(x => x && typeof x.vid === 'string' && typeof x.pid === 'string');
+      }
+      /** "0x2341:0x0070, 0x2341:0x0370" */
+      function usbIdsText(ids) {
+        return ids.map(x => `${x.vid}:${x.pid}`).join(', ');
+      }
+      /** Haystack for VID/PID search: keeps both "0x2341:0x0070" and "2341:0070" forms. */
+      function usbSearchText(ids) {
+        return ids.map(x => {
+          const v = x.vid.toLowerCase(), p = x.pid.toLowerCase();
+          return `${v}:${p} ${v.replace(/^0x/, '')}:${p.replace(/^0x/, '')}`;
+        }).join(' ');
+      }
+      /**
+       * Recognize VID/PID-looking queries ("0x2341", "2341", "2341:0070", "0x2341:0x70").
+       * Returns the needles to test against usbSearchText, or null when the query is not one.
+       */
+      function usbQueryNeedles(raw) {
+        const t = raw.trim().toLowerCase().replace(/\s+/g, '');
+        const pair = /^(0x)?[0-9a-f]{1,4}[:,\/-](0x)?[0-9a-f]{1,4}$/;
+        const single = /^(0x[0-9a-f]{1,4}|[0-9a-f]{4})$/;
+        if (pair.test(t)) {
+          const parts = t.split(/[:,\/-]/).map(v => v.replace(/^0x/, '').padStart(4, '0'));
+          return [parts.join(':'), parts.map(v => '0x' + v).join(':')];
+        }
+        if (single.test(t)) {
+          const bare = t.replace(/^0x/, '');
+          return [bare, '0x' + bare];
+        }
+        return null;
+      }
 
       function setStatus(text, isError=false) {
         status.textContent = text;
@@ -61,10 +97,11 @@
         const entries = Object.entries(dataMap).map(([fqbn, v]) => ({
           fqbn,
           name: (v && typeof v.name === 'string') ? v.name : '',
+          usbIds: usbIdsOf(v),
         }));
         entries.sort((a, b) => a.name.localeCompare(b.name, 'en'));
         list.innerHTML = '';
-        items = entries.map(({fqbn, name}) => {
+        items = entries.map(({fqbn, name, usbIds}) => {
           const li = document.createElement('li');
           const nameEl = document.createElement('div');
           nameEl.className = 'name';
@@ -74,12 +111,18 @@
           fqbnEl.textContent = fqbn;
           li.appendChild(nameEl);
           li.appendChild(fqbnEl);
+          if (usbIds.length) {
+            const usbEl = document.createElement('div');
+            usbEl.className = 'usb';
+            usbEl.textContent = 'USB ' + usbIdsText(usbIds);
+            li.appendChild(usbEl);
+          }
           li.addEventListener('click', () => {
             q.value = fqbn;
             applyFilter();
           });
           list.appendChild(li);
-          return { fqbn, name, search: (fqbn + ' ' + name).toLowerCase(), el: li };
+          return { fqbn, name, search: (fqbn + ' ' + name).toLowerCase(), usb: usbSearchText(usbIds), el: li };
         });
 
         
@@ -106,9 +149,11 @@
           setStatus(`${visible} item(s) (exact match)`);
           renderConfig(exact, dataMap[exact] || null);
         } else {
+          const usbNeedles = usbQueryNeedles(rawNeedle);
           let visible = 0;
           items.forEach(it => {
-            const match = it.search.includes(needle);
+            const match = it.search.includes(needle)
+              || (usbNeedles !== null && it.usb !== '' && usbNeedles.some(n => it.usb.includes(n)));
             it.el.style.display = match ? '' : 'none';
             if (match) visible++;
           });
@@ -136,6 +181,16 @@
           p.style.margin = '4px 0 8px';
           p.textContent = 'Package URL: ' + pkgUrl;
           root.appendChild(p);
+        }
+
+        // USB VID/PID (from identification_properties; absent for boards without USB IDs)
+        const usbIds = usbIdsOf(detail);
+        if (usbIds.length) {
+          const u = document.createElement('div');
+          u.className = 'usb';
+          u.style.margin = '4px 0 8px';
+          u.textContent = 'USB VID/PID: ' + usbIdsText(usbIds);
+          root.appendChild(u);
         }
 
         // Summary shown just before options (below package URL)
