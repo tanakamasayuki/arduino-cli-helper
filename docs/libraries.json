@@ -151735,5 +151735,35 @@
             "PubSubClient",
             "ArduinoJson"
         ]
+    },
+    {
+        "name": "SNMP_Embedded",
+        "version": "3.3.3",
+        "versions": "3.3.3",
+        "author": "syntax <yard_botch.6g@icloud.com>",
+        "maintainer": "syntax <yard_botch.6g@icloud.com>",
+        "website": "https://github.com/syntax1269/SNMP_Embedded",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/syntax1269/SNMP_Embedded.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RingBufferStream",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "atesin <atesin@gmail.com>",
+        "maintainer": "atesin <atesin@gmail.com>",
+        "website": "https://gitlab.com/atesin/ringbufferstream",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://gitlab.com/atesin/ringbufferstream.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
