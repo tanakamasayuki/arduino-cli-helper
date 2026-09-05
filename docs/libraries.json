@@ -151753,8 +151753,8 @@
     },
     {
         "name": "RingBufferStream",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "atesin <atesin@gmail.com>",
         "maintainer": "atesin <atesin@gmail.com>",
         "website": "https://gitlab.com/atesin/ringbufferstream",
@@ -151829,6 +151829,21 @@
         "repository": "https://github.com/MADS-NET/arduino_mads.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "TM1637_6Easy",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sergey Nikolaevich <gray_wolf19@mail.ru>",
+        "maintainer": "Sergey Nikolaevich <gray_wolf19@mail.ru>",
+        "website": "https://github.com/klenov1900-lang/TM1637_6Easy",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/klenov1900-lang/TM1637_6Easy.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
