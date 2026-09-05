@@ -151273,8 +151273,8 @@
     },
     {
         "name": "DevLabDDP",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "UNIT Electronics",
         "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library",
