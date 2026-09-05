@@ -151765,5 +151765,55 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "CiftPulsarOTA",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Bilgin Demir CAN (bcan77)",
+        "maintainer": "bilginikinci@gmail.com",
+        "website": "https://github.com/bcan77/CiftPulsar-OTA",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/bcan77/CiftPulsar-OTA.git",
+        "dependencies": [
+            "WiFi",
+            "WebServer",
+            "Update",
+            "Preferences",
+            "ESPmDNS"
+        ]
+    },
+    {
+        "name": "LagariMotors",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "LAGARI A <lagariscience@gmail.com>",
+        "maintainer": "LAGARI A <lagariscience@gmail.com>",
+        "website": "https://github.com/ailagari/LagariMotors",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/ailagari/LagariMotors.git",
+        "dependencies": [
+            "CONTROLLINO",
+            "Ethernet"
+        ]
+    },
+    {
+        "name": "AS7331UVSensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "matt",
+        "maintainer": "mumanchu <info@muman.ch>",
+        "website": "https://github.com/mumanchu/AS7331UVSensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/AS7331UVSensor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
