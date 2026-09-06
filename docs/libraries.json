@@ -151720,8 +151720,8 @@
     },
     {
         "name": "MyDot",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Microeden",
         "maintainer": "Microeden <info@microeden.io>",
         "website": "https://github.com/Microeden/MyDotLib",
@@ -151832,8 +151832,8 @@
     },
     {
         "name": "TM1637_6Easy",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.0",
         "author": "Sergey Nikolaevich <gray_wolf19@mail.ru>",
         "maintainer": "Sergey Nikolaevich <gray_wolf19@mail.ru>",
         "website": "https://github.com/klenov1900-lang/TM1637_6Easy",
@@ -151931,6 +151931,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SevenSegCountdown",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Firos Sha Muhammad <fsbotztg@gmail.com>",
+        "maintainer": "Firos Sha Muhammad <fsbotztg@gmail.com>",
+        "website": "https://github.com/FsBotzTg/SevenSegCountdown",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/FsBotzTg/SevenSegCountdown.git",
         "dependencies": [
             ""
         ]
