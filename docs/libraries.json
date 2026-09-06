@@ -109577,8 +109577,8 @@
     },
     {
         "name": "deploii",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.0",
         "author": "Company of Things",
         "maintainer": "Company of Things <post@cot.as>",
         "website": "https://github.com/Company-of-Things/deploii-library",
@@ -109590,7 +109590,8 @@
             "WebSockets",
             "MsgPack",
             "WiFi",
-            "WiFiNINA"
+            "WiFiNINA",
+            "ArduinoBLE"
         ]
     },
     {
@@ -116109,8 +116110,8 @@
     },
     {
         "name": "libdivide",
-        "version": "5.3.0",
-        "versions": "5.3.0, 5.2.0",
+        "version": "5.4.0",
+        "versions": "5.4.0, 5.3.0, 5.2.0",
         "author": "ridiculousfish",
         "maintainer": "ridiculousfish",
         "website": "https://github.com/ridiculousfish/libdivide",
@@ -151018,11 +151019,11 @@
     },
     {
         "name": "GroveI2CStepper",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "EBM",
         "maintainer": "EBM",
-        "website": "https://wiki.seeedstudio.com/Grove-Mini_I2C_Motor_Driver_v1.0/",
+        "website": "https://github.com/ebm9991/GroveI2CStepper",
         "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
@@ -151703,8 +151704,8 @@
     },
     {
         "name": "MicroedenConnect",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Microeden",
         "maintainer": "Microeden <info@microeden.io>",
         "website": "https://github.com/Microeden/MicroedenConnect",
@@ -151768,8 +151769,8 @@
     },
     {
         "name": "CiftPulsarOTA",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0",
         "author": "Bilgin Demir CAN (bcan77)",
         "maintainer": "bilginikinci@gmail.com",
         "website": "https://github.com/bcan77/CiftPulsar-OTA",
@@ -151778,11 +151779,7 @@
         "types": "Contributed",
         "repository": "https://github.com/bcan77/CiftPulsar-OTA.git",
         "dependencies": [
-            "WiFi",
-            "WebServer",
-            "Update",
-            "Preferences",
-            "ESPmDNS"
+            ""
         ]
     },
     {
@@ -151902,6 +151899,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ktauchathuranga/CC1101_AnalogFM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MaSzyna Hardware Protocol v2",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MaSzyna community",
+        "maintainer": "MaSzyna community",
+        "website": "https://github.com/MaSzyna-EU07/maszyna",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MaSzyna-EU07/mhp_arduino_library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MKE_I2C_Loadcell",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MakerEdu.vn",
+        "maintainer": "MakerEdu.vn",
+        "website": "https://github.com/makereduvn/MKE-S18-HX711-I2C-LOADCELL-SENSOR",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib.git",
         "dependencies": [
             ""
         ]
