@@ -151720,8 +151720,8 @@
     },
     {
         "name": "MyDot",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4",
         "author": "Microeden",
         "maintainer": "Microeden <info@microeden.io>",
         "website": "https://github.com/Microeden/MyDotLib",
@@ -151862,8 +151862,8 @@
     },
     {
         "name": "Pulsync",
-        "version": "0.2.6",
-        "versions": "0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.2.7",
+        "versions": "0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Vineeth Rai K <vineethraik@gmail.com>",
         "maintainer": "Vineeth Rai K <vineethraik@gmail.com>",
         "website": "https://github.com/pulsync/pulsync-arduino",
