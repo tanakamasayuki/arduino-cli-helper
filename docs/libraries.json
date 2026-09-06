@@ -55551,13 +55551,13 @@
     },
     {
         "name": "SNMP Manager",
-        "version": "1.1.13",
-        "versions": "1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0",
         "author": "Martin Rowan <martin@martinrowan.co.uk>",
         "maintainer": "Martin Rowan <martin@martinrowan.co.uk>",
         "website": "https://github.com/shortbloke/Arduino_SNMP_Manager",
         "category": "Communication",
-        "architectures": "*",
+        "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": "https://github.com/shortbloke/Arduino_SNMP_Manager.git",
         "dependencies": [
@@ -151787,8 +151787,8 @@
     },
     {
         "name": "LagariMotors",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "LAGARI A <lagariscience@gmail.com>",
         "maintainer": "LAGARI A <lagariscience@gmail.com>",
         "website": "https://github.com/ailagari/LagariMotors",
@@ -151857,6 +151857,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/flova-platform/flova-firmware.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Pulsync",
+        "version": "0.2.6",
+        "versions": "0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "author": "Vineeth Rai K <vineethraik@gmail.com>",
+        "maintainer": "Vineeth Rai K <vineethraik@gmail.com>",
+        "website": "https://github.com/pulsync/pulsync-arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/pulsync/pulsync-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Candle",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "S. Shahriar <hi@shadowshahriar.dev>",
+        "maintainer": "S. Shahriar <hi@shadowshahriar.dev>",
+        "website": "https://github.com/ShadowShahriar/Candle",
+        "category": "Signal Input/Output",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ShadowShahriar/Candle.git",
         "dependencies": [
             ""
         ]
