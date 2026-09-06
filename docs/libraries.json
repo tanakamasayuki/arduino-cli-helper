@@ -151738,8 +151738,8 @@
     },
     {
         "name": "SNMP_Embedded",
-        "version": "3.3.5",
-        "versions": "3.3.5, 3.3.4, 3.3.3",
+        "version": "3.3.6",
+        "versions": "3.3.6, 3.3.5, 3.3.4, 3.3.3",
         "author": "syntax <yard_botch.6g@icloud.com>",
         "maintainer": "syntax <yard_botch.6g@icloud.com>",
         "website": "https://github.com/syntax1269/SNMP_Embedded",
