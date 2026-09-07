@@ -7282,8 +7282,8 @@
     },
     {
         "name": "I2C-Sensor-Lib iLib",
-        "version": "0.8.2",
-        "versions": "0.8.2",
+        "version": "0.8.5",
+        "versions": "0.8.5, 0.8.2",
         "author": "Ingmar Splitt",
         "maintainer": "Ingmar Splitt",
         "website": "https://github.com/orgua/iLib",
