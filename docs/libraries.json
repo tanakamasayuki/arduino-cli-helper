@@ -40602,8 +40602,8 @@
     },
     {
         "name": "OpenLCB_Single_Thread",
-        "version": "0.1.19",
-        "versions": "0.1.19, 0.1.17, 0.1.16, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.0, 0.0.2",
+        "version": "0.1.20",
+        "versions": "0.1.20, 0.1.19, 0.1.17, 0.1.16, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.0, 0.0.2",
         "author": "David Harris, Bob Jacobsen, OpenLCB team",
         "maintainer": "David Harris <drdpharris@gmail.com>",
         "website": "https://github.com/openlcb/OpenLCB_Single_Thread",
@@ -122010,8 +122010,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.3.4",
-        "versions": "1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.3.5",
+        "versions": "1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
@@ -140614,10 +140614,10 @@
     },
     {
         "name": "ASXNanoStream",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
-        "author": "Adriano Severino",
-        "maintainer": "Adriano Severino <adriano.asx@outlook.com>",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Adriano Xavier",
+        "maintainer": "Adriano Xavier <contato@asxsoftware.com.br>",
         "website": "https://github.com/Adriano-Severino/ASXNanoStreamEncoder",
         "category": "Communication",
         "architectures": "*",
@@ -149883,13 +149883,13 @@
     },
     {
         "name": "N-R_ESP32",
-        "version": "1.1.4",
-        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "xXMarifFXx",
         "maintainer": "xXMarifFXx",
         "website": "https://github.com/xXMarifFXx/N-R_ESP32",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, renesas_uno",
         "types": "Contributed",
         "repository": "https://github.com/xXMarifFXx/N-R_ESP32.git",
         "dependencies": [
@@ -151741,8 +151741,8 @@
     },
     {
         "name": "SNMP_Embedded",
-        "version": "3.3.6",
-        "versions": "3.3.6, 3.3.5, 3.3.4, 3.3.3",
+        "version": "3.4.0",
+        "versions": "3.4.0, 3.3.6, 3.3.5, 3.3.4, 3.3.3",
         "author": "syntax <yard_botch.6g@icloud.com>",
         "maintainer": "syntax <yard_botch.6g@icloud.com>",
         "website": "https://github.com/syntax1269/SNMP_Embedded",
@@ -151946,6 +151946,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/FsBotzTg/SevenSegCountdown.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FmtTiny",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "G-IoT <g-iot@mail.ru>",
+        "maintainer": "G-IoT <g-iot@mail.ru>",
+        "website": "https://github.com/240974a/FmtTiny",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/240974a/FmtTiny.git",
         "dependencies": [
             ""
         ]
