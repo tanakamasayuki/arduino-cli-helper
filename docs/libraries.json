@@ -117119,8 +117119,8 @@
     },
     {
         "name": "DAC53001",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/DAC53001.git",
@@ -146699,8 +146699,8 @@
     },
     {
         "name": "LionLogger",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionLogger",
@@ -146730,13 +146730,13 @@
     },
     {
         "name": "LionTask",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionTask",
         "category": "Timing",
-        "architectures": "esp8266, avr",
+        "architectures": "esp8266, esp32, avr",
         "types": "Contributed",
         "repository": "https://github.com/blah188/LionTask.git",
         "dependencies": [
@@ -150691,8 +150691,8 @@
     },
     {
         "name": "IskakINO",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.5",
+        "versions": "1.1.5, 1.1.0, 1.0.0",
         "author": "Iskak Fatoni",
         "maintainer": "Iskak Fatoni",
         "website": "https://github.com/iskakfatoni/IskakINO",
@@ -151720,8 +151720,8 @@
     },
     {
         "name": "MyDot",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Microeden",
         "maintainer": "Microeden <info@microeden.io>",
         "website": "https://github.com/Microeden/MyDotLib",
@@ -151961,6 +151961,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/240974a/FmtTiny.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DIYables_DS18B20",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DIYables.io",
+        "maintainer": "DIYables.io",
+        "website": "https://diyables.io/dp/B0BPFYQT8C",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DIYables/DIYables_DS18B20.git",
         "dependencies": [
             ""
         ]
