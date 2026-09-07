@@ -151742,8 +151742,8 @@
     },
     {
         "name": "SNMP_Embedded",
-        "version": "3.4.0",
-        "versions": "3.4.0, 3.3.6, 3.3.5, 3.3.4, 3.3.3",
+        "version": "3.4.1",
+        "versions": "3.4.1, 3.4.0, 3.3.6, 3.3.5, 3.3.4, 3.3.3",
         "author": "syntax <yard_botch.6g@icloud.com>",
         "maintainer": "syntax <yard_botch.6g@icloud.com>",
         "website": "https://github.com/syntax1269/SNMP_Embedded",
@@ -151977,6 +151977,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/DIYables/DIYables_DS18B20.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SnappyXOShield",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Samar Singh",
+        "maintainer": "Samar Singh",
+        "website": "https://github.com/samar-01/SnappyXOShield",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/samar-01/SnappyXOShield.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MpxCpp17",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Francisco Bischoff <franzbischoff@gmail.com>",
+        "maintainer": "Francisco Bischoff <franzbischoff@gmail.com>",
+        "website": "https://github.com/franzbischoff/mpx-arduino-cpp17",
+        "category": "Data Processing",
+        "architectures": "esp32, renesas_uno, mbed_nano, mbed_portenta, mbed_giga, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/franzbischoff/mpx-arduino-cpp17.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Mpx",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Francisco Bischoff <franzbischoff@gmail.com>",
+        "maintainer": "Francisco Bischoff <franzbischoff@gmail.com>",
+        "website": "https://github.com/franzbischoff/mpx-arduino",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/franzbischoff/mpx-arduino.git",
         "dependencies": [
             ""
         ]
