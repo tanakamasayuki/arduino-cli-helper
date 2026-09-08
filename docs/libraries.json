@@ -75352,8 +75352,8 @@
     },
     {
         "name": "pfodParser",
-        "version": "5.1.5",
-        "versions": "5.1.5, 5.1.4, 5.1.3, 5.1.2, 5.1.1, 5.1.0, 5.0.4, 5.0.3, 4.1.2, 4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
+        "version": "5.1.7",
+        "versions": "5.1.7, 5.1.5, 5.1.4, 5.1.3, 5.1.2, 5.1.1, 5.1.0, 5.0.4, 5.0.3, 4.1.2, 4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
         "author": "Matthew Ford",
         "maintainer": "Matthew Ford",
         "website": "https://github.com/drmpf/pfodParser",
@@ -113819,8 +113819,8 @@
     },
     {
         "name": "MentorBit-BMP280",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Digital Codesign",
         "maintainer": "Digital Codesign",
         "website": "https://github.com/DigitalCodesign/MentorBit-BMP280",
@@ -113834,8 +113834,8 @@
     },
     {
         "name": "MentorBit-DetectorIR",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Digital Codesign",
         "maintainer": "Digital Codesign",
         "website": "https://github.com/DigitalCodesign/MentorBit-DetectorIR",
@@ -114044,8 +114044,8 @@
     },
     {
         "name": "MentorBit-RGB",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Digital Codesign",
         "maintainer": "Digital Codesign",
         "website": "https://github.com/DigitalCodesign/MentorBit-RGB",
@@ -118644,8 +118644,8 @@
     },
     {
         "name": "MentorBit-VL53",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.0, 1.0.0",
         "author": "Digital Codesign",
         "maintainer": "Digital Codesign",
         "website": "https://github.com/DigitalCodesign/MentorBit-VL53",
@@ -152069,6 +152069,36 @@
         "repository": "https://github.com/UNIT-Electronics-MX/unit_rp2_dvi_hstx_library.git",
         "dependencies": [
             "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "ATTinySerial",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "DampflokHD",
+        "maintainer": "DampflokHD",
+        "website": "https://github.com/DampflokHD/ATTinySerial",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/DampflokHD/ATTinySerial.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "tinyolfarve",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Thomas Ascher <thomas.ascher@gmx.at>",
+        "maintainer": "Thomas Ascher <thomas.ascher@gmx.at>",
+        "website": "https://github.com/aschet/tinyolfarve",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/aschet/tinyolfarve.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
