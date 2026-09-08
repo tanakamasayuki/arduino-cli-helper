@@ -82519,8 +82519,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "2.7.9",
-        "versions": "2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
+        "version": "2.8.0",
+        "versions": "2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -107441,8 +107441,8 @@
     },
     {
         "name": "MentorBit-Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
         "author": "Digital Codesign",
         "maintainer": "Digital Codesign",
         "website": "https://github.com/DigitalCodesign/MentorBit-Library",
@@ -124781,8 +124781,8 @@
     },
     {
         "name": "Ardoxy",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "Stefan Mucha stefan.mucha@posteo.de",
         "maintainer": "Stefan Mucha stefan.mucha@posteo.de",
         "website": "https://github.com/muchaste/Ardoxy",
@@ -124791,7 +124791,7 @@
         "types": "Contributed",
         "repository": "https://github.com/muchaste/Ardoxy.git",
         "dependencies": [
-            ""
+            "PID_v1"
         ]
     },
     {
@@ -152073,8 +152073,8 @@
     },
     {
         "name": "ATTinySerial",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "DampflokHD",
         "maintainer": "DampflokHD",
         "website": "https://github.com/DampflokHD/ATTinySerial",
@@ -152097,6 +152097,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/aschet/tinyolfarve.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PWM_Pulse",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.1, 0.3.0",
+        "author": "Jingwei Pan",
+        "maintainer": "Jingwei Pan <jwpan@ion.ac.cn>",
+        "website": "https://github.com/panjingwei1945/PWM_Pulse",
+        "category": "Signal Input/Output",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/panjingwei1945/PWM_Pulse.git",
         "dependencies": [
             ""
         ]
