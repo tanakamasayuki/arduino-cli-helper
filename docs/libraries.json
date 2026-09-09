@@ -151431,8 +151431,8 @@
     },
     {
         "name": "AutoPlex14",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Nyjah",
         "maintainer": "Nyjah",
         "website": "https://github.com/TechTronicsEngineering/AutoPlex14",
@@ -152181,6 +152181,37 @@
             "Adafruit Unified Sensor",
             "Adafruit seesaw Library",
             "SD"
+        ]
+    },
+    {
+        "name": "Adafruit TMF8806",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_TMF8806",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_TMF8806.git",
+        "dependencies": [
+            "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "OLEDAnimator",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "CaptainEXE",
+        "maintainer": "CaptainEXE <itscaptainexe@gmail.com>",
+        "website": "https://github.com/thecaptainexe/OLEDAnimator",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/thecaptainexe/OLEDAnimator.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SSD1306"
         ]
     }
 ]
