@@ -146907,8 +146907,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
