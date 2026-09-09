@@ -152103,8 +152103,8 @@
     },
     {
         "name": "PWM_Pulse",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1, 0.3.0",
         "author": "Jingwei Pan",
         "maintainer": "Jingwei Pan <jwpan@ion.ac.cn>",
         "website": "https://github.com/panjingwei1945/PWM_Pulse",
