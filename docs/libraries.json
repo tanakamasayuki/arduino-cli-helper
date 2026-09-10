@@ -59000,8 +59000,8 @@
     },
     {
         "name": "Picovoice_EN",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.1, 1.1.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.1, 1.1.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -65173,8 +65173,8 @@
     },
     {
         "name": "Picovoice_DE",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -65189,8 +65189,8 @@
     },
     {
         "name": "Picovoice_ES",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -65205,8 +65205,8 @@
     },
     {
         "name": "Picovoice_FR",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -71612,17 +71612,16 @@
     },
     {
         "name": "ConfigStorage",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.1",
         "author": "Tost69",
         "maintainer": "Tost69 <tomst1@gmx.de>",
-        "website": "https://github.com/tost69/ConfigStorage",
+        "website": "https://github.com/Tost69/ConfigStorage",
         "category": "Data Storage",
         "architectures": "esp8266, esp32",
         "types": "Contributed",
         "repository": "https://github.com/Tost69/ConfigStorage.git",
         "dependencies": [
-            "LittleFS_esp32",
             "ArduinoJson"
         ]
     },
@@ -86301,8 +86300,8 @@
     },
     {
         "name": "Picovoice_IT",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -86317,8 +86316,8 @@
     },
     {
         "name": "Picovoice_JA",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -86333,8 +86332,8 @@
     },
     {
         "name": "Picovoice_KO",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -86379,8 +86378,8 @@
     },
     {
         "name": "Picovoice_PT",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -86440,8 +86439,8 @@
     },
     {
         "name": "Picovoice_ZH",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.2.1, 2.2.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134116,8 +134115,8 @@
     },
     {
         "name": "Rhino_DE",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134131,8 +134130,8 @@
     },
     {
         "name": "Rhino_EN",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134146,8 +134145,8 @@
     },
     {
         "name": "Rhino_ES",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134161,8 +134160,8 @@
     },
     {
         "name": "Rhino_FR",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134176,8 +134175,8 @@
     },
     {
         "name": "Rhino_IT",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134191,8 +134190,8 @@
     },
     {
         "name": "Rhino_JA",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134206,8 +134205,8 @@
     },
     {
         "name": "Rhino_KO",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134221,8 +134220,8 @@
     },
     {
         "name": "Rhino_PT",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -134236,8 +134235,8 @@
     },
     {
         "name": "Rhino_ZH",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.1, 4.0.0",
         "author": "Picovoice Inc.",
         "maintainer": "Picovoice Inc. hello@picovoice.ai",
         "website": "https://www.picovoice.ai",
@@ -152212,6 +152211,36 @@
         "dependencies": [
             "Adafruit GFX Library",
             "Adafruit SSD1306"
+        ]
+    },
+    {
+        "name": "AxpertProtocol",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Linus Meinders <linus.w.meinders@gmail.com>",
+        "maintainer": "Linus Meinders <linus.w.meinders@gmail.com>",
+        "website": "https://github.com/Belinus-code/AxpertProtocol",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Belinus-code/AxpertProtocol.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PulseHSM",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "Alex Gabriel Malisa",
+        "maintainer": "Alex Gabriel Malisa <alex.malisa@pulsecoreengineering.com>",
+        "website": "https://github.com/pulsecoreengineering/PulseHSM",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/pulsecoreengineering/pulseHSM.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
