@@ -33037,8 +33037,8 @@
     },
     {
         "name": "PeanutKing Soccer",
-        "version": "4.2.0",
-        "versions": "4.2.0, 4.1.1, 4.1.0, 4.0.6, 4.0.5, 4.0.3, 4.0.1, 3.4.7, 3.4.6, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 2.3.0, 2.2.6, 2.2.5, 2.2.0, 2.1.0, 2.0.1, 1.3.5, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.0.0",
+        "version": "4.2.1",
+        "versions": "4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.6, 4.0.5, 4.0.3, 4.0.1, 3.4.7, 3.4.6, 3.4.0, 3.3.0, 3.2.2, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 2.3.0, 2.2.6, 2.2.5, 2.2.0, 2.1.0, 2.0.1, 1.3.5, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.0.0",
         "author": "PeanutKing Solutions",
         "maintainer": "PeanutKing <info@peanutkingsolution.com>",
         "website": "https://github.com/peanut-king-solution/PeanutKing_Soccer",
@@ -70876,8 +70876,8 @@
     },
     {
         "name": "XboxSeriesXControllerESP32_asukiaaa",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.3",
+        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Asuki Kono",
         "maintainer": "Asuki Kono",
         "website": "https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32",
@@ -81126,8 +81126,8 @@
     },
     {
         "name": "ControllerAsI2c_asukiaaa",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Asuki Kono",
         "maintainer": "Asuki Kono",
         "website": "https://github.com/asukiaaa/arduino-ControllerAsI2c",
@@ -90184,8 +90184,8 @@
     },
     {
         "name": "uNeurai",
-        "version": "0.0.8",
-        "versions": "0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
+        "version": "0.0.11",
+        "versions": "0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.2, 0.0.1",
         "author": "Asimov",
         "maintainer": "Asimov <web@neurai.org>",
         "website": "https://github.com/NeuraiProject/uNeurai",
@@ -152102,8 +152102,8 @@
     },
     {
         "name": "PWM_Pulse",
-        "version": "0.3.5",
-        "versions": "0.3.5, 0.3.3, 0.3.2, 0.3.1, 0.3.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.3.5, 0.3.3, 0.3.2, 0.3.1, 0.3.0",
         "author": "Jingwei Pan",
         "maintainer": "Jingwei Pan <jwpan@ion.ac.cn>",
         "website": "https://github.com/panjingwei1945/PWM_Pulse",
@@ -152239,6 +152239,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/pulsecoreengineering/pulseHSM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CH462x",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "ReP64",
+        "maintainer": "ReP64",
+        "website": "https://github.com/ReP64/CH462x",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ReP64/CH462x.git",
         "dependencies": [
             ""
         ]
