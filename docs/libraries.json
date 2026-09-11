@@ -93577,8 +93577,8 @@
     },
     {
         "name": "GFX4dESP32",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "4D Systems Pty Ltd",
         "maintainer": "4D Systems Pty Ltd <engineering@4dsystems.com.au>",
         "website": "https://github.com/4dsystems/GFX4dESP32",
@@ -152288,6 +152288,66 @@
             "ArduinoJson",
             "WebSockets",
             "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "lightweight-shell",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Chris Solomon",
+        "maintainer": "Chris Solomon <chris.m.solomon@gmail.com>",
+        "website": "https://github.com/cmsolomon/lightweight-shell",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/cmsolomon/lightweight-shell.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "espdlx",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Simone Salerno",
+        "maintainer": "Simone Salerno",
+        "website": "https://github.com/salernosimone/arduino-espdlx",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/salernosimone/arduino-espdlx.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ZanWifiSetup",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ZAN Tech",
+        "maintainer": "ZAN Tech <https://github.com/ZAN-Tech-bd>",
+        "website": "https://github.com/ZAN-Tech-bd/esp-wifi-provisioning",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ZAN-Tech-bd/esp-wifi-provisioning.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "eva-filters",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Andrey Gusev",
+        "maintainer": "Andrey Gusev",
+        "website": "https://github.com/agusevtec/eva-filters",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/agusevtec/eva-filters.git",
+        "dependencies": [
+            "eva-core-sk"
         ]
     }
 ]
