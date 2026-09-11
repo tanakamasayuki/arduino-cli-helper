@@ -152272,5 +152272,22 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "Kelvarune",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Minerva, Inc.",
+        "maintainer": "Minerva, Inc. <info@minervasoft.co.jp>",
+        "website": "https://github.com/minervasoft-inc/Kelvarune",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/minervasoft-inc/Kelvarune.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets",
+            "NimBLE-Arduino"
+        ]
     }
 ]
