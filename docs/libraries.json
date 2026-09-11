@@ -152257,5 +152257,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "TunashaHydrostaticPressureSensor",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Babatunde Adegoke",
+        "maintainer": "Babatunde Adegoke <tunashapcb@gmail.com>",
+        "website": "https://github.com/Tunasha/TunashaHydrostaticPressureSensor",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Tunasha/TunashaHydrostaticPressureSensor.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
