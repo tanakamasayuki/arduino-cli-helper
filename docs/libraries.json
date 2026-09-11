@@ -150676,8 +150676,8 @@
     },
     {
         "name": "LighthouseReckoning",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Fynn Jannis Schulz <fynnsscp009@gmail.com>",
         "maintainer": "Fynn Jannis Schulz <fynnsscp009@gmail.com>",
         "website": "https://github.com/TidalImpact/LighthouseReckoning",
@@ -152230,8 +152230,8 @@
     },
     {
         "name": "PulseHSM",
-        "version": "1.2.0",
-        "versions": "1.2.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0",
         "author": "Alex Gabriel Malisa",
         "maintainer": "Alex Gabriel Malisa <alex.malisa@pulsecoreengineering.com>",
         "website": "https://github.com/pulsecoreengineering/PulseHSM",
@@ -152322,8 +152322,8 @@
     },
     {
         "name": "ZanWifiSetup",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "ZAN Tech",
         "maintainer": "ZAN Tech <https://github.com/ZAN-Tech-bd>",
         "website": "https://github.com/ZAN-Tech-bd/esp-wifi-provisioning",
@@ -152348,6 +152348,22 @@
         "repository": "https://github.com/agusevtec/eva-filters.git",
         "dependencies": [
             "eva-core-sk"
+        ]
+    },
+    {
+        "name": "SyslogSender",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Péter Soós <https://github.com/soosp>",
+        "maintainer": "Péter Soós <https://github.com/soosp>",
+        "website": "https://github.com/soosp/SyslogSender",
+        "category": "Communication",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/SyslogSender.git",
+        "dependencies": [
+            "Host",
+            "Ethernet"
         ]
     }
 ]
