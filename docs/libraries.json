@@ -98755,8 +98755,8 @@
     },
     {
         "name": "ArduRoomba",
-        "version": "4.0.1",
-        "versions": "4.0.1, 4.0.0, 3.0.0, 2.1.0, 2.0.1, 2.0.0, 1.0.0",
+        "version": "4.0.2",
+        "versions": "4.0.2, 4.0.1, 4.0.0, 3.0.0, 2.1.0, 2.0.1, 2.0.0, 1.0.0",
         "author": "Preetham Kyanam <preetham@preetham.org>",
         "maintainer": "Preetham Kyanam <preetham@preetham.org>",
         "website": "https://github.com/pkyanam/ArduRoomba",
@@ -98765,7 +98765,7 @@
         "types": "Contributed",
         "repository": "https://github.com/pkyanam/ArduRoomba.git",
         "dependencies": [
-            ""
+            "ArduinoBLE"
         ]
     },
     {
@@ -148879,8 +148879,8 @@
     },
     {
         "name": "LC29H_GNSS",
-        "version": "0.2.13",
-        "versions": "0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.6, 0.2.5, 0.2.4, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.14",
+        "versions": "0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.6, 0.2.5, 0.2.4, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "LC29H_GNSS Contributors",
         "maintainer": "LC29H_GNSS Contributors <maintainers@users.noreply.github.com>",
         "website": "https://github.com/bnorth12/LC29H_GNSS-Library",
@@ -151756,8 +151756,8 @@
     },
     {
         "name": "RingBufferStream",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "atesin <atesin@gmail.com>",
         "maintainer": "atesin <atesin@gmail.com>",
         "website": "https://gitlab.com/atesin/ringbufferstream",
@@ -151982,13 +151982,13 @@
     },
     {
         "name": "SnappyXOShield",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.1, 0.1.0",
         "author": "Samar Singh",
         "maintainer": "Samar Singh",
-        "website": "https://github.com/samar-01/SnappyXOShield",
+        "website": "https://github.com/snappyxo/SnappyXOShield",
         "category": "Device Control",
-        "architectures": "avr",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/samar-01/SnappyXOShield.git",
         "dependencies": [
