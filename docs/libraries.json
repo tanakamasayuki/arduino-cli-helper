@@ -152411,5 +152411,25 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "esp32-rfid-switch",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "matthias-bs",
+        "maintainer": "matthias-bs",
+        "website": "https://github.com/matthias-bs/esp32-rfid-switch",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/matthias-bs/esp32-rfid-switch.git",
+        "dependencies": [
+            "M5Unit-UHF-RFID",
+            "M5Unified",
+            "esp32-shelly-ble-rpc",
+            "NimBLE-Arduino",
+            "GDTouchKeyboard",
+            "ArduinoJson"
+        ]
     }
 ]
