@@ -128359,8 +128359,8 @@
     },
     {
         "name": "Alteriom PainlessMesh",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.10.0, 1.9.21, 1.9.20, 1.9.19, 1.9.18, 1.9.17, 1.9.16, 1.9.15, 1.9.14, 1.9.13, 1.9.12, 1.9.11, 1.9.10, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
+        "version": "2.0.3",
+        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.10.0, 1.9.21, 1.9.20, 1.9.19, 1.9.18, 1.9.17, 1.9.16, 1.9.15, 1.9.14, 1.9.13, 1.9.12, 1.9.11, 1.9.10, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.15, 1.8.14, 1.8.13, 1.8.12, 1.8.11, 1.8.10, 1.8.9, 1.8.8, 1.8.7, 1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.6.1",
         "author": "Coopdis,Scotty Franzyshen,Edwin van Leeuwen,Germán Martín,Maximilian Schwarz,Doanh Doanh,Alteriom",
         "maintainer": "Alteriom",
         "website": "https://github.com/Alteriom/painlessMesh",
@@ -138581,10 +138581,10 @@
     },
     {
         "name": "Spell_IoT",
-        "version": "1.1.10",
-        "versions": "1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
-        "author": "Karthickraja",
-        "maintainer": "Karthickraja <karthickraja.thepetal@gmail.com>",
+        "version": "1.1.11",
+        "versions": "1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.10",
+        "author": "M.Karthickraja",
+        "maintainer": "M.Karthickraja <karthickraja.thepetal@gmail.com>",
         "website": "https://github.com/Embedded-Petal/Spell_Iot",
         "category": "Communication",
         "architectures": "esp32, esp8266",
@@ -138596,7 +138596,8 @@
             "FastLED",
             "Adafruit BusIO",
             "Adafruit SSD1306",
-            "TM16xx LEDs and Buttons"
+            "TM16xx LEDs and Buttons",
+            "PubSubClient"
         ]
     },
     {
@@ -151847,13 +151848,13 @@
     },
     {
         "name": "FlovaSDK",
-        "version": "0.2.0",
-        "versions": "0.2.0",
+        "version": "0.3.3",
+        "versions": "0.3.3, 0.3.2, 0.3.1, 0.2.0",
         "author": "Flova",
         "maintainer": "Flova",
         "website": "https://github.com/flova-platform/flova-firmware",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/flova-platform/flova-firmware.git",
         "dependencies": [
@@ -151892,8 +151893,8 @@
     },
     {
         "name": "CC1101_AnalogFM",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Ashen Chathuranga",
         "maintainer": "Ashen Chathuranga",
         "website": "https://github.com/ktauchathuranga/cc1101-analogfm",
