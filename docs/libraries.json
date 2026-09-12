@@ -146746,8 +146746,8 @@
     },
     {
         "name": "LionStreams",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionStreams",
@@ -151416,8 +151416,8 @@
     },
     {
         "name": "ESP32WiFiPortal",
-        "version": "2.1.1",
-        "versions": "2.1.1, 1.1.1, 1.1.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 1.1.1, 1.1.0",
         "author": "Tran Nguyen Hien",
         "maintainer": "Tran Nguyen Hien",
         "website": "https://github.com/NguyenHien-8/ESP32WiFiPortal",
