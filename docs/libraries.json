@@ -146908,8 +146908,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -152444,6 +152444,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/klenov1900-lang/PCFKeypad.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DS1682",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/DS1682",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/DS1682.git",
         "dependencies": [
             ""
         ]
