@@ -131206,17 +131206,17 @@
     },
     {
         "name": "MicroBlue",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.0, 1.1.0, 1.0.1",
         "author": "SnappyXO",
-        "maintainer": "SnappyXO",
+        "maintainer": "A+ Mobile Solutions Inc",
         "website": "https://github.com/snappyxo/microblue-arduino",
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/snappyxo/microblue-arduino.git",
         "dependencies": [
-            ""
+            "ArduinoBLE"
         ]
     },
     {
@@ -150791,8 +150791,8 @@
     },
     {
         "name": "AzDeck",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "Azat",
         "maintainer": "Azat <aztechell@gmail.com>",
         "website": "https://github.com/aztechell/azdeck-lib",
@@ -152459,6 +152459,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/DS1682.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BelWattmeter",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Petr B.",
+        "maintainer": "Petr B.",
+        "website": "https://github.com/Zefek/BelWattmeter",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Zefek/BelWattmeter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DS1683",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/DS1683",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/DS1683.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Standard_PLC",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "Raul Braghin <raulbraghin@hotmail.com>",
+        "maintainer": "Raul Braghin <raulbraghin@hotmail.com>",
+        "website": "https://github.com/raulbraghin/Standard_PLC",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/raulbraghin/Standard_PLC.git",
         "dependencies": [
             ""
         ]
