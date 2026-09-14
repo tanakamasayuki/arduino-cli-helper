@@ -140949,8 +140949,8 @@
     },
     {
         "name": "M5Unit-NFC",
-        "version": "0.1.0",
-        "versions": "0.1.0, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-NFC",
@@ -151849,8 +151849,8 @@
     },
     {
         "name": "FlovaSDK",
-        "version": "0.3.4",
-        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.2.0",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.2.0",
         "author": "Flova",
         "maintainer": "Flova",
         "website": "https://github.com/flova-platform/flova-firmware",
