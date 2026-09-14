@@ -152507,5 +152507,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "EduWit",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "EduWit",
+        "maintainer": "EduWit <developer@eduwit.com.mx>",
+        "website": "https://eduwit.com.mx",
+        "category": "Device Control",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/EduWit-Dev/EduWit.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
