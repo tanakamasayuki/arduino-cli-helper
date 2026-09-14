@@ -151194,8 +151194,8 @@
     },
     {
         "name": "cyfney-cpp",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.0",
         "author": "anka",
         "maintainer": "anka",
         "website": "https://github.com/cyfney/cyfney-cpp-arduino",
@@ -152519,6 +152519,21 @@
         "architectures": "avr, esp32",
         "types": "Contributed",
         "repository": "https://github.com/EduWit-Dev/EduWit.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "XeWeUtils",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Maxim Dokukin",
+        "maintainer": "Maxim Dokukin",
+        "website": "https://github.com/xewe-labs/xewe-library-utils",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/xewe-labs/xewe-library-utils.git",
         "dependencies": [
             ""
         ]
