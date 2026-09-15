@@ -1320,8 +1320,8 @@
     },
     {
         "name": "Adafruit GPS Library",
-        "version": "1.7.5",
-        "versions": "1.7.5, 1.7.4, 1.7.2, 1.7.1, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.8.0",
+        "versions": "1.8.0, 1.7.5, 1.7.4, 1.7.2, 1.7.1, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_GPS",
@@ -1330,7 +1330,7 @@
         "types": "Contributed",
         "repository": "https://github.com/adafruit/Adafruit_GPS.git",
         "dependencies": [
-            "SD"
+            ""
         ]
     },
     {
@@ -40602,8 +40602,8 @@
     },
     {
         "name": "OpenLCB_Single_Thread",
-        "version": "0.1.21",
-        "versions": "0.1.21, 0.1.20, 0.1.19, 0.1.17, 0.1.16, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.0, 0.0.2",
+        "version": "0.1.22",
+        "versions": "0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.17, 0.1.16, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.0, 0.0.2",
         "author": "David Harris, Bob Jacobsen, OpenLCB team",
         "maintainer": "David Harris <drdpharris@gmail.com>",
         "website": "https://github.com/openlcb/OpenLCB_Single_Thread",
@@ -152569,8 +152569,8 @@
     },
     {
         "name": "DigiCDCFast",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Ihsan Kehribar and Digistump LLC (DigiCDC), OBJECTIVE DEVELOPMENT Software GmbH (V-USB), Marco Carnut",
         "maintainer": "Marco Carnut <kikocarnut@gmail.com>",
         "website": "https://github.com/marcocarnut/DigiCDCFast",
@@ -152655,6 +152655,37 @@
         "repository": "https://github.com/multiaxis/TempestTCode.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit TCS3448",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_TCS3448",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_TCS3448.git",
+        "dependencies": [
+            "Adafruit AS7343"
+        ]
+    },
+    {
+        "name": "XeWeCli",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Maxim Dokukin",
+        "maintainer": "Maxim Dokukin",
+        "website": "https://github.com/xewe-labs/xewe-library-cli",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/xewe-labs/xewe-library-cli.git",
+        "dependencies": [
+            "XeWeSerial",
+            "XeWeUtils"
         ]
     }
 ]
