@@ -99731,8 +99731,8 @@
     },
     {
         "name": "EspNowCam",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
+        "version": "0.2.2",
+        "versions": "0.2.2, 0.2.1, 0.2.0, 0.1.17, 0.1.16, 0.1.15, 0.1.14, 0.1.13, 0.1.12, 0.1.11, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.0",
         "author": "@hpsaturn",
         "maintainer": "Antonio Vanegas <hpsaturn@gmail.com>",
         "website": "https://github.com/hpsaturn/esp32s3-cam",
@@ -146877,8 +146877,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -150760,8 +150760,8 @@
     },
     {
         "name": "AzDeck",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Azat",
         "maintainer": "Azat <aztechell@gmail.com>",
         "website": "https://github.com/aztechell/azdeck-lib",
@@ -152479,8 +152479,8 @@
     },
     {
         "name": "EduWit",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.0.0",
         "author": "EduWit",
         "maintainer": "EduWit <developer@eduwit.com.mx>",
         "website": "https://eduwit.com.mx",
@@ -152524,13 +152524,13 @@
     },
     {
         "name": "ArnoTek_HeartBeat",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Anthony Arnovitz <aarnovitz@arnotek.com>",
-        "maintainer": "Anthony Arnovitz <aarnovitz@arnotek.com>",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "author": "Anthony Arnovitz, aarnovitz@arnotek.com",
+        "maintainer": "Anthony Arnovitz, aarnovitz@arnotek.com",
         "website": "https://github.com/AJArnovitz/ArnoTek_HeartBeat",
         "category": "Timing",
-        "architectures": "",
+        "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/AJArnovitz/ArnoTek_HeartBeat.git",
         "dependencies": [
@@ -152593,6 +152593,66 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/0015/a3d.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Esp_Lite_Core",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Cedric",
+        "maintainer": "Cedric <dijix.4d@gmail.com>",
+        "website": "https://github.com/Deric-03/Esp_Lite_Core",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Deric-03/Esp_Lite_Core.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "R558S",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Nahom Yirga",
+        "maintainer": "Nahom Yirga",
+        "website": "https://github.com/nahomyirga787-spec/R558S",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nahomyirga787-spec/R558S.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Control_Led_Bus",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Cedric",
+        "maintainer": "Cedric <dijix.4d@gmail.com>",
+        "website": "https://github.com/Deric-03/Control_Led_Bus",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Deric-03/Control_Led_Bus.git",
+        "dependencies": [
+            "Esp_Lite_Core"
+        ]
+    },
+    {
+        "name": "TempestTCode",
+        "version": "0.4.2",
+        "versions": "0.4.2",
+        "author": "TempestMAx",
+        "maintainer": "TempestMAx",
+        "website": "https://github.com/multiaxis/TempestTCode",
+        "category": "Uncategorized",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/multiaxis/TempestTCode.git",
         "dependencies": [
             ""
         ]
