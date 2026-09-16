@@ -82518,8 +82518,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "2.9.1",
-        "versions": "2.9.1, 2.9.0, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
+        "version": "2.9.4",
+        "versions": "2.9.4, 2.9.3, 2.9.2, 2.9.1, 2.9.0, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -127329,8 +127329,8 @@
     },
     {
         "name": "iSYS4001",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1",
         "author": "Ankit Sharma, Uday Singh Gangola",
         "maintainer": "Kuchhal Brothers <sensormart.mkt@gmail.com>",
         "website": "https://github.com/KB-Sensor-Mart/iSYS4001",
@@ -147257,8 +147257,8 @@
     },
     {
         "name": "Nodrix",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Arjun Krishna",
         "maintainer": "Arjun Krishna <arjun12345krishna@gmail.com>",
         "website": "https://github.com/decoded-cipher/nodrix-sdk",
@@ -151645,8 +151645,8 @@
     },
     {
         "name": "UsbIo",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Paolo Bosetti",
         "maintainer": "Paolo Bosetti <paolo.bosetti@me.com>",
         "website": "https://github.com/pbosetti/ArduinoDriver",
@@ -152201,8 +152201,8 @@
     },
     {
         "name": "PulseHSM",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.1, 1.2.0",
         "author": "Alex Gabriel Malisa",
         "maintainer": "Alex Gabriel Malisa <alex.malisa@pulsecoreengineering.com>",
         "website": "https://github.com/pulsecoreengineering/PulseHSM",
@@ -152569,8 +152569,8 @@
     },
     {
         "name": "DigiCDCFast",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Ihsan Kehribar and Digistump LLC (DigiCDC), OBJECTIVE DEVELOPMENT Software GmbH (V-USB), Marco Carnut",
         "maintainer": "Marco Carnut <kikocarnut@gmail.com>",
         "website": "https://github.com/marcocarnut/DigiCDCFast",
@@ -152714,6 +152714,53 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OtamaticClient",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
+        "author": "Timothy Franceschi",
+        "maintainer": "Timothy Franceschi <timothy@franceschi.es>",
+        "website": "https://github.com/TimothyFran/OtamaticClient",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/TimothyFran/OtamaticClient.git",
+        "dependencies": [
+            "Update",
+            "ArduinoJson",
+            "StreamUtils"
+        ]
+    },
+    {
+        "name": "PressureSensorLib",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Babatunde Adegoke",
+        "maintainer": "Babatunde Adegoke <tunashapcb@gmail.com>",
+        "website": "https://github.com/Tunasha/PressureSensorLib",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Tunasha/PressureSensorLib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FlowSensorLib",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Babatunde Adegoke",
+        "maintainer": "Babatunde Adegoke <tunashapcb@gmail.com>",
+        "website": "https://github.com/Tunasha/FlowSensorLib",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Tunasha/FlowSensorLib.git",
         "dependencies": [
             ""
         ]
