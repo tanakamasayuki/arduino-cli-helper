@@ -1320,8 +1320,8 @@
     },
     {
         "name": "Adafruit GPS Library",
-        "version": "1.8.0",
-        "versions": "1.8.0, 1.7.5, 1.7.4, 1.7.2, 1.7.1, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.9.0",
+        "versions": "1.9.0, 1.8.0, 1.7.5, 1.7.4, 1.7.2, 1.7.1, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_GPS",
@@ -124114,8 +124114,8 @@
     },
     {
         "name": "GyverMenu",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverMenu",
@@ -146877,8 +146877,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.4.0",
-        "versions": "2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -152811,6 +152811,21 @@
             "XeWeSerial",
             "XeWeNvs",
             "XeWeCli"
+        ]
+    },
+    {
+        "name": "ErdiLRF",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "ERDI TECH LTD <tommy@erdimail.com>",
+        "maintainer": "ERDI TECH LTD <tommy@erdimail.com>",
+        "website": "https://erdilrf.com/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/yu911517778-a11y/ErdiLRF.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
