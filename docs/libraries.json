@@ -11740,8 +11740,8 @@
     },
     {
         "name": "MD_Parola",
-        "version": "3.7.5",
-        "versions": "3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.2, 3.6.1, 3.6.0, 3.5.6, 3.5.5, 3.5.4, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.6, 2.6.5, 2.6.4, 2.6.2, 2.6.1, 2.5.0, 2.2.0",
+        "version": "3.7.7",
+        "versions": "3.7.7, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.2, 3.6.1, 3.6.0, 3.5.6, 3.5.5, 3.5.4, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.6, 2.6.5, 2.6.4, 2.6.2, 2.6.1, 2.5.0, 2.2.0",
         "author": "majicDesigns",
         "maintainer": "marco_c <8136821@gmail.com>",
         "website": "https://github.com/MajicDesigns/MD_Parola",
@@ -82518,8 +82518,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "2.9.0",
-        "versions": "2.9.0, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
+        "version": "2.9.1",
+        "versions": "2.9.1, 2.9.0, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -102048,9 +102048,9 @@
     },
     {
         "name": "SpotifyEsp32",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.0.1, 4.0.0, 3.0.0, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
-        "author": "Finian Landes, Pia Piekarek, T-vK",
+        "version": "5.0.1",
+        "versions": "5.0.1, 5.0.0, 4.0.1, 4.0.0, 3.0.0, 2.0.10, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "author": "Finian Landes, T-vK",
         "maintainer": "Finian Landes <landesfinian@gmail.com>",
         "website": "https://github.com/FinianLandes/SpotifyEsp32",
         "category": "Communication",
@@ -124734,8 +124734,8 @@
     },
     {
         "name": "MQTTESP8266",
-        "version": "6.1.0",
-        "versions": "6.1.0, 6.0.0, 5.1.2, 5.1.1, 5.1.0, 5.0.1",
+        "version": "7.0.0",
+        "versions": "7.0.0, 6.1.0, 6.0.0, 5.1.2, 5.1.1, 5.1.0, 5.0.1",
         "author": "Petr B.",
         "maintainer": "Petr B.",
         "website": "https://github.com/Zefek/MQTTESP8266",
@@ -152701,6 +152701,21 @@
         "repository": "https://github.com/uniot-outech/DexmodIoT.git",
         "dependencies": [
             "PubSubClient"
+        ]
+    },
+    {
+        "name": "Soldered BME690 Arduino Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
