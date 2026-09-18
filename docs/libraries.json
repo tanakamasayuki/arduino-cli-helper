@@ -52973,8 +52973,8 @@
     },
     {
         "name": "GFX Library for Arduino",
-        "version": "1.6.7",
-        "versions": "1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
+        "version": "1.6.8",
+        "versions": "1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.1",
         "author": "Moon On Our Nation <moononournation@gmail.com>",
         "maintainer": "Moon On Our Nation <moononournation@gmail.com>",
         "website": "https://github.com/moononournation/Arduino_GFX",
@@ -75594,8 +75594,8 @@
     },
     {
         "name": "STM32duino LSM6DSV16X",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LSM6DSV16X",
@@ -91451,8 +91451,8 @@
     },
     {
         "name": "STM32duino LIS2DUXS12",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LIS2DUXS12",
@@ -94922,8 +94922,8 @@
     },
     {
         "name": "STM32duino X-NUCLEO-IKS4A1",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/X-NUCLEO-IKS4A1",
@@ -127752,8 +127752,8 @@
     },
     {
         "name": "STM32duino ILPS22QS",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/ILPS22QS",
@@ -127978,8 +127978,8 @@
     },
     {
         "name": "SHT4x",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.3",
+        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SHT4x",
@@ -141221,8 +141221,8 @@
     },
     {
         "name": "APAPHX2_ADS1115",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0",
         "author": "APADevices <kecup@vazac.eu>",
         "maintainer": "APADevices <kecup@vazac.eu>",
         "website": "https://github.com/apadevices/APAPHX2_ADS1115",
@@ -149902,8 +149902,8 @@
     },
     {
         "name": "GroeiAcademie FrameWork",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Alex Peeters, GROEI ACADEMIE BV",
         "maintainer": "Alex Peeters <info@groeiacademie.be>",
         "website": "https://groeiacademie.be/",
@@ -151522,8 +151522,8 @@
     },
     {
         "name": "SWP2P",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4, 0.0.0",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.0.5, 0.0.4, 0.0.0",
         "author": "Sierrastdio",
         "maintainer": "Sierrastdio",
         "website": "https://github.com/Sierrastdio/SWP2P",
@@ -152737,10 +152737,10 @@
     },
     {
         "name": "PressureSensorLib",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Babatunde Adegoke",
-        "maintainer": "Babatunde Adegoke <tunashapcb@gmail.com>",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Tunasha,Babatunde Adg",
+        "maintainer": "Babatunde Adg <tunashapcb@gmail.com>",
         "website": "https://github.com/Tunasha/PressureSensorLib",
         "category": "Sensors",
         "architectures": "*",
@@ -152752,10 +152752,10 @@
     },
     {
         "name": "FlowSensorLib",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Babatunde Adegoke",
-        "maintainer": "Babatunde Adegoke <tunashapcb@gmail.com>",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "Tunasha,Babatunde Adg",
+        "maintainer": "Babatunde Adg <tunashapcb@gmail.com>",
         "website": "https://github.com/Tunasha/FlowSensorLib",
         "category": "Sensors",
         "architectures": "*",
@@ -152856,6 +152856,36 @@
         "repository": "https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Soldered BMP585 Barometric Pressure Sensor",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/Soldered-BMP585-Arduino-Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "groq_stt",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sk Raihan",
+        "maintainer": "SKR Electronics Lab <skrelectronicslab@gmail.com>",
+        "website": "https://github.com/skr-electronics-lab/groq-stt",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/skr-electronics-lab/groq-stt.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
