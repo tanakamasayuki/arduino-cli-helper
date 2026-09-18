@@ -146877,8 +146877,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.5.1",
+        "versions": "2.5.1, 2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -151645,8 +151645,8 @@
     },
     {
         "name": "UsbIo",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Paolo Bosetti",
         "maintainer": "Paolo Bosetti <paolo.bosetti@me.com>",
         "website": "https://github.com/pbosetti/ArduinoDriver",
