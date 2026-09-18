@@ -86744,8 +86744,8 @@
     },
     {
         "name": "ESP_TF",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Nick Jugganaikloo",
         "maintainer": "Nick Jugganaikloo",
         "website": "https://github.com/Nickjgniklu/ESP_TF",
@@ -91451,8 +91451,8 @@
     },
     {
         "name": "STM32duino LIS2DUXS12",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LIS2DUXS12",
@@ -108783,8 +108783,8 @@
     },
     {
         "name": "CodeCell",
-        "version": "2.0.7",
-        "versions": "2.0.7, 2.0.6, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
+        "version": "2.0.8",
+        "versions": "2.0.8, 2.0.7, 2.0.6, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
         "author": "Microbots <info@microbots.io>",
         "maintainer": "Microbots <info@microbots.io>",
         "website": "https://microbots.io/CodeCell",
@@ -118386,8 +118386,8 @@
     },
     {
         "name": "SensEdu",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.7.0, 0.6.1, 0.5.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.0, 0.7.0, 0.6.1, 0.5.0",
         "author": "Vladyslav Sorokin, Azra Talić",
         "maintainer": "Vladyslav Sorokin <Vladyslav.Sorokin@infineon.com>",
         "website": "https://github.com/ShiegeChan/SensEdu",
@@ -127707,8 +127707,8 @@
     },
     {
         "name": "STM32duino ISM6HG256X",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.1, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/ISM6HG256X",
@@ -127737,8 +127737,8 @@
     },
     {
         "name": "STM32duino IIS2DULPX",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/IIS2DULPX",
@@ -127752,8 +127752,8 @@
     },
     {
         "name": "STM32duino ILPS22QS",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/ILPS22QS",
@@ -129509,8 +129509,8 @@
     },
     {
         "name": "STM32duino X-NUCLEO-IKS5A1",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "STMicroelectronics",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/X-NUCLEO-IKS5A1",
@@ -152886,6 +152886,21 @@
         "repository": "https://github.com/skr-electronics-lab/groq-stt.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "QSetun",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1",
+        "author": "Leonid Kulcha and Antigravity <216130664+Sollemdev@users.noreply.github.com>",
+        "maintainer": "Leonid Kulcha and Antigravity <216130664+Sollemdev@users.noreply.github.com>",
+        "website": "https://github.com/sollemdev/qsetun",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Sollemdev/qsetun.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
