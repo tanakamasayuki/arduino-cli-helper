@@ -96812,8 +96812,8 @@
     },
     {
         "name": "roo_time",
-        "version": "1.4.7",
-        "versions": "1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_time",
@@ -96822,7 +96822,7 @@
         "types": "Contributed",
         "repository": "https://github.com/dejwk/roo_time.git",
         "dependencies": [
-            ""
+            "roo_backport"
         ]
     },
     {
@@ -112086,8 +112086,8 @@
     },
     {
         "name": "roo_time_ds3231",
-        "version": "1.1.8",
-        "versions": "1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.9",
+        "versions": "1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_time_ds3231",
@@ -128506,8 +128506,8 @@
     },
     {
         "name": "SSD1306",
-        "version": "2.0.2",
-        "versions": "2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.0",
         "author": "Volodymyr Kumpan",
         "maintainer": "Volodymyr Kumpan <v.kumpan@outlook.com>",
         "website": "https://github.com/vkumpan/SSD1306",
@@ -143899,8 +143899,8 @@
     },
     {
         "name": "PersianDate",
-        "version": "2.1.1",
-        "versions": "2.1.1, 1.1.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 1.1.0",
         "author": "Hamidreza Milaninia <milaninia.h@gmail.com> [ARDUnia Agency]",
         "maintainer": "Hamidreza Milaninia <milaninia.h@gmail.com>",
         "website": "https://github.com/ARDUnia/PersianDate",
@@ -152569,8 +152569,8 @@
     },
     {
         "name": "DigiCDCFast",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Ihsan Kehribar and Digistump LLC (DigiCDC), OBJECTIVE DEVELOPMENT Software GmbH (V-USB), Marco Carnut",
         "maintainer": "Marco Carnut <kikocarnut@gmail.com>",
         "website": "https://github.com/marcocarnut/DigiCDCFast",
@@ -152899,6 +152899,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Sollemdev/qsetun.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "runTime",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/runTime",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/runTime.git",
         "dependencies": [
             ""
         ]
