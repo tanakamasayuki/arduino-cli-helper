@@ -140586,8 +140586,8 @@
     },
     {
         "name": "ASXNanoStream",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adriano Xavier",
         "maintainer": "Adriano Xavier <contato@asxsoftware.com.br>",
         "website": "https://github.com/Adriano-Severino/ASXNanoStreamEncoder",
@@ -143765,8 +143765,8 @@
     },
     {
         "name": "GeigerMeasurement",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/GeigerMeasurement",
@@ -151209,8 +151209,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.5.2",
+        "versions": "0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
