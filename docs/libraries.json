@@ -130151,8 +130151,8 @@
     },
     {
         "name": "OK Little Layout",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Daniel Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_arduino_little_layout",
@@ -130817,8 +130817,8 @@
     },
     {
         "name": "OK Logging",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.3.0, 0.2.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.6.0, 0.5.0, 0.3.0, 0.2.0",
         "author": "Dan Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_arduino_logging",
@@ -152721,8 +152721,8 @@
     },
     {
         "name": "OtamaticClient",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.2.0, 0.1.0",
         "author": "Timothy Franceschi",
         "maintainer": "Timothy Franceschi <timothy@franceschi.es>",
         "website": "https://github.com/TimothyFran/OtamaticClient",
