@@ -152891,8 +152891,8 @@
     },
     {
         "name": "QSetun",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.1",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.0.1",
         "author": "Leonid Kulcha and Antigravity <216130664+Sollemdev@users.noreply.github.com>",
         "maintainer": "Leonid Kulcha and Antigravity <216130664+Sollemdev@users.noreply.github.com>",
         "website": "https://github.com/sollemdev/qsetun",
@@ -152976,6 +152976,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/GyverLibs/GyverLCD.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SinricProWebRTC",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "author": "SinricPro",
+        "maintainer": "SinricPro",
+        "website": "https://github.com/sinricpro/arduino-esp32-webrtc-lib",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/sinricpro/arduino-esp32-webrtc-lib.git",
         "dependencies": [
             ""
         ]
