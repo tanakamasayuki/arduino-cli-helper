@@ -149953,8 +149953,8 @@
     },
     {
         "name": "BACnet-Arduino",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "NitrofMtl <https://github.com/NitrofMtl>",
         "maintainer": "NitrofMtl <https://github.com/NitrofMtl>",
         "website": "https://github.com/NitrofMtl/BACnet-Arduino",
@@ -153006,6 +153006,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mogrinz/AMT630A.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MKE_I2C_RFID",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MakerEdu.vn",
+        "maintainer": "MakerEdu.vn",
+        "website": "https://github.com/makereduvn/MKE-M26-RC522-I2C-RFID-MODULE",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib.git",
         "dependencies": [
             ""
         ]
