@@ -89731,8 +89731,8 @@
     },
     {
         "name": "AFE_NXP_Arduino",
-        "version": "2.0.5",
-        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.3, 1.0.1, 1.0.0, 0.8.1, 0.7.6, 0.2.0, 0.1.3, 0.1.1, 0.1.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.3, 1.0.1, 1.0.0, 0.8.1, 0.7.6, 0.2.0, 0.1.3, 0.1.1, 0.1.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/AFE_NXP_Arduino",
@@ -108274,8 +108274,8 @@
     },
     {
         "name": "roo_prefs",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_prefs",
@@ -128717,8 +128717,8 @@
     },
     {
         "name": "bb_temperature",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_temperature",
@@ -152967,8 +152967,8 @@
     },
     {
         "name": "GyverLCD",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverLCD",
@@ -152991,6 +152991,21 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/sinricpro/arduino-esp32-webrtc-lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AMT630A_OSD",
+        "version": "0.7.0",
+        "versions": "0.7.0",
+        "author": "Mike Ogrinz",
+        "maintainer": "Mike Ogrinz <mike@ogrinz.com>",
+        "website": "https://github.com/mogrinz/AMT630A",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mogrinz/AMT630A.git",
         "dependencies": [
             ""
         ]
