@@ -1434,8 +1434,8 @@
     },
     {
         "name": "Adafruit ILI9341",
-        "version": "1.6.3",
-        "versions": "1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.14, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.6.4",
+        "versions": "1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.14, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_ILI9341",
@@ -1917,8 +1917,8 @@
     },
     {
         "name": "Adafruit Si5351 Library",
-        "version": "1.5.0",
-        "versions": "1.5.0, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.0, 1.4.3, 1.4.2, 1.4.0, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_Si5351_Library",
@@ -24391,8 +24391,8 @@
     },
     {
         "name": "Adafruit EPD",
-        "version": "4.6.13",
-        "versions": "4.6.13, 4.6.11, 4.6.10, 4.6.9, 4.6.8, 4.6.7, 4.6.6, 4.6.5, 4.6.4, 4.6.3, 4.6.2, 4.6.1, 4.6.0, 4.5.6, 4.5.5, 4.5.4, 4.5.3, 4.5.2, 4.5.1, 4.5.0, 4.4.5, 4.4.4, 4.4.3, 4.4.2, 4.4.1, 4.4.0, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.0, 4.1.0, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.0.0, 2.5.3, 2.5.2, 2.5.1, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.1, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "4.6.14",
+        "versions": "4.6.14, 4.6.13, 4.6.11, 4.6.10, 4.6.9, 4.6.8, 4.6.7, 4.6.6, 4.6.5, 4.6.4, 4.6.3, 4.6.2, 4.6.1, 4.6.0, 4.5.6, 4.5.5, 4.5.4, 4.5.3, 4.5.2, 4.5.1, 4.5.0, 4.4.5, 4.4.4, 4.4.3, 4.4.2, 4.4.1, 4.4.0, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.0, 4.1.0, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 4.0.0, 3.0.0, 2.5.3, 2.5.2, 2.5.1, 2.4.3, 2.4.2, 2.4.1, 2.3.0, 2.2.0, 2.1.1, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_EPD",
@@ -136131,8 +136131,8 @@
     },
     {
         "name": "TumbleFeeder",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.0.2, 1.0.1",
+        "version": "2.3.1",
+        "versions": "2.3.1, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.0.2, 1.0.1",
         "author": "Mason Barrett, Kravitz Lab",
         "maintainer": "Mason Barrett, Kravitz Lab",
         "website": "https://github.com/KravitzLabDevices/TumbleFeeder",
@@ -151258,8 +151258,8 @@
     },
     {
         "name": "DevLab_TEMT6000",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "UNIT Electronics MX",
         "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library",
@@ -152012,8 +152012,8 @@
     },
     {
         "name": "DevLab_Interface",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.0.0",
         "author": "UNIT Electronics",
         "maintainer": "Jonathan Mejorado Lopez",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_interface_library",
@@ -153157,6 +153157,60 @@
         "repository": "https://github.com/HamzaYslmn/esp-rtosLogger.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "USMP",
+        "version": "1.2.1",
+        "versions": "1.2.1",
+        "author": "winterx64",
+        "maintainer": "winterx64 <winterx64.work@gmail.com>",
+        "website": "https://usmp.metaloom.in",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/metaloomlabs/usmp-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MicroDB",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Jairo Antonio Rohatan Zapata <https://github.com/Jairo2020>",
+        "maintainer": "Jairo Antonio Rohatan Zapata <https://github.com/Jairo2020>",
+        "website": "https://github.com/Library-Arduino/MicroDB",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Library-Arduino/MicroDB.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Adafruit Marquee",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_Marquee",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_Marquee.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit EPD",
+            "ArduinoJson",
+            "Adafruit SPIFlash",
+            "SdFat - Adafruit Fork",
+            "Adafruit TinyUSB Library",
+            "base64",
+            "Adafruit ImageReader Library",
+            "Adafruit MQTT Library",
+            "CRC"
         ]
     }
 ]
