@@ -41142,8 +41142,8 @@
     },
     {
         "name": "STM32duino LSM6DSOX",
-        "version": "2.3.4",
-        "versions": "2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LSM6DSOX",
@@ -42664,8 +42664,8 @@
     },
     {
         "name": "STM32duino LSM6DSR",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.0, 2.0.0, 1.0.1, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.0.1, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LSM6DSR",
@@ -75579,8 +75579,8 @@
     },
     {
         "name": "STM32duino LIS2DU12",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LIS2DU12",
@@ -121734,8 +121734,8 @@
     },
     {
         "name": "STM32duino LSM6DSV16BX",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "SRA",
         "maintainer": "stm32duino",
         "website": "https://github.com/stm32duino/LSM6DSV16BX",
@@ -138069,8 +138069,8 @@
     },
     {
         "name": "STM32duino LSM6DSO32",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Nathan Garnier",
         "maintainer": "Nathan Garnier",
         "website": "https://github.com/stm32duino/LSM6DSO32",
@@ -138744,8 +138744,8 @@
     },
     {
         "name": "eva-core-sk",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-core-sk",
@@ -140587,8 +140587,8 @@
     },
     {
         "name": "eva-motors",
-        "version": "1.1.3",
-        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://agusevtec.github.io/eva-motors",
@@ -140597,7 +140597,8 @@
         "types": "Contributed",
         "repository": "https://github.com/agusevtec/eva-motors.git",
         "dependencies": [
-            "eva-core-sk"
+            "eva-core-sk",
+            "eva-filters"
         ]
     },
     {
@@ -143481,8 +143482,8 @@
     },
     {
         "name": "APA-Dose",
-        "version": "3.17.6",
-        "versions": "3.17.6, 3.17.5, 3.17.4, 3.17.3, 3.17.2, 3.17.1, 3.17.0, 3.16.4, 3.16.3, 3.16.2, 3.16.1, 3.15.2, 3.15.1, 3.15.0, 3.14.3, 3.14.2, 3.14.1, 3.14.0, 3.13.3, 3.12.0, 3.8.3, 3.4.2, 3.3.0",
+        "version": "3.17.7",
+        "versions": "3.17.7, 3.17.6, 3.17.5, 3.17.4, 3.17.3, 3.17.2, 3.17.1, 3.17.0, 3.16.4, 3.16.3, 3.16.2, 3.16.1, 3.15.2, 3.15.1, 3.15.0, 3.14.3, 3.14.2, 3.14.1, 3.14.0, 3.13.3, 3.12.0, 3.8.3, 3.4.2, 3.3.0",
         "author": "APADevices <kecup@vazac.eu>",
         "maintainer": "APADevices <kecup@vazac.eu>",
         "website": "https://github.com/apadevices/APADOSE",
@@ -147182,7 +147183,7 @@
     {
         "name": "firmngin",
         "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.1.0",
+        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.1.1, 0.1.0",
         "author": "Asya Syarif <asya.syarif94@gmail.com>",
         "maintainer": "Asya Syarif <asya.syarif94@gmail.com>",
         "website": "https://github.com/firmngin/firmnginKit",
@@ -150421,8 +150422,8 @@
     },
     {
         "name": "Pardalote",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "Scott Mitchell",
         "maintainer": "Scott Mitchell",
         "website": "https://github.com/ScottMit/Pardalote",
@@ -151775,8 +151776,8 @@
     },
     {
         "name": "LagariMotors",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0",
         "author": "LAGARI A <lagariscience@gmail.com>",
         "maintainer": "LAGARI A <lagariscience@gmail.com>",
         "website": "https://github.com/ailagari/LagariMotors",
@@ -152326,8 +152327,8 @@
     },
     {
         "name": "eva-filters",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.0.1",
         "author": "Andrey Gusev",
         "maintainer": "Andrey Gusev",
         "website": "https://github.com/agusevtec/eva-filters",
@@ -152999,8 +153000,8 @@
     },
     {
         "name": "SinricProWebRTC",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "SinricPro",
         "maintainer": "SinricPro",
         "website": "https://github.com/sinricpro/arduino-esp32-webrtc-lib",
@@ -153165,8 +153166,8 @@
     },
     {
         "name": "esp-rtosLogger",
-        "version": "0.1.0",
-        "versions": "0.1.0, 0.0.1",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0, 0.0.1",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp-rtosLogger",
@@ -153271,6 +153272,36 @@
             "Adafruit TinyUSB Library",
             "ArduinoJson",
             "Adafruit TSL2585"
+        ]
+    },
+    {
+        "name": "ESP32TelegramBot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mahdi bin Iqbal",
+        "maintainer": "mahdi bin Iqbal",
+        "website": "https://github.com/mahadihasan9/ESP32TelegramBot",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mahadihasan9/ESP32TelegramBot.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "SimpleAwait",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Noel Anderson",
+        "maintainer": "Noel Anderson",
+        "website": "https://github.com/noelanderson/SimpleAwait",
+        "category": "Timing",
+        "architectures": "rp2040, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/noelanderson/SimpleAwait.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
