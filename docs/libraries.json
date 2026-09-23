@@ -135175,8 +135175,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.6.0",
-        "versions": "1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.7.1",
+        "versions": "1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -137702,8 +137702,8 @@
     },
     {
         "name": "MKE_ONE",
-        "version": "2.0.4",
-        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0",
         "author": "MakerEdu.vn",
         "maintainer": "MakerEdu.vn",
         "website": "https://www.makerlab.vn/arduinolibraries",
@@ -137712,7 +137712,26 @@
         "types": "Contributed",
         "repository": "https://github.com/Khuuxuanngoc/makereduvnlib.git",
         "dependencies": [
-            ""
+            "kxnTask",
+            "OneButton",
+            "LiquidCrystal I2C",
+            "Dabble",
+            "HCSR04 ultrasonic MKL",
+            "BlynkGate",
+            "Makerlabvn_SimpleMotor",
+            "MKL_DHT sensor library",
+            "MKL_DS18B20",
+            "MKL_RTClib",
+            "Makerlabvn_I2C_Line_Follower_Sensor",
+            "Blynk",
+            "Adafruit NeoPixel",
+            "TinyGPSPlus",
+            "MakerEdu I2C Motor Driver",
+            "MKE I2C MP3",
+            "DabbleESP32",
+            "MKE_I2C_Loadcell",
+            "MKE_I2C_RFID",
+            "MKE_S17_AGS10"
         ]
     },
     {
@@ -153146,8 +153165,8 @@
     },
     {
         "name": "esp-rtosLogger",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.1",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp-rtosLogger",
@@ -153226,6 +153245,32 @@
         "repository": "https://github.com/scardus/MicroMDNS.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit Monster Eyes",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Adafruit Industries",
+        "maintainer": "Adafruit Industries",
+        "website": "https://github.com/adafruit/Adafruit_Monster_Eyes",
+        "category": "Display",
+        "architectures": "rp2040, esp32",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_Monster_Eyes.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit BusIO",
+            "Adafruit ST7735 and ST7789 Library",
+            "Adafruit ILI9341",
+            "Adafruit GC9A01A",
+            "PicoDVI - Adafruit Fork",
+            "GFX Library for Arduino",
+            "Adafruit SPIFlash",
+            "SdFat - Adafruit Fork",
+            "Adafruit TinyUSB Library",
+            "ArduinoJson",
+            "Adafruit TSL2585"
         ]
     }
 ]
