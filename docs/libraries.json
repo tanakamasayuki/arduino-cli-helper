@@ -89461,8 +89461,8 @@
     },
     {
         "name": "bb_rtc",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Larry Bank",
         "maintainer": "Larry Bank",
         "website": "https://github.com/bitbank2/bb_rtc",
@@ -92640,8 +92640,8 @@
     },
     {
         "name": "ENGR100-980",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Benjamen Miller <benjamen@umich.edu>",
         "maintainer": "Benjamen Miller <benjamen@umich.edu>",
         "website": "https://github.com/engin100/980",
@@ -130604,8 +130604,8 @@
     },
     {
         "name": "LightweightSTL",
-        "version": "1.0.15",
-        "versions": "1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.2",
+        "version": "1.0.16",
+        "versions": "1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.2",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino",
@@ -153250,8 +153250,8 @@
     },
     {
         "name": "Adafruit Monster Eyes",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0",
         "author": "Adafruit Industries",
         "maintainer": "Adafruit Industries",
         "website": "https://github.com/adafruit/Adafruit_Monster_Eyes",
@@ -153381,8 +153381,8 @@
     },
     {
         "name": "PacketLED",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Luca Soltoggio",
         "maintainer": "Luca Soltoggio",
         "website": "https://github.com/toggio/PacketLED",
@@ -153405,6 +153405,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/MAKIO135/sensorShieldLib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESPConfig",
+        "version": "1.1.1",
+        "versions": "1.1.1",
+        "author": "fbiego",
+        "maintainer": "fbiego",
+        "website": "https://fbiego.com/espconfig/",
+        "category": "Communication",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/fbiego/ESPConfig.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ParkingSensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "fbiego <fbiego.fb@gmail.com>",
+        "maintainer": "fbiego <fbiego.fb@gmail.com>",
+        "website": "https://github.com/fbiego/ParkingSensor",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/fbiego/ParkingSensor.git",
         "dependencies": [
             ""
         ]
