@@ -107594,8 +107594,8 @@
     },
     {
         "name": "Terminal",
-        "version": "1.0.13",
-        "versions": "1.0.13, 1.0.12, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.14",
+        "versions": "1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "John J. Gavel <john.gavel@gmail.com>",
         "maintainer": "John J. Gavel <john.gavel@gmail.com>",
         "website": "https://github.com/johngavel/Terminal",
@@ -153347,6 +153347,21 @@
         "repository": "https://github.com/naseem-shawarba/esp-ble-sdk.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "EasyIO",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Mirco Spaggiari <EasyProjects85@proton.me>",
+        "maintainer": "Mirco Spaggiari <EasyProjects85@proton.me>",
+        "website": "https://github.com/tuo-username/EasyIO",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Mirco850/EasyIO.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
