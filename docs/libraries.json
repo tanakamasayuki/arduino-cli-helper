@@ -145585,8 +145585,8 @@
     },
     {
         "name": "VirtuinoCloud",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Virtuino",
         "maintainer": "Virtuino <support@virtuino.com>",
         "website": "https://virtuino.com",
@@ -153435,6 +153435,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/fbiego/ParkingSensor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Periph",
+        "version": "1.2.1",
+        "versions": "1.2.1",
+        "author": "Till Uhde",
+        "maintainer": "Till Uhde <till@uhde.com>",
+        "website": "https://github.com/tuhde/Periph",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tuhde/Periph-Arduino.git",
         "dependencies": [
             ""
         ]
