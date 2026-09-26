@@ -98632,8 +98632,8 @@
     },
     {
         "name": "IOSignal",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
+        "version": "5.1.0",
+        "versions": "5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/iosignal-arduino",
@@ -98642,6 +98642,7 @@
         "types": "Contributed",
         "repository": "https://github.com/remocons/iosignal-arduino.git",
         "dependencies": [
+            "Boho",
             "Crypto",
             "Bounce2"
         ]
@@ -130814,8 +130815,8 @@
     },
     {
         "name": "OK Logging",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.6.0, 0.5.0, 0.3.0, 0.2.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.0, 0.6.0, 0.5.0, 0.3.0, 0.2.0",
         "author": "Dan Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_arduino_logging",
@@ -145570,8 +145571,8 @@
     },
     {
         "name": "VirtuinoCloud",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Virtuino",
         "maintainer": "Virtuino <support@virtuino.com>",
         "website": "https://virtuino.com",
@@ -153106,8 +153107,8 @@
     },
     {
         "name": "esp-rtosLogger",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0, 0.0.1",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0, 0.0.1",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp-rtosLogger",
