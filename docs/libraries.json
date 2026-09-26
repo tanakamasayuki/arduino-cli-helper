@@ -80783,8 +80783,8 @@
     },
     {
         "name": "Boho",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.0, 0.0.3, 0.0.2, 0.0.1",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/boho-arduino",
@@ -132735,13 +132735,13 @@
     },
     {
         "name": "InstantIoT",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "JeanLoick DT <jeanloickdt@gmail.com>",
         "maintainer": "JeanLoick DT <jeanloickdt@gmail.com>",
         "website": "https://github.com/jeanloickdt/InstantIoT",
         "category": "Communication",
-        "architectures": "esp32, esp8266, renesas_uno",
+        "architectures": "esp32, esp8266, renesas_uno, samd, megaavr, avr",
         "types": "Contributed",
         "repository": "https://github.com/jeanloickdt/InstantIoT.git",
         "dependencies": [
@@ -153511,6 +153511,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/GyverLibs/Saver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32-Diagnostics",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Prince223889",
+        "maintainer": "Prince223889",
+        "website": "https://github.com/Prince223889/ESP32-Diagnostics",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Prince223889/ESP32-Diagnostics.git",
         "dependencies": [
             ""
         ]
