@@ -153439,5 +153439,20 @@
             "DevLabDDP",
             "DevLab_Interface"
         ]
+    },
+    {
+        "name": "PILOT_KWS",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Aarush singh",
+        "maintainer": "splash0e",
+        "website": "https://github.com/splash0e/PILOTKWS",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/splash0e/PILOTKWS.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
