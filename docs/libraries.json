@@ -123512,8 +123512,8 @@
     },
     {
         "name": "ESP32WiFiEnterprise",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0-beta.1",
+        "versions": "2.0.0-beta.1, 1.0.0",
         "author": "Judas Sithole",
         "maintainer": "Judas Sithole <judassithle@duck.com>",
         "website": "https://github.com/RacoonX65/WiFiEnterprise",
@@ -135178,8 +135178,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.7.1",
-        "versions": "1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.8.0",
+        "versions": "1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -152285,8 +152285,8 @@
     },
     {
         "name": "ZanWifiSetup",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "ZAN Tech",
         "maintainer": "ZAN Tech <https://github.com/ZAN-Tech-bd>",
         "website": "https://github.com/ZAN-Tech-bd/esp-wifi-provisioning",
@@ -153520,8 +153520,8 @@
     },
     {
         "name": "ESP32-Diagnostics",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.1.0",
         "author": "Prince223889",
         "maintainer": "Prince223889",
         "website": "https://github.com/Prince223889/ESP32-Diagnostics",
