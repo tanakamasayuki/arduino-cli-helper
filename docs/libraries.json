@@ -153530,5 +153530,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "PsramStl",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Manuel Núñez",
+        "maintainer": "Manuel Núñez <aeljandro2@gmail.com>",
+        "website": "https://github.com/aeljandro2/esp32-psram-stl",
+        "category": "Data Storage",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/aeljandro2/esp32-psram-stl.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
