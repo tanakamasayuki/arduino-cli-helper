@@ -153577,5 +153577,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "ADF4159",
+        "version": "0.9.0",
+        "versions": "0.9.0",
+        "author": "kinny",
+        "maintainer": "kinny <Kinshuk-2005@://github.com>",
+        "website": "https://github.com/Kinshuk-2005/ADF4159",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Kinshuk-2005/ADF4159.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
