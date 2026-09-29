@@ -11275,11 +11275,11 @@
     },
     {
         "name": "ATMlib",
-        "version": "1.2.8",
-        "versions": "1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.0, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.0, 1.0.0",
         "author": "TEAM a.r.g., Joeri Gantois aka JO3RI, Davey Taylor aka STG",
         "maintainer": "joerigantois@gmail.com",
-        "website": "https://github.com/T-arg/ATMlib",
+        "website": "https://t-arg.github.io/ATMlib",
         "category": "Signal Input/Output",
         "architectures": "avr",
         "types": "Contributed",
@@ -99644,8 +99644,8 @@
     },
     {
         "name": "MycilaNTP",
-        "version": "6.0.5",
-        "versions": "6.0.5, 6.0.4, 6.0.3, 6.0.2, 5.0.1, 5.0.0, 4.0.1, 4.0.0, 3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "6.0.6",
+        "versions": "6.0.6, 6.0.5, 6.0.4, 6.0.3, 6.0.2, 5.0.1, 5.0.0, 4.0.1, 4.0.0, 3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaNTP",
@@ -106543,13 +106543,13 @@
     },
     {
         "name": "PersistentQueue",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.0.1, 1.0.0",
         "author": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "maintainer": "Anatoli Arkhipenko <arkhipenko@hotmail.com>",
         "website": "https://github.com/arkhipenko/PersistentQueue.git",
-        "category": "Timing",
-        "architectures": "*",
+        "category": "Data Storage",
+        "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/arkhipenko/PersistentQueue.git",
         "dependencies": [
@@ -152960,8 +152960,8 @@
     },
     {
         "name": "AMT630A_OSD",
-        "version": "0.7.0",
-        "versions": "0.7.0",
+        "version": "0.7.1",
+        "versions": "0.7.1, 0.7.0",
         "author": "Mike Ogrinz",
         "maintainer": "Mike Ogrinz <mike@ogrinz.com>",
         "website": "https://github.com/mogrinz/AMT630A",
@@ -153156,8 +153156,8 @@
     },
     {
         "name": "Adafruit Marquee",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_Marquee",
@@ -153597,8 +153597,8 @@
     },
     {
         "name": "xModemArdiuno",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Garfius <garfius@gmail.com>",
         "maintainer": "Garfius <garfius@gmail.com>",
         "website": "https://github.com/Garfius/xModemArdiuno.git",
@@ -153607,7 +153607,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Garfius/xModemArdiuno.git",
         "dependencies": [
-            "SD"
+            ""
         ]
     },
     {
@@ -153643,10 +153643,10 @@
     },
     {
         "name": "KT_BQ25601",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Kacper Tora",
-        "maintainer": "Kacper Tora <kacper.tora@gmail.com>",
+        "maintainer": "Kacper Tora <kacpert.arduino@gmail.com>",
         "website": "https://github.com/KacperTora/KT_BQ25601",
         "category": "Device Control",
         "architectures": "*",
@@ -153658,8 +153658,8 @@
     },
     {
         "name": "OpenEmbeddedProbe",
-        "version": "0.0.2",
-        "versions": "0.0.2, 0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.2, 0.0.1",
         "author": "Open Embedded Probe contributors",
         "maintainer": "Open Embedded Probe contributors",
         "website": "https://github.com/Open-Embedded-Probe/oep-probe-arduino",
@@ -153667,6 +153667,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Open-Embedded-Probe/oep-probe-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MPU9250-DMP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "website": "https://github.com/xreef/MPU-9250-DMP_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/xreef/MPU-9250-DMP_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlfredoTelemetry",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jacob Williams",
+        "maintainer": "Jacob Williams (jrw4561@gmail.com)",
+        "website": "https://github.com/AlfredoSystems/AlfredoTelemetry",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/AlfredoSystems/AlfredoTelemetry.git",
         "dependencies": [
             ""
         ]
