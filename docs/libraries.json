@@ -151843,8 +151843,8 @@
     },
     {
         "name": "Pulsync",
-        "version": "0.2.8",
-        "versions": "0.2.8, 0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Vineeth Rai K <vineethraik@gmail.com>",
         "maintainer": "Vineeth Rai K <vineethraik@gmail.com>",
         "website": "https://github.com/pulsync/pulsync-arduino",
@@ -153157,8 +153157,8 @@
     },
     {
         "name": "Adafruit Marquee",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.3, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_Marquee",
@@ -153644,8 +153644,8 @@
     },
     {
         "name": "KT_BQ25601",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Kacper Tora",
         "maintainer": "Kacper Tora",
         "website": "https://github.com/KacperTora/KT_BQ25601",
@@ -153659,8 +153659,8 @@
     },
     {
         "name": "OpenEmbeddedProbe",
-        "version": "0.0.18",
-        "versions": "0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.19",
+        "versions": "0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Open Embedded Probe contributors",
         "maintainer": "Open Embedded Probe contributors",
         "website": "https://github.com/Open-Embedded-Probe/oep-probe-arduino",
@@ -153743,6 +153743,53 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/NovaHeap-Technologies/NovaHeap_Relay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TungLam_OmniMecanum_4WD",
+        "version": "0.8.2",
+        "versions": "0.8.2, 0.8.1, 0.8.0, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
+        "author": "Nguyen Khac Tung Lam",
+        "maintainer": "Nguyen Khac Tung Lam <183681608+Tunglam0605@users.noreply.github.com>",
+        "website": "https://github.com/Tunglam0605/TungLam-OmniMecanum-4WD",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Tunglam0605/TungLam-OmniMecanum-4WD.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "VCAN2040",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Martin Da Costa <martindc.merg@gmail.com",
+        "maintainer": "Martin Da Costa <martindc.merg@gmail.com",
+        "website": "https://github.com/MartinDaCosta53/VCAN2040",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/MartinDaCosta53/VCAN2040.git",
+        "dependencies": [
+            "Streaming",
+            "ACAN2040",
+            "VLCB"
+        ]
+    },
+    {
+        "name": "RcLights",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Maximilian Bauer <maximilian@bauer.pub>",
+        "maintainer": "Maximilian Bauer <maximilian@bauer.pub>",
+        "website": "https://github.com/OnlyBauer/arduino_RcLights",
+        "category": "Device Control",
+        "architectures": "avr, esp32, stm32",
+        "types": "Contributed",
+        "repository": "https://github.com/OnlyBauer/arduino_RcLights.git",
         "dependencies": [
             ""
         ]
