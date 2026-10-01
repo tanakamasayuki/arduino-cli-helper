@@ -143339,9 +143339,9 @@
     },
     {
         "name": "DashlyClient",
-        "version": "2.1.0",
-        "versions": "2.1.0, 1.0.1, 1.0.0",
-        "author": "Smart Stack Solutions",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.0, 1.0.1, 1.0.0",
+        "author": "DashlyIot.com by Arsen Vardanyan",
         "maintainer": "Smart Stack Solutions <support@dashlyiot.com>",
         "website": "https://dashlyiot.com",
         "category": "Communication",
@@ -151848,8 +151848,8 @@
     },
     {
         "name": "Pulsync",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Vineeth Rai K <vineethraik@gmail.com>",
         "maintainer": "Vineeth Rai K <vineethraik@gmail.com>",
         "website": "https://github.com/pulsync/pulsync-arduino",
@@ -153843,6 +153843,84 @@
         "repository": "https://github.com/OnlyBauer/arduino_crsf.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Dict",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/Dict",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/Dict.git",
+        "dependencies": [
+            "GTL",
+            "FOR_MACRO"
+        ]
+    },
+    {
+        "name": "Any",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AlexGyver <alex@alexgyver.ru>",
+        "maintainer": "AlexGyver <alex@alexgyver.ru>",
+        "website": "https://github.com/GyverLibs/Any",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/GyverLibs/Any.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ButtonConnect",
+        "version": "0.4.3",
+        "versions": "0.4.3",
+        "author": "Button (buttonhq.io)",
+        "maintainer": "Levan <0dishelidz3@gmail.com>",
+        "website": "https://github.com/button-hq/ButtonConnect",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/button-hq/ButtonConnect.git",
+        "dependencies": [
+            "WebSockets",
+            "MQTTPubSubClient",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "ArnoTek_Debug",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Anthony Arnovitz, aarnovitz@arnotek.com",
+        "maintainer": "Anthony Arnovitz, aarnovitz@arnotek.com",
+        "website": "https://github.com/AJArnovitz/ArnoTek_Debug",
+        "category": "Other",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/AJArnovitz/ArnoTek_Debug.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RTC_I2C",
+        "version": "0.7.0",
+        "versions": "0.7.0",
+        "author": "Bernhard Nebel <nebel@hinterm-ziel.de>",
+        "maintainer": "Bernhard Nebel <nebel@hinterm-ziel.de>",
+        "website": "https://github.com/EnviroDIY/RTC_I2C",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/EnviroDIY/RTC_I2C.git",
+        "dependencies": [
+            "EpochTime"
         ]
     }
 ]
