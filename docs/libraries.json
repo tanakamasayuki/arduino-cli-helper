@@ -97084,8 +97084,8 @@
     },
     {
         "name": "roo_display",
-        "version": "3.3.1",
-        "versions": "3.3.1, 3.3.0, 3.2.2, 3.2.1, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
+        "version": "3.3.2",
+        "versions": "3.3.2, 3.3.1, 3.3.0, 3.2.2, 3.2.1, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.3.2, 2.3.1, 2.2.2, 2.2.1, 2.2.0, 2.1.0, 2.0.0, 1.4.1, 1.4.0, 1.3.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_display",
@@ -137231,8 +137231,8 @@
     },
     {
         "name": "roo_fonts_basic",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_fonts_basic",
@@ -138442,8 +138442,8 @@
     },
     {
         "name": "WS281xProcessor",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.1.0",
         "author": "Jueff",
         "maintainer": "Jueff <mobaledlib@gmx.at>",
         "website": "https://github.com/Jueff/WS281xProcessor#readme",
@@ -153895,8 +153895,8 @@
     },
     {
         "name": "ArnoTek_Debug",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Anthony Arnovitz, aarnovitz@arnotek.com",
         "maintainer": "Anthony Arnovitz, aarnovitz@arnotek.com",
         "website": "https://github.com/AJArnovitz/ArnoTek_Debug",
@@ -153921,6 +153921,21 @@
         "repository": "https://github.com/EnviroDIY/RTC_I2C.git",
         "dependencies": [
             "EpochTime"
+        ]
+    },
+    {
+        "name": "HX711_Vidimus",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "industrialpioneer",
+        "maintainer": "industrialpioneer <bajorjoci@gmail.com>",
+        "website": "https://github.com",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/industrialpioneer/HX711_Vidimus.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
