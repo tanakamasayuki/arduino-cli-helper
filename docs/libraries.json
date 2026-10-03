@@ -143339,9 +143339,9 @@
     },
     {
         "name": "DashlyClient",
-        "version": "2.1.2",
-        "versions": "2.1.2, 2.1.0, 1.0.1, 1.0.0",
-        "author": "DashlyIot.com by Arsen Vardanyan",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.2, 2.1.0, 1.0.1, 1.0.0",
+        "author": "Arsen Vardanyan",
         "maintainer": "Smart Stack Solutions <support@dashlyiot.com>",
         "website": "https://dashlyiot.com",
         "category": "Communication",
@@ -147938,10 +147938,10 @@
     },
     {
         "name": "UNOQ_STM32_HAL",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "Sri Ranga Raj B",
-        "maintainer": "Sri Ranga Raj B <your-email@example.com>",
+        "maintainer": "Sri Ranga Raj B <sreerangaraj387@gmail.com>",
         "website": "https://github.com/srirangaraj-b/UNOQ_STM32_HAL",
         "category": "Device Control",
         "architectures": "stm32",
@@ -153332,8 +153332,8 @@
     },
     {
         "name": "PacketLED",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Luca Soltoggio",
         "maintainer": "Luca Soltoggio",
         "website": "https://github.com/toggio/PacketLED",
@@ -153980,6 +153980,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Matth-M/EM4095-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SwitchMatrixLib",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "author": "ve-cto <arkusarkus135@gmail.com>",
+        "maintainer": "ve-cto <arkusarkus135@gmail.com>",
+        "website": "https://github.com/ve-cto/SwitchMatrixLib",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ve-cto/SwitchMatrixLib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DS4Arduino",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Vaibhav Rathod",
+        "maintainer": "Vaibhav <rathodvaibhav401@gmail.com>",
+        "website": "https://github.com/vaibhav-rm/DS4Arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/vaibhav-rm/DS4Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ArahMPU6050",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/ArahMPU6050",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/ArahMPU6050.git",
         "dependencies": [
             ""
         ]
