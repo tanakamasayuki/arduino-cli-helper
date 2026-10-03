@@ -99689,8 +99689,8 @@
     },
     {
         "name": "MycilaHADiscovery",
-        "version": "7.1.0",
-        "versions": "7.1.0, 7.0.1, 7.0.0, 6.3.0, 6.2.1, 6.2.0, 6.1.0, 6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.0.0, 3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.0.1, 1.0.0",
+        "version": "7.2.0",
+        "versions": "7.2.0, 7.1.0, 7.0.1, 7.0.0, 6.3.0, 6.2.1, 6.2.0, 6.1.0, 6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.0.0, 3.0.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.0.1, 1.0.0",
         "author": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "maintainer": "Mathieu Carbou <mathieu.carbou@gmail.com>",
         "website": "https://github.com/mathieucarbou/MycilaHADiscovery",
@@ -122000,8 +122000,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.3.8",
-        "versions": "1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.3.9",
+        "versions": "1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
@@ -133362,8 +133362,8 @@
     },
     {
         "name": "STM32RS485DMA",
-        "version": "0.9.1",
-        "versions": "0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0",
+        "version": "0.10.0",
+        "versions": "0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.1, 0.5.0",
         "author": "NitrofMtl",
         "maintainer": "NitrofMtl",
         "website": "https://github.com/nitrofmtl/STM32RS485DMA",
@@ -154016,8 +154016,8 @@
     },
     {
         "name": "ArahMPU6050",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
         "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
         "website": "https://github.com/nothinx/ArahMPU6050",
@@ -154055,6 +154055,201 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/apLlewelyn/ESP-SGTL5000.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SecurePair",
+        "version": "0.5.0",
+        "versions": "0.5.0",
+        "author": "Luca Soltoggio",
+        "maintainer": "Luca Soltoggio",
+        "website": "https://github.com/toggio/SecurePair",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/toggio/SecurePair.git",
+        "dependencies": [
+            "PacketLED"
+        ]
+    },
+    {
+        "name": "AsyncHTTPClientLight",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Davide",
+        "maintainer": "Copida Soft [copida.soft@gmail.com]",
+        "website": "https://github.com/copida/AsyncHTTPClientLight",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/copida/AsyncHTTPClientLight.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TombolPintar",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/TombolPintar",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/TombolPintar.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TanpaDelay",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/TanpaDelay",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/TanpaDelay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlurProgram",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/AlurProgram",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/AlurProgram.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "KontrolPID",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/KontrolPID",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/KontrolPID.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PosisiRobot",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/PosisiRobot",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/PosisiRobot.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FilterSensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/FilterSensor",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/FilterSensor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "LogikaFuzzy",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/LogikaFuzzy",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/LogikaFuzzy.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "KalibrasiSensor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/KalibrasiSensor",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/KalibrasiSensor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SandiMorse",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/SandiMorse",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/SandiMorse.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Terbilang",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/Terbilang",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/Terbilang.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PerintahSerial",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/PerintahSerial",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/PerintahSerial.git",
         "dependencies": [
             ""
         ]
