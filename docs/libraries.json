@@ -140614,8 +140614,8 @@
     },
     {
         "name": "ASXNanoStream",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adriano Xavier",
         "maintainer": "Adriano Xavier <contato@asxsoftware.com.br>",
         "website": "https://github.com/Adriano-Severino/ASXNanoStreamEncoder",
