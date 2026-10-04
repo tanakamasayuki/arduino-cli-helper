@@ -143038,8 +143038,8 @@
     },
     {
         "name": "TinyRTOS",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Nikolai Radke",
         "maintainer": "Nikolai Radke",
         "website": "https://github.com/NikolaiRadke/TinyRTOS",
@@ -153558,8 +153558,8 @@
     },
     {
         "name": "BlueCrypt",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
         "author": "Aadruta PB <aadrutapb@gmail.com>",
         "maintainer": "Aadruta PB <aadrutapb@gmail.com>",
         "website": "https://github.com/apbokkasa/BlueCrypt",
@@ -154250,6 +154250,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/nothinx/PerintahSerial.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AutoPack",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Aadruta PB <aadrutapb@gmail.com>",
+        "maintainer": "Aadruta PB <aadrutapb@gmail.com>",
+        "website": "https://github.com",
+        "category": "Data Processing",
+        "architectures": "avr, megaavr, *",
+        "types": "Contributed",
+        "repository": "https://github.com/apbokkasa/AutoPack.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TimbanganHX711",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "maintainer": "Amadeo Wisesa <wisesaamadeo@gmail.com>",
+        "website": "https://github.com/nothinx/TimbanganHX711",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/nothinx/TimbanganHX711.git",
         "dependencies": [
             ""
         ]
