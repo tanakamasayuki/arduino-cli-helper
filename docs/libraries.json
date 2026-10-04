@@ -46486,8 +46486,8 @@
     },
     {
         "name": "printHelpers",
-        "version": "0.5.3",
-        "versions": "0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/printHelpers",
@@ -118528,13 +118528,13 @@
     },
     {
         "name": "qp-arduino",
-        "version": "6.9.6",
-        "versions": "6.9.6",
+        "version": "7.3.4",
+        "versions": "7.3.4, 6.9.6",
         "author": "Quantum Leaps",
         "maintainer": "Peter Polidoro <peter@polidoro.io>",
         "website": "https://www.state-machine.com/arduino/",
         "category": "Device Control",
-        "architectures": "*",
+        "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/QuantumLeaps/qp-arduino.git",
         "dependencies": [
@@ -149966,8 +149966,8 @@
     },
     {
         "name": "BACnet-Arduino",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "NitrofMtl <https://github.com/NitrofMtl>",
         "maintainer": "NitrofMtl <https://github.com/NitrofMtl>",
         "website": "https://github.com/NitrofMtl/BACnet-Arduino",
@@ -154280,6 +154280,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/nothinx/TimbanganHX711.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AS7343_7Semi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Supratik Das",
+        "maintainer": "supratikd <supratikdas@hotmail.com>",
+        "website": "https://github.com/supratikd/AS7343_7Semi",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/supratikd/AS7343_7Semi.git",
         "dependencies": [
             ""
         ]
