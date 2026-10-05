@@ -154298,5 +154298,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "OLED2.42_EASY",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "klenov1900-lang",
+        "maintainer": "klenov1900-lang <gray_wolf19@mail.ru>",
+        "website": "https://github.com/klenov1900-lang/OLED2.42_EASY",
+        "category": "Display",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/klenov1900-lang/OLED2.42_EASY.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
