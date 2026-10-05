@@ -43856,8 +43856,8 @@
     },
     {
         "name": "StopWatch_RT",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.0, 0.1.5",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.2, 0.2.0, 0.1.5",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/Stopwatch_RT",
@@ -114246,10 +114246,10 @@
     },
     {
         "name": "WalterModem",
-        "version": "1.5.1",
-        "versions": "1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 0.1.3, 0.1.2, 0.1.1",
-        "author": "Daan Pape",
-        "maintainer": "Daan Pape <daan@dptechnics.com>",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 0.1.3, 0.1.2, 0.1.1",
+        "author": "Quickspot",
+        "maintainer": "DPTechnics <info@dptechnics.com>",
         "website": "https://www.quickspot.io/",
         "category": "Communication",
         "architectures": "esp32",
@@ -115719,8 +115719,8 @@
     },
     {
         "name": "htcw_gfx",
-        "version": "2.9.2",
-        "versions": "2.9.2, 2.9.1, 2.9.0, 2.8.2, 2.8.1, 2.8.0, 2.7.0, 2.6.4, 2.6.3, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.9, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.17, 2.2.16, 2.2.14, 2.2.13, 2.2.12, 2.2.11, 2.2.10, 2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
+        "version": "2.9.4",
+        "versions": "2.9.4, 2.9.3, 2.9.2, 2.9.1, 2.9.0, 2.8.2, 2.8.1, 2.8.0, 2.7.0, 2.6.4, 2.6.3, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.9, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.17, 2.2.16, 2.2.14, 2.2.13, 2.2.12, 2.2.11, 2.2.10, 2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/gfx",
@@ -124541,8 +124541,8 @@
     },
     {
         "name": "HydroNode-Library",
-        "version": "1.6.0",
-        "versions": "1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.7.0",
+        "versions": "1.7.0, 1.6.0, 1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Felix Knoll",
         "maintainer": "Felix Knoll <contact@hydronode.tech>",
         "website": "https://github.com/TexhFexLabs/HydroNode-Library",
@@ -124553,7 +124553,6 @@
         "dependencies": [
             "ArduinoJson",
             "ArduinoHttpClient",
-            "NTPClient",
             "WiFiManager"
         ]
     },
@@ -149951,8 +149950,8 @@
     },
     {
         "name": "Sentil",
-        "version": "0.3.0",
-        "versions": "0.3.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0",
         "author": "Paapa Kwesi Quansah, Ernest Bonnah, SEDIS Lab",
         "maintainer": "Paapa Kwesi Quansah <paapa_quansah1@baylor.edu>",
         "website": "https://github.com/sedislab/SENTIL",
@@ -151259,8 +151258,8 @@
     },
     {
         "name": "DevLabDDP",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "UNIT Electronics",
         "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library",
@@ -151269,7 +151268,7 @@
         "types": "Contributed",
         "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library.git",
         "dependencies": [
-            ""
+            "DevLab_Interface"
         ]
     },
     {
@@ -154301,8 +154300,8 @@
     },
     {
         "name": "OLED2.42_EASY",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "klenov1900-lang",
         "maintainer": "klenov1900-lang <gray_wolf19@mail.ru>",
         "website": "https://github.com/klenov1900-lang/OLED2.42_EASY",
@@ -154342,6 +154341,105 @@
         "repository": "https://github.com/SolderedElectronics/SOLDERED-Inputronic-KEYBOARD-Arduino-Library.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "ADF4351",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Dr. Ekenedirichukwu Obianom",
+        "maintainer": "Dr. Ekenedirichukwu Obianom",
+        "website": "https://github.com/EObianom/ADF4351",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/EObianom/ADF4351.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BMW IBus KBus",
+        "version": "1.0.3",
+        "versions": "1.0.3",
+        "author": "Muki01",
+        "maintainer": "Muki01 <muksin.muksin04@gmail.com>",
+        "website": "https://github.com/muki01/BMW_IBus_KBus_Library",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/muki01/BMW_IBus_KBus_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MPU6500-DMP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "website": "https://mischianti.org/tdk-invensense-mpu-6500-module-high-resolution-pinout-datasheet-schema-and-specs/",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/xreef/MPU-6500-DMP_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ACNode",
+        "version": "2.0.6",
+        "versions": "2.0.6, 2.0.5, 2.0.4",
+        "author": "dirkx",
+        "maintainer": "Dirk-Willem van Gulik <dirkx-remove-this-2026@webweaving.org>",
+        "website": "https://github.com/MakerSpaceLeiden/ACNode",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/MakerSpaceLeiden/ACNode.git",
+        "dependencies": [
+            "Adafruit AW9523",
+            "Adafruit BusIO",
+            "ArduinoJson",
+            "ESP Async WebServer",
+            "Async TCP",
+            "TLog",
+            "Adafruit GFX Library",
+            "Adafruit SH110X",
+            "PubSubClient",
+            "MFRC522-spi-i2c-uart-async"
+        ]
+    },
+    {
+        "name": "VectorUtilities",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Christoph Streit <christoph.streit@gmail.com>",
+        "maintainer": "Christoph Streit <christoph.streit@gmail.com>",
+        "website": "https://github.com/forgevolt/VectorUtilities",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/forgevolt/VectorUtilities.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MyDesktopWidget",
+        "version": "0.3.0",
+        "versions": "0.3.0",
+        "author": "Lucas Riechelmann Ramos",
+        "maintainer": "MyDesktopWidget <support@mydesktopwidget.com>",
+        "website": "https://github.com/mydesktopwidget/mydesktopwidget-screens",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mydesktopwidget/mydesktopwidget-screens.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
