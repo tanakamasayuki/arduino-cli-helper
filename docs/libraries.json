@@ -124739,8 +124739,8 @@
     },
     {
         "name": "MQTTESP8266",
-        "version": "7.0.0",
-        "versions": "7.0.0, 6.1.0, 6.0.0, 5.1.2, 5.1.1, 5.1.0, 5.0.1",
+        "version": "7.0.1",
+        "versions": "7.0.1, 7.0.0, 6.1.0, 6.0.0, 5.1.2, 5.1.1, 5.1.0, 5.0.1",
         "author": "Petr B.",
         "maintainer": "Petr B.",
         "website": "https://github.com/Zefek/MQTTESP8266",
@@ -134253,8 +134253,8 @@
     },
     {
         "name": "TX07K-TXC",
-        "version": "1.0.4",
-        "versions": "1.0.4, 1.0.3",
+        "version": "1.0.5",
+        "versions": "1.0.5, 1.0.4, 1.0.3",
         "author": "Petr B.",
         "maintainer": "Petr B.",
         "website": "https://github.com/Zefek/TX07K-TXC",
@@ -143523,8 +143523,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.6.0",
-        "versions": "1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.6.1",
+        "versions": "1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
@@ -149079,8 +149079,8 @@
     },
     {
         "name": "AlfredoDShot",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Alfredo Systems",
         "maintainer": "Jacob Williams (jrw4561@gmail.com)",
         "website": "https://github.com/AlfredoSystems/AlfredoDShot",
@@ -152785,8 +152785,8 @@
     },
     {
         "name": "ErdiLRF",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "ERDI TECH LTD <tommy@erdimail.com>",
         "maintainer": "ERDI TECH LTD <tommy@erdimail.com>",
         "website": "https://erdilrf.com/",
@@ -153679,11 +153679,11 @@
     },
     {
         "name": "MPU9250-DMP",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
         "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
-        "website": "https://github.com/xreef/MPU-9250-DMP_Library",
+        "website": "https://mischianti.org/mpu9250-with-esp32-and-arduino-accelerometer-magnetometer-and-gyroscope-via-i2c-and-spi/",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
@@ -153754,8 +153754,8 @@
     },
     {
         "name": "TungLam_OmniMecanum_4WD",
-        "version": "0.10.5",
-        "versions": "0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.11.0",
+        "versions": "0.11.0, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.2, 0.8.1, 0.8.0, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
         "author": "Nguyen Khac Tung Lam",
         "maintainer": "Nguyen Khac Tung Lam <183681608+Tunglam0605@users.noreply.github.com>",
         "website": "https://github.com/Tunglam0605/TungLam-OmniMecanum-4WD",
@@ -153940,11 +153940,11 @@
     },
     {
         "name": "LKTRONICS-IOT",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "LK-TRONICS",
-        "maintainer": "LK-TRONICS <support@lktronics.com>",
-        "website": "https://lktronics.com",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "LK TRONICS",
+        "maintainer": "LK TRONICS <rad@lk-tronics.com>",
+        "website": "https://lk-tronics.com",
         "category": "Communication",
         "architectures": "*",
         "types": "Contributed",
@@ -153956,8 +153956,8 @@
     },
     {
         "name": "TungLam_PS2",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Nguyen Khac Tung Lam",
         "maintainer": "Nguyen Khac Tung Lam",
         "website": "https://github.com/Tunglam0605/TungLam-PS2-Controller",
@@ -153986,13 +153986,13 @@
     },
     {
         "name": "SwitchMatrixLib",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "ve-cto <arkusarkus135@gmail.com>",
         "maintainer": "ve-cto <arkusarkus135@gmail.com>",
         "website": "https://github.com/ve-cto/SwitchMatrixLib",
         "category": "Signal Input/Output",
-        "architectures": "*",
+        "architectures": "esp32, esp8266, samd, sam, mbed, mbed_nano, mbed_portenta, mbed_rp2040, rp2040, stm32, renesas, renesas_uno, renesas_portenta",
         "types": "Contributed",
         "repository": "https://github.com/ve-cto/SwitchMatrixLib.git",
         "dependencies": [
@@ -154031,8 +154031,8 @@
     },
     {
         "name": "AD569x",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Sri Ranga Raj B",
         "maintainer": "Sri Ranga Raj B <sreerangaraj387@gmail.com>",
         "website": "https://github.com/srirangaraj-b/AD569X.git",
@@ -154041,7 +154041,7 @@
         "types": "Contributed",
         "repository": "https://github.com/srirangaraj-b/AD569X.git",
         "dependencies": [
-            "Wire"
+            ""
         ]
     },
     {
@@ -154310,6 +154310,36 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/klenov1900-lang/OLED2.42_EASY.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TungLam_Stepper",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "author": "Nguyen Khac Tung Lam",
+        "maintainer": "Nguyen Khac Tung Lam",
+        "website": "https://github.com/Tunglam0605/TungLam-Stepper",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/Tunglam0605/TungLam-Stepper.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Soldered Inputronic Keyboard",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Soldered",
+        "maintainer": "Soldered <soldered@soldered.com>",
+        "website": "https://www.soldered.com/",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SolderedElectronics/SOLDERED-Inputronic-KEYBOARD-Arduino-Library.git",
         "dependencies": [
             ""
         ]
