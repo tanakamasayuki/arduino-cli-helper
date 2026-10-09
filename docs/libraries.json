@@ -50461,8 +50461,8 @@
     },
     {
         "name": "Ponoor PowerSTEP01 Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.0",
         "author": "Ponoor Experiments Inc <info@ponoor.com>",
         "maintainer": "Kanta Horio <kanta@ponoor.com>",
         "website": "https://github.com/ponoor/Ponoor_PowerSTEP01_Library",
@@ -56668,8 +56668,8 @@
     },
     {
         "name": "Ponoor L6470 Library",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "Ponoor Experiments Inc <info@ponoor.com>",
         "maintainer": "Kanta Horio <kanta@ponoor.com>",
         "website": "https://github.com/ponoor/Ponoor_L6470_Library",
@@ -147944,8 +147944,8 @@
     },
     {
         "name": "UNOQ_STM32_HAL",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.1, 2.0.0, 1.0.0",
         "author": "Sri Ranga Raj B",
         "maintainer": "Sri Ranga Raj B <sreerangaraj387@gmail.com>",
         "website": "https://github.com/srirangaraj-b/UNOQ_STM32_HAL",
