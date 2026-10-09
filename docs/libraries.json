@@ -151358,24 +151358,6 @@
         ]
     },
     {
-        "name": "MiniMicroKit-PTL",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "GelectronLAB",
-        "maintainer": "GelectronLAB <gunaneg011@gmail.com>",
-        "website": "https://github.com/GUNANAG38/MiniMicroKit-PTL",
-        "category": "Device Control",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/GUNANAG38/MiniMicroKit_PTL.git",
-        "dependencies": [
-            "Adafruit GFX Library",
-            "Adafruit SSD1306",
-            "PubSubClient",
-            "WiFi"
-        ]
-    },
-    {
         "name": "shark_pid",
         "version": "1.0.0",
         "versions": "1.0.0",
@@ -151839,8 +151821,8 @@
     },
     {
         "name": "FlovaSDK",
-        "version": "0.3.10",
-        "versions": "0.3.10, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.2.0",
+        "version": "0.3.11",
+        "versions": "0.3.11, 0.3.10, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.2.0",
         "author": "Flova",
         "maintainer": "Flova",
         "website": "https://github.com/flova-platform/flova-firmware",
@@ -152500,21 +152482,6 @@
         ]
     },
     {
-        "name": "XeWeUtils",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
-        "author": "Maxim Dokukin",
-        "maintainer": "Maxim Dokukin",
-        "website": "https://github.com/xewe-labs/xewe-library-utils",
-        "category": "Other",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/xewe-labs/xewe-library-utils.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "PedroFirmware",
         "version": "1.0.5",
         "versions": "1.0.5",
@@ -152542,36 +152509,6 @@
         "repository": "https://github.com/AJArnovitz/ArnoTek_HeartBeat.git",
         "dependencies": [
             ""
-        ]
-    },
-    {
-        "name": "XeWeSerial",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
-        "author": "Maxim Dokukin",
-        "maintainer": "Maxim Dokukin",
-        "website": "https://github.com/xewe-labs/xewe-library-serial",
-        "category": "Communication",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/xewe-labs/xewe-library-serial.git",
-        "dependencies": [
-            "XeWeUtils"
-        ]
-    },
-    {
-        "name": "XeWeNvs",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
-        "author": "Maxim Dokukin",
-        "maintainer": "Maxim Dokukin",
-        "website": "https://github.com/xewe-labs/xewe-library-nvs",
-        "category": "Data Storage",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/xewe-labs/xewe-library-nvs.git",
-        "dependencies": [
-            "ArduinoJson"
         ]
     },
     {
@@ -152680,22 +152617,6 @@
         ]
     },
     {
-        "name": "XeWeCli",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
-        "author": "Maxim Dokukin",
-        "maintainer": "Maxim Dokukin",
-        "website": "https://github.com/xewe-labs/xewe-library-cli",
-        "category": "Communication",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/xewe-labs/xewe-library-cli.git",
-        "dependencies": [
-            "XeWeSerial",
-            "XeWeUtils"
-        ]
-    },
-    {
         "name": "DexmodIoT",
         "version": "0.3.1",
         "versions": "0.3.1, 0.2.3, 0.1.0",
@@ -152770,24 +152691,6 @@
         "repository": "https://github.com/Steel-Mastr/JLib_for_Arduino.git",
         "dependencies": [
             ""
-        ]
-    },
-    {
-        "name": "XeWeOS",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
-        "author": "Maxim Dokukin",
-        "maintainer": "Maxim Dokukin",
-        "website": "https://github.com/xewe-labs/xewe-library-os",
-        "category": "Other",
-        "architectures": "esp32",
-        "types": "Contributed",
-        "repository": "https://github.com/xewe-labs/xewe-library-os.git",
-        "dependencies": [
-            "XeWeUtils",
-            "XeWeSerial",
-            "XeWeNvs",
-            "XeWeCli"
         ]
     },
     {
@@ -153408,21 +153311,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tuhde/Periph-Arduino.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "every",
-        "version": "0.8.0",
-        "versions": "0.8.0",
-        "author": "Funny Pedrei <funny.pedrei@platynum.ch>",
-        "maintainer": "Funny Pedrei <funny.pedrei@platynum.ch>",
-        "website": "https://github.com/fpedrei/every/",
-        "category": "Timing",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/fpedrei/every.git",
         "dependencies": [
             ""
         ]
@@ -154292,21 +154180,6 @@
         ]
     },
     {
-        "name": "AS7343_7Semi",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Supratik Das",
-        "maintainer": "supratikd <supratikdas@hotmail.com>",
-        "website": "https://github.com/supratikd/AS7343_7Semi",
-        "category": "Sensors",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/supratikd/AS7343_7Semi.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
         "name": "OLED2.42_EASY",
         "version": "1.0.1",
         "versions": "1.0.1, 1.0.0",
@@ -154655,7 +154528,7 @@
     {
         "name": "KonnextraKNX",
         "version": "0.1.9",
-        "versions": "0.1.9, 0.1.8",
+        "versions": "0.1.9",
         "author": "Florian Wiesner <wiesner.florian@gmx.at>",
         "maintainer": "Florian Wiesner <wiesner.florian@gmx.at>",
         "website": "https://github.com/konnextra/KonnextraKNX",
@@ -154931,15 +154804,15 @@
     },
     {
         "name": "7Semi AS7343",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "7Semi <info@7semi.com>",
-        "maintainer": "7Semi <info@7semi.com>",
-        "website": "https://github.com/7semi-solutions/7Semi-AS7343",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Supratik Das",
+        "maintainer": "supratikd <supratikdas@hotmail.com>",
+        "website": "https://github.com/supratikd/AS7343_7Semi",
         "category": "Sensors",
         "architectures": "*",
         "types": "Contributed",
-        "repository": "https://github.com/7semi-solutions/7Semi-AS7343.git",
+        "repository": "https://github.com/supratikd/AS7343_7Semi.git",
         "dependencies": [
             ""
         ]
@@ -155015,6 +154888,84 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/7semi-solutions/7Semi-DS2482.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MiniMicroKitPTL",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "GelectronLAB",
+        "maintainer": "GelectronLAB <gunaneg011@gmail.com>",
+        "website": "https://github.com/GUNANAG38/MiniMicroKitPTL",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/GUNANAG38/MiniMicroKitPTL.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SSD1306",
+            "PubSubClient",
+            "WiFi"
+        ]
+    },
+    {
+        "name": "XeWeCore",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
+        "author": "Maxim Dokukin",
+        "maintainer": "Maxim Dokukin",
+        "website": "https://github.com/xewe-labs/xewe-os-core",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/xewe-labs/xewe-os-core.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "RepeatedTask",
+        "version": "0.3.0",
+        "versions": "0.3.0",
+        "author": "Funny Pedrei <funny.pedrei@platynum.ch>",
+        "maintainer": "Funny Pedrei <funny.pedrei@platynum.ch>",
+        "website": "https://github.com/fpedrei/every/",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/fpedrei/every.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BonezegeiIoT",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
+        "website": "https://github.com/bonezegei/BonezegeiIoT",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/BonezegeiIoT.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi BMM150",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-BMM150",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-BMM150.git",
         "dependencies": [
             ""
         ]
