@@ -11275,8 +11275,8 @@
     },
     {
         "name": "ATMlib",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.1, 2.0.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.0, 1.0.0",
         "author": "TEAM a.r.g., Joeri Gantois aka JO3RI, Davey Taylor aka STG",
         "maintainer": "joerigantois@gmail.com",
         "website": "https://t-arg.github.io/ATMlib",
@@ -139729,8 +139729,8 @@
     },
     {
         "name": "ATGenX_Hub",
-        "version": "2.3.0",
-        "versions": "2.3.0, 1.0.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.0, 1.0.0",
         "author": "Seif Emad / ARDUTECH0",
         "maintainer": "Seif Emad <support@atgenx.com>",
         "website": "https://github.com/ARDUTECH0/ATGenXIOT",
@@ -151183,8 +151183,8 @@
     },
     {
         "name": "cyfney-cpp",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
         "author": "anka",
         "maintainer": "anka",
         "website": "https://github.com/cyfney/cyfney-cpp-arduino",
@@ -152697,8 +152697,8 @@
     },
     {
         "name": "DexmodIoT",
-        "version": "0.2.3",
-        "versions": "0.2.3, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.2.3, 0.1.0",
         "author": "Dexmod",
         "maintainer": "Dexmod",
         "website": "https://github.com/uniot-outech/DexmodIoT",
@@ -154837,6 +154837,186 @@
         "dependencies": [
             "RangeMonitor",
             "DS18B20Sensor"
+        ]
+    },
+    {
+        "name": "AlfredoFusion",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alfredo Systems",
+        "maintainer": "Jacob Williams (jrw4561@gmail.com)",
+        "website": "https://github.com/AlfredoSystems/AlfredoFusion",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AlfredoSystems/AlfredoFusion.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi VL6180X",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-VL6180X",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-VL6180X.git",
+        "dependencies": [
+            "7Semi BusCore"
+        ]
+    },
+    {
+        "name": "7Semi Bus",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7Semi/7Semi_Bus",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi_BusCore.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi INA240",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7Semi-Solutions/7Semi-INA240",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-INA240.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi VL53L1X",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi_VL53L1X",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-VL53L1X.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi MCP4725",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-MCP4725",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-MCP4725.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi AS7343",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-AS7343",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-AS7343.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi HDC302x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-HDC302x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-HDC302x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi SHT2x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-SHT2x",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-SHT2x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi MCP4728",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-MCP4728",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-MCP4728.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi MCP9808",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-MCP9808",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-MCP9808.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "7Semi DS2482",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "7Semi <info@7semi.com>",
+        "maintainer": "7Semi <info@7semi.com>",
+        "website": "https://github.com/7semi-solutions/7Semi-DS2482",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/7semi-solutions/7Semi-DS2482.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
