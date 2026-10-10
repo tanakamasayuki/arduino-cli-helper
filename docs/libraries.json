@@ -89266,8 +89266,8 @@
     },
     {
         "name": "SunFounder AI Camera",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SunFounder",
         "maintainer": "SunFounder",
         "website": "https://github.com/sunfounder/SunFounder_Ai_Camera",
@@ -141952,8 +141952,8 @@
     },
     {
         "name": "CodexPad",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
+        "version": "4.1.0",
+        "versions": "4.1.0, 4.0.0, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/codexpad_arduino_lib",
@@ -146209,8 +146209,8 @@
     },
     {
         "name": "GamepadInput",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/gamepad_input_arduino_lib",
@@ -152312,8 +152312,8 @@
     },
     {
         "name": "SyslogSender",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Péter Soós <https://github.com/soosp>",
         "maintainer": "Péter Soós <https://github.com/soosp>",
         "website": "https://github.com/soosp/SyslogSender",
@@ -154989,6 +154989,51 @@
             "ESP32Servo",
             "XPT2046_Touchscreen",
             "TJpg_Decoder"
+        ]
+    },
+    {
+        "name": "WakeNet9Arduino",
+        "version": "2.2.0",
+        "versions": "2.2.0",
+        "author": "Abi",
+        "maintainer": "Abi",
+        "website": "https://github.com/abinsaji2008/WakeNet9Arduino_-simplifier",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/abinsaji2008/WakeNet9Arduino_-simplifier.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "GroqAudioStream",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "OpenAI",
+        "maintainer": "OpenAI",
+        "website": "https://github.com/abinsaji2008/GroqAudioStream_Library",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/abinsaji2008/GroqAudioStream_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32Audiometer",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "vax9210",
+        "maintainer": "vax9210",
+        "website": "https://github.com/vax9210/ESP32-Audiometer",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/vax9210/ESP32-Audiometer.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
