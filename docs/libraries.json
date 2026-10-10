@@ -69754,8 +69754,8 @@
     },
     {
         "name": "Timers",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Centaq <marcinboniakowski@gmail.com>",
         "maintainer": "Centaq <marcinboniakowski@gmail.com>",
         "website": "https://github.com/centaq/arduino-simple-timers",
@@ -88762,8 +88762,8 @@
     },
     {
         "name": "Taskfun",
-        "version": "0.1.93",
-        "versions": "0.1.93, 0.1.92, 0.1.91, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.95",
+        "versions": "0.1.95, 0.1.94, 0.1.93, 0.1.92, 0.1.91, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Eugene Pistrak",
         "maintainer": "Eugene Pistrak",
         "website": "https://github.com/glutio/Taskfun",
@@ -88912,8 +88912,8 @@
     },
     {
         "name": "Eventfun",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.5",
+        "versions": "0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Eugene Pistrak",
         "maintainer": "Eugene Pistrak",
         "website": "https://github.com/glutio/Eventfun",
@@ -155062,6 +155062,36 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/Shieldio/ShieldioDisplay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DFRobotMLDR",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Paul Watts",
+        "maintainer": "Paul Watts",
+        "website": "https://github.com/PaulNTU/DFRobotMLDR",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PaulNTU/DFRobotMLDR.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "KenwoodXS-for-KR-V6030",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Programowanie i Granie",
+        "maintainer": "Programowanie i Granie",
+        "website": "https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030.git",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030.git",
         "dependencies": [
             ""
         ]
