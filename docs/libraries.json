@@ -134692,8 +134692,8 @@
     },
     {
         "name": "ESP32FtpServer",
-        "version": "1.1.4",
-        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3",
+        "version": "1.1.5",
+        "versions": "1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.3",
         "author": "Amauri Bueno (Annabel369)",
         "maintainer": "Amauri Bueno (Annabel369)",
         "website": "https://github.com/Annabel369/ESP32FTPServer",
@@ -149859,8 +149859,8 @@
     },
     {
         "name": "ESPNowUtilities",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Christoph Streit <christoph.streit@gmail.com>",
         "maintainer": "Christoph Streit <christoph.streit@gmail.com>",
         "website": "https://github.com/forgevolt/ESPNowUtilities",
@@ -154968,6 +154968,27 @@
         "repository": "https://github.com/7semi-solutions/7Semi-BMM150.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "2FATouchCore",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Amauri Bueno dos Santos",
+        "maintainer": "Amauri Bueno dos Santos",
+        "website": "https://github.com/Annabel369/2FATouchCore",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Annabel369/2FATouchCore.git",
+        "dependencies": [
+            "TFT_eSPI",
+            "ESP32FtpServer",
+            "ArduinoJson",
+            "NTPClient",
+            "ESP32Servo",
+            "XPT2046_Touchscreen",
+            "TJpg_Decoder"
         ]
     }
 ]
