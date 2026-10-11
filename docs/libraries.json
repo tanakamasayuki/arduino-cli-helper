@@ -6212,8 +6212,8 @@
     },
     {
         "name": "Etherkit Si5351",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Jason Milldrum <milldrum@gmail.com>",
         "maintainer": "Jason Milldrum <milldrum@gmail.com>",
         "website": "https://github.com/etherkit/Si5351Arduino",
@@ -151280,8 +151280,8 @@
     },
     {
         "name": "DevLab_TEMT6000",
-        "version": "2.0.4",
-        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.5",
+        "versions": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "UNIT Electronics MX",
         "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library",
@@ -155092,6 +155092,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CMScript",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SUNSETDEVER",
+        "maintainer": "SUNSETDEVER<973879601@qq.com>",
+        "website": "https://github.com/SUNSETDEVER/KernelCDM",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/SUNSETDEVER/KernelCDM.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FixedPID",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "citycafe578",
+        "maintainer": "citycafe578",
+        "website": "https://github.com/citycafe578/FixedPID",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/citycafe578/FixedPID.git",
         "dependencies": [
             ""
         ]
