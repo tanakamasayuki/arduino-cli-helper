@@ -132891,8 +132891,8 @@
     },
     {
         "name": "ThreadSafePing",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan.jurca@gmail.com>",
         "website": "https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32",
@@ -140539,8 +140539,8 @@
     },
     {
         "name": "ESP32_Multitasking_Network_Suite",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.0.1",
         "author": "Bojan Jurca",
         "maintainer": "Bojan Jurca <bojan@gmail.com>",
         "website": "https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library",
@@ -151821,8 +151821,8 @@
     },
     {
         "name": "FlovaSDK",
-        "version": "0.3.11",
-        "versions": "0.3.11, 0.3.10, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.2.0",
+        "version": "0.3.12",
+        "versions": "0.3.12, 0.3.11, 0.3.10, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.2.0",
         "author": "Flova",
         "maintainer": "Flova",
         "website": "https://github.com/flova-platform/flova-firmware",
@@ -154698,8 +154698,8 @@
     },
     {
         "name": "TemperatureMonitor",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/TemperatureMonitor",
@@ -154912,8 +154912,8 @@
     },
     {
         "name": "XeWeCore",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.0.1, 2.0.0",
         "author": "Maxim Dokukin",
         "maintainer": "Maxim Dokukin",
         "website": "https://github.com/xewe-labs/xewe-os-core",
@@ -155128,8 +155128,8 @@
     },
     {
         "name": "Focuspocus",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "glutio",
         "maintainer": "glutio",
         "website": "https://github.com/glutio/Focuspocus",
@@ -155138,7 +155138,54 @@
         "types": "Contributed",
         "repository": "https://github.com/glutio/Focuspocus.git",
         "dependencies": [
-            "Adafruit GFX Library"
+            "Adafruit GFX Library",
+            "Eventfun",
+            "Buratino"
+        ]
+    },
+    {
+        "name": "M5SerialPngCapture",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Matthias Prinke",
+        "maintainer": "Matthias Prinke",
+        "website": "https://github.com/matthias-bs/M5SerialPngCapture",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/matthias-bs/M5SerialPngCapture.git",
+        "dependencies": [
+            "M5Unified"
+        ]
+    },
+    {
+        "name": "Buratino",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Eugene Pistrak",
+        "maintainer": "Eugene Pistrak",
+        "website": "https://github.com/glutio/Buratino",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/glutio/Buratino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "JoystickUtilities",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Christoph Streit <christoph.streit@gmail.com>",
+        "maintainer": "Christoph Streit <christoph.streit@gmail.com>",
+        "website": "https://github.com/forgevolt/JoystickUtilities",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/forgevolt/JoystickUtilities.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
