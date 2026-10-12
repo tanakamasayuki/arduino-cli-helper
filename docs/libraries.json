@@ -44097,8 +44097,8 @@
     },
     {
         "name": "tcMenu",
-        "version": "5.0.0",
-        "versions": "5.0.0, 4.5.9, 4.5.0, 4.4.0, 4.3.1, 4.3.0, 4.2.1, 4.1.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.5.0, 2.4.0, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.1.3, 2.1.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.1.0",
+        "version": "5.0.1",
+        "versions": "5.0.1, 5.0.0, 4.5.9, 4.5.0, 4.4.0, 4.3.1, 4.3.0, 4.2.1, 4.1.1, 4.0.0, 3.1.0, 3.0.1, 3.0.0, 2.5.0, 2.4.0, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.4, 2.2.3, 2.1.3, 2.1.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.1.0",
         "author": "davetcc",
         "maintainer": "www.thecoderscorner.com",
         "website": "https://github.com/TcMenu/tcMenuLib",
@@ -45201,8 +45201,8 @@
     },
     {
         "name": "PCF8574",
-        "version": "0.4.5",
-        "versions": "0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.1.9",
+        "version": "0.4.6",
+        "versions": "0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.1.9",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/PCF8574.git",
@@ -52617,8 +52617,8 @@
     },
     {
         "name": "ESP32 HUB75 LED MATRIX PANEL DMA Display",
-        "version": "3.0.14",
-        "versions": "3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.2, 3.0.1, 3.0.0, 2.0.7, 2.0.6, 2.0.5, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.3",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.2, 3.0.1, 3.0.0, 2.0.7, 2.0.6, 2.0.5, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.2.3",
         "author": "MrCodetastic",
         "maintainer": "MrCodetastic",
         "website": "https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA",
@@ -75351,8 +75351,8 @@
     },
     {
         "name": "pfodParser",
-        "version": "5.1.11",
-        "versions": "5.1.11, 5.1.10, 5.1.9, 5.1.8, 5.1.7, 5.1.5, 5.1.4, 5.1.3, 5.1.2, 5.1.1, 5.1.0, 5.0.4, 5.0.3, 4.1.2, 4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
+        "version": "5.1.12",
+        "versions": "5.1.12, 5.1.11, 5.1.10, 5.1.9, 5.1.8, 5.1.7, 5.1.5, 5.1.4, 5.1.3, 5.1.2, 5.1.1, 5.1.0, 5.0.4, 5.0.3, 4.1.2, 4.1.1, 4.1.0, 3.66.6, 3.66.5, 3.66.4, 3.66.3, 3.66.2, 3.66.1, 3.64.1, 3.63.10, 3.63.9, 3.63.8, 3.63.7, 3.63.6, 3.63.5, 3.63.4, 3.63.3, 3.63.1, 3.63.0, 3.62.0, 3.61.0, 3.58.0, 3.57.0, 3.56.1, 3.56.0, 3.55.6, 3.55.5, 3.55.0",
         "author": "Matthew Ford",
         "maintainer": "Matthew Ford",
         "website": "https://github.com/drmpf/pfodParser",
@@ -98632,8 +98632,8 @@
     },
     {
         "name": "IOSignal",
-        "version": "6.0.0",
-        "versions": "6.0.0, 5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
+        "version": "6.0.1",
+        "versions": "6.0.1, 6.0.0, 5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/iosignal-arduino",
@@ -99192,8 +99192,8 @@
     },
     {
         "name": "Remocon",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.1",
+        "versions": "3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/remocon-arduino",
@@ -111787,8 +111787,8 @@
     },
     {
         "name": "M5Unit-WEIGHT",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0, 0.0.2, 0.0.1",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-WEIGHT",
@@ -111804,8 +111804,8 @@
     },
     {
         "name": "M5Unit-TOF",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0, 0.0.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-TOF",
@@ -116969,8 +116969,8 @@
     },
     {
         "name": "M5Unit-ANADIG",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.0, 0.0.1",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-ANADIG",
@@ -116986,8 +116986,8 @@
     },
     {
         "name": "M5Unit-COLOR",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0, 0.0.1",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-COLOR",
@@ -120649,8 +120649,8 @@
     },
     {
         "name": "RockBLOCK-9704",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.1.31, 0.1.30, 0.1.29, 0.1.28, 0.1.27, 0.1.26, 0.1.25, 0.1.24, 0.1.23, 0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.18",
+        "version": "1.1.4",
+        "versions": "1.1.4, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0, 0.1.31, 0.1.30, 0.1.29, 0.1.28, 0.1.27, 0.1.26, 0.1.25, 0.1.24, 0.1.23, 0.1.22, 0.1.21, 0.1.20, 0.1.19, 0.1.18",
         "author": "Ground Control",
         "maintainer": "help@groundcontrol.com",
         "website": "https://github.com/rock7/RockBLOCK-9704",
@@ -141952,11 +141952,11 @@
     },
     {
         "name": "CodexPad",
-        "version": "4.1.0",
-        "versions": "4.1.0, 4.0.0, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
+        "version": "4.2.0",
+        "versions": "4.2.0, 4.1.0, 4.0.0, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
-        "website": "https://github.com/CodexPad/codexpad_arduino_lib",
+        "website": "https://github.com/CodexPad/codex_pad_arduino_lib",
         "category": "Other",
         "architectures": "esp32",
         "types": "Contributed",
@@ -142846,8 +142846,8 @@
     },
     {
         "name": "SimcomA76xx",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.0, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/SimcomA76xx",
@@ -146209,8 +146209,8 @@
     },
     {
         "name": "GamepadInput",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "cyfney-anka",
         "maintainer": "cyfney-anka@qq.com",
         "website": "https://github.com/CodexPad/gamepad_input_arduino_lib",
@@ -148325,8 +148325,8 @@
     },
     {
         "name": "Plynx",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
+        "version": "1.4.1",
+        "versions": "1.4.1, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",
         "author": "Plynx, derived from Blynk library by Volodymyr Shymanskyy",
         "maintainer": "Plynx (NickP005)",
         "website": "https://www.plynx.cc",
@@ -154635,8 +154635,8 @@
     },
     {
         "name": "RangeMonitor",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/RangeMonitor",
@@ -154698,8 +154698,8 @@
     },
     {
         "name": "TemperatureMonitor",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/TemperatureMonitor",
@@ -155083,8 +155083,8 @@
     },
     {
         "name": "KenwoodXS-for-KR-V6030",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Programowanie i Granie",
         "maintainer": "Programowanie i Granie",
         "website": "https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030.git",
@@ -155184,6 +155184,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/forgevolt/JoystickUtilities.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DTutils",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Sven Steinmeier <sven.steinmeier@gmail.com>",
+        "maintainer": "Sven Steinmeier <sven.steinmeier@gmail.com>",
+        "website": "https://github.com/simsum/DTutils",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/simsum/DTutils.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP_MOVIE",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ShunTomino",
+        "maintainer": "ShunTomino",
+        "website": "https://github.com/ShunTomino/ESP_MOVIE.git",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ShunTomino/ESP_MOVIE.git",
         "dependencies": [
             ""
         ]
