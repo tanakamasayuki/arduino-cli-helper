@@ -66805,8 +66805,8 @@
     },
     {
         "name": "TheengsDecoder",
-        "version": "2.4.5",
-        "versions": "2.4.5, 2.4.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.1, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.0, 1.7.8, 1.7.5, 1.7.4, 1.7.2, 1.7.0, 1.6.8, 1.6.7, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.2-beta, 1.6.1, 1.6.0, 1.5.7, 1.5.5, 1.5.1, 1.5.0, 1.4.2, 1.4.0, 1.3.7, 1.3.5, 1.3.0, 1.2.0, 1.1.0, 1.0.0, 0.9.7, 0.9.5, 0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.5, 2.4.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.1, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.0, 1.7.8, 1.7.5, 1.7.4, 1.7.2, 1.7.0, 1.6.8, 1.6.7, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.2-beta, 1.6.1, 1.6.0, 1.5.7, 1.5.5, 1.5.1, 1.5.0, 1.4.2, 1.4.0, 1.3.7, 1.3.5, 1.3.0, 1.2.0, 1.1.0, 1.0.0, 0.9.7, 0.9.5, 0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "Florian Robert, Ryan Powell",
         "maintainer": "Florian Robert",
         "website": "https://github.com/theengs/decoder",
@@ -133647,13 +133647,13 @@
     },
     {
         "name": "DFPongController",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Digital Futures OCAD U",
         "maintainer": "Digital Futures OCAD U",
         "website": "https://github.com/DigitalFuturesOCADU/df-pong-controller",
         "category": "Communication",
-        "architectures": "samd, nrf52, renesas_uno, esp32",
+        "architectures": "samd, nrf52, mbed, mbed_nano, renesas_uno, esp32",
         "types": "Contributed",
         "repository": "https://github.com/DigitalFuturesOCADU/df-pong-controller.git",
         "dependencies": [
@@ -136594,8 +136594,8 @@
     },
     {
         "name": "Tumbly",
-        "version": "1.4.1",
-        "versions": "1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.1, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Mason Barrett, Lex Kravitz",
         "maintainer": "Lex Kravitz <alexxai@wustl.edu   >",
         "website": "https://github.com/KravitzLabDevices/Tumbly",
@@ -145497,8 +145497,8 @@
     },
     {
         "name": "RPCToolkit",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Nicola Carpanese <https://github.com/n-car>",
         "maintainer": "Nicola Carpanese <https://github.com/n-car>",
         "website": "https://github.com/n-car/rpc-arduino-toolkit",
@@ -148051,8 +148051,8 @@
     },
     {
         "name": "NetworkManager",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Péter Soós <https://github.com/soosp>",
         "maintainer": "Péter Soós <https://github.com/soosp>",
         "website": "https://github.com/soosp/NetworkManager",
@@ -151228,8 +151228,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.8.0",
-        "versions": "0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.9.0",
+        "versions": "0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
@@ -151806,8 +151806,8 @@
     },
     {
         "name": "TM1637_6Easy",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.2, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.0.2, 1.0.0",
         "author": "klenov1900-lang",
         "maintainer": "klenov1900-lang <gray_wolf19@mail.ru>",
         "website": "https://github.com/klenov1900-lang/TM1637_6Easy",
@@ -154325,8 +154325,8 @@
     },
     {
         "name": "ESP32-ICND2153-Panel",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "n0cturnality",
         "maintainer": "n0cturnality",
         "website": "https://github.com/n0cturnality/ESP32-ICND2153-Panel",
@@ -155216,6 +155216,82 @@
         "repository": "https://github.com/ShunTomino/ESP_MOVIE.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Grove IMU 9DOF ICM20600 AK09918 UNO R4",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Seeed Studio, Mourad",
+        "maintainer": "Mourad",
+        "website": "https://github.com/ebm9991/Seeed_ICM20600_AK09918_UNOR4",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ebm9991/Seeed_ICM20600_AK09918_UNOR4.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32NFS",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "author": "Yitao Jiang",
+        "maintainer": "Yitao Jiang <22387156+cccat6@users.noreply.github.com>",
+        "website": "https://github.com/cccat6/ESP32NFS",
+        "category": "Communication",
+        "architectures": "esp32, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/cccat6/ESP32NFS.git",
+        "dependencies": [
+            "SdFat"
+        ]
+    },
+    {
+        "name": "SoftI2C_Shared_CLS",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Felipe Verri <pipe.verri@gmail.com>",
+        "maintainer": "Felipe Verri <pipe.verri@gmail.com>",
+        "website": "https://github.com/PipeVerri/I2C-Shared-CLS",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PipeVerri/SoftI2C-Shared-CLS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SunLocator",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Clifford Farrugia",
+        "maintainer": "Clifford Farrugia <62100236+clifarr@users.noreply.github.com>",
+        "website": "https://github.com/clifarr/sunlocator",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/clifarr/sunlocator.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Railuino",
+        "version": "0.14.0",
+        "versions": "0.14.0",
+        "author": "Joerg Pleumann, Christophe Bobille, Uwe Monreal",
+        "maintainer": "Christophe Bobille",
+        "website": "https://github.com/BOBILLEChristophe/Railuino",
+        "category": "Communication",
+        "architectures": "esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/BOBILLEChristophe/Railuino.git",
+        "dependencies": [
+            "ACAN_ESP32",
+            "ACAN2515"
         ]
     }
 ]
