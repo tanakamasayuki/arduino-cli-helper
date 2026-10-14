@@ -110385,8 +110385,8 @@
     },
     {
         "name": "DashioESP",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.18, 1.2.17, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.18, 1.2.17, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0",
         "author": "DashIO Connect <info@dashio.io>",
         "maintainer": "DashIO Connect <info@dashio.io>",
         "website": "https://dashio.io",
@@ -135186,8 +135186,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.8.2",
-        "versions": "1.8.2, 1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.9.0",
+        "versions": "1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -147975,8 +147975,8 @@
     },
     {
         "name": "note-cpp",
-        "version": "0.3.4",
-        "versions": "0.3.4, 0.3.3, 0.3.2",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2",
         "author": "Mat McGowan",
         "maintainer": "Mat McGowan",
         "website": "https://github.com/m-mcgowan/note-cpp",
@@ -155405,8 +155405,8 @@
     },
     {
         "name": "CodonTraceSwarm",
-        "version": "0.12.8",
-        "versions": "0.12.8, 0.12.7, 0.12.6, 0.12.5, 0.12.4, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.0, 0.8.0, 0.6.0, 0.4.0",
+        "version": "0.12.9",
+        "versions": "0.12.9, 0.12.8, 0.12.7, 0.12.6, 0.12.5, 0.12.4, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.0, 0.8.0, 0.6.0, 0.4.0",
         "author": "Parvaz Jamei",
         "maintainer": "Parvaz Jamei",
         "website": "https://github.com/Parvaz-Jamei/CodonTraceSwarm",
@@ -155422,6 +155422,51 @@
             "HX711 Arduino Library",
             "ProtoCentral FDC1004 Capacitive Sensor Library",
             "FDCxCapSense"
+        ]
+    },
+    {
+        "name": "OK Clock64",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Dan Egnor",
+        "maintainer": "egnor@ofb.net",
+        "website": "https://github.com/egnor/ok_arduino_clock64",
+        "category": "Timing",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/egnor/ok_arduino_clock64.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UARDECS_ESP32C3",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Takehiko Hoshi, Hideto Kurosaki and Ken-ichro Yasuba",
+        "maintainer": "Hoshi@hoshi-lab.net",
+        "website": "https://github.com/uecs-star/UARDECS_ESP32C3",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/uecs-star/UARDECS_ESP32C3.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PicoENC28J60",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.3.0, 1.2.0, 1.1.0",
+        "author": "Lukasz Janyst (original driver), Ângelo Moisés Alves (Arduino port)",
+        "maintainer": "Ângelo Moisés Alves <117550822+angeloINTJ@users.noreply.github.com>",
+        "website": "https://github.com/angeloINTJ/pico-enc28j60",
+        "category": "Communication",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/angeloINTJ/pico-enc28j60.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
