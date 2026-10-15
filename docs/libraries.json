@@ -81607,8 +81607,8 @@
     },
     {
         "name": "debounce",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Aaron Kimball",
         "maintainer": "Aaron Kimball <akimball83@gmail.com>",
         "website": "https://github.com/kimballa/button-debounce.git",
@@ -134028,8 +134028,8 @@
     },
     {
         "name": "GPIOUtils",
-        "version": "2.4.2",
-        "versions": "2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
+        "version": "2.4.3",
+        "versions": "2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.0, 1.1.0",
         "author": "Geoffrey Trueman Falk",
         "maintainer": "Geoffrey T. Falk <topquark22@yahoo.ca>",
         "website": "https://github.com/topquark22/GPIOUtils",
@@ -155585,6 +155585,66 @@
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/klenov1900-lang/I2C_EASY.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EspSerialFlasher",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Espressif Systems",
+        "maintainer": "Jaroslav Burian <jarda-burian@hotmail.cz>",
+        "website": "https://github.com/espressif/esp-serial-flasher",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Dzarda7/EspSerialFlasher.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PinNode",
+        "version": "0.3.12",
+        "versions": "0.3.12, 0.3.11",
+        "author": "PinNode",
+        "maintainer": "PinNode",
+        "website": "https://pin-node.com",
+        "category": "Communication",
+        "architectures": "avr, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/pin-node/PinNode.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Radio_GemTek",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "İsmail Caner Naz",
+        "maintainer": "İsmail Caner Naz <ismailcanernaz@aol.com>",
+        "website": "https://github.com/ismailcanernaz/Radio_GemTek",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ismailcanernaz/Radio_GemTek.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RPUMachines",
+        "version": "0.3.0",
+        "versions": "0.3.0",
+        "author": "PinNode and contributors",
+        "maintainer": "PinNode",
+        "website": "https://github.com/pin-node/RPUMachines",
+        "category": "Other",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/pin-node/RPUMachines.git",
         "dependencies": [
             ""
         ]
