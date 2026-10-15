@@ -142802,12 +142802,12 @@
     },
     {
         "name": "lengthConverter",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/lengthConverter",
-        "category": "Sensors",
+        "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/lengthConverter.git",
@@ -145528,8 +145528,8 @@
     },
     {
         "name": "FansElectronics_DMD32",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Fans Electronics, Irfan Indra Kurniawan, S.T",
         "maintainer": "Irfan Indra Kurniawan, S.T <info@fanselectronics.com>",
         "website": "https://github.com/Vean/FansElectronics_DMD32",
@@ -151229,8 +151229,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.13.2",
-        "versions": "0.13.2, 0.13.1, 0.13.0, 0.12.0, 0.11.0, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.14.0",
+        "versions": "0.14.0, 0.13.2, 0.13.1, 0.13.0, 0.12.0, 0.11.0, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
@@ -155606,11 +155606,11 @@
     },
     {
         "name": "PinNode",
-        "version": "0.3.12",
-        "versions": "0.3.12, 0.3.11",
+        "version": "0.3.14",
+        "versions": "0.3.14, 0.3.13, 0.3.12, 0.3.11",
         "author": "PinNode",
         "maintainer": "PinNode",
-        "website": "https://pin-node.com",
+        "website": "https://github.com/pin-node/PinNode",
         "category": "Communication",
         "architectures": "avr, esp32",
         "types": "Contributed",
@@ -155660,6 +155660,84 @@
         "architectures": "sam, samd, mbed_nano, mbed_giga, mbed_rp2040, mbed_portenta, esp32, stm32, nrf52, teensy40, avr, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/A-vrice/azaraC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ReflectINI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Michael michi.fu@quickline.ch",
+        "maintainer": "Michael michi.fu@quickline.ch",
+        "website": "https://github.com/Michael-0-sys/ReflectINI",
+        "category": "Data Processing",
+        "architectures": "rp2040, esp32, teensy, renesas_uno",
+        "types": "Contributed",
+        "repository": "https://github.com/Michael-0-sys/ReflectINI.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Pinscope",
+        "version": "0.2.9",
+        "versions": "0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
+        "author": "Filip Code <hello@pinscope.dev>",
+        "maintainer": "Filip Code <hello@pinscope.dev>",
+        "website": "https://pinscope.dev/docs",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/pinscope-dev/pinscope-esp.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "lvgl_theme_shadcn",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0, 0.2.0, 0.1.1",
+        "author": "Alix ANNERAUD <alix@anneraud.fr>",
+        "maintainer": "Alix ANNERAUD <alix@anneraud.fr>",
+        "website": "https://github.com/AlixANNERAUD/lvgl_theme_shadcn",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AlixANNERAUD/lvgl_theme_shadcn.git",
+        "dependencies": [
+            "lvgl"
+        ]
+    },
+    {
+        "name": "M5Unit-IMU",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "M5Stack",
+        "maintainer": "M5Stack",
+        "website": "https://github.com/m5stack/M5Unit-IMU",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/m5stack/M5Unit-IMU.git",
+        "dependencies": [
+            "M5UnitUnified",
+            "M5Utility",
+            "M5HAL",
+            "M5Unit-ENV"
+        ]
+    },
+    {
+        "name": "MakerSumoRP2350",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Cytron Technologies Sdn Bhd <support@cytron.io>",
+        "maintainer": "Cytron Technologies Sdn Bhd <support@cytron.io>",
+        "website": "https://github.com/alifaiman-af/MakerSumoRP2350.git",
+        "category": "Device Control",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/CytronTechnologies/MakerSumoRP2350.git",
         "dependencies": [
             ""
         ]
