@@ -120095,10 +120095,10 @@
     },
     {
         "name": "RP2040PIO_CAN",
-        "version": "0.0.6",
-        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
         "author": "Rin Iwai",
-        "maintainer": "Rin Iwai <rin@eyrin.jp>",
+        "maintainer": "Rin Iwai <me@eyrin.jp>",
         "website": "https://github.com/eyr1n/RP2040PIO_CAN",
         "category": "Communication",
         "architectures": "rp2040",
@@ -120219,10 +120219,10 @@
     },
     {
         "name": "ESP32_TWAI",
-        "version": "0.0.5",
-        "versions": "0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Rin Iwai",
-        "maintainer": "Rin Iwai <rin@eyrin.jp>",
+        "maintainer": "Rin Iwai <me@eyrin.jp>",
         "website": "https://github.com/eyr1n/ESP32_TWAI",
         "category": "Communication",
         "architectures": "esp32",
@@ -133769,8 +133769,8 @@
     },
     {
         "name": "PicoGFX_SSD1322",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "The Happy Grey",
         "maintainer": "The Happy Grey <jay@thehappygrey.co.uk>",
         "website": "https://github.com/TheHappyGrey/PicoGFX_SSD1322",
@@ -155636,11 +155636,11 @@
     },
     {
         "name": "RPUMachines",
-        "version": "0.3.0",
-        "versions": "0.3.0",
-        "author": "PinNode and contributors",
-        "maintainer": "PinNode",
-        "website": "https://github.com/pin-node/RPUMachines",
+        "version": "0.3.1",
+        "versions": "0.3.1, 0.3.0",
+        "author": "John Turner (wifijt) and contributors",
+        "maintainer": "John Turner (wifijt)",
+        "website": "https://github.com/wifijt/RPUMachines",
         "category": "Other",
         "architectures": "avr",
         "types": "Contributed",
@@ -155755,6 +155755,52 @@
         "repository": "https://github.com/longtrinh/TinyGSM2.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "IndurUI",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "author": "Rakibul Islam",
+        "maintainer": "Rakibul Islam <rakibul.rir06@gmail.com>",
+        "website": "https://github.com/RakibulIslam1/indur-ui",
+        "category": "Display",
+        "architectures": "esp32, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/RakibulIslam1/indur-ui.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SSD1306"
+        ]
+    },
+    {
+        "name": "KoebeltLink",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Thomas Koebel",
+        "maintainer": "Thomas Koebel <contact@koebelt.com>",
+        "website": "https://github.com/koebelt/KoebeltLink",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/koebelt/KoebeltLink.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "DS3231_EASY",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "klenov1900-lang",
+        "maintainer": "klenov1900-lang <gray_wolf19@mail.ru>",
+        "website": "https://github.com/klenov1900-lang/DS3231_EASY",
+        "category": "Timing",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/klenov1900-lang/DS3231_EASY.git",
+        "dependencies": [
+            "I2C_EASY"
         ]
     }
 ]
