@@ -38938,8 +38938,8 @@
     },
     {
         "name": "Adafruit LIS2MDL",
-        "version": "2.1.8",
-        "versions": "2.1.8, 2.1.7, 2.1.6, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0",
+        "version": "2.1.9",
+        "versions": "2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_LIS2MDL",
@@ -151701,8 +151701,8 @@
     },
     {
         "name": "MyDot",
-        "version": "1.0.9",
-        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.10",
+        "versions": "1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Microeden",
         "maintainer": "Microeden <info@microeden.io>",
         "website": "https://github.com/Microeden/MyDotLib",
@@ -154188,8 +154188,8 @@
     },
     {
         "name": "OLED2.42_EASY",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "klenov1900-lang",
         "maintainer": "klenov1900-lang <gray_wolf19@mail.ru>",
         "website": "https://github.com/klenov1900-lang/OLED2.42_EASY",
@@ -154198,7 +154198,7 @@
         "types": "Contributed",
         "repository": "https://github.com/klenov1900-lang/OLED2.42_EASY.git",
         "dependencies": [
-            ""
+            "I2C_EASY"
         ]
     },
     {
@@ -155857,8 +155857,8 @@
     },
     {
         "name": "ButtonEvents",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Péter Soós <https://github.com/soosp>",
         "maintainer": "Péter Soós <https://github.com/soosp>",
         "website": "https://github.com/soosp/ButtonEvents",
@@ -155913,6 +155913,21 @@
         "repository": "https://github.com/flmueller/x1xcp-esp32.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "JourTempo",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jour Tempo <contact@jourtempo.fr>",
+        "maintainer": "Jour Tempo <contact@jourtempo.fr>",
+        "website": "https://github.com/jourtempo/tempo-esp32",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/jourtempo/tempo-esp32.git",
+        "dependencies": [
+            "ArduinoJson"
         ]
     }
 ]
