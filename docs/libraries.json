@@ -48477,8 +48477,8 @@
     },
     {
         "name": "TaskManagerIO",
-        "version": "5.0.1",
-        "versions": "5.0.1, 5.0.0, 1.5.4, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "5.0.2",
+        "versions": "5.0.2, 5.0.1, 5.0.0, 1.5.4, 1.5.2, 1.5.1, 1.5.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "davetcc",
         "maintainer": "https://www.thecoderscorner.com",
         "website": "https://www.thecoderscorner.com/products/arduino-libraries/",
@@ -82518,8 +82518,8 @@
     },
     {
         "name": "EspUsbHost",
-        "version": "2.10.0",
-        "versions": "2.10.0, 2.9.4, 2.9.3, 2.9.2, 2.9.1, 2.9.0, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
+        "version": "2.10.1",
+        "versions": "2.10.1, 2.10.0, 2.9.4, 2.9.3, 2.9.2, 2.9.1, 2.9.0, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.2, 2.3.1, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.1",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbHost",
@@ -89266,8 +89266,8 @@
     },
     {
         "name": "SunFounder AI Camera",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SunFounder",
         "maintainer": "SunFounder",
         "website": "https://github.com/sunfounder/SunFounder_Ai_Camera",
@@ -132862,8 +132862,8 @@
     },
     {
         "name": "ESP32-OTA-Client",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "LEKPCSTEAM",
         "maintainer": "LEKPCSTEAM",
         "website": "https://github.com/LEKPCSTEAM/ESP32-OTA-Client",
@@ -153560,8 +153560,8 @@
     },
     {
         "name": "OpenEmbeddedProbe",
-        "version": "0.0.31",
-        "versions": "0.0.31, 0.0.30, 0.0.29, 0.0.28, 0.0.27, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.33",
+        "versions": "0.0.33, 0.0.32, 0.0.31, 0.0.30, 0.0.29, 0.0.28, 0.0.27, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Open Embedded Probe contributors",
         "maintainer": "Open Embedded Probe contributors",
         "website": "https://github.com/Open-Embedded-Probe/oep-probe-arduino",
@@ -155297,8 +155297,8 @@
     },
     {
         "name": "WisBlockLoRaWAN",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Bernd Giesecke bernd@giesecke.tk",
         "maintainer": "Bernd Giesecke bernd@giesecke.tk",
         "website": "https://github.com/beegee-tokyo/WisBlockLoRaWAN",
@@ -155441,8 +155441,8 @@
     },
     {
         "name": "UARDECS_ESP32C3",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Takehiko Hoshi, Hideto Kurosaki and Ken-ichro Yasuba",
         "maintainer": "Hoshi@hoshi-lab.net",
         "website": "https://github.com/uecs-star/UARDECS_ESP32C3",
@@ -155744,8 +155744,8 @@
     },
     {
         "name": "TinyGSM2",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Long Trinh",
         "maintainer": "Long Trinh",
         "website": "https://github.com/longtrinh/TinyGSM2",
@@ -155829,6 +155829,21 @@
         "architectures": "rp2040",
         "types": "Contributed",
         "repository": "https://github.com/eyr1n/RP2040PIO_HalfDuplex.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "OttoI2R",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "i2r",
+        "maintainer": "i2r <kdi6033@gmail.com>",
+        "website": "https://github.com/kdi6033/OttoI2R",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/kdi6033/OttoI2R.git",
         "dependencies": [
             ""
         ]
