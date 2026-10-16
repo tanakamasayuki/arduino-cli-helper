@@ -111075,8 +111075,8 @@
     },
     {
         "name": "M5UnitUnified",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5UnitUnified",
@@ -136846,8 +136846,8 @@
     },
     {
         "name": "libsdi12",
-        "version": "0.5.4",
-        "versions": "0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Phillip Weinstock",
         "maintainer": "Phillip Weinstock",
         "website": "https://github.com/phillipweinstock/libsdi12",
@@ -155765,8 +155765,8 @@
     },
     {
         "name": "IndurUI",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Rakibul Islam",
         "maintainer": "Rakibul Islam <rakibul.rir06@gmail.com>",
         "website": "https://github.com/RakibulIslam1/indur-ui",
@@ -155776,7 +155776,8 @@
         "repository": "https://github.com/RakibulIslam1/indur-ui.git",
         "dependencies": [
             "Adafruit GFX Library",
-            "Adafruit SSD1306"
+            "Adafruit SSD1306",
+            "Adafruit SH110X"
         ]
     },
     {
@@ -155850,6 +155851,66 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/kdi6033/OttoI2R.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ButtonEvents",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
+        "author": "Péter Soós <https://github.com/soosp>",
+        "maintainer": "Péter Soós <https://github.com/soosp>",
+        "website": "https://github.com/soosp/ButtonEvents",
+        "category": "Signal Input/Output",
+        "architectures": "esp32, esp8266, avr",
+        "types": "Contributed",
+        "repository": "https://github.com/soosp/ButtonEvents.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "x1xcp_serial",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Florian Müller",
+        "maintainer": "Florian Müller",
+        "website": "https://github.com/flmueller/x1xcp-serial",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/flmueller/x1xcp-serial.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "x1xcp_esp8266",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Florian Müller",
+        "maintainer": "Florian Müller",
+        "website": "https://github.com/flmueller/x1xcp-esp8266",
+        "category": "Communication",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/flmueller/x1xcp-esp8266.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "x1xcp_esp32",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Florian Müller",
+        "maintainer": "Florian Müller",
+        "website": "https://github.com/flmueller/x1xcp-esp32",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/flmueller/x1xcp-esp32.git",
         "dependencies": [
             ""
         ]
