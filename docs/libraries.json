@@ -147975,8 +147975,8 @@
     },
     {
         "name": "note-cpp",
-        "version": "0.3.5",
-        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2",
+        "version": "0.3.6",
+        "versions": "0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2",
         "author": "Mat McGowan",
         "maintainer": "Mat McGowan",
         "website": "https://github.com/m-mcgowan/note-cpp",
@@ -155744,10 +155744,10 @@
     },
     {
         "name": "TinyGSM2",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "Volodymyr Shymanskyy",
-        "maintainer": "longtrinh",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Long Trinh",
+        "maintainer": "Long Trinh",
         "website": "https://github.com/longtrinh/TinyGSM2",
         "category": "Communication",
         "architectures": "*",
@@ -155801,6 +155801,36 @@
         "repository": "https://github.com/klenov1900-lang/DS3231_EASY.git",
         "dependencies": [
             "I2C_EASY"
+        ]
+    },
+    {
+        "name": "esp32-freedv2400b",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.0, 1.0.2, 1.0.1",
+        "author": "Dmitry Kaukov",
+        "maintainer": "Dmitry Kaukov",
+        "website": "https://github.com/dkaukov/esp32-freedv2400b",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dkaukov/esp32-freedv2400b.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RP2040PIO_HalfDuplex",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
+        "author": "Rin Iwai",
+        "maintainer": "Rin Iwai <me@eyrin.jp>",
+        "website": "https://github.com/eyr1n/RP2040PIO_HalfDuplex",
+        "category": "Communication",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/eyr1n/RP2040PIO_HalfDuplex.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
