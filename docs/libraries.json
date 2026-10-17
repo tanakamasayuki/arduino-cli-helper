@@ -147315,8 +147315,8 @@
     },
     {
         "name": "LynkTuyaLocal",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Alex Fichter",
         "maintainer": "Alex Fichter <fichteralex@gmail.com>",
         "website": "https://github.com/F1chter/LynkTuyaLocal",
@@ -155928,6 +155928,56 @@
         "repository": "https://github.com/jourtempo/tempo-esp32.git",
         "dependencies": [
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "BME690-Arduino-lib-unofficial",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Mauro Riboni, Bosch Sensortec",
+        "maintainer": "Mauro Riboni <58341265+mauringo@users.noreply.github.com>",
+        "website": "https://github.com/mauringo/BME690-Arduino-lib-unofficial",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mauringo/BME690-Arduino-lib-unofficial.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bsec3-ArduinoLibrary-Unofficial",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Mauro Riboni, Bosch Sensortec",
+        "maintainer": "Mauro Riboni <58341265+mauringo@users.noreply.github.com>",
+        "website": "https://github.com/mauringo/Bsec3-ArduinoLibrary-Unofficial",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/mauringo/Bsec3-ArduinoLibrary-Unofficial.git",
+        "dependencies": [
+            "BME690-Arduino-lib-unofficial"
+        ]
+    },
+    {
+        "name": "SmoothUI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oshan Dissanayaka",
+        "maintainer": "Oshan Dissanayaka",
+        "website": "https://github.com/arduinoclassroom/SmoothUI",
+        "category": "Display",
+        "architectures": "esp32, esp8266, rp2040, mbed_rp2040, stm32, samd, nrf52, renesas_uno, sam",
+        "types": "Contributed",
+        "repository": "https://github.com/arduinoclassroom/SmoothUI.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit BusIO",
+            "Adafruit SSD1306",
+            "Adafruit SH110X",
+            "Adafruit ST7735 and ST7789 Library",
+            "Adafruit ILI9341"
         ]
     }
 ]
