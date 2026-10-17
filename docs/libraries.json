@@ -111075,8 +111075,8 @@
     },
     {
         "name": "M5UnitUnified",
-        "version": "0.6.2",
-        "versions": "0.6.2, 0.6.1, 0.6.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.6.3",
+        "versions": "0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.8, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5UnitUnified",
@@ -122000,8 +122000,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.3.9",
-        "versions": "1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.3.10",
+        "versions": "1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
@@ -136952,13 +136952,13 @@
     },
     {
         "name": "ATGENXlib",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.1, 2.0.0, 1.2.6, 1.0.1, 0.2.2, 0.2.1, 0.1.0, 0.0.5",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.2.6, 1.0.1, 0.2.2, 0.2.1, 0.1.0, 0.0.5",
         "author": "ATGenX",
         "maintainer": "Seif Emad <support@atgenx.com>",
         "website": "https://github.com/ARDUTECH0/ATGENXlib-0.0.1",
         "category": "Device Control",
-        "architectures": "avr, esp32, esp8266",
+        "architectures": "avr, esp32, esp8266, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/ARDUTECH0/ATGENXlib-0.0.1.git",
         "dependencies": [
@@ -139736,8 +139736,8 @@
     },
     {
         "name": "ATGenX_Hub",
-        "version": "2.4.0",
-        "versions": "2.4.0, 2.3.0, 1.0.0",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.0, 2.3.0, 1.0.0",
         "author": "Seif Emad / ARDUTECH0",
         "maintainer": "Seif Emad <support@atgenx.com>",
         "website": "https://github.com/ARDUTECH0/ATGenXIOT",
@@ -143262,8 +143262,8 @@
     },
     {
         "name": "SimpleOTAClient",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "SimpleOTA <support@simpleota.com>",
         "maintainer": "SimpleOTA <support@simpleota.com>",
         "website": "https://github.com/xanderwasserman/SimpleOTAClient-Arduino",
@@ -155978,6 +155978,21 @@
             "Adafruit SH110X",
             "Adafruit ST7735 and ST7789 Library",
             "Adafruit ILI9341"
+        ]
+    },
+    {
+        "name": "CasioST75256",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.3.0",
+        "author": "GrayKazu",
+        "maintainer": "GrayKazu",
+        "website": "https://example.invalid/casio-st75256",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/tkhoi0821-svg/Casio-classwiz-880BTG-lib.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
