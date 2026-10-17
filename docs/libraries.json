@@ -155287,8 +155287,8 @@
     },
     {
         "name": "Railuino",
-        "version": "0.14.0",
-        "versions": "0.14.0",
+        "version": "0.14.1",
+        "versions": "0.14.1, 0.14.0",
         "author": "Joerg Pleumann, Christophe Bobille, Uwe Monreal",
         "maintainer": "Christophe Bobille",
         "website": "https://github.com/BOBILLEChristophe/Railuino",
