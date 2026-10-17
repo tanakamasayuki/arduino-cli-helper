@@ -155872,13 +155872,13 @@
     },
     {
         "name": "x1xcp_serial",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Florian Müller",
         "maintainer": "Florian Müller",
         "website": "https://github.com/flmueller/x1xcp-serial",
         "category": "Communication",
-        "architectures": "avr",
+        "architectures": "avr, rp2040, stm32",
         "types": "Contributed",
         "repository": "https://github.com/flmueller/x1xcp-serial.git",
         "dependencies": [
