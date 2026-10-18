@@ -5683,8 +5683,8 @@
     },
     {
         "name": "FastLED",
-        "version": "3.10.7",
-        "versions": "3.10.7, 3.10.6, 3.10.5, 3.10.4, 3.10.3, 3.10.2, 3.10.1, 3.10.0, 3.9.20, 3.9.19, 3.9.18, 3.9.17, 3.9.16, 3.9.15, 3.9.14, 3.9.13, 3.9.12, 3.9.11, 3.9.10, 3.9.9, 3.9.8, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.7.8, 3.7.7, 3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.10, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.6, 3.1.3, 3.1.0",
+        "version": "3.10.8",
+        "versions": "3.10.8, 3.10.7, 3.10.6, 3.10.5, 3.10.4, 3.10.3, 3.10.2, 3.10.1, 3.10.0, 3.9.20, 3.9.19, 3.9.18, 3.9.17, 3.9.16, 3.9.15, 3.9.14, 3.9.13, 3.9.12, 3.9.11, 3.9.10, 3.9.9, 3.9.8, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.7.8, 3.7.7, 3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.10, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.6, 3.1.3, 3.1.0",
         "author": "Daniel Garcia",
         "maintainer": "Daniel Garcia <dgarcia@fastled.io>",
         "website": "https://github.com/FastLED/FastLED",
@@ -155135,8 +155135,8 @@
     },
     {
         "name": "Focuspocus",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.1, 0.1.0",
         "author": "glutio",
         "maintainer": "glutio",
         "website": "https://github.com/glutio/Focuspocus",
@@ -155991,6 +155991,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tkhoi0821-svg/Casio-classwiz-880BTG-lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ESP32ServicePortal",
+        "version": "0.7.1",
+        "versions": "0.7.1",
+        "author": "Jose Poblete Cabezas",
+        "maintainer": "Jose Poblete Cabezas",
+        "website": "https://github.com/jotaefepece/ESP32ServicePortal",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jotaefepece/ESP32ServicePortal.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ILI9341_GFX",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "JKBusse",
+        "maintainer": "JKBusse <48227459+JKBusse@users.noreply.github.com>",
+        "website": "https://github.com/JKBusse/ILI9341_GFX",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/JKBusse/ILI9341_GFX.git",
+        "dependencies": [
+            "Adafruit GFX Library"
+        ]
+    },
+    {
+        "name": "Singlish Converter",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Oshan Dissanayaka",
+        "maintainer": "Oshan Dissanayaka",
+        "website": "https://github.com/arduinoclassroom/Singlish-Converter",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/arduinoclassroom/Singlish-Converter.git",
         "dependencies": [
             ""
         ]
