@@ -5306,8 +5306,8 @@
     },
     {
         "name": "thinger.io",
-        "version": "2.43.2",
-        "versions": "2.43.2, 2.43.1, 2.43.0, 2.42.0, 2.41.1, 2.41.0, 2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.9.2, 2.9.1, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.9, 2.5.8, 2.5.6, 2.5.5, 2.5.2, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.45.0",
+        "versions": "2.45.0, 2.44.0, 2.43.2, 2.43.1, 2.43.0, 2.42.0, 2.41.1, 2.41.0, 2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.9.2, 2.9.1, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.9, 2.5.8, 2.5.6, 2.5.5, 2.5.2, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Alvaro Luis Bustamante <alvarolb@thinger.io>",
         "maintainer": "Thinger.io <admin@thinger.io>",
         "website": "https://github.com/thinger-io/Arduino-Library",
@@ -156081,6 +156081,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/LTC2941.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "TDQ6A",
+        "version": "0.9.0",
+        "versions": "0.9.0",
+        "author": "Ismail Caner Naz",
+        "maintainer": "Ismail Caner Naz <ismailcanernaz@aol.com>",
+        "website": "https://github.com/ismailcanernaz/TDQ6A",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ismailcanernaz/TDQ6A.git",
         "dependencies": [
             ""
         ]
