@@ -5306,8 +5306,8 @@
     },
     {
         "name": "thinger.io",
-        "version": "2.45.0",
-        "versions": "2.45.0, 2.44.0, 2.43.2, 2.43.1, 2.43.0, 2.42.0, 2.41.1, 2.41.0, 2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.9.2, 2.9.1, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.9, 2.5.8, 2.5.6, 2.5.5, 2.5.2, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "2.46.0",
+        "versions": "2.46.0, 2.45.0, 2.44.0, 2.43.2, 2.43.1, 2.43.0, 2.42.0, 2.41.1, 2.41.0, 2.40.0, 2.31.0, 2.30.0, 2.29.0, 2.28.0, 2.27.0, 2.26.0, 2.25.2, 2.25.1, 2.21.1, 2.21.0, 2.20.0, 2.17.0, 2.16.0, 2.15.0, 2.14.0, 2.13.0, 2.9.2, 2.9.1, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.9, 2.5.8, 2.5.6, 2.5.5, 2.5.2, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Alvaro Luis Bustamante <alvarolb@thinger.io>",
         "maintainer": "Thinger.io <admin@thinger.io>",
         "website": "https://github.com/thinger-io/Arduino-Library",
@@ -74666,8 +74666,8 @@
     },
     {
         "name": "M5Unit-ENV",
-        "version": "1.7.2",
-        "versions": "1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3",
+        "version": "1.7.3",
+        "versions": "1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Unit-ENV",
@@ -102006,8 +102006,8 @@
     },
     {
         "name": "EQSP32",
-        "version": "1.5.2",
-        "versions": "1.5.2, 1.5.1, 1.5.0, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.2.0-beta, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.2, 1.5.1, 1.5.0, 1.4.0, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.2.0-beta, 0.1.2, 0.1.1, 0.1.0",
         "author": "Erqos Technologies info@erqos.com",
         "maintainer": "Erqos Technologies",
         "website": "https://erqos.com/",
@@ -143536,13 +143536,13 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.7.32",
-        "versions": "1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.7.54",
+        "versions": "1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
         "category": "Communication",
-        "architectures": "esp32",
+        "architectures": "esp32, esp8266, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/autoconnecto/autoconnecto-sdk.git",
         "dependencies": [
@@ -155303,8 +155303,8 @@
     },
     {
         "name": "WisBlockLoRaWAN",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Bernd Giesecke bernd@giesecke.tk",
         "maintainer": "Bernd Giesecke bernd@giesecke.tk",
         "website": "https://github.com/beegee-tokyo/WisBlockLoRaWAN",
@@ -155379,8 +155379,8 @@
     },
     {
         "name": "IOTFIY",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Iotfiy Solutions",
         "maintainer": "iotfiy.solution@gmail.com",
         "website": "https://github.com/iotfiy-solutions/Gateway_Library.git",
@@ -155982,8 +155982,8 @@
     },
     {
         "name": "CasioST75256",
-        "version": "0.9.0",
-        "versions": "0.9.0, 0.7.0, 0.6.0, 0.3.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.9.0, 0.7.0, 0.6.0, 0.3.0",
         "author": "GrayKazu",
         "maintainer": "GrayKazu",
         "website": "https://example.invalid/casio-st75256",
@@ -156117,8 +156117,8 @@
     },
     {
         "name": "SuperJupiterSensorQuality",
-        "version": "0.1.2",
-        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "SuperJupiter",
         "maintainer": "SuperJupiter <info@superjupiter.net>",
         "website": "https://github.com/Super-Jupiter/superjupiter-sensor-quality",
@@ -156126,6 +156126,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Super-Jupiter/superjupiter-sensor-quality.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ottu-target",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.1",
+        "author": "Infineon Technologies",
+        "maintainer": "Infineon Technologies <www.infineon.com>",
+        "website": "https://github.com/Infineon/arduino-ottu-target",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Infineon/arduino-ottu-target.git",
         "dependencies": [
             ""
         ]
