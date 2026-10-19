@@ -133244,7 +133244,7 @@
     "package_url": "https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json"
 },
   "m5stack:esp32:m5stack_corep4x": {
-    "name": "M5StampP4X",
+    "name": "M5CoreP4X",
     "version": "3.3.10",
     "config_options": [
         {
