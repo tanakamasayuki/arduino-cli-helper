@@ -117699,8 +117699,8 @@
     },
     {
         "name": "Adafruit DVI HSTX",
-        "version": "2.0.1",
-        "versions": "2.0.1, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.1, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit-DVI-HSTX",
@@ -156117,8 +156117,8 @@
     },
     {
         "name": "SuperJupiterSensorQuality",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "SuperJupiter",
         "maintainer": "SuperJupiter <info@superjupiter.net>",
         "website": "https://github.com/Super-Jupiter/superjupiter-sensor-quality",
@@ -156141,6 +156141,336 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Infineon/arduino-ottu-target.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterSampleWindow",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-sample-window",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-sample-window.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PCFKeypad_EASY",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "klenov1900-lang",
+        "maintainer": "klenov1900-lang",
+        "website": "https://github.com/klenov1900-lang/PCFKeypad_EASY",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/klenov1900-lang/PCFKeypad_EASY.git",
+        "dependencies": [
+            "I2C_EASY"
+        ]
+    },
+    {
+        "name": "SEFR",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Hamidreza Keshavarz <hamid9999@gmail.com>",
+        "maintainer": "Hamidreza Keshavarz <hamid9999@gmail.com>",
+        "website": "https://github.com/hamidkm9/SEFR-Arduino",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/hamidkm9/SEFR-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterCalibration",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-calibration",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-calibration.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterTimeAnchor",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-time-anchor",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-time-anchor.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterSignalFilter",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-signal-filter",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-signal-filter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterTrend",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-trend",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-trend.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterThresholdEvents",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-threshold-events",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-threshold-events.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterTimeAggregate",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-time-aggregate",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-time-aggregate.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterPulseMetrics",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-pulse-metrics",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-pulse-metrics.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterIntegration",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-integration",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-integration.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterEventCapture",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-event-capture",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-event-capture.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterChannelAlign",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-channel-align",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-channel-align.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterSensorAgreement",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-sensor-agreement",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-sensor-agreement.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterMachineState",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-machine-state",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-machine-state.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterRecordJournal",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-record-journal",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-record-journal.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterStoreForward",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-store-forward",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-store-forward.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterConfigStore",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-config-store",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-config-store.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterDeviceHealth",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-device-health",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-device-health.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterPowerBudget",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-power-budget",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-power-budget.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterSensorReplay",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-sensor-replay",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-sensor-replay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Microfono",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "piruetasxyz",
+        "maintainer": "piruetasxyz",
+        "website": "https://github.com/piruetasxyz/Microfono",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/piruetasxyz/Microfono.git",
         "dependencies": [
             ""
         ]
