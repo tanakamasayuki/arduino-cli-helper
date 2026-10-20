@@ -141502,8 +141502,8 @@
     },
     {
         "name": "IoTera",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.3",
+        "versions": "1.3.3, 1.2.0, 1.1.0, 1.0.0",
         "author": "JslamA Dev",
         "maintainer": "JslamA Dev",
         "website": "https://github.com/juslam/IoTera_Arduino",
@@ -150507,8 +150507,8 @@
     },
     {
         "name": "Waveshare_TFT_Touch",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Tedd OKANO",
         "maintainer": "Tedd OKANO",
         "website": "https://github.com/teddokano/Waveshare_TFT_Touch_Arduino",
@@ -156473,6 +156473,38 @@
         "repository": "https://github.com/piruetasxyz/Microfono.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "TM1637binaryLed",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "İsmail Caner Naz",
+        "maintainer": "İsmail Caner Naz",
+        "website": "https://github.com/ismailcanernaz/TM1637binaryLed",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/ismailcanernaz/TM1637binaryLed.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UnoQ_AdafruitTouch",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "ankur608",
+        "maintainer": "ankur608 <ankur608@users.noreply.github.com>",
+        "website": "https://github.com/ankur608/ArduinoUnoQ_AdafruitTouch",
+        "category": "Display",
+        "architectures": "zephyr, mbed, stm32, samd, avr, *",
+        "types": "Contributed",
+        "repository": "https://github.com/ankur608/ArduinoUnoQ_AdafruitTouch.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit ILI9341",
+            "Adafruit FT6206 Library"
         ]
     }
 ]
