@@ -1396,8 +1396,8 @@
     },
     {
         "name": "Adafruit HX8357 Library",
-        "version": "1.1.20",
-        "versions": "1.1.20, 1.1.19, 1.1.18, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.20, 1.1.19, 1.1.18, 1.1.16, 1.1.15, 1.1.14, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_HX8357_Library",
@@ -1434,8 +1434,8 @@
     },
     {
         "name": "Adafruit ILI9341",
-        "version": "1.6.4",
-        "versions": "1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.14, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.7.0",
+        "versions": "1.7.0, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.14, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.0, 1.1.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_ILI9341",
@@ -1979,8 +1979,8 @@
     },
     {
         "name": "Adafruit SSD1331 OLED Driver Library for Arduino",
-        "version": "1.3.0",
-        "versions": "1.3.0, 1.2.3, 1.2.2, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.0, 1.2.3, 1.2.2, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino",
@@ -1994,8 +1994,8 @@
     },
     {
         "name": "Adafruit ST7735 and ST7789 Library",
-        "version": "1.11.0",
-        "versions": "1.11.0, 1.10.4, 1.10.3, 1.10.2, 1.10.0, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.18, 1.5.17, 1.5.15, 1.5.13, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0",
+        "version": "1.12.0",
+        "versions": "1.12.0, 1.11.0, 1.10.4, 1.10.3, 1.10.2, 1.10.0, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.18, 1.5.17, 1.5.15, 1.5.13, 1.5.12, 1.5.11, 1.5.10, 1.5.9, 1.5.8, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit-ST7735-Library",
@@ -2619,8 +2619,8 @@
     },
     {
         "name": "Adafruit GFX Library",
-        "version": "1.12.6",
-        "versions": "1.12.6, 1.12.5, 1.12.4, 1.12.3, 1.12.2, 1.12.1, 1.12.0, 1.11.11, 1.11.10, 1.11.9, 1.11.8, 1.11.7, 1.11.5, 1.11.4, 1.11.3, 1.11.2, 1.11.1, 1.11.0, 1.10.14, 1.10.13, 1.10.12, 1.10.11, 1.10.10, 1.10.9, 1.10.8, 1.10.7, 1.10.6, 1.10.5, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.1, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.14, 1.4.13, 1.4.12, 1.4.11, 1.4.10, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.13.0",
+        "versions": "1.13.0, 1.12.6, 1.12.5, 1.12.4, 1.12.3, 1.12.2, 1.12.1, 1.12.0, 1.11.11, 1.11.10, 1.11.9, 1.11.8, 1.11.7, 1.11.5, 1.11.4, 1.11.3, 1.11.2, 1.11.1, 1.11.0, 1.10.14, 1.10.13, 1.10.12, 1.10.11, 1.10.10, 1.10.9, 1.10.8, 1.10.7, 1.10.6, 1.10.5, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.1, 1.8.0, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7.0, 1.6.1, 1.5.7, 1.5.6, 1.5.5, 1.5.4, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.14, 1.4.13, 1.4.12, 1.4.11, 1.4.10, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.6, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit-GFX-Library",
@@ -31044,8 +31044,8 @@
     },
     {
         "name": "Adafruit INA260 Library",
-        "version": "1.5.3",
-        "versions": "1.5.3, 1.5.2, 1.5.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.0.0",
+        "version": "1.5.4",
+        "versions": "1.5.4, 1.5.3, 1.5.2, 1.5.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_INA260",
@@ -50795,8 +50795,8 @@
     },
     {
         "name": "InkplateLibrary",
-        "version": "11.2.0",
-        "versions": "11.2.0, 11.1.5, 11.1.4, 11.1.3, 11.1.2, 11.1.1, 11.1.0, 11.0.1, 11.0.0, 10.2.2, 10.2.1, 10.2.0, 10.0.0, 9.1.0, 9.0.0, 8.2.1, 8.2.0, 8.1.0, 8.0.0, 7.0.0, 6.0.0, 5.7.1, 5.7.0, 5.5.2, 5.5.1, 5.0.0, 4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.4.0, 2.3.2, 2.3.0, 2.2.0, 2.0.0, 1.1.0, 1.0.0",
+        "version": "11.2.1",
+        "versions": "11.2.1, 11.2.0, 11.1.5, 11.1.4, 11.1.3, 11.1.2, 11.1.1, 11.1.0, 11.0.1, 11.0.0, 10.2.2, 10.2.1, 10.2.0, 10.0.0, 9.1.0, 9.0.0, 8.2.1, 8.2.0, 8.1.0, 8.0.0, 7.0.0, 6.0.0, 5.7.1, 5.7.0, 5.5.2, 5.5.1, 5.0.0, 4.0.1, 4.0.0, 3.0.1, 3.0.0, 2.4.0, 2.3.2, 2.3.0, 2.2.0, 2.0.0, 1.1.0, 1.0.0",
         "author": "Soldered <hello@soldered.com>",
         "maintainer": "David Zovko <hello@soldered.com>",
         "website": "https://github.com/SolderedElectronics/Inkplate-Arduino-library",
@@ -66708,8 +66708,8 @@
     },
     {
         "name": "Adafruit TestBed",
-        "version": "1.14.5",
-        "versions": "1.14.5, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.2, 1.13.1, 1.13.0, 1.12.2, 1.12.1, 1.12.0, 1.11.0, 1.10.0, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.14.6",
+        "versions": "1.14.6, 1.14.5, 1.14.4, 1.14.3, 1.14.2, 1.14.1, 1.14.0, 1.13.2, 1.13.1, 1.13.0, 1.12.2, 1.12.1, 1.12.0, 1.11.0, 1.10.0, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.0, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_TestBed",
@@ -89024,8 +89024,8 @@
     },
     {
         "name": "Adafruit GC9A01A",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/Adafruit/Adafruit_GC9A01A",
@@ -102422,8 +102422,8 @@
     },
     {
         "name": "CmdSerial",
-        "version": "1.1.2",
-        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Angel Zaprianov <fire1@abv.bg>",
         "maintainer": "Angel Zaprianov <fire1@abv.bg>",
         "website": "https://github.com/fire1/CmdSerial",
@@ -143536,8 +143536,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.7.54",
-        "versions": "1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.7.56",
+        "versions": "1.7.56, 1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
@@ -156132,8 +156132,8 @@
     },
     {
         "name": "ottu-target",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.1, 0.1.0, 0.0.1",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.1, 0.1.0, 0.0.1",
         "author": "Infineon Technologies",
         "maintainer": "Infineon Technologies <www.infineon.com>",
         "website": "https://github.com/Infineon/arduino-ottu-target",
@@ -156533,6 +156533,66 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/ARDUnia/ARDUniaButton.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterEmbeddedReliability",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-embedded-reliability",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-embedded-reliability.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SuperJupiterSensorToolkit",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "SuperJupiter",
+        "maintainer": "SuperJupiter <info@superjupiter.net>",
+        "website": "https://github.com/Super-Jupiter/superjupiter-sensor-toolkit",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Super-Jupiter/superjupiter-sensor-toolkit.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MAX2870",
+        "version": "2.1.0",
+        "versions": "2.1.0",
+        "author": "Bryce Cherry, Roberto Visentin",
+        "maintainer": "Roberto Visentin",
+        "website": "https://github.com/rvisent/MAX2870",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/rvisent/MAX2870.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ArdPortal",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.8, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1",
+        "author": "Radoslaw Kubera (rkubera on GitHub)",
+        "maintainer": "Radoslaw Kubera",
+        "website": "https://github.com/rkubera/ArdPortal",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/rkubera/ArdPortal.git",
         "dependencies": [
             ""
         ]
