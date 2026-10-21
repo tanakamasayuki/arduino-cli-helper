@@ -156612,5 +156612,20 @@
             "Adafruit seesaw Library",
             "Adafruit NeoPixel"
         ]
+    },
+    {
+        "name": "Voltino_TriSense",
+        "version": "1.6.0",
+        "versions": "1.6.0",
+        "author": "VoltinoLabs (Tomas Michal)",
+        "maintainer": "Tomas Michal",
+        "website": "https://github.com/Tomasraketak/Voltino_TriSense_Library",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/VoltinoLabs/Voltino-TriSense-Library.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
