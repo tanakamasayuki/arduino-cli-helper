@@ -124121,8 +124121,8 @@
     },
     {
         "name": "GyverMenu",
-        "version": "1.1.3",
-        "versions": "1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.4",
+        "versions": "1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverMenu",
@@ -156850,6 +156850,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/bonezegei/Bonezegei_TM1638.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MeshLink",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Code-hoysala",
+        "maintainer": "Code-hoysala",
+        "website": "https://github.com/Code-hoysala/MeshLink",
+        "category": "Communication",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/code-hoysala/MeshLink.git",
+        "dependencies": [
+            "RF24"
+        ]
+    },
+    {
+        "name": "Bonezegei_PN5180",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
+        "website": "https://github.com/bonezegei/Bonezegei_PN5180",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/Bonezegei_PN5180.git",
         "dependencies": [
             ""
         ]
