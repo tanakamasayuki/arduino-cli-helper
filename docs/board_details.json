@@ -146082,7 +146082,7 @@
 },
   "rp2040:rp2040:0xcb_helios": {
     "name": "0xCB Helios",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -146506,7 +146506,7 @@
 },
   "rp2040:rp2040:DudesCab": {
     "name": "L'atelier d'Arnoz DudesCab",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -146910,7 +146910,7 @@
 },
   "rp2040:rp2040:MyRP_2350B": {
     "name": "MyMakers RP2350B",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -147329,7 +147329,7 @@
 },
   "rp2040:rp2040:MyRP_bot": {
     "name": "MyMakers RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -147725,7 +147725,7 @@
 },
   "rp2040:rp2040:adafruit_feather": {
     "name": "Adafruit Feather RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -148129,7 +148129,7 @@
 },
   "rp2040:rp2040:adafruit_feather_adalogger": {
     "name": "Adafruit Feather RP2040 Adalogger",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -148540,7 +148540,7 @@
 },
   "rp2040:rp2040:adafruit_feather_can": {
     "name": "Adafruit Feather RP2040 CAN",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -148951,7 +148951,7 @@
 },
   "rp2040:rp2040:adafruit_feather_dvi": {
     "name": "Adafruit Feather RP2040 DVI",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -149362,7 +149362,7 @@
 },
   "rp2040:rp2040:adafruit_feather_prop_maker": {
     "name": "Adafruit Feather RP2040 Prop-Maker",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -149773,7 +149773,7 @@
 },
   "rp2040:rp2040:adafruit_feather_rfm": {
     "name": "Adafruit Feather RP2040 RFM",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -150184,7 +150184,7 @@
 },
   "rp2040:rp2040:adafruit_feather_rp2350_adalogger": {
     "name": "Adafruit Feather RP2350 Adalogger",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -150595,7 +150595,7 @@
 },
   "rp2040:rp2040:adafruit_feather_rp2350_hstx": {
     "name": "Adafruit Feather RP2350 HSTX",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -151033,7 +151033,7 @@
 },
   "rp2040:rp2040:adafruit_feather_scorpio": {
     "name": "Adafruit Feather RP2040 SCORPIO",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -151444,7 +151444,7 @@
 },
   "rp2040:rp2040:adafruit_feather_thinkink": {
     "name": "Adafruit Feather RP2040 ThinkINK",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -151855,7 +151855,7 @@
 },
   "rp2040:rp2040:adafruit_feather_usb_host": {
     "name": "Adafruit Feather RP2040 USB Host",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -152266,7 +152266,7 @@
 },
   "rp2040:rp2040:adafruit_floppsy": {
     "name": "Adafruit Floppsy",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -152709,7 +152709,7 @@
 },
   "rp2040:rp2040:adafruit_fruitjam": {
     "name": "Adafruit Fruit Jam RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -153152,7 +153152,7 @@
 },
   "rp2040:rp2040:adafruit_itsybitsy": {
     "name": "Adafruit ItsyBitsy RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -153571,7 +153571,7 @@
 },
   "rp2040:rp2040:adafruit_kb2040": {
     "name": "Adafruit KB2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -153982,7 +153982,7 @@
 },
   "rp2040:rp2040:adafruit_macropad2040": {
     "name": "Adafruit MacroPad RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -154393,7 +154393,7 @@
 },
   "rp2040:rp2040:adafruit_metro": {
     "name": "Adafruit Metro RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -154836,7 +154836,7 @@
 },
   "rp2040:rp2040:adafruit_metro_rp2350": {
     "name": "Adafruit Metro RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -155306,7 +155306,7 @@
 },
   "rp2040:rp2040:adafruit_qtpy": {
     "name": "Adafruit QT Py RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -155725,7 +155725,7 @@
 },
   "rp2040:rp2040:adafruit_stemmafriend": {
     "name": "Adafruit STEMMA Friend RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -156144,7 +156144,7 @@
 },
   "rp2040:rp2040:adafruit_trinkeyrp2040qt": {
     "name": "Adafruit Trinkey RP2040 QT",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -156555,7 +156555,7 @@
 },
   "rp2040:rp2040:akana_r1": {
     "name": "METE HOCA Akana R1",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -156995,7 +156995,7 @@
 },
   "rp2040:rp2040:amken_bunny": {
     "name": "Amken BunnyBoard",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -157867,7 +157867,7 @@
 },
   "rp2040:rp2040:amken_revelop": {
     "name": "Amken Revelop",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -158355,7 +158355,7 @@
 },
   "rp2040:rp2040:amken_revelop_es": {
     "name": "Amken Revelop eS",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -158779,7 +158779,7 @@
 },
   "rp2040:rp2040:amken_revelop_plus": {
     "name": "Amken Revelop Plus",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -159267,7 +159267,7 @@
 },
   "rp2040:rp2040:arduino_nano_connect": {
     "name": "Arduino Nano RP2040 Connect",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -159703,7 +159703,7 @@
 },
   "rp2040:rp2040:artronshop_rp2_nano": {
     "name": "ArtronShop RP2 Nano",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -160099,7 +160099,7 @@
 },
   "rp2040:rp2040:bigtreetech_SKR_Pico": {
     "name": "BIGTREETECH SKR-Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -160471,7 +160471,7 @@
 },
   "rp2040:rp2040:breadstick_raspberry": {
     "name": "Breadstick Raspberry",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -160923,7 +160923,7 @@
 },
   "rp2040:rp2040:bridgetek_idm2040_43a": {
     "name": "BridgeTek IDM2040-43A",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -161319,7 +161319,7 @@
 },
   "rp2040:rp2040:bridgetek_idm2040_7a": {
     "name": "BridgeTek IDM2040-7A",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -161739,7 +161739,7 @@
 },
   "rp2040:rp2040:challenger_2040_lora": {
     "name": "iLabs Challenger 2040 LoRa",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -162159,7 +162159,7 @@
 },
   "rp2040:rp2040:challenger_2040_lte": {
     "name": "iLabs Challenger 2040 LTE",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -162579,7 +162579,7 @@
 },
   "rp2040:rp2040:challenger_2040_nfc": {
     "name": "iLabs Challenger 2040 NFC",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -162999,7 +162999,7 @@
 },
   "rp2040:rp2040:challenger_2040_sdrtc": {
     "name": "iLabs Challenger 2040 SD/RTC",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -163419,7 +163419,7 @@
 },
   "rp2040:rp2040:challenger_2040_subghz": {
     "name": "iLabs Challenger 2040 SubGHz",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -163839,7 +163839,7 @@
 },
   "rp2040:rp2040:challenger_2040_uwb": {
     "name": "iLabs Challenger 2040 UWB",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -164259,7 +164259,7 @@
 },
   "rp2040:rp2040:challenger_2040_wifi": {
     "name": "iLabs Challenger 2040 WiFi",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -164694,7 +164694,7 @@
 },
   "rp2040:rp2040:challenger_2040_wifi6_ble": {
     "name": "iLabs Challenger 2040 WiFi6/BLE",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -165141,7 +165141,7 @@
 },
   "rp2040:rp2040:challenger_2040_wifi_ble": {
     "name": "iLabs Challenger 2040 WiFi/BLE",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -165791,7 +165791,7 @@
 },
   "rp2040:rp2040:challenger_2350_bconnect": {
     "name": "iLabs Challenger 2350 BConnect",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -166226,7 +166226,7 @@
 },
   "rp2040:rp2040:challenger_2350_nbiot": {
     "name": "iLabs Challenger 2350 NB-IoT",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -166645,7 +166645,7 @@
 },
   "rp2040:rp2040:challenger_2350_wifi6_ble5": {
     "name": "iLabs Challenger 2350 WiFi/BLE",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -167322,7 +167322,7 @@
 },
   "rp2040:rp2040:challenger_nb_2040_wifi": {
     "name": "iLabs Challenger NB 2040 WiFi",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -167757,7 +167757,7 @@
 },
   "rp2040:rp2040:challenger_zp_2350_lora": {
     "name": "iLabs Challenger ZP 2350 LoRa",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -168176,7 +168176,7 @@
 },
   "rp2040:rp2040:connectivity_2040_lte_wifi_ble": {
     "name": "iLabs Connectivity 2040 LTE/WiFi/BLE",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -168611,7 +168611,7 @@
 },
   "rp2040:rp2040:cytron_iriv_io_controller": {
     "name": "Cytron IRIV IO Controller",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -169022,7 +169022,7 @@
 },
   "rp2040:rp2040:cytron_maker_nano_rp2040": {
     "name": "Cytron Maker Nano RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -169418,7 +169418,7 @@
 },
   "rp2040:rp2040:cytron_maker_pi_rp2040": {
     "name": "Cytron Maker Pi RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -169812,9 +169812,404 @@
         }
     ]
 },
+  "rp2040:rp2040:cytron_maker_sumo_rp2350": {
+    "name": "Cytron Maker Sumo RP2350",
+    "version": "6.3.1",
+    "config_options": [
+        {
+            "option": "flash",
+            "option_label": "Flash Size",
+            "values": [
+                {
+                    "value": "2097152_0",
+                    "value_label": "2MB (no FS)",
+                    "selected": true
+                },
+                {
+                    "value": "2097152_65536",
+                    "value_label": "2MB (Sketch: 1984KB, FS: 64KB)"
+                },
+                {
+                    "value": "2097152_131072",
+                    "value_label": "2MB (Sketch: 1920KB, FS: 128KB)"
+                },
+                {
+                    "value": "2097152_262144",
+                    "value_label": "2MB (Sketch: 1792KB, FS: 256KB)"
+                },
+                {
+                    "value": "2097152_524288",
+                    "value_label": "2MB (Sketch: 1536KB, FS: 512KB)"
+                },
+                {
+                    "value": "2097152_1048576",
+                    "value_label": "2MB (Sketch: 1MB, FS: 1MB)"
+                }
+            ]
+        },
+        {
+            "option": "freq",
+            "option_label": "CPU Speed",
+            "values": [
+                {
+                    "value": "150",
+                    "value_label": "150 MHz",
+                    "selected": true
+                },
+                {
+                    "value": "50",
+                    "value_label": "50 MHz"
+                },
+                {
+                    "value": "100",
+                    "value_label": "100 MHz"
+                },
+                {
+                    "value": "120",
+                    "value_label": "120 MHz"
+                },
+                {
+                    "value": "125",
+                    "value_label": "125 MHz"
+                },
+                {
+                    "value": "128",
+                    "value_label": "128 MHz"
+                },
+                {
+                    "value": "133",
+                    "value_label": "133 MHz"
+                },
+                {
+                    "value": "176",
+                    "value_label": "176 MHz (Overclock)"
+                },
+                {
+                    "value": "200",
+                    "value_label": "200 MHz (Overclock)"
+                },
+                {
+                    "value": "225",
+                    "value_label": "225 MHz (Overclock)"
+                },
+                {
+                    "value": "240",
+                    "value_label": "240 MHz (Overclock)"
+                },
+                {
+                    "value": "250",
+                    "value_label": "250 MHz (Overclock)"
+                },
+                {
+                    "value": "276",
+                    "value_label": "276 MHz (Overclock)"
+                },
+                {
+                    "value": "300",
+                    "value_label": "300 MHz (Overclock)"
+                }
+            ]
+        },
+        {
+            "option": "arch",
+            "option_label": "CPU Architecture",
+            "values": [
+                {
+                    "value": "arm",
+                    "value_label": "ARM",
+                    "selected": true
+                },
+                {
+                    "value": "riscv",
+                    "value_label": "RISC-V"
+                }
+            ]
+        },
+        {
+            "option": "opt",
+            "option_label": "Optimize",
+            "values": [
+                {
+                    "value": "Small",
+                    "value_label": "Small (-Os) (standard)",
+                    "selected": true
+                },
+                {
+                    "value": "Optimize",
+                    "value_label": "Optimize (-O)"
+                },
+                {
+                    "value": "Optimize2",
+                    "value_label": "Optimize More (-O2)"
+                },
+                {
+                    "value": "Optimize3",
+                    "value_label": "Optimize Even More (-O3)"
+                },
+                {
+                    "value": "Fast",
+                    "value_label": "Fast (-Ofast) (maybe slower)"
+                },
+                {
+                    "value": "Debug",
+                    "value_label": "Debug (-Og)"
+                },
+                {
+                    "value": "Disabled",
+                    "value_label": "Disabled (-O0)"
+                }
+            ]
+        },
+        {
+            "option": "os",
+            "option_label": "Operating System",
+            "values": [
+                {
+                    "value": "none",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "freertos",
+                    "value_label": "FreeRTOS SMP"
+                }
+            ]
+        },
+        {
+            "option": "profile",
+            "option_label": "Profiling",
+            "values": [
+                {
+                    "value": "Disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "Enabled",
+                    "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "rtti",
+            "option_label": "RTTI",
+            "values": [
+                {
+                    "value": "Disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "Enabled",
+                    "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "stackprotect",
+            "option_label": "Stack Protector",
+            "values": [
+                {
+                    "value": "Disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "Enabled",
+                    "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "exceptions",
+            "option_label": "C++ Exceptions",
+            "values": [
+                {
+                    "value": "Disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "Enabled",
+                    "value_label": "Enabled"
+                }
+            ]
+        },
+        {
+            "option": "dbgport",
+            "option_label": "Debug Port",
+            "values": [
+                {
+                    "value": "Disabled",
+                    "value_label": "Disabled",
+                    "selected": true
+                },
+                {
+                    "value": "Serial",
+                    "value_label": "Serial"
+                },
+                {
+                    "value": "Serial1",
+                    "value_label": "Serial1"
+                },
+                {
+                    "value": "Serial2",
+                    "value_label": "Serial2"
+                },
+                {
+                    "value": "SerialSemi",
+                    "value_label": "SerialSemi"
+                }
+            ]
+        },
+        {
+            "option": "dbglvl",
+            "option_label": "Debug Level",
+            "values": [
+                {
+                    "value": "None",
+                    "value_label": "None",
+                    "selected": true
+                },
+                {
+                    "value": "Core",
+                    "value_label": "Core"
+                },
+                {
+                    "value": "SPI",
+                    "value_label": "SPI"
+                },
+                {
+                    "value": "Wire",
+                    "value_label": "Wire"
+                },
+                {
+                    "value": "BTStack",
+                    "value_label": "BTStack"
+                },
+                {
+                    "value": "Bluetooth",
+                    "value_label": "Bluetooth"
+                },
+                {
+                    "value": "LWIP",
+                    "value_label": "LWIP"
+                },
+                {
+                    "value": "All",
+                    "value_label": "All"
+                },
+                {
+                    "value": "NDEBUG",
+                    "value_label": "NDEBUG"
+                }
+            ]
+        },
+        {
+            "option": "usbstack",
+            "option_label": "USB Stack",
+            "values": [
+                {
+                    "value": "picosdk",
+                    "value_label": "Pico SDK",
+                    "selected": true
+                },
+                {
+                    "value": "tinyusb",
+                    "value_label": "Adafruit TinyUSB"
+                },
+                {
+                    "value": "tinyusb_host",
+                    "value_label": "Adafruit TinyUSB Host (native)"
+                },
+                {
+                    "value": "nousb",
+                    "value_label": "No USB"
+                }
+            ]
+        },
+        {
+            "option": "ipbtstack",
+            "option_label": "IP/Bluetooth Stack",
+            "values": [
+                {
+                    "value": "ipv4only",
+                    "value_label": "IPv4 Only",
+                    "selected": true
+                },
+                {
+                    "value": "ipv4ipv6",
+                    "value_label": "IPv4 + IPv6"
+                },
+                {
+                    "value": "ipv4btcble",
+                    "value_label": "IPv4 + Bluetooth"
+                },
+                {
+                    "value": "ipv4ipv6btcble",
+                    "value_label": "IPv4 + IPv6 + Bluetooth"
+                },
+                {
+                    "value": "ipv4onlybig",
+                    "value_label": "IPv4 Only - 32K"
+                },
+                {
+                    "value": "ipv4ipv6big",
+                    "value_label": "IPv4 + IPv6 - 32K"
+                },
+                {
+                    "value": "ipv4btcblebig",
+                    "value_label": "IPv4 + Bluetooth - 32K"
+                },
+                {
+                    "value": "ipv4ipv6btcblebig",
+                    "value_label": "IPv4 + IPv6 + Bluetooth - 32K"
+                }
+            ]
+        },
+        {
+            "option": "uploadmethod",
+            "option_label": "Upload Method",
+            "values": [
+                {
+                    "value": "default",
+                    "value_label": "Default (UF2)",
+                    "selected": true
+                },
+                {
+                    "value": "picotool",
+                    "value_label": "Picotool"
+                },
+                {
+                    "value": "picoprobe_cmsis_dap",
+                    "value_label": "Picoprobe/Debugprobe (CMSIS-DAP)"
+                }
+            ]
+        }
+    ],
+    "package_url": "https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json",
+    "usb_ids": [
+        {
+            "vid": "0x2E8A",
+            "pid": "0x112F"
+        },
+        {
+            "vid": "0x2E8A",
+            "pid": "0x512F"
+        },
+        {
+            "vid": "0x2E8A",
+            "pid": "0x912F"
+        },
+        {
+            "vid": "0x2E8A",
+            "pid": "0xD12F"
+        }
+    ]
+},
   "rp2040:rp2040:cytron_maker_uno_rp2040": {
     "name": "Cytron Maker Uno RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -170210,7 +170605,7 @@
 },
   "rp2040:rp2040:cytron_motion_2350_pro": {
     "name": "Cytron Motion 2350 Pro",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -170621,7 +171016,7 @@
 },
   "rp2040:rp2040:datanoisetv_picoadk": {
     "name": "DatanoiseTV PicoADK",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -171017,7 +171412,7 @@
 },
   "rp2040:rp2040:datanoisetv_picoadk_v2": {
     "name": "DatanoiseTV PicoADK v2",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -171482,7 +171877,7 @@
 },
   "rp2040:rp2040:degz_suibo": {
     "name": "Degz Robotics Suibo RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -171910,7 +172305,7 @@
 },
   "rp2040:rp2040:dfrobot_beetle_rp2040": {
     "name": "DFRobot Beetle RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -172290,7 +172685,7 @@
 },
   "rp2040:rp2040:electroniccats_huntercat_nfc": {
     "name": "ElectronicCats HunterCat NFC RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -172686,7 +173081,7 @@
 },
   "rp2040:rp2040:evn_alpha": {
     "name": "EVN Alpha",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -173114,7 +173509,7 @@
 },
   "rp2040:rp2040:extelec_rc2040": {
     "name": "ExtremeElectronics RC2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -173486,7 +173881,7 @@
 },
   "rp2040:rp2040:flyboard2040_core": {
     "name": "DeRuiLab FlyBoard2040Core",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -173890,7 +174285,7 @@
 },
   "rp2040:rp2040:geeekpi_rp2040_plus": {
     "name": "GeeekPi RP2040 Plus",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -174294,7 +174689,7 @@
 },
   "rp2040:rp2040:generic": {
     "name": "Generic RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -174773,7 +175168,7 @@
 },
   "rp2040:rp2040:generic_rp2350": {
     "name": "Generic RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "variantchip",
@@ -175480,7 +175875,7 @@
 },
   "rp2040:rp2040:groundstudio_marble_pico": {
     "name": "GroundStudio Marble Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -175900,7 +176295,7 @@
 },
   "rp2040:rp2040:ilabs_cpico_2350": {
     "name": "iLabs CPico 2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -176319,7 +176714,7 @@
 },
   "rp2040:rp2040:ilabs_rpico32": {
     "name": "iLabs RPICO32",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -176754,7 +177149,7 @@
 },
   "rp2040:rp2040:jumperless_v1": {
     "name": "Architeuthis Flux Jumperless",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -177190,7 +177585,7 @@
 },
   "rp2040:rp2040:jumperless_v5": {
     "name": "Architeuthis Flux Jumperless V5",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -177641,7 +178036,7 @@
 },
   "rp2040:rp2040:melopero_cookie_rp2040": {
     "name": "Melopero Cookie RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -178061,7 +178456,7 @@
 },
   "rp2040:rp2040:melopero_shake_rp2040": {
     "name": "Melopero Shake RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -178513,7 +178908,7 @@
 },
   "rp2040:rp2040:mksthr36": {
     "name": "Makerbase MKS THR36",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -178905,7 +179300,7 @@
 },
   "rp2040:rp2040:mksthr42": {
     "name": "Makerbase MKS THR42",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -179297,7 +179692,7 @@
 },
   "rp2040:rp2040:nekosystems_bl2040_mini": {
     "name": "Neko Systems BL2040 Mini",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -179701,7 +180096,7 @@
 },
   "rp2040:rp2040:newsan_archi": {
     "name": "Newsan Archi",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -180105,7 +180500,7 @@
 },
   "rp2040:rp2040:nullbits_bit_c_pro": {
     "name": "nullbits Bit-C PRO",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -180493,7 +180888,7 @@
 },
   "rp2040:rp2040:olimex_pico2bb48": {
     "name": "Olimex Pico2BB48",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -181006,7 +181401,7 @@
 },
   "rp2040:rp2040:olimex_pico2xl": {
     "name": "Olimex Pico2XL",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -181417,7 +181812,7 @@
 },
   "rp2040:rp2040:olimex_pico2xxl": {
     "name": "Olimex Pico2XXL",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -181884,7 +182279,7 @@
 },
   "rp2040:rp2040:olimex_rp2040pico30": {
     "name": "Olimex RP2040-Pico30",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -182308,7 +182703,7 @@
 },
   "rp2040:rp2040:pcbcupid_glyph_2040": {
     "name": "Pcbcupid GLYPH 2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -182712,7 +183107,7 @@
 },
   "rp2040:rp2040:pcbcupid_glyph_mini_2040": {
     "name": "Pcbcupid GLYPH MINI 2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -183116,7 +183511,7 @@
 },
   "rp2040:rp2040:picolume": {
     "name": "PicoLume Transceiver",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -183512,7 +183907,7 @@
 },
   "rp2040:rp2040:pimoroni_explorer": {
     "name": "Pimoroni Explorer",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -183979,7 +184374,7 @@
 },
   "rp2040:rp2040:pimoroni_pga2040": {
     "name": "Pimoroni PGA2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -184399,7 +184794,7 @@
 },
   "rp2040:rp2040:pimoroni_pga2350": {
     "name": "Pimoroni PGA2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -184866,7 +185261,7 @@
 },
   "rp2040:rp2040:pimoroni_pico_plus_2": {
     "name": "Pimoroni PicoPlus2",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -185333,7 +185728,7 @@
 },
   "rp2040:rp2040:pimoroni_pico_plus_2w": {
     "name": "Pimoroni PicoPlus2W",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -186015,7 +186410,7 @@
 },
   "rp2040:rp2040:pimoroni_plasma2040": {
     "name": "Pimoroni Plasma2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -186411,7 +186806,7 @@
 },
   "rp2040:rp2040:pimoroni_plasma2350": {
     "name": "Pimoroni Plasma2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -186822,7 +187217,7 @@
 },
   "rp2040:rp2040:pimoroni_plasma2350w": {
     "name": "Pimoroni Plasma2350W",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -187233,7 +187628,7 @@
 },
   "rp2040:rp2040:pimoroni_servo2040": {
     "name": "Pimoroni Servo2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -187629,7 +188024,7 @@
 },
   "rp2040:rp2040:pimoroni_tiny2040": {
     "name": "Pimoroni Tiny2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -188041,7 +188436,7 @@
 },
   "rp2040:rp2040:pimoroni_tiny2350": {
     "name": "Pimoroni Tiny2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -188460,7 +188855,7 @@
 },
   "rp2040:rp2040:pintronix_pinmax": {
     "name": "Pintronix PinMax",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -188840,7 +189235,7 @@
 },
   "rp2040:rp2040:rakwireless_rak11300": {
     "name": "RAKwireless RAK11300",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -189236,7 +189631,7 @@
 },
   "rp2040:rp2040:redscorp_rp2040_eins": {
     "name": "redscorp RP2040-Eins",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -189672,7 +190067,7 @@
 },
   "rp2040:rp2040:redscorp_rp2040_promini": {
     "name": "redscorp RP2040-ProMini",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -190108,7 +190503,7 @@
 },
   "rp2040:rp2040:rpipico": {
     "name": "Raspberry Pi Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -190504,7 +190899,7 @@
 },
   "rp2040:rp2040:rpipico2": {
     "name": "Raspberry Pi Pico 2",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -190923,7 +191318,7 @@
 },
   "rp2040:rp2040:rpipico2w": {
     "name": "Raspberry Pi Pico 2W",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -191533,7 +191928,7 @@
 },
   "rp2040:rp2040:rpipicow": {
     "name": "Raspberry Pi Pico W",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -192120,7 +192515,7 @@
 },
   "rp2040:rp2040:sea_picro": {
     "name": "Generic Sea-Picro",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -192516,7 +192911,7 @@
 },
   "rp2040:rp2040:seeed_indicator_rp2040": {
     "name": "Seeed INDICATOR RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -192912,7 +193307,7 @@
 },
   "rp2040:rp2040:seeed_xiao_rp2040": {
     "name": "Seeed XIAO RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -193308,7 +193703,7 @@
 },
   "rp2040:rp2040:seeed_xiao_rp2040_plus": {
     "name": "Seeed XIAO RP2040 Plus",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -193704,7 +194099,7 @@
 },
   "rp2040:rp2040:seeed_xiao_rp2350": {
     "name": "Seeed XIAO RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -194115,7 +194510,7 @@
 },
   "rp2040:rp2040:silicognition_rp2040_shim": {
     "name": "Silicognition RP2040-Shim",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -194491,7 +194886,7 @@
 },
   "rp2040:rp2040:soldered_nula_ethernet_w55rp20": {
     "name": "Soldered Electronics NULA Ethernet W55RP20",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -194871,7 +195266,7 @@
 },
   "rp2040:rp2040:soldered_nula_node_rp2040": {
     "name": "Soldered Electronics NULA Node",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -195307,7 +195702,7 @@
 },
   "rp2040:rp2040:soldered_nula_rp2350": {
     "name": "Soldered Electronics NULA RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -195774,7 +196169,7 @@
 },
   "rp2040:rp2040:solderparty_rp2040_stamp": {
     "name": "Solder Party RP2040 Stamp",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -196170,7 +196565,7 @@
 },
   "rp2040:rp2040:solderparty_rp2350_stamp": {
     "name": "Solder Party RP2350 Stamp",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -196613,7 +197008,7 @@
 },
   "rp2040:rp2040:solderparty_rp2350_stamp_xl": {
     "name": "Solder Party RP2350 Stamp XL",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -197102,7 +197497,7 @@
 },
   "rp2040:rp2040:sparkfun_iotnode_lorawanrp2350": {
     "name": "SparkFun IoT Node LoRaWAN",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -197569,7 +197964,7 @@
 },
   "rp2040:rp2040:sparkfun_iotredboard_rp2350": {
     "name": "SparkFun IoT RedBoard RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -198036,7 +198431,7 @@
 },
   "rp2040:rp2040:sparkfun_micromodrp2040": {
     "name": "SparkFun MicroMod RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -198488,7 +198883,7 @@
 },
   "rp2040:rp2040:sparkfun_promicrorp2040": {
     "name": "SparkFun ProMicro RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -198940,7 +199335,7 @@
 },
   "rp2040:rp2040:sparkfun_promicrorp2350": {
     "name": "SparkFun ProMicro RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -199407,7 +199802,7 @@
 },
   "rp2040:rp2040:sparkfun_thingplusrp2040": {
     "name": "SparkFun Thing Plus RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -199859,7 +200254,7 @@
 },
   "rp2040:rp2040:sparkfun_thingplusrp2350": {
     "name": "SparkFun Thing Plus RP2350",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -200541,7 +200936,7 @@
 },
   "rp2040:rp2040:sparkfun_xrp_controller": {
     "name": "SparkFun XRP Controller",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -201008,7 +201403,7 @@
 },
   "rp2040:rp2040:sparkfun_xrp_controller_beta": {
     "name": "SparkFun XRP Controller (Beta)",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -201404,7 +201799,7 @@
 },
   "rp2040:rp2040:upesy_rp2040_devkit": {
     "name": "uPesy RP2040 DevKit",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -201800,7 +202195,7 @@
 },
   "rp2040:rp2040:vccgnd_yd_rp2040": {
     "name": "VCC-GND YD RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -202236,7 +202631,7 @@
 },
   "rp2040:rp2040:vicharak_shrike-lite": {
     "name": "Vicharak Shrike-Lite",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -202616,7 +203011,7 @@
 },
   "rp2040:rp2040:viyalab_mizu": {
     "name": "Viyalab Mizu RP2040",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -203036,7 +203431,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_lcd_0_96": {
     "name": "Waveshare RP2040 LCD 0.96",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -203432,7 +203827,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_lcd_1_28": {
     "name": "Waveshare RP2040 LCD 1.28",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -203828,7 +204223,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_lora": {
     "name": "Waveshare RP2040 LoRa",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -204224,7 +204619,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_matrix": {
     "name": "Waveshare RP2040 Matrix",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -204620,7 +205015,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_one": {
     "name": "Waveshare RP2040 One",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -205024,7 +205419,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_pizero": {
     "name": "Waveshare RP2040 PiZero",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -205476,7 +205871,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_plus": {
     "name": "Waveshare RP2040 Plus",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -205908,7 +206303,7 @@
 },
   "rp2040:rp2040:waveshare_rp2040_zero": {
     "name": "Waveshare RP2040 Zero",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -206304,7 +206699,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350_core": {
     "name": "Waveshare RP2350 Core",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -206817,7 +207212,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350_lcd_0_96": {
     "name": "Waveshare RP2350 LCD 0.96",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -207236,7 +207631,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350_pizero": {
     "name": "Waveshare RP2350 PiZero",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -207703,7 +208098,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350_plus": {
     "name": "Waveshare RP2350 Plus",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -208150,7 +208545,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350_poe_eth": {
     "name": "Waveshare RP2350-POE-ETH",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -208617,7 +209012,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350_zero": {
     "name": "Waveshare RP2350 Zero",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -209036,7 +209431,7 @@
 },
   "rp2040:rp2040:waveshare_rp2350b_plus_w": {
     "name": "Waveshare RP2350B Plus W",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -209674,7 +210069,7 @@
 },
   "rp2040:rp2040:weact_rp2350b": {
     "name": "WeAct Studio RP2350B Core Board",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -210141,7 +210536,7 @@
 },
   "rp2040:rp2040:wiznet_5100s_evb_pico": {
     "name": "WIZnet W5100S-EVB-Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -210537,7 +210932,7 @@
 },
   "rp2040:rp2040:wiznet_5100s_evb_pico2": {
     "name": "WIZnet W5100S-EVB-Pico2",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -210948,7 +211343,7 @@
 },
   "rp2040:rp2040:wiznet_5500_evb_pico": {
     "name": "WIZnet W5500-EVB-Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -211344,7 +211739,7 @@
 },
   "rp2040:rp2040:wiznet_5500_evb_pico2": {
     "name": "WIZnet W5500-EVB-Pico2",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -211755,7 +212150,7 @@
 },
   "rp2040:rp2040:wiznet_55rp20_evb_pico": {
     "name": "WIZnet W55RP20-EVB-Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -212151,7 +212546,7 @@
 },
   "rp2040:rp2040:wiznet_6300_evb_pico": {
     "name": "WIZnet W6300-EVB-Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -212547,7 +212942,7 @@
 },
   "rp2040:rp2040:wiznet_6300_evb_pico2": {
     "name": "WIZnet W6300-EVB-Pico2",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
@@ -212958,7 +213353,7 @@
 },
   "rp2040:rp2040:wiznet_wizfi360_evb_pico": {
     "name": "WIZnet WizFi360-EVB-Pico",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "config_options": [
         {
             "option": "flash",
