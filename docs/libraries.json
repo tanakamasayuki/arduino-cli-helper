@@ -139718,8 +139718,8 @@
     },
     {
         "name": "esp32-tunnel",
-        "version": "5.3.1",
-        "versions": "5.3.1, 5.3.0, 5.2.0, 5.1.1, 5.1.0, 5.0.0, 4.2.0, 4.1.0, 4.0.0, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
+        "version": "5.4.0",
+        "versions": "5.4.0, 5.3.2, 5.3.1, 5.3.0, 5.2.0, 5.1.1, 5.1.0, 5.0.0, 4.2.0, 4.1.0, 4.0.0, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp32-tunnel",
@@ -147890,8 +147890,8 @@
     },
     {
         "name": "tarfs",
-        "version": "0.1.6",
-        "versions": "0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.7",
+        "versions": "0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Viacheslav Logunov <vvb333007@gmail.com>",
         "maintainer": "Viacheslav Logunov <vvb333007@gmail.com>",
         "website": "https://github.com/vvb333007/tarfs",
@@ -151700,8 +151700,8 @@
     },
     {
         "name": "MyDot",
-        "version": "1.0.10",
-        "versions": "1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.12",
+        "versions": "1.0.12, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Microeden",
         "maintainer": "Microeden <info@microeden.io>",
         "website": "https://github.com/Microeden/MyDotLib",
@@ -153550,8 +153550,8 @@
     },
     {
         "name": "KT_BQ25601",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Kacper Tora",
         "maintainer": "Kacper Tora",
         "website": "https://github.com/KacperTora/KT_BQ25601",
@@ -157047,6 +157047,84 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/mumanchu/QMC5883PMagnetometer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bridge555",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "Code-hoysala",
+        "maintainer": "Code-hoysala <shashankhoysala04@outlook.com>",
+        "website": "https://github.com/code-hoysala/Bridge555",
+        "category": "Signal Input/Output",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/code-hoysala/Bridge555.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Joy-IT Robot Arm Arduino",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Joy-IT <support@joy-it.de>",
+        "maintainer": "Joy-IT <support@joy-it.de>",
+        "website": "https://github.com/joy-it/JoyIT_Robotarm_Arduino",
+        "category": "Device Control",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/joy-it/JoyIT_Robotarm_Arduino.git",
+        "dependencies": [
+            "Adafruit PWM Servo Driver Library",
+            "Adafruit BusIO",
+            "PsxNewLib",
+            "DigitalIO"
+        ]
+    },
+    {
+        "name": "LottieMCU",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "maintainer": "Jobit Joseph <jobitjoseph1@gmail.com>",
+        "website": "https://github.com/jobitjoseph/LottieMCU",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/jobitjoseph/LottieMCU.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PS4Bluepad32",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Pham Thanh Tuyen",
+        "maintainer": "Pham Thanh Tuyen <phamthanhtuyen2k8@gmail.com>",
+        "website": "https://github.com/phm-tuyenn/ps4-esp32-lib",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/phm-tuyenn/ps4-esp32-lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Lcd2004",
+        "version": "2.3.5",
+        "versions": "2.3.5",
+        "author": "ania_7",
+        "maintainer": "ania_7 <ania_7@inbox.ru>",
+        "website": "https://github.com/ania-7abc/Lcd2004",
+        "category": "Display",
+        "architectures": "",
+        "types": "Contributed",
+        "repository": "https://github.com/ania-7abc/Lcd2004.git",
         "dependencies": [
             ""
         ]
