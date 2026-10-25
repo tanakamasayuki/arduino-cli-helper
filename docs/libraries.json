@@ -50012,8 +50012,8 @@
     },
     {
         "name": "esp_abus",
-        "version": "0.0.6",
-        "versions": "0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.7",
+        "versions": "0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Daniel Gangl",
         "maintainer": "Daniel Gangl <killer007@gmx.at>",
         "website": "https://github.com/killer0071234/esp_abus",
