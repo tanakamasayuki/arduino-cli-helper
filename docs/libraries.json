@@ -157189,5 +157189,20 @@
         "dependencies": [
             ""
         ]
+    },
+    {
+        "name": "asyncTelegramAPI",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Serhii Lebedenko",
+        "maintainer": "Serhii Lebedenko (slebedenko@gmail.com)",
+        "website": "https://github.com/SerhiiLe/asyncTelegramAPI",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/SerhiiLe/asyncTelegramAPI.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
     }
 ]
