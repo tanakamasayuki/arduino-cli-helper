@@ -48858,8 +48858,8 @@
     },
     {
         "name": "NimBLE-Arduino",
-        "version": "2.5.1",
-        "versions": "2.5.1, 2.5.0, 2.4.0, 2.3.9, 2.3.8, 2.3.7, 2.3.6, 2.3.5, 2.3.4, 2.3.2, 2.3.1, 2.3.0, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.5.2",
+        "versions": "2.5.2, 2.5.1, 2.5.0, 2.4.0, 2.3.9, 2.3.8, 2.3.7, 2.3.6, 2.3.5, 2.3.4, 2.3.2, 2.3.1, 2.3.0, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "h2zero",
         "maintainer": "Ryan Powell <ryan@nable-embedded.io>",
         "website": "https://github.com/h2zero/NimBLE-Arduino",
@@ -129275,12 +129275,12 @@
     },
     {
         "name": "logic",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/logic",
-        "category": "Sensors",
+        "category": "Data Processing",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/Logic.git",
@@ -129410,8 +129410,8 @@
     },
     {
         "name": "JMBase",
-        "version": "1.8.4",
-        "versions": "1.8.4, 1.8.3, 1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
+        "version": "1.8.5",
+        "versions": "1.8.5, 1.8.4, 1.8.3, 1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.0, 1.4.0, 1.3.6, 1.3.5, 1.3.0, 1.2.0, 1.1.0",
         "author": "Juanjo Martín",
         "maintainer": "Juanjo Martín",
         "website": "https://github.com/juanjomartinf/JMBase",
@@ -143322,8 +143322,8 @@
     },
     {
         "name": "microTelegramAPI",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Serhii Lebedenko",
         "maintainer": "Serhii Lebedenko (slebedenko@gmail.com)",
         "website": "https://github.com/SerhiiLe/microTelegramAPI",
@@ -156056,8 +156056,8 @@
     },
     {
         "name": "LTC2941",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/LTC2941",
@@ -157141,6 +157141,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/tkgktyk/analog-mimic-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ToneTransceiver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "code-hoysala",
+        "maintainer": "code-hoysala <shashankhoysala04@outlook.com>",
+        "website": "https://github.com/code-hoysala/ToneTransceiver",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/code-hoysala/ToneTransceiver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MotorShield",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "code-hoysala",
+        "maintainer": "code-hoysala <shashankhoysala04@outlook.com>",
+        "website": "https://github.com/code-hoysala/MotorShield",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/code-hoysala/MotorShield.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "EasyMatter",
+        "version": "0.3.2",
+        "versions": "0.3.2, 0.3.0, 0.2.0",
+        "author": "EasyMatter contributors",
+        "maintainer": "EasyMatter contributors",
+        "website": "https://github.com/thegraywaver/EasyMatter",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/thegraywaver/EasyMatter.git",
         "dependencies": [
             ""
         ]
