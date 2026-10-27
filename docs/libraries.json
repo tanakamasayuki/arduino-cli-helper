@@ -67267,8 +67267,8 @@
     },
     {
         "name": "DFRobot_IICSerial",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "DFRobot",
         "maintainer": "Arya <xue.peng@dfrobot.com>",
         "website": "https://github.com/DFRobot/DFRobot_IICSerial",
@@ -88081,8 +88081,8 @@
     },
     {
         "name": "nrf_to_nrf",
-        "version": "1.5.1",
-        "versions": "1.5.1, 1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.1, 1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://github.com/TMRh20/nrf_to_nrf",
@@ -130160,8 +130160,8 @@
     },
     {
         "name": "OK Little Layout",
-        "version": "0.5.0",
-        "versions": "0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Daniel Egnor",
         "maintainer": "egnor@ofb.net",
         "website": "https://github.com/egnor/ok_arduino_little_layout",
@@ -153565,8 +153565,8 @@
     },
     {
         "name": "OpenEmbeddedProbe",
-        "version": "0.0.38",
-        "versions": "0.0.38, 0.0.37, 0.0.36, 0.0.35, 0.0.34, 0.0.33, 0.0.32, 0.0.31, 0.0.30, 0.0.29, 0.0.28, 0.0.27, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.39",
+        "versions": "0.0.39, 0.0.38, 0.0.37, 0.0.36, 0.0.35, 0.0.34, 0.0.33, 0.0.32, 0.0.31, 0.0.30, 0.0.29, 0.0.28, 0.0.27, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Open Embedded Probe contributors",
         "maintainer": "Open Embedded Probe contributors",
         "website": "https://github.com/Open-Embedded-Probe/oep-probe-arduino",
@@ -157321,6 +157321,37 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_audio_tools.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DevLab_TrafficLights",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "UNIT Electronics MX",
+        "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
+        "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_trafficlight_library",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_trafficlight_library.git",
+        "dependencies": [
+            "DevLabDDP",
+            "DevLab_Interface"
+        ]
+    },
+    {
+        "name": "OpenThermPlus",
+        "version": "2.2.0",
+        "versions": "2.2.0, 2.1.0, 2.0.0",
+        "author": "Ihor Melnyk <ihor.melnyk@gmail.com>, Branislav Mikuška",
+        "maintainer": "Branislav Mikuška",
+        "website": "https://github.com/bmikuska46/opentherm_library",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bmikuska46/opentherm_library.git",
         "dependencies": [
             ""
         ]
