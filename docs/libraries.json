@@ -70766,8 +70766,8 @@
     },
     {
         "name": "FastLEDHub",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0, 0.9.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.3.0, 2.2.0, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0, 0.9.0",
         "author": "Stephan Rumswinkel",
         "maintainer": "Stephan Rumswinkel",
         "website": "https://github.com/srwi/FastLEDHub.git",
@@ -133654,8 +133654,8 @@
     },
     {
         "name": "DFPongController",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.4.2",
+        "versions": "2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Digital Futures OCAD U",
         "maintainer": "Digital Futures OCAD U",
         "website": "https://github.com/DigitalFuturesOCADU/df-pong-controller",
@@ -148039,8 +148039,8 @@
     },
     {
         "name": "NetworkProfile",
-        "version": "0.11.2",
-        "versions": "0.11.2, 0.11.1, 0.11.0, 0.10.1, 0.10.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.11.3",
+        "versions": "0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.1, 0.10.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Péter Soós",
         "maintainer": "Péter Soós",
         "website": "https://github.com/soosp/NetworkProfile",
@@ -148056,8 +148056,8 @@
     },
     {
         "name": "NetworkManager",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.5.2",
+        "versions": "0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Péter Soós <https://github.com/soosp>",
         "maintainer": "Péter Soós <https://github.com/soosp>",
         "website": "https://github.com/soosp/NetworkManager",
@@ -151233,8 +151233,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.17.0",
-        "versions": "0.17.0, 0.16.1, 0.16.0, 0.15.1, 0.15.0, 0.14.0, 0.13.2, 0.13.1, 0.13.0, 0.12.0, 0.11.0, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.18.0",
+        "versions": "0.18.0, 0.17.0, 0.16.1, 0.16.0, 0.15.1, 0.15.0, 0.14.0, 0.13.2, 0.13.1, 0.13.0, 0.12.0, 0.11.0, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
@@ -157459,6 +157459,23 @@
         "repository": "https://github.com/mumanchu/AnalogKeypad5.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Adafruit LT8912B",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit, Espressif Systems",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_LT8912B",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_LT8912B.git",
+        "dependencies": [
+            "Adafruit BusIO",
+            "Adafruit GFX Library",
+            "Adafruit TestBed"
         ]
     }
 ]
