@@ -134394,8 +134394,8 @@
     },
     {
         "name": "wireguard-pico-w",
-        "version": "0.1.7",
-        "versions": "0.1.7",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.7",
         "author": "Kenta Ida (original); Daniel Hope (upstream); Marcin Kielesiński (RP2040/Pico W port)",
         "maintainer": "Marcin Kielesiński",
         "website": "https://github.com/jaszczurtd/arduino-wireguard-pico-w",
@@ -143050,8 +143050,8 @@
     },
     {
         "name": "TinyRTOS",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Nikolai Radke",
         "maintainer": "Nikolai Radke",
         "website": "https://github.com/NikolaiRadke/TinyRTOS",
@@ -146169,8 +146169,8 @@
     },
     {
         "name": "MTW TinyLoopScheduler",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.1",
+        "versions": "0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "MyTechWaifu",
         "maintainer": "MyTechWaifu <MyTechWaifu@web3msg.fun>",
         "website": "https://github.com/MyTechWaifu/MTW_TinyLoopScheduler",
