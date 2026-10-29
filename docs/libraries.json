@@ -45926,8 +45926,8 @@
     },
     {
         "name": "HX711",
-        "version": "0.6.5",
-        "versions": "0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.6.6",
+        "versions": "0.6.6, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.0, 0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HX711",
@@ -85034,8 +85034,8 @@
     },
     {
         "name": "HX711_MP",
-        "version": "0.3.5",
-        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.3.6",
+        "versions": "0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/HX711_MP",
@@ -133654,8 +133654,8 @@
     },
     {
         "name": "DFPongController",
-        "version": "2.4.2",
-        "versions": "2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.4.3",
+        "versions": "2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Digital Futures OCAD U",
         "maintainer": "Digital Futures OCAD U",
         "website": "https://github.com/DigitalFuturesOCADU/df-pong-controller",
@@ -142702,8 +142702,8 @@
     },
     {
         "name": "BLECommands",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Andrey Rodin",
         "maintainer": "Andrey Rodin <andrey.val.rodin@gmail.com>",
         "website": "https://github.com/andrey-val-rodin/BleCommands.Arduino/",
@@ -146169,13 +146169,13 @@
     },
     {
         "name": "MTW TinyLoopScheduler",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "MyTechWaifu",
         "maintainer": "MyTechWaifu <MyTechWaifu@web3msg.fun>",
         "website": "https://github.com/MyTechWaifu/MTW_TinyLoopScheduler",
         "category": "Timing",
-        "architectures": "avr, megaavr",
+        "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/MyTechWaifu/MTW_TinyLoopScheduler.git",
         "dependencies": [
@@ -155362,8 +155362,8 @@
     },
     {
         "name": "IOTFIY",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Iotfiy Solutions",
         "maintainer": "iotfiy.solution@gmail.com",
         "website": "https://github.com/iotfiy-solutions/Gateway_Library.git",
@@ -157476,6 +157476,52 @@
             "Adafruit BusIO",
             "Adafruit GFX Library",
             "Adafruit TestBed"
+        ]
+    },
+    {
+        "name": "Adafruit RV8803",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Adafruit",
+        "maintainer": "Adafruit <info@adafruit.com>",
+        "website": "https://github.com/adafruit/Adafruit_RV8803",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Recommended",
+        "repository": "https://github.com/adafruit/Adafruit_RV8803.git",
+        "dependencies": [
+            "RTClib",
+            "Adafruit BusIO"
+        ]
+    },
+    {
+        "name": "MPU6050Classroom",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MPU6050Classroom contributors",
+        "maintainer": "MPU6050Classroom contributors",
+        "website": "https://github.com/Teacher-Heiko/MPU6050Classroom",
+        "category": "Sensors",
+        "architectures": "esp32, avr, renesas_uno",
+        "types": "Contributed",
+        "repository": "https://github.com/Teacher-Heiko/MPU6050Classroom.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AMK_CYD_Universal_TFT",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.1",
+        "author": "Aung Moe Khine",
+        "maintainer": "Aung Moe Khine <aungmoekhine@gmail.com>",
+        "website": "https://github.com/aungmoekhine/AMK_CYD_Universal_TFT",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/AungMoeKhine/AMK_CYD_Universal_TFT.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
