@@ -5607,8 +5607,8 @@
     },
     {
         "name": "RF24Network",
-        "version": "2.2.1",
-        "versions": "2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.3.0",
+        "versions": "2.3.0, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "TMRh20",
         "maintainer": "TMRh20,Avamander",
         "website": "https://nRF24.github.io/RF24Network/",
@@ -6302,8 +6302,8 @@
     },
     {
         "name": "RF24Ethernet",
-        "version": "2.2.2",
-        "versions": "2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.12, 1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0",
+        "version": "2.2.3",
+        "versions": "2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.12, 1.6.11, 1.6.10, 1.6.9, 1.6.8, 1.6.7, 1.6.6, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://nRF24.github.io/RF24Ethernet/",
@@ -139735,8 +139735,8 @@
     },
     {
         "name": "ATGenX_Hub",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.0, 2.3.0, 1.0.0",
+        "version": "2.7.0",
+        "versions": "2.7.0, 2.5.0, 2.4.0, 2.3.0, 1.0.0",
         "author": "Seif Emad / ARDUTECH0",
         "maintainer": "Seif Emad <support@atgenx.com>",
         "website": "https://github.com/ARDUTECH0/ATGenXIOT",
@@ -143351,8 +143351,8 @@
     },
     {
         "name": "DashlyClient",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.2, 2.1.0, 1.0.1, 1.0.0",
+        "version": "2.4.0",
+        "versions": "2.4.0, 2.2.0, 2.1.2, 2.1.0, 1.0.1, 1.0.0",
         "author": "Arsen Vardanyan",
         "maintainer": "Smart Stack Solutions <support@dashlyiot.com>",
         "website": "https://dashlyiot.com",
@@ -155595,13 +155595,13 @@
     },
     {
         "name": "PinNode",
-        "version": "0.3.15",
-        "versions": "0.3.15, 0.3.14, 0.3.13, 0.3.12, 0.3.11",
+        "version": "0.3.20",
+        "versions": "0.3.20, 0.3.19, 0.3.15, 0.3.14, 0.3.13, 0.3.12, 0.3.11",
         "author": "PinNode",
         "maintainer": "PinNode",
         "website": "https://github.com/pin-node/PinNode",
         "category": "Communication",
-        "architectures": "avr, esp32",
+        "architectures": "avr, esp32, rp2040",
         "types": "Contributed",
         "repository": "https://github.com/pin-node/PinNode.git",
         "dependencies": [
@@ -157539,6 +157539,21 @@
             "PubSubClient",
             "TinyGPSPlus",
             "ArduinoJson"
+        ]
+    },
+    {
+        "name": "DFRobot_HuskylensV2",
+        "version": "1.4.2",
+        "versions": "1.4.2, 1.0.9, 1.0.7, 1.0.4",
+        "author": "DFRobot",
+        "maintainer": "ouki.wang <ouki.wang@dfrobot.com>",
+        "website": "https://github.com/DFRobot/DFRobot_HuskylensV2",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/DFRobot/DFRobot_HuskylensV2.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
