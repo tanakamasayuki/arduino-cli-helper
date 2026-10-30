@@ -108503,8 +108503,8 @@
     },
     {
         "name": "ConnectionHelper",
-        "version": "3.0.16",
-        "versions": "3.0.16, 3.0.15, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 1.1.0, 1.0.8, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.17",
+        "versions": "3.0.17, 3.0.16, 3.0.15, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 1.1.0, 1.0.8, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ConnectionHelper",
@@ -108518,8 +108518,8 @@
     },
     {
         "name": "MQTTRemote",
-        "version": "6.0.4",
-        "versions": "6.0.4, 6.0.3, 6.0.2, 6.0.1, 6.0.0, 5.0.2, 5.0.1, 5.0.0, 4.0.6, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 3.0.0, 2.0.2, 2.0.1, 2.0.0, 1.0.3, 1.0.0",
+        "version": "6.0.5",
+        "versions": "6.0.5, 6.0.4, 6.0.3, 6.0.2, 6.0.1, 6.0.0, 5.0.2, 5.0.1, 5.0.0, 4.0.6, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 3.0.0, 2.0.2, 2.0.1, 2.0.0, 1.0.3, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/MQTTRemote",
@@ -108528,7 +108528,7 @@
         "types": "Contributed",
         "repository": "https://github.com/Johboh/MQTTRemote.git",
         "dependencies": [
-            ""
+            "MQTT"
         ]
     },
     {
@@ -141891,7 +141891,7 @@
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
-        "repository": "https://github.com/HamzaYslmn/Esp-BLE-Web.git",
+        "repository": "https://github.com/HamzaYslmn/Esp-BleDeck.git",
         "dependencies": [
             ""
         ]
@@ -143269,7 +143269,7 @@
         "category": "Communication",
         "architectures": "esp32",
         "types": "Contributed",
-        "repository": "https://github.com/xanderwasserman/SimpleOTAClient-Arduino.git",
+        "repository": "https://github.com/wassie-dev/simpleOTAClient-Arduino.git",
         "dependencies": [
             ""
         ]
@@ -143514,21 +143514,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Parvaz-Jamei/EcoSensePower-Arduino.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "WS25QxxFlash",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "mumanchu <info@muman.ch>",
-        "maintainer": "mumanchu <info@muman.ch>",
-        "website": "https://github.com/mumanchu/WS25QxxFlash",
-        "category": "Data Storage",
-        "architectures": "*",
-        "types": "Contributed",
-        "repository": "https://github.com/mumanchu/W25QxxFlash.git",
         "dependencies": [
             ""
         ]
@@ -145135,21 +145120,6 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/Gershy13/dtc-lookup.git",
-        "dependencies": [
-            ""
-        ]
-    },
-    {
-        "name": "python esp bridge",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.16.0, 0.15.0, 0.14.1, 0.14.0, 0.13.0, 0.12.2, 0.12.1, 0.12.0, 0.11.6, 0.11.5, 0.11.4, 0.11.3, 0.11.2, 0.11.1, 0.11.0, 0.10.0, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.5, 0.3.4",
-        "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
-        "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
-        "website": "https://github.com/HamzaYslmn/python-esp-bridge",
-        "category": "Communication",
-        "architectures": "esp32, nrf52",
-        "types": "Contributed",
-        "repository": "https://github.com/HamzaYslmn/python-esp-bridge.git",
         "dependencies": [
             ""
         ]
@@ -146836,8 +146806,8 @@
     },
     {
         "name": "LionDallas",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionDallas",
@@ -151761,22 +151731,6 @@
         "repository": "https://github.com/bcan77/CiftPulsar-OTA.git",
         "dependencies": [
             ""
-        ]
-    },
-    {
-        "name": "LagariMotors",
-        "version": "0.3.0",
-        "versions": "0.3.0, 0.2.0, 0.1.1, 0.1.0",
-        "author": "LAGARI A <lagariscience@gmail.com>",
-        "maintainer": "LAGARI A <lagariscience@gmail.com>",
-        "website": "https://github.com/ailagari/LagariMotors",
-        "category": "Device Control",
-        "architectures": "avr",
-        "types": "Contributed",
-        "repository": "https://github.com/ailagari/LagariMotors.git",
-        "dependencies": [
-            "CONTROLLINO",
-            "Ethernet"
         ]
     },
     {
@@ -157552,6 +157506,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/DFRobot/DFRobot_HuskylensV2.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "W25QxxFlash",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "mumanchu",
+        "maintainer": "mumanchu <info@muman.ch>",
+        "website": "https://github.com/mumanchu/W25QxxFlash",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/W25QxxFlash.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ThreeZoneDriver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "watersRand",
+        "maintainer": "watersRand",
+        "website": "https://github.com/watersRand/ThreeZoneDriver",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/watersRand/ThreeZoneDriver.git",
         "dependencies": [
             ""
         ]
