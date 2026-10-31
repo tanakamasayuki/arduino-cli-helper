@@ -96813,8 +96813,8 @@
     },
     {
         "name": "roo_time",
-        "version": "2.0.1",
-        "versions": "2.0.1, 2.0.0, 1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
+        "version": "2.0.2",
+        "versions": "2.0.2, 2.0.1, 2.0.0, 1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.2",
         "author": "Dejwk <dejwk.oss@gmail.com>",
         "maintainer": "Dejwk <dejwk.oss@gmail.com>",
         "website": "https://github.com/dejwk/roo_time",
@@ -115322,8 +115322,8 @@
     },
     {
         "name": "GeoluxCamera",
-        "version": "0.1.3",
-        "versions": "0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.4",
+        "versions": "0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Sara Damiano <sdamiano@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "website": "https://github.com/EnviroDIY/GeoluxCamera",
@@ -137422,8 +137422,8 @@
     },
     {
         "name": "microDecoder",
-        "version": "1.0.1",
-        "versions": "1.0.1",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
         "author": "Tim Tierney",
         "maintainer": "tmrh20 <tmrh20@gmail.com>",
         "website": "https://github.com/TMRh20/microDecoder",
@@ -157373,7 +157373,7 @@
     {
         "name": "mannaNAUTA WS2812",
         "version": "2.0.0",
-        "versions": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "wuigor",
         "maintainer": "wuigor",
         "website": "https://github.com/wuigor/mannaNAUTA_WS2812_Lib",
@@ -157536,6 +157536,37 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/watersRand/ThreeZoneDriver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Telar",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Luis Díaz-Faes",
+        "maintainer": "Luis Díaz-Faes",
+        "website": "https://github.com/CyberMODE/Telar-Arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/CyberMODE/Telar-Arduino.git",
+        "dependencies": [
+            "WebSockets",
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "Lonely Binary Fingerprint",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Lonely Binary <office@lonelybinary.com>",
+        "maintainer": "Lonely Binary <office@lonelybinary.com>",
+        "website": "https://github.com/Lonely-Binary/Fingerprint",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Lonely-Binary/Fingerprint.git",
         "dependencies": [
             ""
         ]
