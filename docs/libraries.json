@@ -108533,8 +108533,8 @@
     },
     {
         "name": "HomeAssistantEntities",
-        "version": "8.0.22",
-        "versions": "8.0.22, 8.0.21, 8.0.20, 8.0.19, 8.0.17, 8.0.16, 8.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0",
+        "version": "9.0.0",
+        "versions": "9.0.0, 8.0.22, 8.0.21, 8.0.20, 8.0.19, 8.0.17, 8.0.16, 8.0.15, 8.0.14, 8.0.13, 8.0.12, 8.0.11, 8.0.10, 8.0.9, 8.0.8, 8.0.7, 8.0.6, 8.0.5, 8.0.4, 8.0.3, 8.0.2, 8.0.1, 8.0.0, 7.0.8, 7.0.7, 7.0.6, 7.0.5, 7.0.3, 7.0.2, 7.0.1, 7.0.0, 6.1.3, 6.1.2, 6.1.1, 6.1.0, 6.0.5, 6.0.4, 6.0.3, 6.0.0, 4.0.0, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 2.1.3, 2.1.2, 2.1.0, 2.0.0, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/HomeAssistantEntities",
@@ -110338,13 +110338,13 @@
     },
     {
         "name": "DashioNano33BLE",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.1.0",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.1.0",
         "author": "DashIO Connect <info@dashio.io>",
         "maintainer": "DashIO Connect <info@dashio.io>",
         "website": "https://dashio.io",
         "category": "Communication",
-        "architectures": "ARDUINO_ARDUINO_NANO33BLE",
+        "architectures": "mbed_nano, mbed",
         "types": "Contributed",
         "repository": "https://github.com/dashio-connect/arduino-dashioNano33BLE.git",
         "dependencies": [
@@ -143520,8 +143520,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.7.84",
-        "versions": "1.7.84, 1.7.79, 1.7.78, 1.7.77, 1.7.76, 1.7.74, 1.7.73, 1.7.72, 1.7.68, 1.7.67, 1.7.66, 1.7.65, 1.7.64, 1.7.63, 1.7.62, 1.7.61, 1.7.59, 1.7.58, 1.7.57, 1.7.56, 1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.7.95",
+        "versions": "1.7.95, 1.7.84, 1.7.79, 1.7.78, 1.7.77, 1.7.76, 1.7.74, 1.7.73, 1.7.72, 1.7.68, 1.7.67, 1.7.66, 1.7.65, 1.7.64, 1.7.63, 1.7.62, 1.7.61, 1.7.59, 1.7.58, 1.7.57, 1.7.56, 1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
@@ -149947,8 +149947,8 @@
     },
     {
         "name": "BACnet-Arduino",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.7.0",
+        "versions": "0.7.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "NitrofMtl <https://github.com/NitrofMtl>",
         "maintainer": "NitrofMtl <https://github.com/NitrofMtl>",
         "website": "https://github.com/NitrofMtl/BACnet-Arduino",
@@ -157465,8 +157465,8 @@
     },
     {
         "name": "AMK_CYD_Universal_TFT",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.1",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.2.1, 1.2.0, 1.1.1",
         "author": "Aung Moe Khine",
         "maintainer": "Aung Moe Khine <aungmoekhine@gmail.com>",
         "website": "https://github.com/aungmoekhine/AMK_CYD_Universal_TFT",
@@ -157569,6 +157569,68 @@
         "repository": "https://github.com/Lonely-Binary/Fingerprint.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "mannaNAUTA LSM6DS",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "wuigor",
+        "maintainer": "wuigor",
+        "website": "https://github.com/wuigor/mannaNAUTA_LSM6DS_Lib",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/wuigor/mannaNAUTA_LSM6DS_Lib.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "INA229_SPI_Driver",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Josh Jenkins",
+        "maintainer": "Josh Jenkins <32035241+wonderful123@users.noreply.github.com>",
+        "website": "https://github.com/wonderful123/INA229-SPI-Driver",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/wonderful123/INA229-SPI-Driver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "pix_efi",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jean Carlos Mappelli <jeanmappelli123@gmail.com>",
+        "maintainer": "Jean Carlos Mappelli <jeanmappelli123@gmail.com>",
+        "website": "https://github.com/jean-mappelli/esp32_pix_efi",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jean-mappelli/esp32_pix_efi.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "Companion microSatellite",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Elliot Matson <https://github.com/elliotmatson>",
+        "maintainer": "Elliot Matson <https://github.com/elliotmatson>",
+        "website": "https://github.com/elliotmatson/companion-microsatellite",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/elliotmatson/companion-microsatellite.git",
+        "dependencies": [
+            "ArduinoJson",
+            "Async TCP",
+            "ESP Async WebServer"
         ]
     }
 ]
