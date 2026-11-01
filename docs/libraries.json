@@ -155785,11 +155785,11 @@
     },
     {
         "name": "OttoI2R",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "i2r",
-        "maintainer": "i2r <kdi6033@gmail.com>",
-        "website": "https://github.com/kdi6033/OttoI2R",
+        "maintainer": "i2r",
+        "website": "https://github.com/kdi6033/otto",
         "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
@@ -157710,6 +157710,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/AchD/FroqMQTT.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "lilty",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "lilty contributors",
+        "maintainer": "lilty contributors <zupub@163.com>",
+        "website": "https://github.com/zupub/lilty",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/zupub/lilty.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "CZ-N706B-Arduino",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "CodeZoo",
+        "maintainer": "CodeZoo <rooney.jang@codezoo.co.kr>",
+        "website": "https://www.codezoo.co.kr/n706b.html",
+        "category": "Communication",
+        "architectures": "renesas_uno, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/codezoo-ltd/CZ-N706B-Arduino.git",
         "dependencies": [
             ""
         ]
