@@ -11275,8 +11275,8 @@
     },
     {
         "name": "ATMlib",
-        "version": "2.2.0",
-        "versions": "2.2.0, 2.1.2, 2.1.0, 2.0.1, 2.0.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.0, 1.0.0",
+        "version": "2.2.1",
+        "versions": "2.2.1, 2.2.0, 2.1.2, 2.1.0, 2.0.1, 2.0.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.0, 1.0.0",
         "author": "TEAM a.r.g., Joeri Gantois aka JO3RI, Davey Taylor aka STG",
         "maintainer": "joerigantois@gmail.com",
         "website": "https://t-arg.github.io/ATMlib",
@@ -110435,22 +110435,23 @@
     },
     {
         "name": "DashioSAMD_NINA",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.1.0",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.3, 1.2.2, 1.2.1, 1.1.0",
         "author": "DashIO Connect <info@dashio.io>",
         "maintainer": "DashIO Connect <info@dashio.io>",
         "website": "https://dashio.io",
         "category": "Communication",
-        "architectures": "ARDUINO_SAMD_NANO_33_IOT, defined ARDUINO_SAMD_MKRWIFI1010, defined ARDUINO_SAMD_MKRVIDOR4000",
+        "architectures": "samd",
         "types": "Contributed",
         "repository": "https://github.com/dashio-connect/arduino-dashioSAMD_NINA.git",
         "dependencies": [
             "Dashio",
             "ArduinoBLE",
-            "WiFiNINA_Generic",
+            "WiFiNINA",
             "ArduinoMqttClient",
             "arduino-timer",
-            "FlashStorage"
+            "FlashStorage",
+            "MDNS_Generic"
         ]
     },
     {
@@ -120400,8 +120401,8 @@
     },
     {
         "name": "ieee-802_15_4",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.5.8, 0.5.7, 0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4",
@@ -121545,8 +121546,8 @@
     },
     {
         "name": "ieee-802_15_4-network-host",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-host",
@@ -121562,8 +121563,8 @@
     },
     {
         "name": "ieee-802_15_4-network-node",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.2.2, 0.2.1, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.0, 0.2.2, 0.2.1, 0.1.2, 0.1.1, 0.1.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-node",
@@ -121572,7 +121573,10 @@
         "types": "Contributed",
         "repository": "https://github.com/Johboh/ieee-802_15_4-network-node.git",
         "dependencies": [
-            ""
+            "GCMEncryption",
+            "ieee-802_15_4",
+            "ieee-802_15_4-network-shared",
+            "ConnectionHelper"
         ]
     },
     {
@@ -143522,8 +143526,8 @@
     },
     {
         "name": "AutoconnectoSDK",
-        "version": "1.7.98",
-        "versions": "1.7.98, 1.7.97, 1.7.96, 1.7.95, 1.7.84, 1.7.79, 1.7.78, 1.7.77, 1.7.76, 1.7.74, 1.7.73, 1.7.72, 1.7.68, 1.7.67, 1.7.66, 1.7.65, 1.7.64, 1.7.63, 1.7.62, 1.7.61, 1.7.59, 1.7.58, 1.7.57, 1.7.56, 1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
+        "version": "1.7.99",
+        "versions": "1.7.99, 1.7.98, 1.7.97, 1.7.96, 1.7.95, 1.7.84, 1.7.79, 1.7.78, 1.7.77, 1.7.76, 1.7.74, 1.7.73, 1.7.72, 1.7.68, 1.7.67, 1.7.66, 1.7.65, 1.7.64, 1.7.63, 1.7.62, 1.7.61, 1.7.59, 1.7.58, 1.7.57, 1.7.56, 1.7.54, 1.7.32, 1.7.31, 1.6.2, 1.6.1, 1.6.0, 1.5.0, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.1.0, 1.0.5, 1.0.3, 1.0.0",
         "author": "Autoconnecto",
         "maintainer": "Autoconnecto <https://github.com/autoconnecto/autoconnecto-sdk/issues>",
         "website": "https://github.com/autoconnecto/autoconnecto-sdk",
@@ -149964,10 +149968,10 @@
     },
     {
         "name": "BAVA Protocol",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.5, 1.0.1, 1.0.0",
         "author": "Nishanth Raj",
-        "maintainer": "Nishanth Raj <jpnishanthraj@gmail.com>",
+        "maintainer": "Nishanth Raj",
         "website": "https://github.com/NishanthRaj707/bavaprotocol",
         "category": "Communication",
         "architectures": "*",
@@ -157467,8 +157471,8 @@
     },
     {
         "name": "AMK_CYD_Universal_TFT",
-        "version": "1.4.0",
-        "versions": "1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
+        "version": "1.5.0",
+        "versions": "1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
         "author": "Aung Moe Khine",
         "maintainer": "Aung Moe Khine <aungmoekhine@gmail.com>",
         "website": "https://github.com/aungmoekhine/AMK_CYD_Universal_TFT",
@@ -157514,13 +157518,13 @@
     },
     {
         "name": "W25QxxFlash",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.2, 1.0.1",
         "author": "mumanchu",
         "maintainer": "mumanchu <info@muman.ch>",
         "website": "https://github.com/mumanchu/W25QxxFlash",
         "category": "Data Storage",
-        "architectures": "*",
+        "architectures": "stm32, esp32, samd51",
         "types": "Contributed",
         "repository": "https://github.com/mumanchu/W25QxxFlash.git",
         "dependencies": [
@@ -157637,8 +157641,8 @@
     },
     {
         "name": "RV565",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0, 0.1.0",
         "author": "Ayushman Bhattacharya",
         "maintainer": "Ayushman Bhattacharya <ayushman.elixpo@gmail.com>",
         "website": "https://github.com/elixpo/rv565",
