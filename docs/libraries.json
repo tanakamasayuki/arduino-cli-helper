@@ -5683,8 +5683,8 @@
     },
     {
         "name": "FastLED",
-        "version": "3.10.8",
-        "versions": "3.10.8, 3.10.7, 3.10.6, 3.10.5, 3.10.4, 3.10.3, 3.10.2, 3.10.1, 3.10.0, 3.9.20, 3.9.19, 3.9.18, 3.9.17, 3.9.16, 3.9.15, 3.9.14, 3.9.13, 3.9.12, 3.9.11, 3.9.10, 3.9.9, 3.9.8, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.7.8, 3.7.7, 3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.10, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.6, 3.1.3, 3.1.0",
+        "version": "3.10.9",
+        "versions": "3.10.9, 3.10.8, 3.10.7, 3.10.6, 3.10.5, 3.10.4, 3.10.3, 3.10.2, 3.10.1, 3.10.0, 3.9.20, 3.9.19, 3.9.18, 3.9.17, 3.9.16, 3.9.15, 3.9.14, 3.9.13, 3.9.12, 3.9.11, 3.9.10, 3.9.9, 3.9.8, 3.9.7, 3.9.6, 3.9.5, 3.9.4, 3.9.3, 3.9.2, 3.9.1, 3.9.0, 3.7.8, 3.7.7, 3.7.6, 3.7.5, 3.7.4, 3.7.3, 3.7.2, 3.7.1, 3.7.0, 3.6.0, 3.5.0, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.10, 3.2.9, 3.2.8, 3.2.7, 3.2.6, 3.2.5, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.6, 3.1.3, 3.1.0",
         "author": "Daniel Garcia",
         "maintainer": "Daniel Garcia <dgarcia@fastled.io>",
         "website": "https://github.com/FastLED/FastLED",
@@ -85245,8 +85245,8 @@
     },
     {
         "name": "hsmcpp",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0, 0.37.0, 0.35.0, 0.33.0, 0.31.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.2, 1.0.1, 1.0.0, 0.37.0, 0.35.0, 0.33.0, 0.31.0",
         "author": "Ihor Krechetov <ihor.krechetov.public@gmail.com>",
         "maintainer": "Ihor Krechetov <ihor.krechetov.public@gmail.com>",
         "website": "https://hsmcpp.readthedocs.io",
@@ -87447,8 +87447,8 @@
     },
     {
         "name": "ACAN2040",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 0.0.3, 0.0.2",
+        "version": "1.0.8",
+        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.1, 0.0.3, 0.0.2",
         "author": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "maintainer": "Duncan Greenwood <duncan_greenwood@hotmail.com>",
         "website": "https://github.com/obdevel/ACAN2040",
@@ -91180,8 +91180,8 @@
     },
     {
         "name": "GovoroxSSLClient",
-        "version": "1.3.3",
-        "versions": "1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1",
         "author": "V Govorovski",
         "maintainer": "Robert Byrnes <robbyrnes@hotmail.co.uk>",
         "website": "https://github.com/govorox/SSLClient.git",
@@ -136203,8 +136203,8 @@
     },
     {
         "name": "Ryzobee",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.0, 0.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.5, 1.0.4, 1.0.0, 0.0.1",
         "author": "Ryzobee Team",
         "maintainer": "Ryzobee Team",
         "website": "https://github.com/Ryzobee/Ryzobee_arduino_esp32",
@@ -136213,7 +136213,6 @@
         "types": "Contributed",
         "repository": "https://github.com/Ryzobee/Ryzobee_arduino_esp32.git",
         "dependencies": [
-            "LovyanGFX",
             "Adafruit NeoPixel",
             "STM32duino LIS2DW12",
             "AnimatedGIF"
@@ -157773,6 +157772,21 @@
         "dependencies": [
             "M5Unified",
             "Eigen"
+        ]
+    },
+    {
+        "name": "AlashBME280",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashBME280",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashBME280.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
