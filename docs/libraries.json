@@ -62963,8 +62963,8 @@
     },
     {
         "name": "libasm",
-        "version": "1.6.70",
-        "versions": "1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
+        "version": "1.6.71",
+        "versions": "1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
         "author": "Tadashi G. Takaoka",
         "maintainer": "Tadashi G. Takaoka <tadashi.g.takaoka@gmail.com>",
         "website": "https://github.com/tgtakaoka/libasm",
@@ -63344,8 +63344,8 @@
     },
     {
         "name": "SHT2x",
-        "version": "0.5.5",
-        "versions": "0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.5.6",
+        "versions": "0.5.6, 0.5.5, 0.5.4, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SHT2x",
@@ -83523,8 +83523,8 @@
     },
     {
         "name": "IotKernel",
-        "version": "0.3.2",
-        "versions": "0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.19, 0.1.17",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.19, 0.1.17",
         "author": "Maxime Moreillon",
         "maintainer": "Maxime Moreillon",
         "website": "https://github.com/maximemoreillon/iot-kernel",
@@ -98633,8 +98633,8 @@
     },
     {
         "name": "IOSignal",
-        "version": "7.0.0",
-        "versions": "7.0.0, 6.0.1, 6.0.0, 5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
+        "version": "9.0.0",
+        "versions": "9.0.0, 7.0.0, 6.0.1, 6.0.0, 5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/iosignal-arduino",
@@ -99193,8 +99193,8 @@
     },
     {
         "name": "Remocon",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "9.0.0",
+        "versions": "9.0.0, 4.0.0, 3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/remocon-arduino",
@@ -108503,8 +108503,8 @@
     },
     {
         "name": "ConnectionHelper",
-        "version": "3.0.17",
-        "versions": "3.0.17, 3.0.16, 3.0.15, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 1.1.0, 1.0.8, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.18",
+        "versions": "3.0.18, 3.0.17, 3.0.16, 3.0.15, 3.0.14, 3.0.13, 3.0.12, 3.0.11, 3.0.10, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 1.1.0, 1.0.8, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ConnectionHelper",
@@ -130469,8 +130469,8 @@
     },
     {
         "name": "BLE Serial - NUS",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.3.3",
+        "versions": "1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Urs Utzinger",
         "maintainer": "Urs Utzinger",
         "website": "https://github.com/uutzinger/Arduino_BLESerial",
@@ -151208,8 +151208,8 @@
     },
     {
         "name": "AsyncConfigPortal",
-        "version": "0.18.0",
-        "versions": "0.18.0, 0.17.0, 0.16.1, 0.16.0, 0.15.1, 0.15.0, 0.14.0, 0.13.2, 0.13.1, 0.13.0, 0.12.0, 0.11.0, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
+        "version": "0.18.1",
+        "versions": "0.18.1, 0.18.0, 0.17.0, 0.16.1, 0.16.0, 0.15.1, 0.15.0, 0.14.0, 0.13.2, 0.13.1, 0.13.0, 0.12.0, 0.11.0, 0.10.0, 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "Peter Soos",
         "maintainer": "Peter Soos",
         "website": "https://github.com/soosp/AsyncConfigPortal",
@@ -153267,8 +153267,8 @@
     },
     {
         "name": "Periph",
-        "version": "1.2.1",
-        "versions": "1.2.1",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.1",
         "author": "Till Uhde",
         "maintainer": "Till Uhde <till@uhde.com>",
         "website": "https://github.com/tuhde/Periph",
@@ -157256,8 +157256,8 @@
     },
     {
         "name": "DevLab_Codec_ES",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "Cesar Bautista, Adrián Rabadán",
         "maintainer": "UNIT Electronics",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_codec_library",
@@ -157266,13 +157266,19 @@
         "types": "Contributed",
         "repository": "https://github.com/UNIT-Electronics-MX/unit_devlab_codec_library.git",
         "dependencies": [
-            ""
+            "DevLab_AudioDriver",
+            "DevLab_AudioTools",
+            "DevLab_LibHelix",
+            "DevLab_BL",
+            "Adafruit GFX Library",
+            "Adafruit SSD1306",
+            "Adafruit NeoPixel"
         ]
     },
     {
         "name": "DevLab_AudioTools",
-        "version": "1.2.6",
-        "versions": "1.2.6",
+        "version": "1.2.7",
+        "versions": "1.2.7, 1.2.6",
         "author": "Phil Schatzmann, Cesar Bautista, Adrián Rabadán",
         "maintainer": "Phil Schatzmann, UNIT Electronics",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_audio_tools",
@@ -157715,8 +157721,8 @@
     },
     {
         "name": "lilty",
-        "version": "0.1.1",
-        "versions": "0.1.1, 0.1.0",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
         "author": "lilty contributors",
         "maintainer": "lilty contributors <zupub@163.com>",
         "website": "https://github.com/zupub/lilty",
@@ -157834,6 +157840,651 @@
         "dependencies": [
             "LovyanGFX",
             "AnimatedGIF"
+        ]
+    },
+    {
+        "name": "AlashPID",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashPID",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashPID.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashADS1115",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashADS1115",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashADS1115.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashAHT",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashAHT",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashAHT.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashAnalog",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashAnalog",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashAnalog.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashBH1750",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashBH1750",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashBH1750.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashBluetooth",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashBluetooth",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashBluetooth.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashButton",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashButton",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashButton.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashBuzzer",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashBuzzer",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashBuzzer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashCar",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashCar",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashCar.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashCompass",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashCompass",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashCompass.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashDS18B20",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashDS18B20",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashDS18B20.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashESPNow",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashESPNow",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashESPNow.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashEncoder",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashEncoder",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashEncoder.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashFilter",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashFilter",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashFilter.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashGPS",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashGPS",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashGPS.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashHX711",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashHX711",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashHX711.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashINA219",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashINA219",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashINA219.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashJoystick",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashJoystick",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashJoystick.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashLogger",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashLogger",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashLogger.git",
+        "dependencies": [
+            "SD"
+        ]
+    },
+    {
+        "name": "AlashMPU",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashMPU",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashMPU.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashMQTT",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashMQTT",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashMQTT.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashNTP",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashNTP",
+        "category": "Timing",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashNTP.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashNeoPixel",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashNeoPixel",
+        "category": "Display",
+        "architectures": "avr, esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashNeoPixel.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashOTA",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashOTA",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashOTA.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashOled",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashOled",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashOled.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashPCA9685",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashPCA9685",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashPCA9685.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashRFID",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashRFID",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashRFID.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashRTC",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashRTC",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashRTC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashRelay",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashRelay",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashRelay.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashServo",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashServo",
+        "category": "Device Control",
+        "architectures": "avr, esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashServo.git",
+        "dependencies": [
+            "Servo"
+        ]
+    },
+    {
+        "name": "AlashSettings",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashSettings",
+        "category": "Data Storage",
+        "architectures": "avr, esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashSettings.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashStepper",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashStepper",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashStepper.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashTCS3200",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashTCS3200",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashTCS3200.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashTM1637",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashTM1637",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashTM1637.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashTelegram",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashTelegram",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashTelegram.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashTimer",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashTimer",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashTimer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashWeb",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashWeb",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashWeb.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashWiFi",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashWiFi",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashWiFi.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashMLX90614",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashMLX90614",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashMLX90614.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashThermocouple",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashThermocouple",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashThermocouple.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashPMS5003",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashPMS5003",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashPMS5003.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AlashMHZ19",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Alash Electronics <alash.electronics@gmail.com>",
+        "maintainer": "Alash engineering <alash.electronics@gmail.com>",
+        "website": "https://github.com/Alash-electronics/AlashMHZ19",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Alash-electronics/AlashMHZ19.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bonezegei_PN532",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
+        "website": "https://github.com/bonezegei/Bonezegei_PN532",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/Bonezegei_PN532.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
