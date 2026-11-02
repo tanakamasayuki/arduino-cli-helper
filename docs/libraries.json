@@ -89267,8 +89267,8 @@
     },
     {
         "name": "SunFounder AI Camera",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.3",
+        "versions": "1.2.3, 1.2.2, 1.2.1, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "SunFounder",
         "maintainer": "SunFounder",
         "website": "https://github.com/sunfounder/SunFounder_Ai_Camera",
@@ -141296,8 +141296,8 @@
     },
     {
         "name": "ICM56622",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.1, 1.0.0",
         "author": "TDK/Invensense",
         "maintainer": "TDK/Invensense",
         "website": "https://github.com/tdk-invn-oss/motion.arduino.ICM56622",
@@ -150177,8 +150177,8 @@
     },
     {
         "name": "Hyperwisor-IOT",
-        "version": "3.0.0",
-        "versions": "3.0.0, 1.0.0",
+        "version": "3.3.4",
+        "versions": "3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.0.0, 1.0.0",
         "author": "NIKOLAINDUSTRY",
         "maintainer": "NIKOLAINDUSTRY <support@nikolaindustry.com>",
         "website": "https://github.com/nikolaindustry/hyperwisor-iot-arduino-library",
@@ -152779,8 +152779,8 @@
     },
     {
         "name": "Preflight",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "James Cartwright",
         "maintainer": "James Cartwright",
         "website": "https://github.com/diydoohickeys/Preflight-Arduino",
@@ -155629,8 +155629,8 @@
     },
     {
         "name": "Pinscope",
-        "version": "0.2.10",
-        "versions": "0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
+        "version": "0.2.11",
+        "versions": "0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
         "author": "Filip Code <hello@pinscope.dev>",
         "maintainer": "Filip Code <hello@pinscope.dev>",
         "website": "https://pinscope.dev/docs",
@@ -157787,6 +157787,53 @@
         "repository": "https://github.com/Alash-electronics/AlashBME280.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "PIDcon",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Guilherme Keiel",
+        "maintainer": "Guilherme Keiel",
+        "website": "https://github.com/gkeiel/PIDcon",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/gkeiel/PIDcon.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ParoClaw",
+        "version": "0.2.1",
+        "versions": "0.2.1",
+        "author": "Dhruv Kotian",
+        "maintainer": "Dhruv Kotian",
+        "website": "https://github.com/dhruvkotian/ParoClaw",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/dhruvkotian/ParoClaw.git",
+        "dependencies": [
+            "ArduinoJson",
+            "Adafruit NeoPixel"
+        ]
+    },
+    {
+        "name": "Yoke",
+        "version": "0.0.1",
+        "versions": "0.0.1",
+        "author": "Ryzobee Team",
+        "maintainer": "Ryzobee Team",
+        "website": "https://github.com/Ryzobee/Yoke_arduino_lib",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Ryzobee/Yoke_arduino_lib.git",
+        "dependencies": [
+            "LovyanGFX",
+            "AnimatedGIF"
         ]
     }
 ]
