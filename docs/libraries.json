@@ -62963,8 +62963,8 @@
     },
     {
         "name": "libasm",
-        "version": "1.6.71",
-        "versions": "1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
+        "version": "1.6.72",
+        "versions": "1.6.72, 1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
         "author": "Tadashi G. Takaoka",
         "maintainer": "Tadashi G. Takaoka <tadashi.g.takaoka@gmail.com>",
         "website": "https://github.com/tgtakaoka/libasm",
@@ -82959,8 +82959,8 @@
     },
     {
         "name": "ThingsCloud_ESP_SDK",
-        "version": "1.0.16",
-        "versions": "1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.3, 1.0.2",
+        "version": "1.0.17",
+        "versions": "1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.3, 1.0.2",
         "author": "thingscloud",
         "maintainer": "thingscloud<github@qijiwanwu.com>",
         "website": "https://www.thingscloud.xyz/",
@@ -158563,6 +158563,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/SerhiiLe/Buttons.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "util_use",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Rafael N. B. A. Aires",
+        "maintainer": "Rafael N. B. A. Aires",
+        "website": "https://github.com/studiosdasunshine-boop/util_use",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/studiosdasunshine-boop/util_use.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SLF3S",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
+        "website": "https://github.com/RobTillaart/SLF3S",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/RobTillaart/SLF3S.git",
         "dependencies": [
             ""
         ]
