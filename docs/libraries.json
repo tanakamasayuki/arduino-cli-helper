@@ -99250,17 +99250,17 @@
     },
     {
         "name": "Alfredo-NoU3",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.13.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.0.0, 1.13.0, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.4, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alfredo Systems",
-        "maintainer": "Jacob Williams (jrw4561@gmail.com)",
+        "maintainer": "Jacob Williams",
         "website": "https://github.com/AlfredoSystems/Alfredo-NoU3",
         "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/AlfredoSystems/Alfredo-NoU3.git",
         "dependencies": [
-            ""
+            "AlfredoFusion"
         ]
     },
     {
@@ -123814,8 +123814,8 @@
     },
     {
         "name": "StringN",
-        "version": "1.0.8",
-        "versions": "1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/StringN",
@@ -125727,8 +125727,8 @@
     },
     {
         "name": "Packet_Device",
-        "version": "1.0.13",
-        "versions": "1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
+        "version": "1.0.14",
+        "versions": "1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4",
         "author": "Pallob K. Gain <pallobkgain@gmail.com>",
         "maintainer": "Pallob K. Gain <pallobkgain@gmail.com>",
         "website": "https://github.com/Pallob-Gain/packet_device",
@@ -154683,10 +154683,10 @@
     },
     {
         "name": "AlfredoFusion",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Alfredo Systems",
-        "maintainer": "Jacob Williams (jrw4561@gmail.com)",
+        "maintainer": "Jacob Williams",
         "website": "https://github.com/AlfredoSystems/AlfredoFusion",
         "category": "Sensors",
         "architectures": "*",
@@ -156847,8 +156847,8 @@
     },
     {
         "name": "Crowpanel_2.1",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.0.1, 1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.0, 1.0.1, 1.0.0",
         "author": "Charles Vaillancourt",
         "maintainer": "Charles Vaillancourt",
         "website": "https://github.com/placidanomaly/Crowpanel_2.1",
@@ -158593,6 +158593,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/RobTillaart/SLF3S.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Leokani",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Milliwatt Labs <hello@milliwattlabs.com>",
+        "maintainer": "Milliwatt Labs <hello@milliwattlabs.com>",
+        "website": "https://github.com/Milliwatt-Labs/leokani-arduino",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Milliwatt-Labs/leokani-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ArduGram",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "erfan-elec",
+        "maintainer": "erfan-elec",
+        "website": "https://github.com/erfan-elec/ArduGram",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/erfan-elec/ArduGram.git",
+        "dependencies": [
+            "ArduinoJson"
+        ]
+    },
+    {
+        "name": "dw-link",
+        "version": "7.0.0",
+        "versions": "7.0.0",
+        "author": "Bernhard Nebel",
+        "maintainer": "Bernhard Nebel",
+        "website": "https://felias-fogg.github.io/dw-link/",
+        "category": "Other",
+        "architectures": "avr",
+        "types": "Contributed",
+        "repository": "https://github.com/felias-fogg/dw-link.git",
         "dependencies": [
             ""
         ]
