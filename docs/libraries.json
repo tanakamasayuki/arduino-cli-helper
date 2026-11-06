@@ -40534,13 +40534,13 @@
     },
     {
         "name": "ESP32-targz",
-        "version": "1.3.1",
-        "versions": "1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.0, 1.1.9, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.5-beta, 1.0.4-beta, 1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-alpha, 0.3.2, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.0, 1.1.9, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.0.5-beta, 1.0.4-beta, 1.0.3-beta, 1.0.2-beta, 1.0.1-beta, 1.0.0-alpha, 0.3.2, 0.3.0, 0.2.1, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.1",
         "author": "tobozo <tobozo@noreply.github.com>",
         "maintainer": "tobozo <tobozo@noreply.github.com>",
         "website": "https://github.com/tobozo/ESP32-targz",
         "category": "Data Processing",
-        "architectures": "esp32, esp8266, rp2040, mbed_rp2040, teensy, avr",
+        "architectures": "esp32, esp8266, rp2040, mbed_rp2040, avr",
         "types": "Contributed",
         "repository": "https://github.com/tobozo/ESP32-targz.git",
         "dependencies": [
@@ -62963,8 +62963,8 @@
     },
     {
         "name": "libasm",
-        "version": "1.6.72",
-        "versions": "1.6.72, 1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
+        "version": "1.6.73",
+        "versions": "1.6.73, 1.6.72, 1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
         "author": "Tadashi G. Takaoka",
         "maintainer": "Tadashi G. Takaoka <tadashi.g.takaoka@gmail.com>",
         "website": "https://github.com/tgtakaoka/libasm",
@@ -78544,10 +78544,10 @@
     },
     {
         "name": "ProtoCentral MAX30001",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
-        "author": "Ashwin Whitchurch, Protocentral Electronics <info@protocentral.com>",
-        "maintainer": "Ashwin Whitchurch, Protocentral Electronics <info@protocentral.com>",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.4.0, 1.3.0, 1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "author": "ProtoCentral Electronics <support@protocentral.com>",
+        "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral_max30001_arduino_library",
         "category": "Sensors",
         "architectures": "*",
@@ -110167,8 +110167,8 @@
     },
     {
         "name": "ESP-NOW MIDI",
-        "version": "0.19.0",
-        "versions": "0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
+        "version": "0.19.1",
+        "versions": "0.19.1, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/grantler-instruments/ESP-NOW-MIDI",
@@ -147487,8 +147487,8 @@
     },
     {
         "name": "ProtoCentral HealthyPi 5",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0",
         "author": "ProtoCentral Electronics",
         "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral_healthypi_5_firmware",
@@ -151167,8 +151167,8 @@
     },
     {
         "name": "cyfney-cpp",
-        "version": "3.0.1",
-        "versions": "3.0.1, 3.0.0, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
+        "version": "3.0.2",
+        "versions": "3.0.2, 3.0.1, 3.0.0, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
         "author": "anka",
         "maintainer": "anka",
         "website": "https://github.com/cyfney/cyfney-cpp-arduino",
@@ -153271,8 +153271,8 @@
     },
     {
         "name": "Periph",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.0, 1.2.1",
+        "version": "1.3.3",
+        "versions": "1.3.3, 1.3.2, 1.3.0, 1.2.1",
         "author": "Till Uhde",
         "maintainer": "Till Uhde <till@uhde.com>",
         "website": "https://github.com/tuhde/Periph",
@@ -155633,8 +155633,8 @@
     },
     {
         "name": "Pinscope",
-        "version": "0.2.11",
-        "versions": "0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
+        "version": "0.2.12",
+        "versions": "0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
         "author": "Filip Code <hello@pinscope.dev>",
         "maintainer": "Filip Code <hello@pinscope.dev>",
         "website": "https://pinscope.dev/docs",
@@ -158704,8 +158704,8 @@
     },
     {
         "name": "ProtoCentral easyEMG",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "ProtoCentral Electronics <support@protocentral.com>",
         "maintainer": "ProtoCentral Electronics <support@protocentral.com>",
         "website": "https://github.com/Protocentral/protocentral_easyemg_arduino",
@@ -158818,6 +158818,53 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/shlokbundele8/Moonlight-MQTT.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AARUESP",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "AARUTO <aaruto@example.com>",
+        "maintainer": "AARUTO <aaruto@example.com>",
+        "website": "https://github.com/AARUTO347/AARUESP",
+        "category": "Other",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/AARUTO347/AARUESP.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BlueGraysIoT",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Yunus Emre Eke <info@bluegrays.com>",
+        "maintainer": "BlueGrays <info@bluegrays.com>",
+        "website": "https://bluegrays.com",
+        "category": "Communication",
+        "architectures": "esp32, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/yemreeke/BlueGraysIoT.git",
+        "dependencies": [
+            "WebSockets",
+            "ArduinoJson",
+            "DHT sensor library"
+        ]
+    },
+    {
+        "name": "MicroTaskMonitor",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "MicroTask Monitor Contributors",
+        "maintainer": "MicroTask Monitor Project",
+        "website": "https://github.com/microtaskmonitor/MicroTaskMonitor",
+        "category": "Other",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/atharvaphadnis-ai/mtm.git",
         "dependencies": [
             ""
         ]
