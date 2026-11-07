@@ -102086,9 +102086,9 @@
     },
     {
         "name": "FlixPeriph",
-        "version": "1.12.1",
-        "versions": "1.12.1, 1.12.0, 1.11.0, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
-        "author": "Oleg Kalachev <okalachev@gmail.com",
+        "version": "1.13.0",
+        "versions": "1.13.0, 1.12.1, 1.12.0, 1.11.0, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "author": "Oleg Kalachev <okalachev@gmail.com>",
         "maintainer": "Oleg Kalachev <okalachev@gmail.com>",
         "website": "https://github.com/okalachev/flixperiph",
         "category": "Sensors",
@@ -158955,6 +158955,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/espmaniac/MicroSwap.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Esp32AdaptiveClock",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Arda Kora",
+        "maintainer": "Arda Kora",
+        "website": "https://github.com/ardakora/Esp32AdaptiveClock",
+        "category": "Timing",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ardakora/Esp32AdaptiveClock.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PixBand",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "Arda Kora",
+        "maintainer": "Arda Kora",
+        "website": "https://github.com/ardakora/PixBand",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ardakora/PixBand.git",
         "dependencies": [
             ""
         ]
