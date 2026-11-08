@@ -155618,8 +155618,8 @@
     },
     {
         "name": "Pinscope",
-        "version": "0.2.14",
-        "versions": "0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
+        "version": "0.2.15",
+        "versions": "0.2.15, 0.2.14, 0.2.13, 0.2.12, 0.2.11, 0.2.10, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.1",
         "author": "Pinscope <hello@pinscope.dev>",
         "maintainer": "Pinscope <hello@pinscope.dev>",
         "website": "https://pinscope.dev/docs",
@@ -158569,8 +158569,8 @@
     },
     {
         "name": "SLF3S",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Rob Tillaart <rob.tillaart@gmail.com>",
         "maintainer": "Rob Tillaart <rob.tillaart@gmail.com>",
         "website": "https://github.com/RobTillaart/SLF3S",
@@ -158824,8 +158824,8 @@
     },
     {
         "name": "BlueGraysIoT",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
         "author": "Yunus Emre Eke <info@bluegrays.com>",
         "maintainer": "BlueGrays <info@bluegrays.com>",
         "website": "https://bluegrays.com",
@@ -158836,7 +158836,9 @@
         "dependencies": [
             "WebSockets",
             "ArduinoJson",
-            "DHT sensor library"
+            "DHT sensor library",
+            "Adafruit NeoPixel",
+            "ESP32Servo"
         ]
     },
     {
@@ -159060,6 +159062,21 @@
         "architectures": "rp2040, rp2350",
         "types": "Contributed",
         "repository": "https://github.com/MartinDaCosta53/EncoderPIO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "AmelTech Labs Bot",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "AmelTech Labs",
+        "maintainer": "AmelTech Labs <ameltechlabs@gmail.com>",
+        "website": "https://github.com/ameltechlabs/AmelTech-labs-bot",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/ameltechlabs/AmelTech-labs-bot.git",
         "dependencies": [
             ""
         ]
