@@ -88085,8 +88085,8 @@
     },
     {
         "name": "nrf_to_nrf",
-        "version": "1.7.1",
-        "versions": "1.7.1, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.2, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.7.2",
+        "versions": "1.7.2, 1.7.1, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.1, 1.3.0, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "TMRh20",
         "maintainer": "TMRh20",
         "website": "https://github.com/TMRh20/nrf_to_nrf",
@@ -116001,8 +116001,8 @@
     },
     {
         "name": "Inkplate Motion Library",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Soldered",
         "maintainer": "Soldered <hello@soldered.com>",
         "website": "https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library",
@@ -120300,8 +120300,8 @@
     },
     {
         "name": "BQ25798",
-        "version": "1.4.11",
-        "versions": "1.4.11, 1.4.10, 1.4.9, 1.4.7, 1.4.4, 1.4.3, 1.4.0, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
+        "version": "1.5.2",
+        "versions": "1.5.2, 1.5.1, 1.5.0, 1.4.11, 1.4.10, 1.4.9, 1.4.7, 1.4.4, 1.4.3, 1.4.0, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.2, 1.1.1",
         "author": "Michal Schwarz",
         "maintainer": "Michal Schwarz",
         "website": "https://github.com/misch2/BQ25798_Library",
@@ -123604,8 +123604,8 @@
     },
     {
         "name": "FIR_Filters",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "kkfranco98",
         "maintainer": "kkfranco98",
         "website": "https://github.com/kkfranco98/FIR_Filters",
@@ -124132,8 +124132,8 @@
     },
     {
         "name": "GyverMenu",
-        "version": "1.1.6",
-        "versions": "1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.7",
+        "versions": "1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverMenu",
@@ -139727,8 +139727,8 @@
     },
     {
         "name": "esp32-tunnel",
-        "version": "5.4.0",
-        "versions": "5.4.0, 5.3.2, 5.3.1, 5.3.0, 5.2.0, 5.1.1, 5.1.0, 5.0.0, 4.2.0, 4.1.0, 4.0.0, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
+        "version": "5.4.1",
+        "versions": "5.4.1, 5.4.0, 5.3.2, 5.3.1, 5.3.0, 5.2.0, 5.1.1, 5.1.0, 5.0.0, 4.2.0, 4.1.0, 4.0.0, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.0, 3.4.0, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.0, 3.0.0, 2.0.0, 1.0.0",
         "author": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "maintainer": "Hamza Yesilmen <resmiyslmn@gmail.com>",
         "website": "https://github.com/HamzaYslmn/esp32-tunnel",
@@ -140479,8 +140479,8 @@
     },
     {
         "name": "ESP32_MQTTv5",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Jorge Gaspar Beltre Rivera",
         "maintainer": "Jorge Gaspar Beltre Rivera",
         "website": "https://github.com/JorgeGBeltre/ESP32_MQTTv5",
@@ -150621,8 +150621,8 @@
     },
     {
         "name": "CS123x",
-        "version": "2.0.3",
-        "versions": "2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.0.4",
+        "versions": "2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "FMazz97",
         "maintainer": "FMazz97",
         "website": "https://github.com/FMazz97/CS123x",
@@ -151790,8 +151790,8 @@
     },
     {
         "name": "Pulsync",
-        "version": "0.3.4",
-        "versions": "0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
+        "version": "0.3.5",
+        "versions": "0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.8, 0.2.7, 0.2.6, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0",
         "author": "Vineeth Rai K <vineethraik@gmail.com>",
         "maintainer": "Vineeth Rai K <vineethraik@gmail.com>",
         "website": "https://github.com/pulsync/pulsync-arduino",
@@ -157465,8 +157465,8 @@
     },
     {
         "name": "AMK_CYD_Universal_TFT",
-        "version": "1.6.2",
-        "versions": "1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
+        "version": "1.6.3",
+        "versions": "1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
         "author": "Aung Moe Khine",
         "maintainer": "Aung Moe Khine <aungmoekhine@gmail.com>",
         "website": "https://github.com/aungmoekhine/AMK_CYD_Universal_TFT",
@@ -158704,8 +158704,8 @@
     },
     {
         "name": "SwarmNode",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.1",
+        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Mohammed Raihan Soniwala",
         "maintainer": "Mohammed Raihan Soniwala <raihann.eu@gmail.com>",
         "website": "https://github.com/raihhann/OpenSwarm",
@@ -159107,6 +159107,67 @@
         "architectures": "esp32, esp32s2, esp32s3, esp32c3, esp32c6, esp32h2",
         "types": "Contributed",
         "repository": "https://github.com/emmby/lavi-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Wbskt",
+        "version": "0.9.0-beta.1",
+        "versions": "0.9.0-beta.1",
+        "author": "wbskt",
+        "maintainer": "wbskt",
+        "website": "https://github.com/wbskt/Wbskt.Arduino",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/wbskt/Wbskt.Arduino.git",
+        "dependencies": [
+            "ArduinoJson",
+            "WebSockets"
+        ]
+    },
+    {
+        "name": "TCAN4x5x",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "George Papamichail",
+        "maintainer": "George Papamichail <gi0rg0spapamichailgit@gmail.com> <georgepapamichail11@gmail.com>",
+        "website": "https://github.com/Hyperion-Robotics/TCAN4x5x",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Hyperion-Robotics/TCAN4x5x.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RosDuino",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "RosDuino Contributors",
+        "maintainer": "RosDuino Contributors",
+        "website": "https://github.com/rosduino/rosduino_arduino",
+        "category": "Communication",
+        "architectures": "avr, sam, *",
+        "types": "Contributed",
+        "repository": "https://github.com/rosduino/rosduino_arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "C4001mmWave",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.0.1, 0.0.0",
+        "author": "mumanchu",
+        "maintainer": "mumanchu <info@muman.ch>",
+        "website": "https://github.com/mumanchu/C4001mmWave",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/mumanchu/C4001mmWave.git",
         "dependencies": [
             ""
         ]
