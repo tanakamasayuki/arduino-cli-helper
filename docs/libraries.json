@@ -68018,8 +68018,8 @@
     },
     {
         "name": "Seeed Arduino LSM6DS3",
-        "version": "2.0.7",
-        "versions": "2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.1",
+        "version": "2.0.8",
+        "versions": "2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.1",
         "author": "Seeed Studio",
         "maintainer": "Seeed Studio <techsupport@seeed.cc>",
         "website": "https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3/",
@@ -93626,8 +93626,8 @@
     },
     {
         "name": "UTF8ToGB2312",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.1, 1.2.0, 1.1.52",
+        "version": "1.3.10",
+        "versions": "1.3.10, 1.2.3, 1.2.1, 1.2.0, 1.1.52",
         "author": "Tika Flow",
         "maintainer": "Tika Flow <tika_flow@foxmail.com>",
         "website": "https://github.com/TikaFlow/UTF8ToGB2312",
@@ -107323,8 +107323,8 @@
     },
     {
         "name": "ConsentiumThings",
-        "version": "3.0.2",
-        "versions": "3.0.2, 3.0.1, 3.0.0, 2.4.1, 2.4.0, 2.3.9, 2.3.8, 2.3.7, 2.3.6, 2.3.5, 2.3.4, 2.3.3, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.2, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "3.0.4",
+        "versions": "3.0.4, 3.0.2, 3.0.1, 3.0.0, 2.4.1, 2.4.0, 2.3.9, 2.3.8, 2.3.7, 2.3.6, 2.3.5, 2.3.4, 2.3.3, 2.3.1, 2.3.0, 2.2.7, 2.2.6, 2.2.5, 2.2.2, 2.2.1, 2.2.0, 2.1.9, 2.1.8, 2.1.7, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Consentium IoT",
         "maintainer": "Consentium IoT<official@consentiumiot.com>",
         "website": "https://github.com/ConsentiumIoT/ConsentiumThings",
@@ -155250,8 +155250,8 @@
     },
     {
         "name": "WisBlockLoRaWAN",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Bernd Giesecke bernd@giesecke.tk",
         "maintainer": "Bernd Giesecke bernd@giesecke.tk",
         "website": "https://github.com/beegee-tokyo/WisBlockLoRaWAN",
@@ -157465,8 +157465,8 @@
     },
     {
         "name": "AMK_CYD_Universal_TFT",
-        "version": "1.6.3",
-        "versions": "1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
+        "version": "1.6.4",
+        "versions": "1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
         "author": "Aung Moe Khine",
         "maintainer": "Aung Moe Khine <aungmoekhine@gmail.com>",
         "website": "https://github.com/aungmoekhine/AMK_CYD_Universal_TFT",
@@ -158704,8 +158704,8 @@
     },
     {
         "name": "SwarmNode",
-        "version": "0.4.1",
-        "versions": "0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "0.4.2",
+        "versions": "0.4.2, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "Mohammed Raihan Soniwala",
         "maintainer": "Mohammed Raihan Soniwala <raihann.eu@gmail.com>",
         "website": "https://github.com/raihhann/OpenSwarm",
@@ -159098,8 +159098,8 @@
     },
     {
         "name": "lavi",
-        "version": "0.2.0",
-        "versions": "0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.0, 0.1.0",
         "author": "Mike Burton <mb-github@niskala.org>",
         "maintainer": "Mike Burton <mb-github@niskala.org>",
         "website": "https://github.com/emmby/lavi",
@@ -159185,6 +159185,51 @@
         "repository": "https://github.com/ARabadann/SdUsbDrive.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "BOTGyro",
+        "version": "2.0.0",
+        "versions": "2.0.0",
+        "author": "noxustic",
+        "maintainer": "Saadat S. Rahman <saadat20022002@gmail.com>",
+        "website": "https://github.com/NOXUSTIC/BOTGyro",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/NOXUSTIC/BOTGyro.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "motESP_eng",
+        "version": "1.0.2",
+        "versions": "1.0.2",
+        "author": "Said",
+        "maintainer": "zumcitomc@gmail.com",
+        "website": "https://github.com/zumcitomc/motESP",
+        "category": "Other",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/zumcitomc/motESP32-english.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "UltrasonicFilter",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "steve daniels",
+        "maintainer": "hex705  (steve daniels)",
+        "website": "https://github.com/hex705/UltrasonicFilter",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/hex705/UltrasonicFilter.git",
+        "dependencies": [
+            "Ultrasonic"
         ]
     }
 ]
