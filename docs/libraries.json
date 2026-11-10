@@ -102307,8 +102307,8 @@
     },
     {
         "name": "vovagorodok_ArduinoBleChess",
-        "version": "0.7.9",
-        "versions": "0.7.9, 0.7.8, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.8.0",
+        "versions": "0.8.0, 0.7.9, 0.7.8, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0, 0.6.5, 0.6.4, 0.6.3, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.3, 0.4.2, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "vovagorodok",
         "maintainer": "vovagorodok <vovagorodok2@gmail.com>",
         "website": "https://github.com/vovagorodok/ArduinoBleChess",
@@ -146881,8 +146881,8 @@
     },
     {
         "name": "EspUsbDevice",
-        "version": "3.0.0",
-        "versions": "3.0.0, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "3.1.0",
+        "versions": "3.1.0, 3.0.0, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "TANAKA Masayuki",
         "maintainer": "TANAKA Masayuki",
         "website": "https://github.com/tanakamasayuki/EspUsbDevice",
@@ -148035,8 +148035,8 @@
     },
     {
         "name": "NetworkManager",
-        "version": "0.5.3",
-        "versions": "0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.3, 0.5.2, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.0, 0.2.0, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Péter Soós <https://github.com/soosp>",
         "maintainer": "Péter Soós <https://github.com/soosp>",
         "website": "https://github.com/soosp/NetworkManager",
@@ -151152,8 +151152,8 @@
     },
     {
         "name": "cyfney-cpp",
-        "version": "3.0.2",
-        "versions": "3.0.2, 3.0.1, 3.0.0, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
+        "version": "4.0.0",
+        "versions": "4.0.0, 3.0.2, 3.0.1, 3.0.0, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
         "author": "anka",
         "maintainer": "anka",
         "website": "https://github.com/cyfney/cyfney-cpp-arduino",
@@ -152996,8 +152996,8 @@
     },
     {
         "name": "USMP",
-        "version": "1.2.2",
-        "versions": "1.2.2, 1.2.1",
+        "version": "1.3.0",
+        "versions": "1.3.0, 1.2.2, 1.2.1",
         "author": "winterx64",
         "maintainer": "winterx64 <winterx64.work@gmail.com>",
         "website": "https://usmp.metaloom.in",
@@ -153256,8 +153256,8 @@
     },
     {
         "name": "Periph",
-        "version": "1.3.3",
-        "versions": "1.3.3, 1.3.2, 1.3.0, 1.2.1",
+        "version": "1.4.0",
+        "versions": "1.4.0, 1.3.3, 1.3.2, 1.3.0, 1.2.1",
         "author": "Till Uhde",
         "maintainer": "Till Uhde <till@uhde.com>",
         "website": "https://github.com/tuhde/Periph",
@@ -159230,6 +159230,21 @@
         "repository": "https://github.com/hex705/UltrasonicFilter.git",
         "dependencies": [
             "Ultrasonic"
+        ]
+    },
+    {
+        "name": "Database",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "code-hoysala ( Shashank Hoysala )",
+        "maintainer": "code-hoysala ( Shashank Hoysala ) <shashankhoysala04@outlook.com>",
+        "website": "https://github.com/code-hoysala/Database",
+        "category": "Data Storage",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/code-hoysala/Database.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
