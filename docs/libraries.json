@@ -103716,8 +103716,8 @@
     },
     {
         "name": "Async TCP",
-        "version": "3.5.0",
-        "versions": "3.5.0, 3.4.10, 3.4.9, 3.4.8, 3.4.7, 3.4.6, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.8, 3.3.7, 3.3.6, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.15, 3.2.14, 3.2.13, 3.2.12, 3.2.11, 3.2.10, 3.2.9, 3.2.8, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0",
+        "version": "3.6.0",
+        "versions": "3.6.0, 3.5.0, 3.4.10, 3.4.9, 3.4.8, 3.4.7, 3.4.6, 3.4.5, 3.4.4, 3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.8, 3.3.7, 3.3.6, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.15, 3.2.14, 3.2.13, 3.2.12, 3.2.11, 3.2.10, 3.2.9, 3.2.8, 3.1.4, 3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.2, 3.0.1, 3.0.0",
         "author": "ESP32Async",
         "maintainer": "ESP32Async",
         "website": "https://github.com/ESP32Async/AsyncTCP.git",
@@ -121551,8 +121551,8 @@
     },
     {
         "name": "ieee-802_15_4-network-host",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.3, 1.0.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.3, 1.0.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-host",
@@ -125593,8 +125593,8 @@
     },
     {
         "name": "FujitsuAC",
-        "version": "1.4.10",
-        "versions": "1.4.10, 1.4.8, 1.4.7, 1.4.6, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.19, 1.3.18, 1.3.17, 1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
+        "version": "1.4.11",
+        "versions": "1.4.11, 1.4.10, 1.4.8, 1.4.7, 1.4.6, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.3.19, 1.3.18, 1.3.17, 1.3.16, 1.3.15, 1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6, 1.1.5, 1.1.4, 1.1.3, 1.1.1, 1.1.0, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.10, 1.0.8, 1.0.0",
         "author": "Benas09 <benas.rag@gmail.com>",
         "maintainer": "Benas09 <benas.rag@gmail.com>",
         "website": "https://github.com/Benas09/FujitsuAC",
@@ -129975,8 +129975,8 @@
     },
     {
         "name": "QuarkX",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Pierluigi Budel",
         "maintainer": "Pierluigi Budel",
         "website": "https://github.com/pbudel/QuarkX",
@@ -135203,8 +135203,8 @@
     },
     {
         "name": "ESP32-HTTP-Client",
-        "version": "1.9.1",
-        "versions": "1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
+        "version": "1.10.0",
+        "versions": "1.10.0, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.1, 1.7.0, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.1, 1.4.0, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.2.4, 1.2.2, 1.2.1, 1.0.0",
         "author": "Pedro Fonseca",
         "maintainer": "Pedro Fonseca <pedropereira.pp26@gmail.com>",
         "website": "https://github.com/PedroFnseca/esp32-http-client",
@@ -136208,8 +136208,8 @@
     },
     {
         "name": "Ryzobee",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.5, 1.0.4, 1.0.0, 0.0.1",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.5, 1.0.4, 1.0.0, 0.0.1",
         "author": "Ryzobee Team",
         "maintainer": "Ryzobee Team",
         "website": "https://github.com/Ryzobee/Ryzobee_arduino_esp32",
@@ -140878,8 +140878,8 @@
     },
     {
         "name": "HeapSafeLog",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.1, 1.1.0, 0.1.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.2.0, 1.1.1, 1.1.0, 0.1.0",
         "author": "MDO",
         "maintainer": "MDO",
         "website": "https://github.com/mjdonders/HeapSafeLog",
@@ -143650,8 +143650,8 @@
     },
     {
         "name": "DIYables TFT SPI",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "DIYables.io",
         "maintainer": "DIYables.io (diyables.io@gmail.com)",
         "website": "https://diyables.io/tft-spi",
@@ -157725,8 +157725,8 @@
     },
     {
         "name": "CZ-N706B-Arduino",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.3",
+        "versions": "0.0.3, 0.0.1",
         "author": "CodeZoo",
         "maintainer": "CodeZoo <rooney.jang@codezoo.co.kr>",
         "website": "https://www.codezoo.co.kr/n706b.html",
@@ -157817,8 +157817,8 @@
     },
     {
         "name": "Yoke",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.0.2",
+        "versions": "0.0.2, 0.0.1",
         "author": "Ryzobee Team",
         "maintainer": "Ryzobee Team",
         "website": "https://github.com/Ryzobee/Yoke_arduino_lib",
@@ -159234,9 +159234,9 @@
     },
     {
         "name": "Database",
-        "version": "1.0.0",
-        "versions": "1.0.0",
-        "author": "code-hoysala ( Shashank Hoysala )",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.0",
+        "author": "code-hoysala ( Shashank Hoysala ) <shashankhoysala04@outlook.com>",
         "maintainer": "code-hoysala ( Shashank Hoysala ) <shashankhoysala04@outlook.com>",
         "website": "https://github.com/code-hoysala/Database",
         "category": "Data Storage",
@@ -159264,8 +159264,8 @@
     },
     {
         "name": "AARUARDUINO",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AARUTO",
         "maintainer": "AARUTO",
         "website": "https://github.com/AARUTO347/AARUARDUINO",
@@ -159469,6 +159469,100 @@
         "architectures": "avr, renesas_uno, esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/AARUTO347/AARUNO.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "FastLED_Protomatter_RGBPanel_FrameBuffer_GFX",
+        "version": "1.3.2",
+        "versions": "1.3.2, 1.3.0",
+        "author": "Marc Merlin",
+        "maintainer": "Marc MERLIN <marc_soft@merlins.org>",
+        "website": "https://github.com/marcmerlin/FastLED_Protomatter_RGBPanel_FrameBuffer_GFX",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/marcmerlin/FastLED_Protomatter_RGBPanel_FrameBuffer_GFX.git",
+        "dependencies": [
+            "Framebuffer GFX",
+            "FastLED",
+            "Adafruit GFX Library",
+            "Adafruit Protomatter"
+        ]
+    },
+    {
+        "name": "FastLED_ArduinoGFX_TFT",
+        "version": "1.2.3",
+        "versions": "1.2.3",
+        "author": "Marc Merlin",
+        "maintainer": "Marc MERLIN <marc_soft@merlins.org>",
+        "website": "https://github.com/marcmerlin/FastLED_ArduinoGFX_TFT",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/marcmerlin/FastLED_ArduinoGFX_TFT.git",
+        "dependencies": [
+            "Framebuffer GFX",
+            "GFX Library for Arduino"
+        ]
+    },
+    {
+        "name": "AsairAgh3485",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Usman AR <usmanar.tsm@gmail.com>",
+        "maintainer": "Usman AR <usmanar.tsm@gmail.com>",
+        "website": "https://github.com/usmanargit/AsairAgh3485",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/usmanargit/AsairAgh3485.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SevenSegmentClock595",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Open Source Community",
+        "maintainer": "Open Source Community",
+        "website": "https://github.com",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/saifulAdli79/arduino-wall-clock-v2.git",
+        "dependencies": [
+            "RTClib"
+        ]
+    },
+    {
+        "name": "UUtzinger_MPR",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Urs Utzinger",
+        "maintainer": "Urs Utzinger",
+        "website": "https://github.com/uutzinger/Arduino_MPR",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/uutzinger/Arduino_MPR.git",
+        "dependencies": [
+            "UUtzinger_RingBuffer"
+        ]
+    },
+    {
+        "name": "Ukr_GFX_fonts",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
+        "author": "Igor Gimelfarb",
+        "maintainer": "Igor Gimelfarb <gia@gia.org.ua>",
+        "website": "https://github.com/igor-gia/Ukr_GFX_fonts",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/igor-gia/Ukr_GFX_fonts.git",
         "dependencies": [
             ""
         ]
