@@ -47120,9 +47120,9 @@
     },
     {
         "name": "SDI-12",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.0, 2.3.4, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.1, 2.1.0",
-        "author": "Kevin M. Smith <Kevin@elite-education.org>, Shannon Hicks <shicks@stroudcenter.org>",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.5.0, 2.4.0, 2.3.4, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.1, 2.1.0",
+        "author": "Kevin M. Smith <Kevin@elite-education.org>, Sara Damiano <sdamiano@stroudcenter.org>, Shannon Hicks <shicks@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "website": "https://github.com/EnviroDIY/Arduino-SDI-12",
         "category": "Communication",
@@ -47130,7 +47130,7 @@
         "types": "Contributed",
         "repository": "https://github.com/EnviroDIY/Arduino-SDI-12.git",
         "dependencies": [
-            ""
+            "EnableInterrupt"
         ]
     },
     {
@@ -86750,8 +86750,8 @@
     },
     {
         "name": "ESP_TF",
-        "version": "2.1.1",
-        "versions": "2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Nick Jugganaikloo",
         "maintainer": "Nick Jugganaikloo",
         "website": "https://github.com/Nickjgniklu/ESP_TF",
@@ -121568,8 +121568,8 @@
     },
     {
         "name": "ieee-802_15_4-network-node",
-        "version": "1.0.6",
-        "versions": "1.0.6, 1.0.3, 1.0.0, 0.2.2, 0.2.1, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.0.7",
+        "versions": "1.0.7, 1.0.6, 1.0.3, 1.0.0, 0.2.2, 0.2.1, 0.1.2, 0.1.1, 0.1.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-node",
@@ -151235,8 +151235,8 @@
     },
     {
         "name": "DevLabDDP",
-        "version": "1.0.9",
-        "versions": "1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "UNIT Electronics",
         "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library",
@@ -153514,8 +153514,8 @@
     },
     {
         "name": "OpenEmbeddedProbe",
-        "version": "0.0.55",
-        "versions": "0.0.55, 0.0.54, 0.0.53, 0.0.52, 0.0.51, 0.0.50, 0.0.49, 0.0.48, 0.0.47, 0.0.46, 0.0.45, 0.0.44, 0.0.43, 0.0.42, 0.0.41, 0.0.40, 0.0.39, 0.0.38, 0.0.37, 0.0.36, 0.0.35, 0.0.34, 0.0.33, 0.0.32, 0.0.31, 0.0.30, 0.0.29, 0.0.28, 0.0.27, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "0.0.56",
+        "versions": "0.0.56, 0.0.55, 0.0.54, 0.0.53, 0.0.52, 0.0.51, 0.0.50, 0.0.49, 0.0.48, 0.0.47, 0.0.46, 0.0.45, 0.0.44, 0.0.43, 0.0.42, 0.0.41, 0.0.40, 0.0.39, 0.0.38, 0.0.37, 0.0.36, 0.0.35, 0.0.34, 0.0.33, 0.0.32, 0.0.31, 0.0.30, 0.0.29, 0.0.28, 0.0.27, 0.0.26, 0.0.25, 0.0.24, 0.0.23, 0.0.22, 0.0.21, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "Open Embedded Probe contributors",
         "maintainer": "Open Embedded Probe contributors",
         "website": "https://github.com/Open-Embedded-Probe/oep-probe-arduino",
@@ -155007,8 +155007,8 @@
     },
     {
         "name": "ShieldioDisplay",
-        "version": "0.1.1",
-        "versions": "0.1.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.1.1",
         "author": "Shieldio",
         "maintainer": "Shieldio",
         "website": "https://github.com/Shieldio/ShieldioDisplay",
@@ -158749,8 +158749,8 @@
     },
     {
         "name": "KymoCore",
-        "version": "7.3.4",
-        "versions": "7.3.4, 7.3.3, 7.3.2, 7.3.1, 7.3.0, 7.2.1, 7.2.0, 7.1.0, 6.4.0, 6.3.2, 6.3.1, 6.3.0, 6.2.3, 6.2.2, 6.2.1, 6.2.0, 6.1.0",
+        "version": "7.4.0",
+        "versions": "7.4.0, 7.3.4, 7.3.3, 7.3.2, 7.3.1, 7.3.0, 7.2.1, 7.2.0, 7.1.0, 6.4.0, 6.3.2, 6.3.1, 6.3.0, 6.2.3, 6.2.2, 6.2.1, 6.2.0, 6.1.0",
         "author": "Christof Seidel",
         "maintainer": "Christof Seidel",
         "website": "https://github.com/KymoTrace/kymocore",
@@ -159444,8 +159444,8 @@
     },
     {
         "name": "DevLab_AnalogInterface",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "UNIT Electronics MX",
         "maintainer": "Adrian Rabadan, Cesar Bautista, Jonathan Mejorado, Fernando Flores",
         "website": "https://github.com/UNIT-Electronics-MX/unit_devlab_analog_interface_library",
