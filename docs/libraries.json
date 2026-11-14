@@ -28356,8 +28356,8 @@
     },
     {
         "name": "TinyUPnP",
-        "version": "3.2.0",
-        "versions": "3.2.0, 3.1.4, 3.1.2, 3.0.2, 3.0.1, 3.0.0, 2.0.0",
+        "version": "3.3.0",
+        "versions": "3.3.0, 3.2.0, 3.1.4, 3.1.2, 3.0.2, 3.0.1, 3.0.0, 2.0.0",
         "author": "Ofek Pearl <ofekpearl@gmail.com>",
         "maintainer": "Ofek Pearl <ofekpearl@gmail.com>",
         "website": "https://github.com/ofekp/TinyUPnP",
@@ -128780,8 +128780,8 @@
     },
     {
         "name": "RCLink",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.3.1",
+        "versions": "1.3.1, 1.2.0, 1.1.0, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Little Man Builds (Darren Osborne)",
         "maintainer": "Little Man Builds <littlemanbuilds@gmail.com>",
         "website": "https://github.com/littlemanbuilds/RCLink",
@@ -159563,6 +159563,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/igor-gia/Ukr_GFX_fonts.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NuaSense",
+        "version": "0.1.2",
+        "versions": "0.1.2, 0.1.1, 0.1.0",
+        "author": "NuaSense <info@nuasense.com>",
+        "maintainer": "NuaSense <info@nuasense.com>",
+        "website": "https://github.com/nuasense/nuasense-arduino",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/nuasense/nuasense-arduino.git",
         "dependencies": [
             ""
         ]
