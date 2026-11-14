@@ -60511,8 +60511,8 @@
     },
     {
         "name": "RSbus",
-        "version": "2.4.0",
-        "versions": "2.4.0, 2.3.0, 2.2.0, 2.0.0, 1.2.2, 1.2.1, 1.1.0, 1.0.1",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.0.0, 1.2.2, 1.2.1, 1.1.0, 1.0.1",
         "author": "Aiko Pras",
         "maintainer": "Aiko Pras",
         "website": "https://github.com/aikopras/RSbus/",
@@ -122269,8 +122269,8 @@
     },
     {
         "name": "AP_DCC_Decoder_Core",
-        "version": "1.5.1",
-        "versions": "1.5.1, 1.4.0",
+        "version": "1.6.0",
+        "versions": "1.6.0, 1.5.1, 1.4.0",
         "author": "Aiko Pras",
         "maintainer": "Aiko Pras",
         "website": "https://github.com/aikopras/AP_DCC_Decoder_Core",
@@ -142502,8 +142502,8 @@
     },
     {
         "name": "RumiCar",
-        "version": "0.5.1",
-        "versions": "0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.6.0",
+        "versions": "0.6.0, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "RumiCar-group <info@rumicar.com>",
         "maintainer": "RumiCar-group <info@rumicar.com>",
         "website": "https://github.com/RumiCar-group/RumiCar-lib",
@@ -152542,8 +152542,8 @@
     },
     {
         "name": "TempestTCode",
-        "version": "0.4.4",
-        "versions": "0.4.4, 0.4.3, 0.4.2",
+        "version": "0.4.5",
+        "versions": "0.4.5, 0.4.4, 0.4.3, 0.4.2",
         "author": "TempestMAx",
         "maintainer": "TempestMAx",
         "website": "https://github.com/multiaxis/TempestTCode",
