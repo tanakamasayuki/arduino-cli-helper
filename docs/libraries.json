@@ -66358,8 +66358,8 @@
     },
     {
         "name": "AP_DCC_Library",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.2, 1.2.0",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0, 1.2.2, 1.2.0",
         "author": "Aiko Pras",
         "maintainer": "Aiko Pras",
         "website": "https://github.com/aikopras/AP_DCC_library",
@@ -115726,8 +115726,8 @@
     },
     {
         "name": "htcw_gfx",
-        "version": "2.11.1",
-        "versions": "2.11.1, 2.11.0, 2.10.2, 2.10.1, 2.10.0, 2.9.4, 2.9.3, 2.9.2, 2.9.1, 2.9.0, 2.8.2, 2.8.1, 2.8.0, 2.7.0, 2.6.4, 2.6.3, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.9, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.17, 2.2.16, 2.2.14, 2.2.13, 2.2.12, 2.2.11, 2.2.10, 2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
+        "version": "2.11.2",
+        "versions": "2.11.2, 2.11.1, 2.11.0, 2.10.2, 2.10.1, 2.10.0, 2.9.4, 2.9.3, 2.9.2, 2.9.1, 2.9.0, 2.8.2, 2.8.1, 2.8.0, 2.7.0, 2.6.4, 2.6.3, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.9, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.17, 2.2.16, 2.2.14, 2.2.13, 2.2.12, 2.2.11, 2.2.10, 2.2.9, 2.2.8, 2.2.7, 2.2.6, 2.2.5, 2.2.4, 2.2.3, 2.2.2, 2.2.1, 2.2.0, 2.1.2, 2.1.1, 2.1.0, 2.0.10, 2.0.9, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3",
         "author": "honey the codewitch",
         "maintainer": "honey the codewitch",
         "website": "https://github.com/codewitch-honey-crisis/gfx",
@@ -136962,8 +136962,8 @@
     },
     {
         "name": "ATGENXlib",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.2.6, 1.0.1, 0.2.2, 0.2.1, 0.1.0, 0.0.5",
+        "version": "2.5.0",
+        "versions": "2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.2.6, 1.0.1, 0.2.2, 0.2.1, 0.1.0, 0.0.5",
         "author": "ATGenX",
         "maintainer": "Seif Emad <support@atgenx.com>",
         "website": "https://github.com/ARDUTECH0/ATGENXlib-0.0.1",
@@ -136977,7 +136977,8 @@
             "ArduinoJson",
             "WebSockets",
             "Servo",
-            "ESP32Servo"
+            "ESP32Servo",
+            "FastAccelStepper"
         ]
     },
     {
@@ -159578,6 +159579,67 @@
         "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/nuasense/nuasense-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Wilcoxon883MRTU",
+        "version": "0.1.0-beta.4",
+        "versions": "0.1.0-beta.4",
+        "author": "Dineshpal Singh",
+        "maintainer": "Dineshpal Singh",
+        "website": "https://github.com/dineshpalsingh1989/Wilcoxon883MRTU",
+        "category": "Sensors",
+        "architectures": "esp32, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/dineshpalsingh1989/Wilcoxon883MRTU.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Modest-IoT-Nano-Framework",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Angel Velasquez",
+        "maintainer": "Angel Velasquez <avelasquezn@gmail.com>",
+        "website": "https://github.com/modest-iot/modest-iot-nano-framework",
+        "category": "Device Control",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/modest-iot/modest-iot-nano-framework.git",
+        "dependencies": [
+            "ArduinoJson",
+            "MQTT"
+        ]
+    },
+    {
+        "name": "RSbusMaster",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Aiko Pras",
+        "maintainer": "Aiko Pras",
+        "website": "https://github.com/aikopras/RSbusMaster/",
+        "category": "Device Control",
+        "architectures": "rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/aikopras/RSbusMaster.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NLTP",
+        "version": "1.6.0",
+        "versions": "1.6.0",
+        "author": "Amandeep Bains",
+        "maintainer": "Amandeep Bains",
+        "website": "https://indian-aman.github.io/necklink/nltp/",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/indian-aman/NLTP-Arduino.git",
         "dependencies": [
             ""
         ]
