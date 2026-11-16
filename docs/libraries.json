@@ -62964,8 +62964,8 @@
     },
     {
         "name": "libasm",
-        "version": "1.6.75",
-        "versions": "1.6.75, 1.6.74, 1.6.73, 1.6.72, 1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
+        "version": "1.6.76",
+        "versions": "1.6.76, 1.6.75, 1.6.74, 1.6.73, 1.6.72, 1.6.71, 1.6.70, 1.6.69, 1.6.68, 1.6.67, 1.6.66, 1.6.65, 1.6.64, 1.6.63, 1.6.62, 1.6.61, 1.6.60, 1.6.59, 1.6.58, 1.6.57, 1.6.56, 1.6.54, 1.6.53, 1.6.52, 1.6.51, 1.6.50, 1.6.48, 1.6.46, 1.6.45, 1.6.44, 1.6.43, 1.6.42, 1.6.35, 1.6.34, 1.6.33, 1.6.32, 1.6.30, 1.6.29, 1.6.28, 1.6.27, 1.6.26, 1.6.25, 1.6.24, 1.6.23, 1.6.22, 1.6.21, 1.6.20, 1.6.19, 1.6.18, 1.6.17, 1.6.16, 1.6.15, 1.6.14, 1.6.13, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.3, 1.5.2, 1.5.1, 1.5.0, 1.4.10, 0.1.0",
         "author": "Tadashi G. Takaoka",
         "maintainer": "Tadashi G. Takaoka <tadashi.g.takaoka@gmail.com>",
         "website": "https://github.com/tgtakaoka/libasm",
@@ -98638,8 +98638,8 @@
     },
     {
         "name": "IOSignal",
-        "version": "9.14.1",
-        "versions": "9.14.1, 9.14.0, 9.13.0, 9.12.0, 9.6.0, 9.0.0, 7.0.0, 6.0.1, 6.0.0, 5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
+        "version": "9.14.2",
+        "versions": "9.14.2, 9.14.1, 9.14.0, 9.13.0, 9.12.0, 9.6.0, 9.0.0, 7.0.0, 6.0.1, 6.0.0, 5.1.0, 5.0.0, 4.0.0, 3.4.0, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.0.0, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/iosignal-arduino",
@@ -99198,8 +99198,8 @@
     },
     {
         "name": "Remocon",
-        "version": "9.14.3",
-        "versions": "9.14.3, 9.14.2, 9.14.1, 9.14.0, 9.13.0, 9.12.0, 9.6.0, 9.0.0, 4.0.0, 3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "9.14.5",
+        "versions": "9.14.5, 9.14.4, 9.14.3, 9.14.2, 9.14.1, 9.14.0, 9.13.0, 9.12.0, 9.6.0, 9.0.0, 4.0.0, 3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/remocon-arduino",
@@ -109129,8 +109129,8 @@
     },
     {
         "name": "AMY Synthesizer",
-        "version": "1.2.210",
-        "versions": "1.2.210, 1.2.209, 1.2.208, 1.2.207, 1.2.206, 1.2.205, 1.2.204, 1.2.203, 1.2.202, 1.2.201, 1.2.200, 1.2.199, 1.2.198, 1.2.197, 1.2.196, 1.2.195, 1.2.194, 1.2.193, 1.2.192, 1.2.191, 1.2.190, 1.2.189, 1.2.188, 1.2.187, 1.2.186, 1.2.185, 1.2.184, 1.2.183, 1.2.182, 1.2.181, 1.2.180, 1.2.179, 1.2.178, 1.2.177, 1.2.176, 1.2.175, 1.2.174, 1.2.173, 1.2.172, 1.2.171, 1.2.170, 1.2.169, 1.2.168, 1.2.167, 1.2.166, 1.2.165, 1.2.164, 1.2.163, 1.2.162, 1.2.161, 1.2.160, 1.2.159, 1.2.158, 1.2.157, 1.2.156, 1.2.155, 1.2.154, 1.2.153, 1.2.152, 1.2.151, 1.2.150, 1.2.148, 1.2.147, 1.2.146, 1.2.145, 1.2.144, 1.2.143, 1.2.142, 1.2.141, 1.2.140, 1.2.139, 1.2.138, 1.2.137, 1.2.136, 1.2.135, 1.2.134, 1.2.133, 1.2.132, 1.2.131, 1.2.130, 1.2.129, 1.2.128, 1.2.127, 1.2.126, 1.2.125, 1.2.124, 1.2.123, 1.2.122, 1.2.121, 1.2.120, 1.2.119, 1.2.118, 1.2.117, 1.2.116, 1.2.115, 1.2.114, 1.2.113, 1.2.112, 1.2.111, 1.2.110, 1.2.109, 1.2.108, 1.2.107, 1.2.106, 1.2.105, 1.2.104, 1.2.103, 1.2.102, 1.2.101, 1.2.100, 1.2.99, 1.2.98, 1.2.97, 1.2.96, 1.2.95, 1.2.94, 1.2.93, 1.2.92, 1.2.91, 1.2.90, 1.2.89, 1.2.88, 1.2.87, 1.2.86, 1.2.85, 1.2.84, 1.2.83, 1.2.81, 1.2.80, 1.2.79, 1.2.78, 1.2.77, 1.2.76, 1.2.75, 1.2.74, 1.2.73, 1.2.72, 1.2.71, 1.2.70, 1.2.69, 1.2.68, 1.2.67, 1.2.66, 1.2.65, 1.2.64, 1.2.63, 1.2.62, 1.2.61, 1.2.60, 1.2.59, 1.2.58, 1.2.57, 1.2.56, 1.2.55, 1.2.54, 1.2.53, 1.2.52, 1.2.51, 1.2.50, 1.2.49, 1.2.48, 1.2.47, 1.2.46, 1.2.45, 1.2.44, 1.2.43, 1.2.42, 1.2.41, 1.2.40, 1.2.39, 1.2.38, 1.2.37, 1.2.36, 1.2.35, 1.2.34, 1.2.33, 1.2.32, 1.2.31, 1.2.30, 1.2.29, 1.2.28, 1.2.27, 1.2.26, 1.2.25, 1.2.24, 1.2.23, 1.2.22, 1.2.21, 1.2.20, 1.2.19, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
+        "version": "1.2.211",
+        "versions": "1.2.211, 1.2.210, 1.2.209, 1.2.208, 1.2.207, 1.2.206, 1.2.205, 1.2.204, 1.2.203, 1.2.202, 1.2.201, 1.2.200, 1.2.199, 1.2.198, 1.2.197, 1.2.196, 1.2.195, 1.2.194, 1.2.193, 1.2.192, 1.2.191, 1.2.190, 1.2.189, 1.2.188, 1.2.187, 1.2.186, 1.2.185, 1.2.184, 1.2.183, 1.2.182, 1.2.181, 1.2.180, 1.2.179, 1.2.178, 1.2.177, 1.2.176, 1.2.175, 1.2.174, 1.2.173, 1.2.172, 1.2.171, 1.2.170, 1.2.169, 1.2.168, 1.2.167, 1.2.166, 1.2.165, 1.2.164, 1.2.163, 1.2.162, 1.2.161, 1.2.160, 1.2.159, 1.2.158, 1.2.157, 1.2.156, 1.2.155, 1.2.154, 1.2.153, 1.2.152, 1.2.151, 1.2.150, 1.2.148, 1.2.147, 1.2.146, 1.2.145, 1.2.144, 1.2.143, 1.2.142, 1.2.141, 1.2.140, 1.2.139, 1.2.138, 1.2.137, 1.2.136, 1.2.135, 1.2.134, 1.2.133, 1.2.132, 1.2.131, 1.2.130, 1.2.129, 1.2.128, 1.2.127, 1.2.126, 1.2.125, 1.2.124, 1.2.123, 1.2.122, 1.2.121, 1.2.120, 1.2.119, 1.2.118, 1.2.117, 1.2.116, 1.2.115, 1.2.114, 1.2.113, 1.2.112, 1.2.111, 1.2.110, 1.2.109, 1.2.108, 1.2.107, 1.2.106, 1.2.105, 1.2.104, 1.2.103, 1.2.102, 1.2.101, 1.2.100, 1.2.99, 1.2.98, 1.2.97, 1.2.96, 1.2.95, 1.2.94, 1.2.93, 1.2.92, 1.2.91, 1.2.90, 1.2.89, 1.2.88, 1.2.87, 1.2.86, 1.2.85, 1.2.84, 1.2.83, 1.2.81, 1.2.80, 1.2.79, 1.2.78, 1.2.77, 1.2.76, 1.2.75, 1.2.74, 1.2.73, 1.2.72, 1.2.71, 1.2.70, 1.2.69, 1.2.68, 1.2.67, 1.2.66, 1.2.65, 1.2.64, 1.2.63, 1.2.62, 1.2.61, 1.2.60, 1.2.59, 1.2.58, 1.2.57, 1.2.56, 1.2.55, 1.2.54, 1.2.53, 1.2.52, 1.2.51, 1.2.50, 1.2.49, 1.2.48, 1.2.47, 1.2.46, 1.2.45, 1.2.44, 1.2.43, 1.2.42, 1.2.41, 1.2.40, 1.2.39, 1.2.38, 1.2.37, 1.2.36, 1.2.35, 1.2.34, 1.2.33, 1.2.32, 1.2.31, 1.2.30, 1.2.29, 1.2.28, 1.2.27, 1.2.26, 1.2.25, 1.2.24, 1.2.23, 1.2.22, 1.2.21, 1.2.20, 1.2.19, 1.2.18, 1.2.17, 1.2.16, 1.2.15, 1.2.14, 1.2.13, 1.2.12, 1.2.11, 1.2.10, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.2, 1.2.1, 1.2.0, 1.1.4, 1.1.2, 1.1.0, 1.0.3, 1.0.0",
         "author": "Brian Whitman <brian@variogram.com>, DAn Ellis <dan.ellis@gmail.com>",
         "maintainer": "Brian Whitman <brian@variogram.com>",
         "website": "http://github.com/shorepine/amy",
@@ -110168,8 +110168,8 @@
     },
     {
         "name": "ESP-NOW MIDI",
-        "version": "0.19.3",
-        "versions": "0.19.3, 0.19.2, 0.19.1, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
+        "version": "0.19.4",
+        "versions": "0.19.4, 0.19.3, 0.19.2, 0.19.1, 0.19.0, 0.18.0, 0.17.0, 0.16.0, 0.15.0, 0.14.0, 0.13.1, 0.13.0, 0.12.3, 0.12.2, 0.12.1, 0.12.0, 0.11.0, 0.10.9, 0.10.8, 0.10.7, 0.10.6, 0.10.5, 0.10.4, 0.10.3, 0.10.2, 0.10.1, 0.9.1, 0.9.0, 0.8.0, 0.6.1, 0.5.2, 0.5.1, 0.5.0, 0.4.2, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.3, 0.2.0, 0.1.2, 0.1.1, 0.1.0, 0.0.5, 0.0.0",
         "author": "Thomas Geissl",
         "maintainer": "Thomas Geissl <thomas.geissl@gmail.com>",
         "website": "https://github.com/grantler-instruments/ESP-NOW-MIDI",
@@ -120376,8 +120376,8 @@
     },
     {
         "name": "GCMEncryption",
-        "version": "0.5.3",
-        "versions": "0.5.3, 0.5.2, 0.2.2, 0.2.1, 0.2.0",
+        "version": "1.0.0",
+        "versions": "1.0.0, 0.5.3, 0.5.2, 0.2.2, 0.2.1, 0.2.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/GCMEncryption",
@@ -121586,11 +121586,11 @@
     },
     {
         "name": "Servo_TCA",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.0",
         "author": "Aiko Pras",
         "maintainer": "Aiko Pras",
-        "website": "https://github.com/aikopras/Servo_TCA",
+        "website": "https://github.com/aikopras/Servo-TCA",
         "category": "Device Control",
         "architectures": "megaavr",
         "types": "Contributed",
@@ -125698,8 +125698,8 @@
     },
     {
         "name": "ST7735_LTSM",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/ST7735_LTSM",
@@ -125878,8 +125878,8 @@
     },
     {
         "name": "SSD1331_LTSM",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/SSD1331_LTSM",
@@ -129975,8 +129975,8 @@
     },
     {
         "name": "QuarkX",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Pierluigi Budel",
         "maintainer": "Pierluigi Budel",
         "website": "https://github.com/pbudel/QuarkX",
@@ -135582,8 +135582,8 @@
     },
     {
         "name": "GC9D01_LTSM",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.2, 1.0.1",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.2, 1.0.1",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/GC9D01_LTSM",
@@ -142593,8 +142593,8 @@
     },
     {
         "name": "GC9107_LTSM",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/GC9107_LTSM",
@@ -144387,8 +144387,8 @@
     },
     {
         "name": "HANUMAN_32_mini",
-        "version": "0.1.7",
-        "versions": "0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.1.8",
+        "versions": "0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
         "maintainer": "hii-nice-2-meet-u <0x0.whitecat@gmail.com>",
         "website": "https://github.com/hii-nice-2-meet-u/HANUMAN_32_mini",
@@ -153926,10 +153926,10 @@
     },
     {
         "name": "AsyncHTTPClientLight",
-        "version": "2.0.0",
-        "versions": "2.0.0",
-        "author": "Davide",
-        "maintainer": "Copida Soft [copida.soft@gmail.com]",
+        "version": "2.1.0",
+        "versions": "2.1.0, 2.0.0",
+        "author": "Davide Lupi <copida.soft@gmail.com>",
+        "maintainer": "Davide Lupi <copida.soft@gmail.com>",
         "website": "https://github.com/copida/AsyncHTTPClientLight",
         "category": "Communication",
         "architectures": "esp32",
@@ -155311,8 +155311,8 @@
     },
     {
         "name": "IOTFIY",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.3",
+        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Iotfiy Solutions",
         "maintainer": "iotfiy.solution@gmail.com",
         "website": "https://github.com/iotfiy-solutions/Gateway_Library.git",
@@ -159250,8 +159250,8 @@
     },
     {
         "name": "SmtpMini",
-        "version": "1.0.2",
-        "versions": "1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.0.2, 1.0.1, 1.0.0",
         "author": "Davide Lupi <copida.soft@gmail.com>",
         "maintainer": "Davide Lupi <copida.soft@gmail.com>",
         "website": "https://github.com/copida/SmtpMini",
@@ -159600,8 +159600,8 @@
     },
     {
         "name": "Modest-IoT-Nano-Framework",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.1.1",
+        "versions": "1.1.1, 1.1.0, 1.0.0",
         "author": "Angel Velasquez",
         "maintainer": "Angel Velasquez <avelasquezn@gmail.com>",
         "website": "https://github.com/modest-iot/modest-iot-nano-framework",
@@ -159691,8 +159691,8 @@
     },
     {
         "name": "DWIN_LCD",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Babatunde",
         "maintainer": "Babatunde <Babatunadg@gmail.com>",
         "website": "https://github.com/BabatundeTsh/DWIN_LCD",
@@ -159775,6 +159775,97 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/m5stack/M5Unit-EncoderMotor-Driver.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Allocator",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "David Lafreniere",
+        "maintainer": "David Lafreniere <endurodave.dev@gmail.com>",
+        "website": "https://github.com/endurodave/Allocator",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/endurodave/Allocator.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "xallocator",
+        "version": "1.3.0",
+        "versions": "1.3.0",
+        "author": "David Lafreniere",
+        "maintainer": "David Lafreniere <endurodave.dev@gmail.com>",
+        "website": "https://github.com/endurodave/xallocator",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/endurodave/xallocator.git",
+        "dependencies": [
+            "Allocator"
+        ]
+    },
+    {
+        "name": "stl_allocator",
+        "version": "1.2.0",
+        "versions": "1.2.0",
+        "author": "David Lafreniere",
+        "maintainer": "David Lafreniere <endurodave.dev@gmail.com>",
+        "website": "https://github.com/endurodave/stl_allocator",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/endurodave/stl_allocator.git",
+        "dependencies": [
+            "xallocator",
+            "Allocator"
+        ]
+    },
+    {
+        "name": "Cpp_StateMachine",
+        "version": "1.3.0",
+        "versions": "1.3.0",
+        "author": "David Lafreniere",
+        "maintainer": "David Lafreniere <endurodave.dev@gmail.com>",
+        "website": "https://github.com/endurodave/StateMachine",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/endurodave/StateMachine.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SonicRuler",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Devansh",
+        "maintainer": "Devansh",
+        "website": "https://github.com/devansh8011-oss/SonicRuler",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/devansh8011-oss/SonicRuler.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "blaeck",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Sebastian Strobl",
+        "maintainer": "Sebastian Strobl <sebastian.strobl@gmx.de>",
+        "website": "https://github.com/sebaJoSt/blaeck",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sebaJoSt/blaeck.git",
         "dependencies": [
             ""
         ]
