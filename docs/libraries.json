@@ -32269,8 +32269,8 @@
     },
     {
         "name": "aWOT",
-        "version": "4.0.0",
-        "versions": "4.0.0, 3.5.0, 3.3.1, 3.3.0, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.3, 3.1.0, 3.0.3, 3.0.1, 3.0.0, 2.0.1, 2.0.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.1",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0, 3.5.0, 3.3.1, 3.3.0, 3.2.4, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.3, 3.1.0, 3.0.3, 3.0.1, 3.0.0, 2.0.1, 2.0.0, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.1",
         "author": "Lasse Lukkari <lasse.lukkari@gmail.com>",
         "maintainer": "Lasse Lukkari <lasse.lukkari@gmail.com>",
         "website": "https://awot.net",
@@ -36443,12 +36443,12 @@
     },
     {
         "name": "AsyncStepperLib",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "2.2.0",
+        "versions": "2.2.0, 1.0.0",
         "author": "Luis Llamas",
         "maintainer": "Luis Llamas",
         "website": "https://github.com/luisllamasbinaburo/Arduino-AsyncStepper",
-        "category": "Other",
+        "category": "Device Control",
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/luisllamasbinaburo/Arduino-AsyncStepper.git",
@@ -36458,17 +36458,17 @@
     },
     {
         "name": "AsyncSonar",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Luis Llamas",
         "maintainer": "Luis Llamas",
         "website": "https://github.com/luisllamasbinaburo/Arduino-AsyncSonar",
-        "category": "Other",
-        "architectures": "*",
+        "category": "Sensors",
+        "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/luisllamasbinaburo/Arduino-AsyncSonar.git",
         "dependencies": [
-            ""
+            "Yet Another Arduino PcInt Library"
         ]
     },
     {
@@ -142503,8 +142503,8 @@
     },
     {
         "name": "RumiCar",
-        "version": "0.6.0",
-        "versions": "0.6.0, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
+        "version": "0.6.1",
+        "versions": "0.6.1, 0.6.0, 0.5.1, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.1, 0.1.0",
         "author": "RumiCar-group <info@rumicar.com>",
         "maintainer": "RumiCar-group <info@rumicar.com>",
         "website": "https://github.com/RumiCar-group/RumiCar-lib",
@@ -157756,8 +157756,8 @@
     },
     {
         "name": "ocean_imu",
-        "version": "2.7.6",
-        "versions": "2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.5, 2.3.3, 2.2.9, 2.2.6, 2.2.3, 2.1.2, 1.1.7, 1.0.4, 1.0.2, 1.0.1, 0.8.5, 0.6.0, 0.5.0, 0.1.0",
+        "version": "2.7.7",
+        "versions": "2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.5, 2.3.3, 2.2.9, 2.2.6, 2.2.3, 2.1.2, 1.1.7, 1.0.4, 1.0.2, 1.0.1, 0.8.5, 0.6.0, 0.5.0, 0.1.0",
         "author": "Bareboat Necessities",
         "maintainer": "Bareboat Necessities <github@bareboat-necessities.github.io>",
         "website": "https://github.com/bareboat-necessities/ocean-imu",
@@ -159600,8 +159600,8 @@
     },
     {
         "name": "Modest-IoT-Nano-Framework",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.0",
         "author": "Angel Velasquez",
         "maintainer": "Angel Velasquez <avelasquezn@gmail.com>",
         "website": "https://github.com/modest-iot/modest-iot-nano-framework",
@@ -159685,6 +159685,36 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/endurodave/SimpleSocketProtocol.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "DWIN_LCD",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Babatunde",
+        "maintainer": "Babatunde <Babatunadg@gmail.com>",
+        "website": "https://github.com/BabatundeTsh/DWIN_LCD",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/BabatundeTsh/DWIN_LCD.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PeasyB_PCA9698",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "PeasyB",
+        "maintainer": "PeasyB <105769316+PeasyB@users.noreply.github.com>",
+        "website": "https://github.com/PeasyB/PeasyB_PCA9698",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/PeasyB/PeasyB_PCA9698.git",
         "dependencies": [
             ""
         ]
