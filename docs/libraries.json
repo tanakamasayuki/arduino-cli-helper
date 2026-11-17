@@ -47121,7 +47121,7 @@
     {
         "name": "SDI-12",
         "version": "3.0.0",
-        "versions": "3.0.0, 2.5.0, 2.4.0, 2.3.4, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.1, 2.1.0",
+        "versions": "3.0.0, 2.5.0, 2.4.0, 2.3.4, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.1, 2.1.0",
         "author": "Kevin M. Smith <Kevin@elite-education.org>, Sara Damiano <sdamiano@stroudcenter.org>, Shannon Hicks <shicks@stroudcenter.org>",
         "maintainer": "Sara Damiano <sdamiano@stroudcenter.org>",
         "website": "https://github.com/EnviroDIY/Arduino-SDI-12",
@@ -108660,8 +108660,8 @@
     },
     {
         "name": "EspNowNetworkHost",
-        "version": "0.8.3",
-        "versions": "0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.5, 0.7.4, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.8.4",
+        "versions": "0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.5, 0.7.4, 0.7.2, 0.7.1, 0.7.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/EspNowNetworkHost",
@@ -108675,8 +108675,8 @@
     },
     {
         "name": "EspNowNetworkHostDriver",
-        "version": "0.7.6",
-        "versions": "0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.7.7",
+        "versions": "0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/EspNowNetworkHostDriver",
@@ -125788,8 +125788,8 @@
     },
     {
         "name": "ST7789_LTSM",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Gavin Lyons <glyons66@hotmail.com>",
         "maintainer": "Gavin Lyons <glyons66@hotmail.com>",
         "website": "https://github.com/gavinlyonsrepo/ST7789_LTSM",
@@ -152650,8 +152650,8 @@
     },
     {
         "name": "ErdiLRF",
-        "version": "0.1.4",
-        "versions": "0.1.4, 0.1.1, 0.1.0",
+        "version": "0.1.8",
+        "versions": "0.1.8, 0.1.4, 0.1.1, 0.1.0",
         "author": "ERDI TECH LTD <tommy@erdimail.com>",
         "maintainer": "ERDI TECH LTD <tommy@erdimail.com>",
         "website": "https://erdilrf.com/",
@@ -157017,13 +157017,13 @@
     },
     {
         "name": "Joy-IT Robot Arm Arduino",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Joy-IT <support@joy-it.de>",
         "maintainer": "Joy-IT <support@joy-it.de>",
         "website": "https://github.com/joy-it/JoyIT_Robotarm_Arduino",
         "category": "Device Control",
-        "architectures": "*",
+        "architectures": "avr, zephyr",
         "types": "Contributed",
         "repository": "https://github.com/joy-it/JoyIT_Robotarm_Arduino.git",
         "dependencies": [
@@ -157696,8 +157696,8 @@
     },
     {
         "name": "FroqMQTT",
-        "version": "2.0.0",
-        "versions": "2.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0",
         "author": "Achim Diedrichs",
         "maintainer": "Achim Diedrichs",
         "website": "https://github.com/AchD/FroqMQTT",
@@ -159114,8 +159114,8 @@
     },
     {
         "name": "Wbskt",
-        "version": "0.9.0-beta.1",
-        "versions": "0.9.0-beta.1",
+        "version": "0.9.0-beta.2",
+        "versions": "0.9.0-beta.2, 0.9.0-beta.1",
         "author": "wbskt",
         "maintainer": "wbskt",
         "website": "https://github.com/wbskt/Wbskt.Arduino",
@@ -159145,8 +159145,8 @@
     },
     {
         "name": "RosDuino",
-        "version": "0.1.0",
-        "versions": "0.1.0",
+        "version": "0.2.0",
+        "versions": "0.2.0, 0.1.0",
         "author": "RosDuino Contributors",
         "maintainer": "RosDuino Contributors",
         "website": "https://github.com/rosduino/rosduino_arduino",
@@ -159600,8 +159600,8 @@
     },
     {
         "name": "Modest-IoT-Nano-Framework",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.0",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
         "author": "Angel Velasquez",
         "maintainer": "Angel Velasquez <avelasquezn@gmail.com>",
         "website": "https://github.com/modest-iot/modest-iot-nano-framework",
@@ -159899,6 +159899,54 @@
         "dependencies": [
             "Adafruit GFX Library",
             "SdFat"
+        ]
+    },
+    {
+        "name": "MakoTalk",
+        "version": "2.1.2",
+        "versions": "2.1.2, 2.1.1, 2.1.0",
+        "author": "Makoto",
+        "maintainer": "Makoto",
+        "website": "https://github.com/airuyoshii-ai/makotalk-arduino",
+        "category": "Signal Input/Output",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/airuyoshii-ai/makotalk-arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bonezegei_HTU21",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
+        "website": "https://github.com/bonezegei/Bonezegei_HTU21",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/Bonezegei_HTU21.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "PLIQtronics",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Will Carter",
+        "maintainer": "Will Carter <will.carter@yale.edu>",
+        "website": "https://github.com/Project-Liquid/PLIQtronics",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Project-Liquid/PLIQtronics.git",
+        "dependencies": [
+            "HX711 Arduino Library",
+            "Encoder",
+            "Adafruit MCP9600 Library",
+            "SparkFun Qwiic Scale NAU7802 Arduino Library"
         ]
     }
 ]
