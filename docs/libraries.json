@@ -26147,9 +26147,9 @@
     },
     {
         "name": "MCCI LoRaWAN LMIC library",
-        "version": "6.0.1",
-        "versions": "6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.1.1, 4.1.0, 4.0.0, 3.3.0, 3.2.0, 3.1.0, 3.0.99, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0",
-        "author": "IBM, Matthijs Kooijman, Terry Moore, ChaeHee Won, Frank Rose, Tristan Webber, Benjamin Freeman, Dhinesh Kumar",
+        "version": "6.1.0",
+        "versions": "6.1.0, 6.0.1, 6.0.0, 5.0.1, 5.0.0, 4.1.1, 4.1.0, 4.0.0, 3.3.0, 3.2.0, 3.1.0, 3.0.99, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0",
+        "author": "IBM, Matthijs Kooijman, Terry Moore, ChaeHee Won, Frank Rose, Tristan Webber, Benjamin Freeman, Dhinesh Kumar, Pontus Oldberg",
         "maintainer": "Terry Moore <tmm@mcci.com>",
         "website": "https://github.com/mcci-catena/arduino-lmic",
         "category": "Communication",
@@ -48327,8 +48327,8 @@
     },
     {
         "name": "ESP8266Audio",
-        "version": "2.4.1",
-        "versions": "2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
+        "version": "2.4.3",
+        "versions": "2.4.3, 2.4.1, 2.4.0, 2.3.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.7, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0",
         "author": "Earle F. Philhower, III",
         "maintainer": "Earle F. Philhower, III",
         "website": "https://github.com/earlephilhower/ESP8266Audio",
@@ -102087,8 +102087,8 @@
     },
     {
         "name": "FlixPeriph",
-        "version": "1.13.0",
-        "versions": "1.13.0, 1.12.1, 1.12.0, 1.11.0, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
+        "version": "1.14.0",
+        "versions": "1.14.0, 1.13.0, 1.12.1, 1.12.0, 1.11.0, 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10.0, 1.9.1, 1.9.0, 1.8.0, 1.7.1, 1.7.0, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.0, 1.2.0, 1.1.1, 1.1.0, 1.0.0",
         "author": "Oleg Kalachev <okalachev@gmail.com>",
         "maintainer": "Oleg Kalachev <okalachev@gmail.com>",
         "website": "https://github.com/okalachev/flixperiph",
@@ -108660,8 +108660,8 @@
     },
     {
         "name": "EspNowNetworkHost",
-        "version": "0.8.2",
-        "versions": "0.8.2, 0.8.1, 0.8.0, 0.7.5, 0.7.4, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.8.3",
+        "versions": "0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.5, 0.7.4, 0.7.2, 0.7.1, 0.7.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/EspNowNetworkHost",
@@ -108690,8 +108690,8 @@
     },
     {
         "name": "EspNowNetworkNode",
-        "version": "0.8.3",
-        "versions": "0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.8.4",
+        "versions": "0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/EspNowNetworkNode",
@@ -109371,8 +109371,8 @@
     },
     {
         "name": "Palazzetti",
-        "version": "3.4.0",
-        "versions": "3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.1, 3.0.0, 2.7.10, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.0",
+        "version": "3.5.0",
+        "versions": "3.5.0, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.1, 3.0.0, 2.7.10, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.0",
         "author": "Domochip <domochip@hotmail.com>",
         "maintainer": "Domochip <domochip@hotmail.com>",
         "website": "https://github.com/Domochip/Palazzetti",
@@ -121551,8 +121551,8 @@
     },
     {
         "name": "ieee-802_15_4-network-host",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.3, 1.0.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.7, 1.0.6, 1.0.3, 1.0.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-host",
@@ -121568,8 +121568,8 @@
     },
     {
         "name": "ieee-802_15_4-network-node",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.3, 1.0.0, 0.2.2, 0.2.1, 0.1.2, 0.1.1, 0.1.0",
+        "version": "1.1.0",
+        "versions": "1.1.0, 1.0.7, 1.0.6, 1.0.3, 1.0.0, 0.2.2, 0.2.1, 0.1.2, 0.1.1, 0.1.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/ieee-802_15_4-network-node",
@@ -122012,8 +122012,8 @@
     },
     {
         "name": "pdi-framework",
-        "version": "1.3.13",
-        "versions": "1.3.13, 1.3.12, 1.3.11, 1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
+        "version": "1.3.14",
+        "versions": "1.3.14, 1.3.13, 1.3.12, 1.3.11, 1.3.10, 1.3.9, 1.3.8, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.9, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.13, 1.1.12, 1.1.11, 1.1.10, 1.1.9, 1.1.8, 1.1.7, 1.1.6",
         "author": "Suraj I.",
         "maintainer": "Suraj I. <surajinamdar151@gmail.com>",
         "website": "https://github.com/Suraj151/pdi-framework",
@@ -134590,8 +134590,8 @@
     },
     {
         "name": "MCM_GitHub_OTA",
-        "version": "0.0.9",
-        "versions": "0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
         "author": "mcmchris",
         "maintainer": "mcmchris <mcmchris@hotmail.com>",
         "website": "https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git",
@@ -155379,8 +155379,8 @@
     },
     {
         "name": "UARDECS_ESP32C3",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "Takehiko Hoshi, Hideto Kurosaki and Ken-ichro Yasuba",
         "maintainer": "Hoshi@hoshi-lab.net",
         "website": "https://github.com/uecs-star/UARDECS_ESP32C3",
@@ -159866,6 +159866,21 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/sebaJoSt/blaeck.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "QDY30A_RS485",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1",
+        "author": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "maintainer": "Renzo Mischianti <renzo.mischianti@gmail.com>",
+        "website": "https://github.com/xreef/QDY30A_RS485",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/xreef/QDY30A_RS485.git",
         "dependencies": [
             ""
         ]
