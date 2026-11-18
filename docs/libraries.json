@@ -618,8 +618,8 @@
     },
     {
         "name": "ArduinoBLE",
-        "version": "2.1.0",
-        "versions": "2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.5.0, 1.4.1, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0, 0.1.2, 0.1.1, 0.1.0",
+        "version": "2.1.1",
+        "versions": "2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.5.0, 1.4.1, 1.4.0, 1.3.7, 1.3.6, 1.3.5, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.0, 0.1.2, 0.1.1, 0.1.0",
         "author": "Arduino",
         "maintainer": "Arduino <info@arduino.cc>",
         "website": "https://www.arduino.cc/en/Reference/ArduinoBLE",
@@ -3815,8 +3815,8 @@
     },
     {
         "name": "MQTT",
-        "version": "2.5.3",
-        "versions": "2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.11.0, 1.10.1, 1.10.0, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.2, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "version": "2.6.0",
+        "versions": "2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.8, 2.4.7, 2.4.6, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.2, 2.2.1, 2.2.0, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.0, 1.11.0, 1.10.1, 1.10.0, 1.9.6, 1.9.5, 1.9.4, 1.9.3, 1.9.2, 1.9.1, 1.9.0, 1.8.2, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.2, 1.3.0, 1.2.0, 1.1.0, 1.0.0",
         "author": "Joel Gaehwiler <joel.gaehwiler@gmail.com>",
         "maintainer": "Joel Gaehwiler <joel.gaehwiler@gmail.com>",
         "website": "https://github.com/256dpi/arduino-mqtt",
@@ -27912,8 +27912,8 @@
     },
     {
         "name": "MobaTools",
-        "version": "3.1.2",
-        "versions": "3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0, 0.9.1",
+        "version": "3.1.3",
+        "versions": "3.1.3, 3.1.2, 3.1.1, 3.1.0, 3.0.0, 2.7.0, 2.6.2, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.0, 1.1.5, 1.1.4, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.0, 0.9.1",
         "author": "MicroBahner",
         "maintainer": "MicroBahner, f-pm+gh@mailbox.org",
         "website": "https://github.com/MicroBahner/MobaTools",
@@ -60511,8 +60511,8 @@
     },
     {
         "name": "RSbus",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.0.0, 1.2.2, 1.2.1, 1.1.0, 1.0.1",
+        "version": "2.5.1",
+        "versions": "2.5.1, 2.5.0, 2.4.0, 2.3.0, 2.2.0, 2.0.0, 1.2.2, 1.2.1, 1.1.0, 1.0.1",
         "author": "Aiko Pras",
         "maintainer": "Aiko Pras",
         "website": "https://github.com/aikopras/RSbus/",
@@ -81253,10 +81253,10 @@
     },
     {
         "name": "Excelsior",
-        "version": "1.2.3",
-        "versions": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9",
+        "version": "1.2.5",
+        "versions": "1.2.5, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.9",
         "author": "Frederik Eberhard, Tim Hartmann",
-        "maintainer": "Frederik Eberhard <frederik.eberhard@gbg-seelze.eu>",
+        "maintainer": "Tim Hartmann <tim.hartmann@gbg-seelze.eu>",
         "website": "\"https://github.com/Excelsior-Robotics/Excelsior\"",
         "category": "Device Control",
         "architectures": "*",
@@ -88903,8 +88903,8 @@
     },
     {
         "name": "LiteLED",
-        "version": "3.3.0",
-        "versions": "3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 3.0.0, 2.0.2, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "version": "3.3.1",
+        "versions": "3.3.1, 3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.1, 3.0.0, 2.0.2, 2.0.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
         "author": "Xylopyrographer",
         "maintainer": "Xylopyrographer <xylopyrographer@gmail.com>",
         "website": "https://github.com/Xylopyrographer/LiteLED",
@@ -99198,8 +99198,8 @@
     },
     {
         "name": "Remocon",
-        "version": "9.21.0",
-        "versions": "9.21.0, 9.14.8, 9.14.7, 9.14.6, 9.14.5, 9.14.4, 9.14.3, 9.14.2, 9.14.1, 9.14.0, 9.13.0, 9.12.0, 9.6.0, 9.0.0, 4.0.0, 3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
+        "version": "9.22.0",
+        "versions": "9.22.0, 9.21.0, 9.14.8, 9.14.7, 9.14.6, 9.14.5, 9.14.4, 9.14.3, 9.14.2, 9.14.1, 9.14.0, 9.13.0, 9.12.0, 9.6.0, 9.0.0, 4.0.0, 3.0.1, 3.0.0, 2.3.0, 2.2.1, 2.2.0, 2.1.0, 2.0.1, 2.0.0, 1.0.2, 1.0.1, 1.0.0",
         "author": "Taeo Lee <sixgen@gmail.com>",
         "maintainer": "Taeo Lee <sixgen@gmail.com>",
         "website": "https://github.com/remocons/remocon-arduino",
@@ -108675,8 +108675,8 @@
     },
     {
         "name": "EspNowNetworkHostDriver",
-        "version": "0.7.7",
-        "versions": "0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.7.8",
+        "versions": "0.7.8, 0.7.7, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/EspNowNetworkHostDriver",
@@ -108690,8 +108690,8 @@
     },
     {
         "name": "EspNowNetworkNode",
-        "version": "0.8.4",
-        "versions": "0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
+        "version": "0.8.5",
+        "versions": "0.8.5, 0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8.0, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7.0",
         "author": "Johan Böhlin <github@johboh.dev>",
         "maintainer": "Johan Böhlin <github@johboh.dev>",
         "website": "https://github.com/Johboh/EspNowNetworkNode",
@@ -138987,8 +138987,8 @@
     },
     {
         "name": "BuzzerPIO_RP2040",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.1.0, 1.0.0",
+        "version": "2.5.1",
+        "versions": "2.5.1, 2.5.0, 2.1.0, 1.0.0",
         "author": "Ângelo Moisés Alves",
         "maintainer": "Ângelo Moisés Alves",
         "website": "https://github.com/angeloINTJ/BuzzerPIO_RP2040",
@@ -143272,8 +143272,8 @@
     },
     {
         "name": "SimpleOTAClient",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "SimpleOTA <support@simpleota.com>",
         "maintainer": "SimpleOTA <support@simpleota.com>",
         "website": "https://github.com/wassie-dev/simpleOTAClient-Arduino",
@@ -146676,8 +146676,8 @@
     },
     {
         "name": "LionLogger",
-        "version": "1.1.0",
-        "versions": "1.1.0, 1.0.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.1.0, 1.0.0",
         "author": "leva <leva.the.lion@gmail.com>",
         "maintainer": "leva <leva.the.lion@gmail.com>",
         "website": "https://github.com/blah188/LionLogger",
@@ -157636,8 +157636,8 @@
     },
     {
         "name": "RV565",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.2.0, 1.1.0, 1.0.0, 0.1.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.2.0, 1.1.0, 1.0.0, 0.1.0",
         "author": "Ayushman Bhattacharya",
         "maintainer": "Ayushman Bhattacharya <ayushman.elixpo@gmail.com>",
         "website": "https://github.com/elixpo/rv565",
@@ -157726,13 +157726,13 @@
     },
     {
         "name": "CZ-N706B-Arduino",
-        "version": "0.0.3",
-        "versions": "0.0.3, 0.0.1",
+        "version": "0.0.4",
+        "versions": "0.0.4, 0.0.3, 0.0.1",
         "author": "CodeZoo",
         "maintainer": "CodeZoo <rooney.jang@codezoo.co.kr>",
         "website": "https://www.codezoo.co.kr/n706b.html",
         "category": "Communication",
-        "architectures": "renesas_uno, esp32",
+        "architectures": "renesas_uno, esp32, zephyr",
         "types": "Contributed",
         "repository": "https://github.com/codezoo-ltd/CZ-N706B-Arduino.git",
         "dependencies": [
@@ -159114,8 +159114,8 @@
     },
     {
         "name": "Wbskt",
-        "version": "0.9.0-beta.2",
-        "versions": "0.9.0-beta.2, 0.9.0-beta.1",
+        "version": "0.9.0-beta.3",
+        "versions": "0.9.0-beta.3, 0.9.0-beta.2, 0.9.0-beta.1",
         "author": "wbskt",
         "maintainer": "wbskt",
         "website": "https://github.com/wbskt/Wbskt.Arduino",
@@ -159992,6 +159992,53 @@
         "repository": "https://github.com/gkeiel/REPcon.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "JBHaMqttDiscovery",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Jonny Bergdahl",
+        "maintainer": "Jonny Bergdahl",
+        "website": "https://github.com/jonnybergdahl/Arduino_JBHaMqttDiscovery",
+        "category": "Communication",
+        "architectures": "esp8266, esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jonnybergdahl/Arduino_JBHaMqttDiscovery_Library.git",
+        "dependencies": [
+            "ArduinoJson",
+            "JBLogger"
+        ]
+    },
+    {
+        "name": "Bonezegei_AHT30",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Jofel Batutay <jofelbatutay@gmail.com>",
+        "website": "https://github.com/bonezegei/Bonezegei_AHT30",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/Bonezegei_AHT30.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Dumirror_Robo",
+        "version": "1.1.0",
+        "versions": "1.1.0",
+        "author": "VIDAKHOSHPEY22",
+        "maintainer": "VIDA KHOSHPEY <vviiddaa2@gmail.com>",
+        "website": "https://github.com/VIDAKHOSHPEY22/Dumirror_Robo",
+        "category": "Display",
+        "architectures": "avr, esp32, esp8266, rp2040",
+        "types": "Contributed",
+        "repository": "https://github.com/VIDAKHOSHPEY22/Dumirror_Robo.git",
+        "dependencies": [
+            "Adafruit GFX Library",
+            "Adafruit SSD1306"
         ]
     }
 ]
