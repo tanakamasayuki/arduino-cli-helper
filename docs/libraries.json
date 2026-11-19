@@ -96566,8 +96566,8 @@
     },
     {
         "name": "JBWopr",
-        "version": "1.3.2",
-        "versions": "1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0-beta4, 1.0.0-beta2",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.3.2, 1.3.1, 1.3.0, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0-beta4, 1.0.0-beta2",
         "author": "Jonny Bergdahl",
         "maintainer": "Jonny Bergdahl <github@bergdahl.org>",
         "website": "https://github.com/jonnybergdahl/Arduino_JBWopr_Library",
@@ -96583,7 +96583,8 @@
             "OneButton",
             "PubSubClient",
             "WiFiManager",
-            "JBLogger"
+            "JBLogger",
+            "JBHaMqttDiscovery"
         ]
     },
     {
@@ -126378,8 +126379,8 @@
     },
     {
         "name": "AyresWiFiManager",
-        "version": "2.3.0",
-        "versions": "2.3.0, 2.0.2, 2.0.1, 2.0.0",
+        "version": "3.0.0",
+        "versions": "3.0.0, 2.3.0, 2.0.2, 2.0.1, 2.0.0",
         "author": "Daniel Salgado <ayresnet>",
         "maintainer": "AyresNet",
         "website": "https://github.com/ayresnet/AyresWiFiManager",
@@ -136495,11 +136496,11 @@
     },
     {
         "name": "UNI",
-        "version": "1.2.0",
-        "versions": "1.2.0, 1.1.0, 1.0.1",
-        "author": "UNI Team <fadeev.iliya.2008@gmail.com>",
-        "maintainer": "UNI Team <fadeev.iliya.2008@gmail.com>",
-        "website": "https://github.com/fadeev-iliya/UNI",
+        "version": "1.2.1",
+        "versions": "1.2.1, 1.2.0, 1.1.0, 1.0.1",
+        "author": "UNI Team <makerlab.school@gmail.com>",
+        "maintainer": "UNI Team <makerlab.school@gmail.com>",
+        "website": "https://uni-robotics.github.io/UNI",
         "category": "Device Control",
         "architectures": "esp32",
         "types": "Contributed",
@@ -147960,8 +147961,8 @@
     },
     {
         "name": "note-cpp",
-        "version": "0.3.7",
-        "versions": "0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2",
+        "version": "0.3.9",
+        "versions": "0.3.9, 0.3.8, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2",
         "author": "Mat McGowan",
         "maintainer": "Mat McGowan",
         "website": "https://github.com/m-mcgowan/note-cpp",
@@ -151169,8 +151170,8 @@
     },
     {
         "name": "SparkFun SSD168x I2C Interface Library",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0",
+        "version": "1.0.2",
+        "versions": "1.0.2, 1.0.1, 1.0.0",
         "author": "SparkFun Electronics <techsupport@sparkfun.com>",
         "maintainer": "SparkFun Electronics <sparkfun.com>",
         "website": "https://github.com/sparkfun/SparkFun_SSD168x_I2C_Interface_Library",
@@ -155634,8 +155635,8 @@
     },
     {
         "name": "lvgl_theme_shadcn",
-        "version": "0.4.0",
-        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.1",
+        "version": "0.5.0",
+        "versions": "0.5.0, 0.4.0, 0.3.1, 0.3.0, 0.2.0, 0.1.1",
         "author": "Alix ANNERAUD <alix@anneraud.fr>",
         "maintainer": "Alix ANNERAUD <alix@anneraud.fr>",
         "website": "https://github.com/AlixANNERAUD/lvgl_theme_shadcn",
@@ -155849,11 +155850,11 @@
     },
     {
         "name": "JourTempo",
-        "version": "1.0.0",
-        "versions": "1.0.0",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
         "author": "Jour Tempo <contact@jourtempo.fr>",
         "maintainer": "Jour Tempo <contact@jourtempo.fr>",
-        "website": "https://github.com/jourtempo/tempo-esp32",
+        "website": "https://jourtempo.fr/api/",
         "category": "Communication",
         "architectures": "esp32, esp8266",
         "types": "Contributed",
@@ -159280,8 +159281,8 @@
     },
     {
         "name": "EnigmaIoT",
-        "version": "0.7.0",
-        "versions": "0.7.0, 0.6.1, 0.6.0, 0.5.0",
+        "version": "0.7.1",
+        "versions": "0.7.1, 0.7.0, 0.6.1, 0.6.0, 0.5.0",
         "author": "Rahmat Purnomo",
         "maintainer": "Rahmat Purnomo",
         "website": "https://github.com/rahmatpurnomo/EnigmaIoT",
@@ -160158,6 +160159,51 @@
         "architectures": "*",
         "types": "Contributed",
         "repository": "https://github.com/syntax1269/I2C-microSD-Expansion.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "WebSerialSim",
+        "version": "1.0.1",
+        "versions": "1.0.1",
+        "author": "Davide Lupi <copida.soft@gmail.com>",
+        "maintainer": "Davide Lupi <copida.soft@gmail.com>",
+        "website": "https://github.com/copida/WebSerialSim",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/copida/WebSerialSim.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "SparkFun SSD168x Library",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "SparkFun Electronics <techsupport@sparkfun.com>",
+        "maintainer": "SparkFun Electronics <sparkfun.com>",
+        "website": "https://github.com/sparkfun/SparkFun_SSD168x_Library",
+        "category": "Display",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/sparkfun/SparkFun_SSD168x_Library.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "BoxIO",
+        "version": "1.2.4",
+        "versions": "1.2.4, 1.2.3",
+        "author": "Box IO",
+        "maintainer": "Box IO <kasey@krmsproducts.net>",
+        "website": "https://www.box-io.com",
+        "category": "Communication",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Someone275/Box-io.git",
         "dependencies": [
             ""
         ]
