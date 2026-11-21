@@ -103438,8 +103438,8 @@
     },
     {
         "name": "GyverDS18",
-        "version": "1.2.1",
-        "versions": "1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.2.2",
+        "versions": "1.2.2, 1.2.1, 1.2.0, 1.1.3, 1.1.2, 1.1.1, 1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "AlexGyver <alex@alexgyver.ru>",
         "maintainer": "AlexGyver <alex@alexgyver.ru>",
         "website": "https://github.com/GyverLibs/GyverDS18",
@@ -143273,8 +143273,8 @@
     },
     {
         "name": "SimpleOTAClient",
-        "version": "1.0.1",
-        "versions": "1.0.1, 1.0.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
+        "version": "1.2.0",
+        "versions": "1.2.0, 1.0.1, 1.0.0, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.0, 0.1.0",
         "author": "SimpleOTA <support@simpleota.com>",
         "maintainer": "SimpleOTA <support@simpleota.com>",
         "website": "https://github.com/wassie-dev/simpleOTAClient-Arduino",
@@ -160386,6 +160386,67 @@
         "repository": "https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "FitnessMath",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alex Bell <strawbelly.app@gmail.com>",
+        "maintainer": "Alex Bell <strawbelly.app@gmail.com>",
+        "website": "https://snowbelly.app/tools/calorie-calculator/",
+        "category": "Data Processing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/shipandsail/FitnessMath.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "ShotDayTimer",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "Alex Bell <strawbelly.app@gmail.com>",
+        "maintainer": "Alex Bell <strawbelly.app@gmail.com>",
+        "website": "https://bluedoseapp.com/features/glp-1-shot-reminder/",
+        "category": "Timing",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/shipandsail/ShotDayTimer.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Wavelit",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Microbots <info@microbots.io>",
+        "maintainer": "Microbots <info@microbots.io>",
+        "website": "https://microbots.io/Wavelit",
+        "category": "Uncategorized",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/microbotsio/Wavelit.git",
+        "dependencies": [
+            "BLEOTA",
+            "Adafruit NeoPixel"
+        ]
+    },
+    {
+        "name": "SolumEpaper",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "DocBigs-Lab",
+        "maintainer": "DocBigs-Lab",
+        "website": "https://github.com/DocBigs-Lab/solum-epaper",
+        "category": "Display",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/DocBigs-Lab/solum-epaper.git",
+        "dependencies": [
+            "Adafruit GFX Library"
         ]
     }
 ]
