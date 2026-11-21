@@ -160448,5 +160448,35 @@
         "dependencies": [
             "Adafruit GFX Library"
         ]
+    },
+    {
+        "name": "ESP32Syslog",
+        "version": "1.1.2",
+        "versions": "1.1.2, 1.1.1, 1.0.2",
+        "author": "jnovonj",
+        "maintainer": "jnovonj",
+        "website": "https://github.com/jnovonj/ESP32Syslog",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/jnovonj/ESP32Syslog.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "MotorControl",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0",
+        "author": "MotorControl Library",
+        "maintainer": "MotorControl Library",
+        "website": "https://github.com/adfwswf/MotorControl",
+        "category": "Device Control",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/adfwswf/MotorControl.git",
+        "dependencies": [
+            ""
+        ]
     }
 ]
