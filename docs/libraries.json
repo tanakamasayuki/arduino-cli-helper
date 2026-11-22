@@ -79312,8 +79312,8 @@
     },
     {
         "name": "Meridian",
-        "version": "0.1.0",
-        "versions": "0.1.0, 0.0.1",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.1",
         "author": "Ninagawa123",
         "maintainer": "Ninagawa123",
         "website": "https://github.com/Ninagawa123/Meridian/",
@@ -149740,8 +149740,8 @@
     },
     {
         "name": "EEPROM24CXX",
-        "version": "1.0.7",
-        "versions": "1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.9",
+        "versions": "1.0.9, 1.0.7, 1.0.6, 1.0.5, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Alen KrishnaV.U",
         "maintainer": "Alen Krishna V.U <alenkrishnavu@gmail.com>",
         "website": "https://github.com/AlenKrishna2012/EEPROM24CXX",
@@ -155682,8 +155682,8 @@
     },
     {
         "name": "TinyGSM2",
-        "version": "1.0.3",
-        "versions": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "version": "1.0.4",
+        "versions": "1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
         "author": "Long Trinh",
         "maintainer": "Long Trinh",
         "website": "https://github.com/longtrinh/TinyGSM2",
@@ -157802,8 +157802,8 @@
     },
     {
         "name": "ParoClaw",
-        "version": "0.2.1",
-        "versions": "0.2.1",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1",
         "author": "Dhruv Kotian",
         "maintainer": "Dhruv Kotian",
         "website": "https://github.com/dhruvkotian/ParoClaw",
@@ -160481,8 +160481,8 @@
     },
     {
         "name": "Melior Specto",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "0.2.3",
+        "versions": "0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.0",
         "author": "Melior",
         "maintainer": "Melior <podpora@melior.software>",
         "website": "https://github.com/Melior-software/melior-specto-arduino",
@@ -160521,6 +160521,36 @@
         "architectures": "esp32",
         "types": "Contributed",
         "repository": "https://github.com/ROLL-BIT/BiaCameraUVC.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "WUD_Tournaments",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0",
+        "author": "Qhuy",
+        "maintainer": "Qhuy",
+        "website": "https://github.com/quanhuy38/WUD_Tournaments",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/quanhuy38/WUD_Tournaments.git",
+        "dependencies": [
+            "NimBLE-Arduino"
+        ]
+    },
+    {
+        "name": "ESPNowMesh",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Gianluca Vivenzi",
+        "maintainer": "Gianluca Vivenzi <gianluca.vivenzi@gmail.com>",
+        "website": "https://github.com/GianluViv/ESP_NOW_MESHLIB",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/GianluViv/ESP_NOW_MESHLIB.git",
         "dependencies": [
             ""
         ]
