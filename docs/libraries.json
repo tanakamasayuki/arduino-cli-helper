@@ -70848,8 +70848,8 @@
     },
     {
         "name": "Meshtastic",
-        "version": "0.1.0",
-        "versions": "0.1.0, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
+        "version": "0.1.1",
+        "versions": "0.1.1, 0.1.0, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.1",
         "author": "Meshtastic",
         "maintainer": "Meshtastic <meshtastic@meshtastic.org>",
         "website": "http://meshtastic.org",
@@ -82369,8 +82369,8 @@
     },
     {
         "name": "MODULE_4IN8OUT",
-        "version": "0.0.1",
-        "versions": "0.0.1",
+        "version": "0.1.0",
+        "versions": "0.1.0, 0.0.1",
         "author": "M5Stack",
         "maintainer": "M5Stack",
         "website": "https://github.com/m5stack/M5Module-4IN8OUT",
@@ -91866,8 +91866,8 @@
     },
     {
         "name": "M5-Ethernet",
-        "version": "4.0.0",
-        "versions": "4.0.0",
+        "version": "4.0.1",
+        "versions": "4.0.1, 4.0.0",
         "author": "Icing Tomato (https://github.com/IcingTomato)",
         "maintainer": "Icing Tomato (icing@m5stack.com)",
         "website": "https://github.com/m5stack/M5-Ethernet",
@@ -94401,8 +94401,8 @@
     },
     {
         "name": "ESP32_Display_Panel",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.2.2, 0.2.1, 0.2.0, 0.1.8, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.2, 0.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1, 1.0.0, 0.2.2, 0.2.1, 0.2.0, 0.1.8, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0, 0.0.2, 0.0.1",
         "author": "espressif",
         "maintainer": "espressif",
         "website": "https://github.com/esp-arduino-libs/ESP32_Display_Panel",
@@ -94417,8 +94417,8 @@
     },
     {
         "name": "ESP32_IO_Expander",
-        "version": "1.1.1",
-        "versions": "1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.1.0, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
+        "version": "2.0.0",
+        "versions": "2.0.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0, 0.1.0, 0.0.4, 0.0.3, 0.0.2, 0.0.1",
         "author": "espressif",
         "maintainer": "espressif",
         "website": "https://github.com/esp-arduino-libs/ESP32_IO_Expander",
@@ -151159,8 +151159,8 @@
     },
     {
         "name": "cyfney-cpp",
-        "version": "5.3.1",
-        "versions": "5.3.1, 5.3.0, 5.2.1, 5.2.0, 5.1.0, 5.0.0, 4.0.0, 3.0.2, 3.0.1, 3.0.0, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
+        "version": "5.3.3",
+        "versions": "5.3.3, 5.3.2, 5.3.1, 5.3.0, 5.2.1, 5.2.0, 5.1.0, 5.0.0, 4.0.0, 3.0.2, 3.0.1, 3.0.0, 2.4.0, 2.3.0, 2.2.0, 2.1.1, 2.1.0, 2.0.1, 2.0.0, 1.0.6, 1.0.5, 1.0.0",
         "author": "anka",
         "maintainer": "anka",
         "website": "https://github.com/cyfney/cyfney-cpp-arduino",
@@ -152457,12 +152457,12 @@
     },
     {
         "name": "ArnoTek_HeartBeat",
-        "version": "1.0.5",
-        "versions": "1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
+        "version": "1.0.6",
+        "versions": "1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.0",
         "author": "Anthony Arnovitz, aarnovitz@arnotek.com",
         "maintainer": "Anthony Arnovitz, aarnovitz@arnotek.com",
         "website": "https://github.com/AJArnovitz/ArnoTek_HeartBeat",
-        "category": "Timing",
+        "category": "Other",
         "architectures": "avr",
         "types": "Contributed",
         "repository": "https://github.com/AJArnovitz/ArnoTek_HeartBeat.git",
@@ -155593,8 +155593,8 @@
     },
     {
         "name": "azaraC",
-        "version": "2.0.0",
-        "versions": "2.0.0, 1.0.3, 1.0.1, 1.0.0",
+        "version": "2.0.1",
+        "versions": "2.0.1, 2.0.0, 1.0.3, 1.0.1, 1.0.0",
         "author": "A-vrice",
         "maintainer": "A-vrice",
         "website": "https://github.com/A-vrice/azaraC",
@@ -160716,8 +160716,8 @@
     },
     {
         "name": "STeaMi",
-        "version": "0.34.0",
-        "versions": "0.34.0, 0.33.0, 0.32.0, 0.31.1, 0.31.0, 0.30.0, 0.29.0, 0.28.0, 0.27.0, 0.26.3, 0.26.1, 0.26.0, 0.25.1, 0.25.0",
+        "version": "0.37.0",
+        "versions": "0.37.0, 0.36.3, 0.36.2, 0.36.1, 0.36.0, 0.35.0, 0.34.0, 0.33.0, 0.32.0, 0.31.1, 0.31.0, 0.30.0, 0.29.0, 0.28.0, 0.27.0, 0.26.3, 0.26.1, 0.26.0, 0.25.1, 0.25.0",
         "author": "STeaMi contributors",
         "maintainer": "STeaMi contributors",
         "website": "https://github.com/steamicc/arduino-steami-lib",
@@ -160902,6 +160902,21 @@
         "repository": "https://github.com/Tommy-Guo/Vertex_MPU6050.git",
         "dependencies": [
             ""
+        ]
+    },
+    {
+        "name": "Freenove_CSI_Sensor_Driver",
+        "version": "1.4.0",
+        "versions": "1.4.0",
+        "author": "Freenove",
+        "maintainer": "Freenove",
+        "website": "https://github.com/Freenove/Freenove_CSI_Sensor_Driver",
+        "category": "Sensors",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/Freenove/Freenove_CSI_Sensor_Driver.git",
+        "dependencies": [
+            "ESP_Video"
         ]
     }
 ]
