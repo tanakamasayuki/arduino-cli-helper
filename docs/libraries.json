@@ -1962,8 +1962,8 @@
     },
     {
         "name": "Adafruit SSD1351 library",
-        "version": "1.3.3",
-        "versions": "1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
+        "version": "1.3.4",
+        "versions": "1.3.4, 1.3.3, 1.3.2, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <info@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit-SSD1351-library",
@@ -2635,8 +2635,8 @@
     },
     {
         "name": "Adafruit IO Arduino",
-        "version": "4.3.7",
-        "versions": "4.3.7, 4.3.6, 4.3.5, 4.3.4, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.9, 4.2.8, 4.2.7, 4.2.5, 4.2.4, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.2, 4.0.1, 4.0.0, 3.9.1, 3.8.0, 3.7.0, 3.6.4, 3.6.3, 3.6.0, 3.5.1, 3.5.0, 3.4.0, 3.3.1, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.0, 2.7.23, 2.7.22, 2.7.21, 2.7.19, 2.7.18, 2.7.17, 2.7.16, 2.7.15, 2.7.14, 2.7.13, 2.7.12, 2.7.11, 2.7.10, 2.7.9, 2.7.8, 2.7.7, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.2.0, 2.1.1, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
+        "version": "4.3.8",
+        "versions": "4.3.8, 4.3.7, 4.3.6, 4.3.5, 4.3.4, 4.3.3, 4.3.2, 4.3.1, 4.3.0, 4.2.9, 4.2.8, 4.2.7, 4.2.5, 4.2.4, 4.2.3, 4.2.2, 4.2.1, 4.2.0, 4.1.1, 4.1.0, 4.0.2, 4.0.1, 4.0.0, 3.9.1, 3.8.0, 3.7.0, 3.6.4, 3.6.3, 3.6.0, 3.5.1, 3.5.0, 3.4.0, 3.3.1, 3.3.0, 3.2.3, 3.2.2, 3.2.1, 3.2.0, 3.1.0, 3.0.0, 2.7.23, 2.7.22, 2.7.21, 2.7.19, 2.7.18, 2.7.17, 2.7.16, 2.7.15, 2.7.14, 2.7.13, 2.7.12, 2.7.11, 2.7.10, 2.7.9, 2.7.8, 2.7.7, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.7.0, 2.6.0, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.1, 2.2.0, 2.1.1, 2.0.1, 2.0.0, 1.0.1, 1.0.0",
         "author": "Adafruit",
         "maintainer": "Adafruit <adafruitio@adafruit.com>",
         "website": "https://github.com/adafruit/Adafruit_IO_Arduino",
@@ -22222,17 +22222,19 @@
     },
     {
         "name": "Marceau",
-        "version": "1.0.0",
-        "versions": "1.0.0, 0.0.2, 0.0.1",
+        "version": "1.0.1",
+        "versions": "1.0.1, 1.0.0, 0.0.2, 0.0.1",
         "author": "Ben Pirt <ben.pirt@mime.co.uk>",
         "maintainer": "Ben Gray <ben.gray@mime.co.uk>",
-        "website": "http://mime.co.uk",
+        "website": "https://github.com/mimeindustries/Marceau",
         "category": "Other",
         "architectures": "esp32, esp8266",
         "types": "Contributed",
         "repository": "https://github.com/mimeindustries/Marceau.git",
         "dependencies": [
-            ""
+            "ESP Async WebServer",
+            "Async TCP",
+            "ESP Async TCP"
         ]
     },
     {
@@ -25935,8 +25937,8 @@
     },
     {
         "name": "WeeklyAlarm",
-        "version": "5.1.0",
-        "versions": "5.1.0, 5.0.0, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 3.0.0",
+        "version": "5.3.0",
+        "versions": "5.3.0, 5.2.0, 5.1.0, 5.0.0, 4.0.5, 4.0.4, 4.0.3, 4.0.2, 4.0.1, 3.0.0",
         "author": "Nitrof",
         "maintainer": "Nitrof",
         "website": "https://github.com/NitrofMtl/weeklyAlarm",
@@ -66806,8 +66808,8 @@
     },
     {
         "name": "TheengsDecoder",
-        "version": "2.5.0",
-        "versions": "2.5.0, 2.4.5, 2.4.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.1, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.0, 1.7.8, 1.7.5, 1.7.4, 1.7.2, 1.7.0, 1.6.8, 1.6.7, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.2-beta, 1.6.1, 1.6.0, 1.5.7, 1.5.5, 1.5.1, 1.5.0, 1.4.2, 1.4.0, 1.3.7, 1.3.5, 1.3.0, 1.2.0, 1.1.0, 1.0.0, 0.9.7, 0.9.5, 0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
+        "version": "2.5.2",
+        "versions": "2.5.2, 2.5.0, 2.4.5, 2.4.0, 2.2.0, 2.1.0, 2.0.0, 1.9.9, 1.9.8, 1.9.7, 1.9.6, 1.9.5, 1.9.1, 1.9.0, 1.8.5, 1.8.4, 1.8.3, 1.8.2, 1.8.0, 1.7.8, 1.7.5, 1.7.4, 1.7.2, 1.7.0, 1.6.8, 1.6.7, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.2-beta, 1.6.1, 1.6.0, 1.5.7, 1.5.5, 1.5.1, 1.5.0, 1.4.2, 1.4.0, 1.3.7, 1.3.5, 1.3.0, 1.2.0, 1.1.0, 1.0.0, 0.9.7, 0.9.5, 0.9.0, 0.8.0, 0.7.0, 0.6.2, 0.6.1, 0.6.0, 0.5.0, 0.4.0, 0.3.0, 0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1",
         "author": "Florian Robert, Ryan Powell",
         "maintainer": "Florian Robert",
         "website": "https://github.com/theengs/decoder",
@@ -129072,8 +129074,8 @@
     },
     {
         "name": "Arduino_RPClite",
-        "version": "0.3.1",
-        "versions": "0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
+        "version": "0.4.0",
+        "versions": "0.4.0, 0.3.1, 0.3.0, 0.2.1, 0.2.0, 0.1.3, 0.1.2, 0.1.1, 0.1.0",
         "author": "Arduino, Lucio Rossi (eigen-value)",
         "maintainer": "Arduino, Lucio Rossi (eigen-value)",
         "website": "https://github.com/arduino-libraries/Arduino_RPCLite",
@@ -137063,8 +137065,8 @@
     },
     {
         "name": "Voyager-OTA-Client",
-        "version": "5.1.0",
-        "versions": "5.1.0, 5.0.0, 4.0.1, 3.0.1",
+        "version": "6.0.0",
+        "versions": "6.0.0, 5.1.0, 5.0.0, 4.0.1, 3.0.1",
         "author": "Fahad Zia Khan - Mediocre9",
         "maintainer": "Fahad Zia Khan - Mediocre9",
         "website": "https://github.com/mediocre9/VoyagerOTAClient",
@@ -157084,8 +157086,8 @@
     },
     {
         "name": "AnalogMimic",
-        "version": "0.2.1",
-        "versions": "0.2.1, 0.2.0, 0.1.0",
+        "version": "0.3.0",
+        "versions": "0.3.0, 0.2.1, 0.2.0, 0.1.0",
         "author": "tkgktyk",
         "maintainer": "tkgktyk",
         "website": "https://github.com/tkgktyk/analog-mimic-arduino",
@@ -157470,8 +157472,8 @@
     },
     {
         "name": "AMK_CYD_Universal_TFT",
-        "version": "1.7.0",
-        "versions": "1.7.0, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
+        "version": "1.8.1",
+        "versions": "1.8.1, 1.7.0, 1.6.5, 1.6.4, 1.6.3, 1.6.2, 1.6.1, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.2.1, 1.2.0, 1.1.1",
         "author": "Aung Moe Khine",
         "maintainer": "Aung Moe Khine <aungmoekhine@gmail.com>",
         "website": "https://github.com/aungmoekhine/AMK_CYD_Universal_TFT",
@@ -157760,8 +157762,8 @@
     },
     {
         "name": "ocean_imu",
-        "version": "2.8.5",
-        "versions": "2.8.5, 2.8.4, 2.8.3, 2.8.2, 2.8.1, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.5, 2.3.3, 2.2.9, 2.2.6, 2.2.3, 2.1.2, 1.1.7, 1.0.4, 1.0.2, 1.0.1, 0.8.5, 0.6.0, 0.5.0, 0.1.0",
+        "version": "2.8.6",
+        "versions": "2.8.6, 2.8.5, 2.8.4, 2.8.3, 2.8.2, 2.8.1, 2.8.0, 2.7.9, 2.7.8, 2.7.7, 2.7.6, 2.7.5, 2.7.4, 2.7.3, 2.7.2, 2.7.1, 2.6.1, 2.6.0, 2.5.1, 2.5.0, 2.4.5, 2.4.4, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.5, 2.3.3, 2.2.9, 2.2.6, 2.2.3, 2.1.2, 1.1.7, 1.0.4, 1.0.2, 1.0.1, 0.8.5, 0.6.0, 0.5.0, 0.1.0",
         "author": "Bareboat Necessities",
         "maintainer": "Bareboat Necessities <github@bareboat-necessities.github.io>",
         "website": "https://github.com/bareboat-necessities/ocean-imu",
@@ -160716,8 +160718,8 @@
     },
     {
         "name": "STeaMi",
-        "version": "0.37.0",
-        "versions": "0.37.0, 0.36.3, 0.36.2, 0.36.1, 0.36.0, 0.35.0, 0.34.0, 0.33.0, 0.32.0, 0.31.1, 0.31.0, 0.30.0, 0.29.0, 0.28.0, 0.27.0, 0.26.3, 0.26.1, 0.26.0, 0.25.1, 0.25.0",
+        "version": "0.39.0",
+        "versions": "0.39.0, 0.38.0, 0.37.0, 0.36.3, 0.36.2, 0.36.1, 0.36.0, 0.35.0, 0.34.0, 0.33.0, 0.32.0, 0.31.1, 0.31.0, 0.30.0, 0.29.0, 0.28.0, 0.27.0, 0.26.3, 0.26.1, 0.26.0, 0.25.1, 0.25.0",
         "author": "STeaMi contributors",
         "maintainer": "STeaMi contributors",
         "website": "https://github.com/steamicc/arduino-steami-lib",
@@ -160917,6 +160919,96 @@
         "repository": "https://github.com/Freenove/Freenove_CSI_Sensor_Driver.git",
         "dependencies": [
             "ESP_Video"
+        ]
+    },
+    {
+        "name": "MeArm",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Ben Pirt <ben.pirt@mime.co.uk>",
+        "maintainer": "Mime Industries <info@mime.co.uk>",
+        "website": "http://mime.co.uk",
+        "category": "Other",
+        "architectures": "esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/mimeindustries/MeArm-Wifi.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "NowRemote",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Devansh",
+        "maintainer": "Devansh",
+        "website": "https://github.com/devansh8011-oss/NowRemote",
+        "category": "Communication",
+        "architectures": "esp32",
+        "types": "Contributed",
+        "repository": "https://github.com/devansh8011-oss/NowRemote.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Bonezegei_TSL2561",
+        "version": "1.0.0",
+        "versions": "1.0.0",
+        "author": "Bonezegei (Jofel Batutay)",
+        "maintainer": "Bonezegei",
+        "website": "https://github.com/bonezegei/Bonezegei_TSL2561",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/bonezegei/Bonezegei_TSL2561.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "filter2c",
+        "version": "0.1.0",
+        "versions": "0.1.0",
+        "author": "Abhishek Vijay Potekar",
+        "maintainer": "Abhishek Vijay Potekar <72246796+Madmaxcoder2612@users.noreply.github.com>",
+        "website": "https://github.com/Madmaxcoder2612/filter2c",
+        "category": "Signal Input/Output",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/Madmaxcoder2612/filter2c.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "RelinkIoT",
+        "version": "1.0.10",
+        "versions": "1.0.10",
+        "author": "Relink IoT",
+        "maintainer": "Relink IoT <rezier.labs@gmail.com>",
+        "website": "https://github.com/NonStopBle/RelinkIoT-Arduino",
+        "category": "Communication",
+        "architectures": "esp32, esp8266",
+        "types": "Contributed",
+        "repository": "https://github.com/NonStopBle/RelinkIoT-Arduino.git",
+        "dependencies": [
+            ""
+        ]
+    },
+    {
+        "name": "Agrinovo",
+        "version": "0.9.0",
+        "versions": "0.9.0",
+        "author": "Agrinovo",
+        "maintainer": "Agrinovo <contact@agrinovo.io>",
+        "website": "https://github.com/OmnIoT/agrinovo-arduino",
+        "category": "Sensors",
+        "architectures": "*",
+        "types": "Contributed",
+        "repository": "https://github.com/OmnIoT/agrinovo-arduino.git",
+        "dependencies": [
+            ""
         ]
     }
 ]
