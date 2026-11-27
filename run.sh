@@ -13,6 +13,7 @@ rm arduino-cli_latest_Linux_64bit.tar.gz
 ./arduino-cli config add board_manager.additional_urls https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 ./arduino-cli config add board_manager.additional_urls https://github.com/YuukiUmeta-UIAP/board_manager_files/raw/main/package_uiap.jp_index.json
 ./arduino-cli config add board_manager.additional_urls https://tanakamasayuki.github.io/lang-ship-arduino-core/package_lang-ship_index.json
+./arduino-cli config add board_manager.additional_urls https://ch32-riscv-ug.github.io/ArduinoCore-CH32RV/package_ch32-riscv-ug_index.json
 
 ./arduino-cli core update-index
 ./arduino-cli core install arduino:avr
@@ -35,6 +36,7 @@ rm arduino-cli_latest_Linux_64bit.tar.gz
 ./arduino-cli core install Seeeduino:stm32
 ./arduino-cli core install STMicroelectronics:stm8
 ./arduino-cli core install UIAP:ch32v
+./arduino-cli core install ch32-riscv-ug:ch32rv
 
 ./arduino-cli core upgrade
 
